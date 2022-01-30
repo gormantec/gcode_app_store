@@ -2,12 +2,9 @@
 const PRECACHE = 'precache-v1-37790665-appstore';
 const RUNTIME = 'runtime-37790665-appstore';
 const PRECACHE_URLS = [
-  '/apps/37790665-appstore/index.html',
-  '/apps/37790665-appstore/index.html?mockFrame=iphoneX',
-  '/apps/37790665-appstore/icon.png',
-  '/apps/37790665-appstore/192x192.icon.png',
-  '/apps/37790665-appstore/512x512.icon.png',
-  '/apps/37790665-appstore/manifest.json',
+  '/index.html',
+  '/android-launchericon-192-192.png',
+  '/manifest.json',
   'https://gcode.com.au/css/pwa.css'
 ];
 self.addEventListener('install', event => {event.waitUntil(caches.open(PRECACHE).then(cache => cache.addAll(PRECACHE_URLS)).then(self.skipWaiting()));});
