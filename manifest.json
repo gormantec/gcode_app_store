@@ -7,19 +7,13 @@
   "orientation": "any",
   "icons": [
     {
-      "src": "/apps/37790665-appstore/192x192.icon.png",
+      "src": "https://store.gcode.com.au/android-launchericon-192-192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "/apps/37790665-appstore/512x512.icon.png",
-      "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
   ],
-  "start_url": "/apps/37790665-appstore/index.html",
+  "start_url": "/index.html",
   "description": "appstore",
   "prefer_related_applications": false
 }
