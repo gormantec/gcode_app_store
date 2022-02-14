@@ -17,7 +17,8 @@
                 {
                     "src": "https://d2c3nvafyekx5z.cloudfront.net/images/logos/square-light-11852e267c30000bf63ef60def1fef5e.svg"
                 }
-            ]
+            ],
+            "root_uri": "https://www.soundslice.com/webmanifest.json"
         },
         {
             "name": "طراحی، فروش و نصب دوربین‌های مداربسته",
@@ -38,7 +39,8 @@
                     "sizes": "512x512",
                     "type": "image/png"
                 }
-            ]
+            ],
+            "root_uri": "https://mcctv.ir/wp-json/wp/v2/web-app-manifest"
         },
         {
             "lang": "en-us",
@@ -78,7 +80,8 @@
             ],
             "categories": [
                 "news"
-            ]
+            ],
+            "root_uri": "https://flipboard.com/manifest.webmanifest"
         },
         {
             "android_package_name": "com.pinterest",
@@ -191,7 +194,8 @@
                 {
                     "origin": "https://*.pinterest.ru"
                 }
-            ]
+            ],
+            "root_uri": "https://www.pinterest.com/manifest.json"
         },
         {
             "name": "YouTube",
@@ -266,7 +270,112 @@
                         }
                     ]
                 }
-            ]
+            ],
+            "root_uri": "https://www.youtube.com/manifest.webmanifest"
+        },
+        {
+            "background_color": "#456BD9",
+            "description": "A collection of Progressive Web App case studies.",
+            "display": "standalone",
+            "icons": [
+                {
+                    "src": "/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "name": "PWA Stats",
+            "orientation": "natural",
+            "short_name": "PWA Stats",
+            "start_url": "/",
+            "theme_color": "#456BD9",
+            "root_uri": "https://www.pwastats.com/manifest.json"
+        },
+        {
+            "lang": "en",
+            "short_name": "adactio",
+            "name": "adactio",
+            "description": "Jeremy Keith",
+            "icons": [
+                {
+                    "src": "/icon-512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/icon.png",
+                    "sizes": "300x300",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/icon-192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apple-touch-icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-150.jpg",
+                    "sizes": "150x150",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-192.jpg",
+                    "sizes": "192x192",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-200.jpg",
+                    "sizes": "200x200",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-300.jpg",
+                    "sizes": "300x300",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-500.jpg",
+                    "sizes": "500x500",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-512.jpg",
+                    "sizes": "512x512",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-600.jpg",
+                    "sizes": "600x600",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/",
+            "display": "minimal-ui",
+            "background_color": "#ffffff",
+            "theme_color": "#ffffff",
+            "root_uri": "https://adactio.com/manifest.json"
         },
         {
             "short_name": "اطلس ابزار ",
@@ -293,31 +402,8 @@
             "theme_color": "#000000",
             "scope": "/",
             "prefer_related_applications": false,
-            "version": "6.0.0"
-        },
-        {
-            "background_color": "#456BD9",
-            "description": "A collection of Progressive Web App case studies.",
-            "display": "standalone",
-            "icons": [
-                {
-                    "src": "/android-chrome-192x192.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/android-chrome-512x512.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                }
-            ],
-            "name": "PWA Stats",
-            "orientation": "natural",
-            "short_name": "PWA Stats",
-            "start_url": "/",
-            "theme_color": "#456BD9"
+            "version": "6.0.0",
+            "root_uri": "https://atlastools.ir/manifest.json"
         },
         {
             "dir": "ltr",
@@ -404,7 +490,8 @@
             ],
             "categories": [
                 "utility"
-            ]
+            ],
+            "root_uri": "https://www.pwabuilder.com/manifest.json"
         },
         {
             "icons": [
@@ -465,85 +552,8 @@
             "display": "standalone",
             "start_url": ".",
             "background_color": "#EEEEEE",
-            "theme_color": "#C24F3D"
-        },
-        {
-            "lang": "en",
-            "short_name": "adactio",
-            "name": "adactio",
-            "description": "Jeremy Keith",
-            "icons": [
-                {
-                    "src": "/icon-512.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/icon.png",
-                    "sizes": "300x300",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/icon-192.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/apple-touch-icon.png",
-                    "sizes": "180x180",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-150.jpg",
-                    "sizes": "150x150",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-192.jpg",
-                    "sizes": "192x192",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-200.jpg",
-                    "sizes": "200x200",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-300.jpg",
-                    "sizes": "300x300",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-500.jpg",
-                    "sizes": "500x500",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-512.jpg",
-                    "sizes": "512x512",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-600.jpg",
-                    "sizes": "600x600",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                }
-            ],
-            "start_url": "/",
-            "display": "minimal-ui",
-            "background_color": "#ffffff",
-            "theme_color": "#ffffff"
+            "theme_color": "#C24F3D",
+            "root_uri": "https://todoist.com/app/manifest.48149c9f0c601e29a9554640f7bf5b4d.json"
         },
         {
             "android_package_name": "com.pinterest",
@@ -656,7 +666,8 @@
                 {
                     "origin": "https://*.pinterest.ru"
                 }
-            ]
+            ],
+            "root_uri": "https://pinterest.com/manifest.json"
         },
         {
             "name": "BMW.com",
@@ -710,7 +721,77 @@
             ],
             "splash_pages": null,
             "gcm_sender_id": "671555070731",
-            "gcm_user_visible_only": true
+            "gcm_user_visible_only": true,
+            "root_uri": "https://www.bmw.com/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/manifest_en.json"
+        },
+        {
+            "name": "علی‌بابا خرید بلیط هواپیما بلیط قطار و بلیط هواپیما خارجی",
+            "short_name": "علی‌بابا",
+            "description": "باسابقه‌ترین و معتبرترین سامانه خرید اینترنتی بلیط هواپیما،بلیط چارتر و بلیط قطار رجا، رزرو بلیط هواپیما و خرید بلیط هواپیما خارجی و داخلی از معتبرترین ایرلاین‌های ایران و جهان",
+            "background_color": "#FFFFFF",
+            "theme_color": "#FFFFFF",
+            "dir": "rtl",
+            "lang": "fa",
+            "display": "standalone",
+            "start_url": "/?standalone=true",
+            "icons": [
+                {
+                    "src": "/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/maskable-icon-x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "/maskable-icon-x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                }
+            ],
+            "root_uri": "https://www.alibaba.ir/pwa-manifest.json"
+        },
+        {
+            "short_name": "شرکت گامان تزئین جاوید",
+            "name": "شرکت گامان تزئین جاوید",
+            "icons": [
+                {
+                    "src": "//gamantj.com/wp-content/uploads/2021/09/logo-gaman-192.png",
+                    "type": "image/png",
+                    "sizes": "192x192",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "//gamantj.com/wp-content/uploads/2021/09/logo-gaman-512.png",
+                    "type": "image/png",
+                    "sizes": "512x512",
+                    "purpose": "any maskable"
+                }
+            ],
+            "display": "fullscreen",
+            "start_url": "/",
+            "lang": "fa-IR",
+            "description": "فروش انواع موکت - کفپوش - چمن مصنوعی",
+            "background_color": "#fff",
+            "theme_color": "#0058a1",
+            "scope": "/",
+            "prefer_related_applications": false,
+            "version": "7.0.0",
+            "root_uri": "https://gamantj.com/manifest.json"
         }
     ]
 }
