@@ -1,0 +1,716 @@
+{
+    "data": [
+        {
+            "lang": "en",
+            "name": "Soundslice",
+            "short_name": "Soundslice",
+            "start_url": "/login/",
+            "scope": "/",
+            "display": "standalone",
+            "orientation": "any",
+            "icons": [
+                {
+                    "src": "https://d2c3nvafyekx5z.cloudfront.net/images/logos/square-light-24052349c3a74e4eb74ea3afbfdbb124.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://d2c3nvafyekx5z.cloudfront.net/images/logos/square-light-11852e267c30000bf63ef60def1fef5e.svg"
+                }
+            ]
+        },
+        {
+            "name": "طراحی، فروش و نصب دوربین‌های مداربسته",
+            "start_url": "https://mcctv.ir/",
+            "display": "minimal-ui",
+            "dir": "rtl",
+            "lang": "fa-IR",
+            "background_color": "#000000",
+            "theme_color": "#000000",
+            "icons": [
+                {
+                    "src": "https://mcctv.ir/wp-content/uploads/2021/02/mcctv-logonew-200x200.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://mcctv.ir/wp-content/uploads/2021/02/mcctv-logonew.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ]
+        },
+        {
+            "lang": "en-us",
+            "name": "Flipboard",
+            "short_name": "Flipboard",
+            "description": "Discover top news & lifestyle",
+            "start_url": "/",
+            "orientation": "any",
+            "display": "minimal-ui",
+            "icons": [
+                {
+                    "src": "https://s.flipboard.com/webu/images/meta/flipboard-512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "https://s.flipboard.com/webu/images/meta/flipboard-192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "theme_color": "#f52828",
+            "background_color": "#ffffff",
+            "prefer_related_applications": true,
+            "related_applications": [
+                {
+                    "platform": "play",
+                    "url": "https://app.adjust.com/o5mhwuy?redirect=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dflipboard.app%26hl%3Den_US%26gl%3DUS",
+                    "id": "358801284"
+                },
+                {
+                    "platform": "itunes",
+                    "url": "https://app.adjust.com/ek5qk69?redirect=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fflipboard-latest-stories%2Fid358801284%23%3Fplatform%3Diphone"
+                }
+            ],
+            "categories": [
+                "news"
+            ]
+        },
+        {
+            "android_package_name": "com.pinterest",
+            "background_color": "#fff",
+            "display": "minimal-ui",
+            "icons": [
+                {
+                    "src": "https://s.pinimg.com/images/favicon_red_192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                }
+            ],
+            "gcm_sender_id": "1021726025582",
+            "gcm_user_visible_only": true,
+            "name": "Pinterest",
+            "orientation": "portrait",
+            "short_name": "Pinterest",
+            "start_url": "/?utm_source=homescreen_icon",
+            "theme_color": "#FFFFFF",
+            "related_applications": [
+                {
+                    "platform": "play",
+                    "id": "com.pinterest"
+                },
+                {
+                    "platform": "play",
+                    "id": "com.pinterest.ota"
+                },
+                {
+                    "platform": "play",
+                    "id": "com.pinterest.test"
+                },
+                {
+                    "platform": "play",
+                    "id": "com.pinterest.twa"
+                },
+                {
+                    "platform": "play",
+                    "id": "com.pinterest.dev"
+                },
+                {
+                    "platform": "webapp",
+                    "url": "https://www.pinterest.com/manifest.json"
+                }
+            ],
+            "url_handlers": [
+                {
+                    "origin": "https://*.pinterest.com"
+                },
+                {
+                    "origin": "https://*.pinterest.info"
+                },
+                {
+                    "origin": "https://*.pinterest.at"
+                },
+                {
+                    "origin": "https://*.pinterest.com.au"
+                },
+                {
+                    "origin": "https://*.pinterest.ca"
+                },
+                {
+                    "origin": "https://*.pinterest.ch"
+                },
+                {
+                    "origin": "https://*.pinterest.cl"
+                },
+                {
+                    "origin": "https://*.pinterest.de"
+                },
+                {
+                    "origin": "https://*.pinterest.dk"
+                },
+                {
+                    "origin": "https://*.pinterest.es"
+                },
+                {
+                    "origin": "https://*.pinterest.fr"
+                },
+                {
+                    "origin": "https://*.pinterest.co.uk"
+                },
+                {
+                    "origin": "https://*.pinterest.ie"
+                },
+                {
+                    "origin": "https://*.pinterest.it"
+                },
+                {
+                    "origin": "https://*.pinterest.jp"
+                },
+                {
+                    "origin": "https://*.pinterest.co.kr"
+                },
+                {
+                    "origin": "https://*.pinterest.com.mx"
+                },
+                {
+                    "origin": "https://*.pinterest.nz"
+                },
+                {
+                    "origin": "https://*.pinterest.se"
+                },
+                {
+                    "origin": "https://*.pinterest.ph"
+                },
+                {
+                    "origin": "https://*.pinterest.pt"
+                },
+                {
+                    "origin": "https://*.pinterest.ru"
+                }
+            ]
+        },
+        {
+            "name": "YouTube",
+            "short_name": "YouTube",
+            "background_color": "#FFFFFF",
+            "display": "minimal-ui",
+            "start_url": "/?feature=ytca",
+            "scope": "/",
+            "icons": [
+                {
+                    "src": "https://www.gstatic.com/youtube/img/branding/favicon/favicon_144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.gstatic.com/youtube/img/branding/favicon/favicon_192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.gstatic.com/youtube/img/web/monochrome/logo_16x16.png",
+                    "sizes": "16x16",
+                    "type": "image/png",
+                    "purpose": "monochrome"
+                },
+                {
+                    "src": "https://www.gstatic.com/youtube/img/web/monochrome/logo_32x32.png",
+                    "sizes": "32x32",
+                    "type": "image/png",
+                    "purpose": "monochrome"
+                },
+                {
+                    "src": "https://fonts.gstatic.com/s/i/googlematerialicons/video_youtube/v11/white-48dp/1x/gm_video_youtube_white_48dp.png",
+                    "sizes": "48x48",
+                    "type": "image/png",
+                    "purpose": "monochrome"
+                },
+                {
+                    "src": "https://www.gstatic.com/youtube/img/web/monochrome/logo_512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "monochrome"
+                }
+            ],
+            "theme_color": "#FF0000",
+            "gcm_sender_id": "402845223712",
+            "gcm_user_visible_only": true,
+            "related_applications": [],
+            "capture_links": "none",
+            "shortcuts": [
+                {
+                    "name": "Subscriptions",
+                    "url": "/feed/subscriptions?feature=app_shortcuts",
+                    "icons": [
+                        {
+                            "src": "https://www.gstatic.com/youtube/img/web/shortcuts/subscriptions_512x512.png",
+                            "sizes": "512x512",
+                            "type": "image/png",
+                            "purpose": "any monochrome"
+                        }
+                    ]
+                },
+                {
+                    "name": "Explore",
+                    "url": "/feed/explore?feature=app_shortcuts",
+                    "icons": [
+                        {
+                            "src": "https://www.gstatic.com/youtube/img/web/shortcuts/explore_512x512.png",
+                            "sizes": "512x512",
+                            "type": "image/png",
+                            "purpose": "any monochrome"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "short_name": "اطلس ابزار ",
+            "name": "فروشگاه تخصصی ابزار ",
+            "icons": [
+                {
+                    "src": "//atlastools.ir/wp-content/uploads/2021/10/192.png",
+                    "type": "image/png",
+                    "sizes": "192x192",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "//atlastools.ir/wp-content/uploads/2021/10/512.png",
+                    "type": "image/png",
+                    "sizes": "512x512",
+                    "purpose": "any maskable"
+                }
+            ],
+            "display": "standalone",
+            "start_url": "/",
+            "lang": "fa-IR",
+            "description": "خرید ابزار زیر قیمت کل بازار ایران ",
+            "background_color": "#fff",
+            "theme_color": "#000000",
+            "scope": "/",
+            "prefer_related_applications": false,
+            "version": "6.0.0"
+        },
+        {
+            "background_color": "#456BD9",
+            "description": "A collection of Progressive Web App case studies.",
+            "display": "standalone",
+            "icons": [
+                {
+                    "src": "/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "name": "PWA Stats",
+            "orientation": "natural",
+            "short_name": "PWA Stats",
+            "start_url": "/",
+            "theme_color": "#456BD9"
+        },
+        {
+            "dir": "ltr",
+            "lang": "EN",
+            "name": "PWABuilder",
+            "display": "standalone",
+            "start_url": "/",
+            "short_name": "PWABuilder",
+            "theme_color": "#FFFFFF",
+            "description": "All the tools you need to build and deploy your Progressive Web Apps.",
+            "orientation": "any",
+            "background_color": "#FFFFFF",
+            "related_applications": [],
+            "prefer_related_applications": false,
+            "icons": [
+                {
+                    "src": "/assets/icons/icon_512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/assets/icons/icon_192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/assets/icons/icon_120.png",
+                    "sizes": "120x120",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/assets/icons/icon_60.png",
+                    "sizes": "60x60",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/assets/icons/icon_57.png",
+                    "sizes": "57x57",
+                    "type": "image/png"
+                }
+            ],
+            "screenshots": [
+                {
+                    "src": "/assets/screenshots/screen1.png",
+                    "sizes": "2880x1800",
+                    "type": "image/png",
+                    "description": "PWABuilder Home Screen"
+                },
+                {
+                    "src": "/assets/screenshots/screen2.png",
+                    "sizes": "2880/1800",
+                    "type": "image/png",
+                    "description": "PWABuilder Report Card"
+                },
+                {
+                    "src": "/assets/screenshots/screen3.png",
+                    "sizes": "2880x1800",
+                    "type": "image/png",
+                    "description": "Manifest information on the Report Card"
+                },
+                {
+                    "src": "/assets/screenshots/screen4.png",
+                    "sizes": "2880x1800",
+                    "type": "image/png",
+                    "description": "Pick a pre-built Service Worker"
+                },
+                {
+                    "src": "/assets/screenshots/screen5.png",
+                    "sizes": "2880x1800",
+                    "type": "image/png",
+                    "description": "Publish your PWA to the App Stores!"
+                },
+                {
+                    "src": "/assets/screenshots/mobile.png",
+                    "sizes": "1439x2881",
+                    "type": "image/png",
+                    "description": "PWABuilder also works on your phone!"
+                }
+            ],
+            "features": [
+                "Cross Platform",
+                "fast",
+                "simple"
+            ],
+            "categories": [
+                "utility"
+            ]
+        },
+        {
+            "icons": [
+                {
+                    "src": "/app/manifest_icons/icon_1024x1024.098d1a14e2f871db82d8a2392d59b587.png",
+                    "sizes": "1024x1024",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_1024x1024.098d1a14e2f871db82d8a2392d59b587.png",
+                    "sizes": "1024x1024",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_180x180.d0c3ef3c6be29a9ca57ead5171bbebc4.png",
+                    "sizes": "180x180",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_167x167.3a26fccf02024d9e908aa61a168c04b6.png",
+                    "sizes": "167x167",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_152x152.749dc17e04c34f6e3ade0c6ec90a827c.png",
+                    "sizes": "152x152",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_120x120.4a19b1dbc4514d6e3e3929c28f912cc8.png",
+                    "sizes": "120x120",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_1024x1024.d69a88e67af2780d56e54cd3c3eb79c8.png",
+                    "sizes": "1024x1024",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_512x512.4d257dbb0cb55b755dc9a2b4138a374d.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_192x192.60f60d9894b3583ca14328401a9fdcce.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_144x144.6b57d81dd9f2390043627e88385ef8c6.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                }
+            ],
+            "name": "Todoist",
+            "short_name": "Todoist",
+            "orientation": "portrait",
+            "display": "standalone",
+            "start_url": ".",
+            "background_color": "#EEEEEE",
+            "theme_color": "#C24F3D"
+        },
+        {
+            "lang": "en",
+            "short_name": "adactio",
+            "name": "adactio",
+            "description": "Jeremy Keith",
+            "icons": [
+                {
+                    "src": "/icon-512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/icon.png",
+                    "sizes": "300x300",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/icon-192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apple-touch-icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-150.jpg",
+                    "sizes": "150x150",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-192.jpg",
+                    "sizes": "192x192",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-200.jpg",
+                    "sizes": "200x200",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-300.jpg",
+                    "sizes": "300x300",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-500.jpg",
+                    "sizes": "500x500",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-512.jpg",
+                    "sizes": "512x512",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-600.jpg",
+                    "sizes": "600x600",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/",
+            "display": "minimal-ui",
+            "background_color": "#ffffff",
+            "theme_color": "#ffffff"
+        },
+        {
+            "android_package_name": "com.pinterest",
+            "background_color": "#fff",
+            "display": "minimal-ui",
+            "icons": [
+                {
+                    "src": "https://s.pinimg.com/images/favicon_red_192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                }
+            ],
+            "gcm_sender_id": "1021726025582",
+            "gcm_user_visible_only": true,
+            "name": "Pinterest",
+            "orientation": "portrait",
+            "short_name": "Pinterest",
+            "start_url": "/?utm_source=homescreen_icon",
+            "theme_color": "#FFFFFF",
+            "related_applications": [
+                {
+                    "platform": "play",
+                    "id": "com.pinterest"
+                },
+                {
+                    "platform": "play",
+                    "id": "com.pinterest.ota"
+                },
+                {
+                    "platform": "play",
+                    "id": "com.pinterest.test"
+                },
+                {
+                    "platform": "play",
+                    "id": "com.pinterest.twa"
+                },
+                {
+                    "platform": "play",
+                    "id": "com.pinterest.dev"
+                },
+                {
+                    "platform": "webapp",
+                    "url": "https://www.pinterest.com/manifest.json"
+                }
+            ],
+            "url_handlers": [
+                {
+                    "origin": "https://*.pinterest.com"
+                },
+                {
+                    "origin": "https://*.pinterest.info"
+                },
+                {
+                    "origin": "https://*.pinterest.at"
+                },
+                {
+                    "origin": "https://*.pinterest.com.au"
+                },
+                {
+                    "origin": "https://*.pinterest.ca"
+                },
+                {
+                    "origin": "https://*.pinterest.ch"
+                },
+                {
+                    "origin": "https://*.pinterest.cl"
+                },
+                {
+                    "origin": "https://*.pinterest.de"
+                },
+                {
+                    "origin": "https://*.pinterest.dk"
+                },
+                {
+                    "origin": "https://*.pinterest.es"
+                },
+                {
+                    "origin": "https://*.pinterest.fr"
+                },
+                {
+                    "origin": "https://*.pinterest.co.uk"
+                },
+                {
+                    "origin": "https://*.pinterest.ie"
+                },
+                {
+                    "origin": "https://*.pinterest.it"
+                },
+                {
+                    "origin": "https://*.pinterest.jp"
+                },
+                {
+                    "origin": "https://*.pinterest.co.kr"
+                },
+                {
+                    "origin": "https://*.pinterest.com.mx"
+                },
+                {
+                    "origin": "https://*.pinterest.nz"
+                },
+                {
+                    "origin": "https://*.pinterest.se"
+                },
+                {
+                    "origin": "https://*.pinterest.ph"
+                },
+                {
+                    "origin": "https://*.pinterest.pt"
+                },
+                {
+                    "origin": "https://*.pinterest.ru"
+                }
+            ]
+        },
+        {
+            "name": "BMW.com",
+            "short_name": "BMW.com",
+            "theme_color": "#1c69d4",
+            "background_color": "#ffffff",
+            "display": "standalone",
+            "scope": "/",
+            "start_url": "/en/index.html",
+            "icons": [
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-72x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-96x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-128x128.png",
+                    "sizes": "128x128",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-152x152.png",
+                    "sizes": "152x152",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-384x384.png",
+                    "sizes": "384x384",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "splash_pages": null,
+            "gcm_sender_id": "671555070731",
+            "gcm_user_visible_only": true
+        }
+    ]
+}
