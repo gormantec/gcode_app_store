@@ -1,46 +1,189 @@
 {
     "data": [
         {
-            "lang": "en",
-            "name": "Soundslice",
-            "short_name": "Soundslice",
-            "start_url": "/login/",
-            "scope": "/",
+            "name": "boat crew",
+            "short_name": "boat crew",
+            "theme_color": "#222222",
+            "background_color": "#222222",
             "display": "standalone",
+            "description": "Invite or meet new freinds. Pubich a trip and find a boat crew. Or search for a trip that needs a crew in your area.",
             "orientation": "any",
             "icons": [
                 {
-                    "src": "https://d2c3nvafyekx5z.cloudfront.net/images/logos/square-light-24052349c3a74e4eb74ea3afbfdbb124.png",
-                    "sizes": "256x256",
-                    "type": "image/png"
+                    "src": "/apps/37790665-boatcrew/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
                 },
                 {
-                    "src": "https://d2c3nvafyekx5z.cloudfront.net/images/logos/square-light-11852e267c30000bf63ef60def1fef5e.svg"
+                    "src": "/apps/37790665-boatcrew/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
                 }
             ],
-            "root_uri": "https://www.soundslice.com/webmanifest.json"
+            "start_url": "/apps/37790665-boatcrew/index.html",
+            "prefer_related_applications": false,
+            "root_uri": "https://gcode.com.au/apps/37790665-boatcrew/manifest.json"
         },
         {
-            "name": "طراحی، فروش و نصب دوربین‌های مداربسته",
-            "start_url": "https://mcctv.ir/",
-            "display": "minimal-ui",
-            "dir": "rtl",
-            "lang": "fa-IR",
-            "background_color": "#000000",
-            "theme_color": "#000000",
+            "name": "Google Maps",
+            "short_name": "Google Maps",
+            "description": "Get where you're going, faster",
+            "start_url": "/maps?force=tt&source=ttpwa",
+            "display": "standalone",
+            "background_color": "#ffffff",
+            "scope": "/maps",
+            "theme_color": "#1A73E8",
+            "lang": "en",
+            "android_package_name": "com.google.android.apps.maps",
             "icons": [
                 {
-                    "src": "https://mcctv.ir/wp-content/uploads/2021/02/mcctv-logonew-200x200.png",
                     "sizes": "192x192",
+                    "src": "https://maps.gstatic.com/mapfiles/maps_lite/pwa/icons/maps15_bnuw3a_round_192x192.png",
                     "type": "image/png"
                 },
                 {
-                    "src": "https://mcctv.ir/wp-content/uploads/2021/02/mcctv-logonew.png",
                     "sizes": "512x512",
+                    "src": "https://maps.gstatic.com/mapfiles/maps_lite/pwa/icons/maps15_bnuw3a_round_512x512.png",
                     "type": "image/png"
                 }
             ],
-            "root_uri": "https://mcctv.ir/wp-json/wp/v2/web-app-manifest"
+            "related_applications": [
+                {
+                    "platform": "play",
+                    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.maps",
+                    "id": "com.google.android.apps.maps"
+                },
+                {
+                    "platform": "itunes",
+                    "url": "https://itunes.apple.com/us/app/google-maps-navigation-transit/id585027354"
+                },
+                {
+                    "platform": "chrome_web_store",
+                    "url": "https://chrome.google.com/webstore/detail/google-maps/lneaknkopdijkpnocmklfnjbeapigfbh",
+                    "id": "lneaknkopdijkpnocmklfnjbeapigfbh"
+                }
+            ],
+            "gcm_sender_id": "1004767959362",
+            "permissions": [
+                "gcm"
+            ],
+            "root_uri": "https://www.google.com/maps/preview/pwa/manifest?source=ttpwa&hl=en"
+        },
+        {
+            "android_package_name": "com.pinterest",
+            "background_color": "#fff",
+            "display": "minimal-ui",
+            "icons": [
+                {
+                    "src": "https://s.pinimg.com/images/favicon_red_192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                }
+            ],
+            "gcm_sender_id": "1021726025582",
+            "gcm_user_visible_only": true,
+            "name": "Pinterest",
+            "orientation": "portrait",
+            "short_name": "Pinterest",
+            "start_url": "/?utm_source=homescreen_icon",
+            "theme_color": "#FFFFFF",
+            "related_applications": [
+                {
+                    "platform": "play",
+                    "id": "com.pinterest"
+                },
+                {
+                    "platform": "play",
+                    "id": "com.pinterest.ota"
+                },
+                {
+                    "platform": "play",
+                    "id": "com.pinterest.test"
+                },
+                {
+                    "platform": "play",
+                    "id": "com.pinterest.twa"
+                },
+                {
+                    "platform": "play",
+                    "id": "com.pinterest.dev"
+                },
+                {
+                    "platform": "webapp",
+                    "url": "https://www.pinterest.com/manifest.json"
+                }
+            ],
+            "url_handlers": [
+                {
+                    "origin": "https://*.pinterest.com"
+                },
+                {
+                    "origin": "https://*.pinterest.info"
+                },
+                {
+                    "origin": "https://*.pinterest.at"
+                },
+                {
+                    "origin": "https://*.pinterest.com.au"
+                },
+                {
+                    "origin": "https://*.pinterest.ca"
+                },
+                {
+                    "origin": "https://*.pinterest.ch"
+                },
+                {
+                    "origin": "https://*.pinterest.cl"
+                },
+                {
+                    "origin": "https://*.pinterest.de"
+                },
+                {
+                    "origin": "https://*.pinterest.dk"
+                },
+                {
+                    "origin": "https://*.pinterest.es"
+                },
+                {
+                    "origin": "https://*.pinterest.fr"
+                },
+                {
+                    "origin": "https://*.pinterest.co.uk"
+                },
+                {
+                    "origin": "https://*.pinterest.ie"
+                },
+                {
+                    "origin": "https://*.pinterest.it"
+                },
+                {
+                    "origin": "https://*.pinterest.jp"
+                },
+                {
+                    "origin": "https://*.pinterest.co.kr"
+                },
+                {
+                    "origin": "https://*.pinterest.com.mx"
+                },
+                {
+                    "origin": "https://*.pinterest.nz"
+                },
+                {
+                    "origin": "https://*.pinterest.se"
+                },
+                {
+                    "origin": "https://*.pinterest.ph"
+                },
+                {
+                    "origin": "https://*.pinterest.pt"
+                },
+                {
+                    "origin": "https://*.pinterest.ru"
+                }
+            ],
+            "root_uri": "https://www.pinterest.com.au/manifest.json"
         },
         {
             "lang": "en-us",
@@ -82,6 +225,48 @@
                 "news"
             ],
             "root_uri": "https://flipboard.com/manifest.webmanifest"
+        },
+        {
+            "lang": "en",
+            "name": "Soundslice",
+            "short_name": "Soundslice",
+            "start_url": "/login/",
+            "scope": "/",
+            "display": "standalone",
+            "orientation": "any",
+            "icons": [
+                {
+                    "src": "https://d2c3nvafyekx5z.cloudfront.net/images/logos/square-light-24052349c3a74e4eb74ea3afbfdbb124.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://d2c3nvafyekx5z.cloudfront.net/images/logos/square-light-11852e267c30000bf63ef60def1fef5e.svg"
+                }
+            ],
+            "root_uri": "https://www.soundslice.com/webmanifest.json"
+        },
+        {
+            "name": "طراحی، فروش و نصب دوربین‌های مداربسته",
+            "start_url": "https://mcctv.ir/",
+            "display": "minimal-ui",
+            "dir": "rtl",
+            "lang": "fa-IR",
+            "background_color": "#000000",
+            "theme_color": "#000000",
+            "icons": [
+                {
+                    "src": "https://mcctv.ir/wp-content/uploads/2021/02/mcctv-logonew-200x200.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://mcctv.ir/wp-content/uploads/2021/02/mcctv-logonew.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "root_uri": "https://mcctv.ir/wp-json/wp/v2/web-app-manifest"
         },
         {
             "android_package_name": "com.pinterest",
@@ -274,6 +459,34 @@
             "root_uri": "https://www.youtube.com/manifest.webmanifest"
         },
         {
+            "short_name": "اطلس ابزار ",
+            "name": "فروشگاه تخصصی ابزار ",
+            "icons": [
+                {
+                    "src": "//atlastools.ir/wp-content/uploads/2021/10/192.png",
+                    "type": "image/png",
+                    "sizes": "192x192",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "//atlastools.ir/wp-content/uploads/2021/10/512.png",
+                    "type": "image/png",
+                    "sizes": "512x512",
+                    "purpose": "any maskable"
+                }
+            ],
+            "display": "standalone",
+            "start_url": "/",
+            "lang": "fa-IR",
+            "description": "خرید ابزار زیر قیمت کل بازار ایران ",
+            "background_color": "#fff",
+            "theme_color": "#000000",
+            "scope": "/",
+            "prefer_related_applications": false,
+            "version": "6.0.0",
+            "root_uri": "https://atlastools.ir/manifest.json"
+        },
+        {
             "background_color": "#456BD9",
             "description": "A collection of Progressive Web App case studies.",
             "display": "standalone",
@@ -376,34 +589,6 @@
             "background_color": "#ffffff",
             "theme_color": "#ffffff",
             "root_uri": "https://adactio.com/manifest.json"
-        },
-        {
-            "short_name": "اطلس ابزار ",
-            "name": "فروشگاه تخصصی ابزار ",
-            "icons": [
-                {
-                    "src": "//atlastools.ir/wp-content/uploads/2021/10/192.png",
-                    "type": "image/png",
-                    "sizes": "192x192",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "//atlastools.ir/wp-content/uploads/2021/10/512.png",
-                    "type": "image/png",
-                    "sizes": "512x512",
-                    "purpose": "any maskable"
-                }
-            ],
-            "display": "standalone",
-            "start_url": "/",
-            "lang": "fa-IR",
-            "description": "خرید ابزار زیر قیمت کل بازار ایران ",
-            "background_color": "#fff",
-            "theme_color": "#000000",
-            "scope": "/",
-            "prefer_related_applications": false,
-            "version": "6.0.0",
-            "root_uri": "https://atlastools.ir/manifest.json"
         },
         {
             "dir": "ltr",
@@ -556,6 +741,61 @@
             "root_uri": "https://todoist.com/app/manifest.48149c9f0c601e29a9554640f7bf5b4d.json"
         },
         {
+            "name": "BMW.com",
+            "short_name": "BMW.com",
+            "theme_color": "#1c69d4",
+            "background_color": "#ffffff",
+            "display": "standalone",
+            "scope": "/",
+            "start_url": "/en/index.html",
+            "icons": [
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-72x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-96x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-128x128.png",
+                    "sizes": "128x128",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-152x152.png",
+                    "sizes": "152x152",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-384x384.png",
+                    "sizes": "384x384",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "splash_pages": null,
+            "gcm_sender_id": "671555070731",
+            "gcm_user_visible_only": true,
+            "root_uri": "https://www.bmw.com/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/manifest_en.json"
+        },
+        {
             "android_package_name": "com.pinterest",
             "background_color": "#fff",
             "display": "minimal-ui",
@@ -668,61 +908,6 @@
                 }
             ],
             "root_uri": "https://pinterest.com/manifest.json"
-        },
-        {
-            "name": "BMW.com",
-            "short_name": "BMW.com",
-            "theme_color": "#1c69d4",
-            "background_color": "#ffffff",
-            "display": "standalone",
-            "scope": "/",
-            "start_url": "/en/index.html",
-            "icons": [
-                {
-                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-72x72.png",
-                    "sizes": "72x72",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-96x96.png",
-                    "sizes": "96x96",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-128x128.png",
-                    "sizes": "128x128",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-144x144.png",
-                    "sizes": "144x144",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-152x152.png",
-                    "sizes": "152x152",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-192x192.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-384x384.png",
-                    "sizes": "384x384",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-512x512.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                }
-            ],
-            "splash_pages": null,
-            "gcm_sender_id": "671555070731",
-            "gcm_user_visible_only": true,
-            "root_uri": "https://www.bmw.com/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/manifest_en.json"
         },
         {
             "name": "علی‌بابا خرید بلیط هواپیما بلیط قطار و بلیط هواپیما خارجی",
