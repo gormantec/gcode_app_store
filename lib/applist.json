@@ -225,7 +225,8 @@
             "categories": [
                 "news"
             ],
-            "root_uri": "https://flipboard.com/manifest.webmanifest"
+            "root_uri": "https://flipboard.com/manifest.webmanifest",
+            "manifest_hits": 2
         },
         {
             "lang": "en",
@@ -246,6 +247,7 @@
                 }
             ],
             "root_uri": "https://www.soundslice.com/webmanifest.json",
+            "manifest_hits": 3,
             "description": "Learn music better with our living sheet music."
         },
         {
@@ -269,6 +271,7 @@
                 }
             ],
             "root_uri": "https://mcctv.ir/wp-json/wp/v2/web-app-manifest",
+            "manifest_hits": 2,
             "description": "no description"
         },
         {
@@ -384,6 +387,7 @@
                 }
             ],
             "root_uri": "https://www.pinterest.com/manifest.json",
+            "manifest_hits": 2,
             "description": "Discover recipes, home ideas, style inspiration and other ideas to try."
         },
         {
@@ -409,7 +413,8 @@
             "short_name": "PWA Stats",
             "start_url": "/",
             "theme_color": "#456BD9",
-            "root_uri": "https://www.pwastats.com/manifest.json"
+            "root_uri": "https://www.pwastats.com/manifest.json",
+            "manifest_hits": 2
         },
         {
             "lang": "en",
@@ -488,7 +493,8 @@
             "display": "minimal-ui",
             "background_color": "#ffffff",
             "theme_color": "#ffffff",
-            "root_uri": "https://adactio.com/manifest.json"
+            "root_uri": "https://adactio.com/manifest.json",
+            "manifest_hits": 2
         },
         {
             "dir": "ltr",
@@ -576,7 +582,8 @@
             "categories": [
                 "utility"
             ],
-            "root_uri": "https://www.pwabuilder.com/manifest.json"
+            "root_uri": "https://www.pwabuilder.com/manifest.json",
+            "manifest_hits": 2
         },
         {
             "name": "YouTube",
@@ -653,6 +660,7 @@
                 }
             ],
             "root_uri": "https://www.youtube.com/manifest.webmanifest",
+            "manifest_hits": 16,
             "description": "Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube."
         },
         {
@@ -681,7 +689,8 @@
             "scope": "/",
             "prefer_related_applications": false,
             "version": "6.0.0",
-            "root_uri": "https://atlastools.ir/manifest.json"
+            "root_uri": "https://atlastools.ir/manifest.json",
+            "manifest_hits": 2
         },
         {
             "icons": [
@@ -744,6 +753,7 @@
             "background_color": "#EEEEEE",
             "theme_color": "#C24F3D",
             "root_uri": "https://todoist.com/app/manifest.48149c9f0c601e29a9554640f7bf5b4d.json",
+            "manifest_hits": 2,
             "description": "no description"
         },
         {
@@ -859,6 +869,7 @@
                 }
             ],
             "root_uri": "https://pinterest.com/manifest.json",
+            "manifest_hits": 2,
             "description": "Discover recipes, home ideas, style inspiration and other ideas to try."
         },
         {
@@ -915,6 +926,7 @@
             "gcm_sender_id": "671555070731",
             "gcm_user_visible_only": true,
             "root_uri": "https://www.bmw.com/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/manifest_en.json",
+            "manifest_hits": 2,
             "description": "► Read now: Inspiring stories and interviews, exciting videos and helpful insight. Discover the future of mobility at BMW.com."
         },
         {
@@ -956,7 +968,8 @@
                     "purpose": "maskable"
                 }
             ],
-            "root_uri": "https://www.alibaba.ir/pwa-manifest.json"
+            "root_uri": "https://www.alibaba.ir/pwa-manifest.json",
+            "manifest_hits": 2
         },
         {
             "short_name": "شرکت گامان تزئین جاوید",
@@ -984,7 +997,8 @@
             "scope": "/",
             "prefer_related_applications": false,
             "version": "7.0.0",
-            "root_uri": "https://gamantj.com/manifest.json"
+            "root_uri": "https://gamantj.com/manifest.json",
+            "manifest_hits": 2
         },
         {
             "name": "Code and Comment",
@@ -1039,6 +1053,7 @@
             "background_color": "#f9f9fa",
             "theme_color": "#f9f9fa",
             "root_uri": "https://2brew.github.io/manifest.json",
+            "manifest_hits": 2,
             "description": "no description"
         },
         {
@@ -1099,7 +1114,8 @@
                 }
             ],
             "theme_color": "#3E2723",
-            "root_uri": "https://alarmdj.com/manifest.json"
+            "root_uri": "https://alarmdj.com/manifest.json",
+            "manifest_hits": 2
         },
         {
             "name": "Anonynote",
@@ -1122,6 +1138,7 @@
             "scope": "/",
             "display": "standalone",
             "root_uri": "https://anonynote.org/site.webmanifest",
+            "manifest_hits": 2,
             "description": "A free Progressive Web App for anonymously saving, retrieving and organizing notes. No accounts or logins! Quickly access important data from all of your devices."
         },
         {
@@ -1155,6 +1172,7 @@
             "theme_color": "#000000",
             "display": "standalone",
             "root_uri": "https://bolster.pro/manifest.json",
+            "manifest_hits": 2,
             "description": "The secure, private journal."
         },
         {
@@ -1283,7 +1301,8 @@
                     "id": "com.catsafefoods_paid.twa"
                 }
             ],
-            "root_uri": "https://catsafefoods.com/./manifest.json"
+            "root_uri": "https://catsafefoods.com/./manifest.json",
+            "manifest_hits": 2
         },
         {
             "short_name": "GPA Calculator",
@@ -1386,7 +1405,8 @@
                     ]
                 }
             ],
-            "root_uri": "https://gpacalculator.memorymaps.io/manifest.json"
+            "root_uri": "https://gpacalculator.memorymaps.io/manifest.json",
+            "manifest_hits": 2
         },
         {
             "short_name": "Dev.Opera",
@@ -1402,6 +1422,7 @@
             "display": "standalone",
             "orientation": "any",
             "root_uri": "https://dev.opera.com/.webmanifest",
+            "manifest_hits": 3,
             "description": "Dev.Opera covers current and future HTML, CSS and JavaScript features and implementations, responsive web design, browser extensions, and more."
         },
         {
@@ -1531,7 +1552,8 @@
                     "type": "image/png"
                 }
             ],
-            "root_uri": "https://indecisive.us/manifest.json"
+            "root_uri": "https://indecisive.us/manifest.json",
+            "manifest_hits": 2
         },
         {
             "name": "MConverter",
@@ -1656,7 +1678,8 @@
                     "url": "https://mconverter.eu/manifest.json"
                 }
             ],
-            "root_uri": "https://mconverter.eu/manifest.json"
+            "root_uri": "https://mconverter.eu/manifest.json",
+            "manifest_hits": 2
         },
         {
             "name": "Let's Plant",
@@ -1727,7 +1750,8 @@
             "orientation": "portrait",
             "status": "ok",
             "prompt_message": "Add a Home screen icon for easy access to Let's Plant",
-            "root_uri": "https://letsplant.org/img/manifest.json"
+            "root_uri": "https://letsplant.org/img/manifest.json",
+            "manifest_hits": 2
         },
         {
             "name": "Passky",
@@ -1858,7 +1882,8 @@
                     "id": "9nrcp6hppb82"
                 }
             ],
-            "root_uri": "https://vault.passky.org/manifest.json"
+            "root_uri": "https://vault.passky.org/manifest.json",
+            "manifest_hits": 2
         },
         {
             "short_name": "PixelCraft",
@@ -1881,6 +1906,7 @@
             "Theme_color": "#ffffff",
             "display": "standalone",
             "root_uri": "https://pixelcraft.web.app/manifest.json",
+            "manifest_hits": 2,
             "description": "no description"
         },
         {
@@ -1975,7 +2001,8 @@
                     "sizes": "76x76"
                 }
             ],
-            "root_uri": "https://saintsschedule.info/manifest.json"
+            "root_uri": "https://saintsschedule.info/manifest.json",
+            "manifest_hits": 2
         },
         {
             "name": "Progressive Beer",
@@ -2012,6 +2039,7 @@
                 }
             ],
             "root_uri": "https://deanhume.github.io/beer/manifest.json",
+            "manifest_hits": 2,
             "description": "Progressive Beer - The ultimate guide to beer around the world."
         },
         {
@@ -2044,6 +2072,7 @@
             "theme_color": "#673AB7",
             "background_color": "#EEEEEE",
             "root_uri": "https://resume-nation.github.io/manifest.json",
+            "manifest_hits": 2,
             "description": "no description"
         },
         {
@@ -2108,6 +2137,7 @@
                 }
             ],
             "root_uri": "https://simplepwa.com/./manifest.json",
+            "manifest_hits": 2,
             "description": "Simple Progressive Web App (PWA) template"
         },
         {
@@ -2131,6 +2161,7 @@
             "background_color": "#1A1A1A",
             "theme_color": "#1A1A1A",
             "root_uri": "https://remysharp.com/manifest.json",
+            "manifest_hits": 2,
             "description": "About [code] and all that jazz"
         },
         {
@@ -2192,7 +2223,8 @@
                     "id": "com.github.android"
                 }
             ],
-            "root_uri": "https://github.com/manifest.json"
+            "root_uri": "https://github.com/manifest.json",
+            "manifest_hits": 4
         },
         {
             "short_name": "Care Cards",
@@ -2225,6 +2257,7 @@
             "background_color": "#6CCBC5",
             "orientation": "portrait",
             "root_uri": "https://carecards.io/manifest.json",
+            "manifest_hits": 2,
             "description": "We all get a little overwhelmed from time to time. Care Cards is a set of helpful little tips to keep you on top of your mental well-being."
         },
         {
@@ -2247,6 +2280,7 @@
             "theme_color": "#000000",
             "background_color": "#ffffff",
             "root_uri": "https://flagwarriors.netlify.com/manifest.json",
+            "manifest_hits": 2,
             "description": "no description"
         },
         {
@@ -2284,7 +2318,8 @@
             "background_color": "white",
             "theme_color": "white",
             "scope": "/",
-            "root_uri": "https://jsonformatter.live/manifest.json"
+            "root_uri": "https://jsonformatter.live/manifest.json",
+            "manifest_hits": 2
         },
         {
             "short_name": "Pony Foo",
@@ -2342,6 +2377,7 @@
                 }
             ],
             "root_uri": "https://ponyfoo.com/manifest.json",
+            "manifest_hits": 2,
             "description": "Read the latest about JavaScript, ES6, and ECMAScript proposals on TC39. Follow the Pony Foo Weekly newsletter to stay on top of interesting and trending topics around the web platform."
         },
         {
@@ -2401,7 +2437,8 @@
                     "type": "image/webp"
                 }
             ],
-            "root_uri": "https://btapp.netlify.com/manifest.json"
+            "root_uri": "https://btapp.netlify.com/manifest.json",
+            "manifest_hits": 2
         },
         {
             "name": "Dean Hume's Blog",
@@ -2411,6 +2448,7 @@
             "background_color": "#000",
             "display": "standalone",
             "root_uri": "https://deanhume.com/manifest.json",
+            "manifest_hits": 2,
             "description": "My name is Dean Hume, and I am an author, blogger, and software developer."
         },
         {
@@ -2462,6 +2500,7 @@
             ],
             "gcm_sender_id": "103953800507",
             "root_uri": "https://app.pregbuddy.com/manifest.json",
+            "manifest_hits": 2,
             "description": "Stay prepared &amp; fit with FREE weekly pregnancy tips about your baby &amp; your body! Best app for pregnant women."
         },
         {
@@ -2486,6 +2525,7 @@
                 }
             ],
             "root_uri": "https://m.freelancer.com/manifest.webmanifest",
+            "manifest_hits": 2,
             "description": "no description"
         },
         {
@@ -2587,7 +2627,8 @@
             "theme_color": "#161616",
             "background_color": "#161616",
             "display": "standalone",
-            "root_uri": "https://versus.com/manifest.webmanifest"
+            "root_uri": "https://versus.com/manifest.webmanifest",
+            "manifest_hits": 2
         },
         {
             "name": "Scoreboard",
@@ -2613,7 +2654,8 @@
             "orientation": "portrait",
             "start_url": "https://scoreboard.rocks/",
             "scope": "https://scoreboard.rocks/",
-            "root_uri": "https://scoreboard.rocks/pwa-manifest.json"
+            "root_uri": "https://scoreboard.rocks/pwa-manifest.json",
+            "manifest_hits": 2
         },
         {
             "name": "todo.blue",
@@ -2730,7 +2772,8 @@
                     "id": "9P7Q7FL2ZNJ7"
                 }
             ],
-            "root_uri": "https://todo.blue/pwa-manifest.json"
+            "root_uri": "https://todo.blue/pwa-manifest.json",
+            "manifest_hits": 2
         },
         {
             "name": "amp.dev",
@@ -2784,6 +2827,7 @@
             ],
             "splash_pages": null,
             "root_uri": "https://www.ampproject.org/manifest.json",
+            "manifest_hits": 2,
             "description": "Whether you are a publisher, e-commerce company, storyteller, advertiser or email sender, AMP makes it easy to create great experiences on the web. Use AMP to build websites, stories, ads and emails."
         },
         {
@@ -2866,7 +2910,8 @@
                     "type": "image/png"
                 }
             ],
-            "root_uri": "https://swahili-dictionary.com/app.webmanifest"
+            "root_uri": "https://swahili-dictionary.com/app.webmanifest",
+            "manifest_hits": 2
         },
         {
             "short_name": "Tower Game",
@@ -2889,7 +2934,8 @@
             "theme_color": "#F95240",
             "display": "standalone",
             "orientation": "portrait",
-            "root_uri": "https://www.towergame.app/manifest.json"
+            "root_uri": "https://www.towergame.app/manifest.json",
+            "manifest_hits": 2
         },
         {
             "name": "Water Wars",
@@ -2933,6 +2979,7 @@
             "scope": "index.html",
             "theme_color": "#ffffff",
             "root_uri": "https://vcjhwebdev.github.io/waterwars/manifest.json",
+            "manifest_hits": 2,
             "description": "no description"
         },
         {
@@ -3004,7 +3051,8 @@
                     "purpose": "maskable"
                 }
             ],
-            "root_uri": "https://damn.dog/manifest.json"
+            "root_uri": "https://damn.dog/manifest.json",
+            "manifest_hits": 2
         },
         {
             "name": "Cloud Four",
@@ -3035,7 +3083,8 @@
                 "web"
             ],
             "gcm_sender_id": "482941778795",
-            "root_uri": "https://cloudfour.com/manifest.json"
+            "root_uri": "https://cloudfour.com/manifest.json",
+            "manifest_hits": 2
         },
         {
             "name": "YouTube",
@@ -3112,6 +3161,7 @@
                 }
             ],
             "root_uri": "https://youtube.com/manifest.webmanifest",
+            "manifest_hits": 2,
             "description": "Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube."
         },
         {
@@ -3124,7 +3174,137 @@
             "background_color": "#fff",
             "theme_color": "#fff",
             "description": "Koombea is the leading mobile consultancy and web app development agency for businesses looking to bring their ideas to reality.",
-            "root_uri": "https://www.koombea.com/wp-json/wp/v2/web-app-manifest"
+            "root_uri": "https://www.koombea.com/wp-json/wp/v2/web-app-manifest",
+            "manifest_hits": 56
+        },
+        {
+            "name": "Dog Safe Foods",
+            "short_name": "Dog Safe Foods",
+            "description": "Sharing food with your dog? Make sure it's safe first",
+            "display": "standalone",
+            "start_url": "./",
+            "scope": ".",
+            "theme_color": "#000",
+            "background_color": "#000",
+            "orientation": "portrait-primary",
+            "icons": [
+                {
+                    "src": "android-chrome-36x36.png",
+                    "sizes": "36x36",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-48x48.png",
+                    "sizes": "48x48",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-72x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-96x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-384x384.png",
+                    "sizes": "384x384",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                },
+                {
+                    "src": "maskable_icon.png",
+                    "sizes": "650x650",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "monochrome_icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "monochrome"
+                }
+            ],
+            "categories": [
+                "pets",
+                "food"
+            ],
+            "screenshots": [
+                {
+                    "src": "screenshot1.png",
+                    "sizes": "1500x800",
+                    "type": "image/png"
+                },
+                {
+                    "src": "screenshot2.png",
+                    "sizes": "1500x800",
+                    "type": "image/png"
+                },
+                {
+                    "src": "screenshot3.png",
+                    "sizes": "1500x800",
+                    "type": "image/png"
+                }
+            ],
+            "shortcuts": [
+                {
+                    "name": "View Safe Foods",
+                    "description": "View all foods that are safe for dogs to eat",
+                    "url": "./safe",
+                    "icons": [
+                        {
+                            "src": "icon-thumbs-up.png",
+                            "sizes": "512x512"
+                        }
+                    ]
+                },
+                {
+                    "name": "View Unsafe Foods",
+                    "description": "View all foods that are not safe for dogs to eat",
+                    "url": "./unsafe",
+                    "icons": [
+                        {
+                            "src": "icon-thumbs-down.png",
+                            "sizes": "512x512"
+                        }
+                    ]
+                }
+            ],
+            "prefer_related_applications": true,
+            "related_applications": [
+                {
+                    "platform": "webapp",
+                    "url": "https://dogsafefoods.com/manifest.json"
+                },
+                {
+                    "platform": "play",
+                    "url": "https://play.google.com/store/apps/details?id=com.dogsafefoods.twa",
+                    "id": "com.dogsafefoods.twa"
+                }
+            ],
+            "root_uri": "https://dogsafefoods.com/./manifest.json",
+            "manifest_hits": 2
         }
     ]
 }
