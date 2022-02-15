@@ -184,7 +184,7 @@
                 }
             ],
             "root_uri": "https://www.pinterest.com.au/manifest.json",
-            "description": {}
+            "description": "Discover recipes, home ideas, style inspiration and other ideas to try."
         },
         {
             "lang": "en-us",
@@ -246,7 +246,7 @@
                 }
             ],
             "root_uri": "https://www.soundslice.com/webmanifest.json",
-            "description": {}
+            "description": "Learn music better with our living sheet music."
         },
         {
             "name": "طراحی، فروش و نصب دوربین‌های مداربسته",
@@ -269,199 +269,7 @@
                 }
             ],
             "root_uri": "https://mcctv.ir/wp-json/wp/v2/web-app-manifest",
-            "description": {}
-        },
-        {
-            "background_color": "#456BD9",
-            "description": "A collection of Progressive Web App case studies.",
-            "display": "standalone",
-            "icons": [
-                {
-                    "src": "/android-chrome-192x192.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/android-chrome-512x512.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                }
-            ],
-            "name": "PWA Stats",
-            "orientation": "natural",
-            "short_name": "PWA Stats",
-            "start_url": "/",
-            "theme_color": "#456BD9",
-            "root_uri": "https://www.pwastats.com/manifest.json"
-        },
-        {
-            "lang": "en",
-            "short_name": "adactio",
-            "name": "adactio",
-            "description": "Jeremy Keith",
-            "icons": [
-                {
-                    "src": "/icon-512.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/icon.png",
-                    "sizes": "300x300",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/icon-192.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/apple-touch-icon.png",
-                    "sizes": "180x180",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-150.jpg",
-                    "sizes": "150x150",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-192.jpg",
-                    "sizes": "192x192",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-200.jpg",
-                    "sizes": "200x200",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-300.jpg",
-                    "sizes": "300x300",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-500.jpg",
-                    "sizes": "500x500",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-512.jpg",
-                    "sizes": "512x512",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-600.jpg",
-                    "sizes": "600x600",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                }
-            ],
-            "start_url": "/",
-            "display": "minimal-ui",
-            "background_color": "#ffffff",
-            "theme_color": "#ffffff",
-            "root_uri": "https://adactio.com/manifest.json"
-        },
-        {
-            "dir": "ltr",
-            "lang": "EN",
-            "name": "PWABuilder",
-            "display": "standalone",
-            "start_url": "/",
-            "short_name": "PWABuilder",
-            "theme_color": "#FFFFFF",
-            "description": "All the tools you need to build and deploy your Progressive Web Apps.",
-            "orientation": "any",
-            "background_color": "#FFFFFF",
-            "related_applications": [],
-            "prefer_related_applications": false,
-            "icons": [
-                {
-                    "src": "/assets/icons/icon_512.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/assets/icons/icon_192.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/assets/icons/icon_120.png",
-                    "sizes": "120x120",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/assets/icons/icon_60.png",
-                    "sizes": "60x60",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/assets/icons/icon_57.png",
-                    "sizes": "57x57",
-                    "type": "image/png"
-                }
-            ],
-            "screenshots": [
-                {
-                    "src": "/assets/screenshots/screen1.png",
-                    "sizes": "2880x1800",
-                    "type": "image/png",
-                    "description": "PWABuilder Home Screen"
-                },
-                {
-                    "src": "/assets/screenshots/screen2.png",
-                    "sizes": "2880/1800",
-                    "type": "image/png",
-                    "description": "PWABuilder Report Card"
-                },
-                {
-                    "src": "/assets/screenshots/screen3.png",
-                    "sizes": "2880x1800",
-                    "type": "image/png",
-                    "description": "Manifest information on the Report Card"
-                },
-                {
-                    "src": "/assets/screenshots/screen4.png",
-                    "sizes": "2880x1800",
-                    "type": "image/png",
-                    "description": "Pick a pre-built Service Worker"
-                },
-                {
-                    "src": "/assets/screenshots/screen5.png",
-                    "sizes": "2880x1800",
-                    "type": "image/png",
-                    "description": "Publish your PWA to the App Stores!"
-                },
-                {
-                    "src": "/assets/screenshots/mobile.png",
-                    "sizes": "1439x2881",
-                    "type": "image/png",
-                    "description": "PWABuilder also works on your phone!"
-                }
-            ],
-            "features": [
-                "Cross Platform",
-                "fast",
-                "simple"
-            ],
-            "categories": [
-                "utility"
-            ],
-            "root_uri": "https://www.pwabuilder.com/manifest.json"
+            "description": "no description"
         },
         {
             "android_package_name": "com.pinterest",
@@ -576,7 +384,199 @@
                 }
             ],
             "root_uri": "https://www.pinterest.com/manifest.json",
-            "description": {}
+            "description": "Discover recipes, home ideas, style inspiration and other ideas to try."
+        },
+        {
+            "lang": "en",
+            "short_name": "adactio",
+            "name": "adactio",
+            "description": "Jeremy Keith",
+            "icons": [
+                {
+                    "src": "/icon-512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/icon.png",
+                    "sizes": "300x300",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/icon-192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apple-touch-icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-150.jpg",
+                    "sizes": "150x150",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-192.jpg",
+                    "sizes": "192x192",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-200.jpg",
+                    "sizes": "200x200",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-300.jpg",
+                    "sizes": "300x300",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-500.jpg",
+                    "sizes": "500x500",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-512.jpg",
+                    "sizes": "512x512",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-600.jpg",
+                    "sizes": "600x600",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/",
+            "display": "minimal-ui",
+            "background_color": "#ffffff",
+            "theme_color": "#ffffff",
+            "root_uri": "https://adactio.com/manifest.json"
+        },
+        {
+            "background_color": "#456BD9",
+            "description": "A collection of Progressive Web App case studies.",
+            "display": "standalone",
+            "icons": [
+                {
+                    "src": "/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "name": "PWA Stats",
+            "orientation": "natural",
+            "short_name": "PWA Stats",
+            "start_url": "/",
+            "theme_color": "#456BD9",
+            "root_uri": "https://www.pwastats.com/manifest.json"
+        },
+        {
+            "dir": "ltr",
+            "lang": "EN",
+            "name": "PWABuilder",
+            "display": "standalone",
+            "start_url": "/",
+            "short_name": "PWABuilder",
+            "theme_color": "#FFFFFF",
+            "description": "All the tools you need to build and deploy your Progressive Web Apps.",
+            "orientation": "any",
+            "background_color": "#FFFFFF",
+            "related_applications": [],
+            "prefer_related_applications": false,
+            "icons": [
+                {
+                    "src": "/assets/icons/icon_512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/assets/icons/icon_192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/assets/icons/icon_120.png",
+                    "sizes": "120x120",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/assets/icons/icon_60.png",
+                    "sizes": "60x60",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/assets/icons/icon_57.png",
+                    "sizes": "57x57",
+                    "type": "image/png"
+                }
+            ],
+            "screenshots": [
+                {
+                    "src": "/assets/screenshots/screen1.png",
+                    "sizes": "2880x1800",
+                    "type": "image/png",
+                    "description": "PWABuilder Home Screen"
+                },
+                {
+                    "src": "/assets/screenshots/screen2.png",
+                    "sizes": "2880/1800",
+                    "type": "image/png",
+                    "description": "PWABuilder Report Card"
+                },
+                {
+                    "src": "/assets/screenshots/screen3.png",
+                    "sizes": "2880x1800",
+                    "type": "image/png",
+                    "description": "Manifest information on the Report Card"
+                },
+                {
+                    "src": "/assets/screenshots/screen4.png",
+                    "sizes": "2880x1800",
+                    "type": "image/png",
+                    "description": "Pick a pre-built Service Worker"
+                },
+                {
+                    "src": "/assets/screenshots/screen5.png",
+                    "sizes": "2880x1800",
+                    "type": "image/png",
+                    "description": "Publish your PWA to the App Stores!"
+                },
+                {
+                    "src": "/assets/screenshots/mobile.png",
+                    "sizes": "1439x2881",
+                    "type": "image/png",
+                    "description": "PWABuilder also works on your phone!"
+                }
+            ],
+            "features": [
+                "Cross Platform",
+                "fast",
+                "simple"
+            ],
+            "categories": [
+                "utility"
+            ],
+            "root_uri": "https://www.pwabuilder.com/manifest.json"
         },
         {
             "short_name": "اطلس ابزار ",
@@ -605,6 +605,69 @@
             "prefer_related_applications": false,
             "version": "6.0.0",
             "root_uri": "https://atlastools.ir/manifest.json"
+        },
+        {
+            "icons": [
+                {
+                    "src": "/app/manifest_icons/icon_1024x1024.098d1a14e2f871db82d8a2392d59b587.png",
+                    "sizes": "1024x1024",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_1024x1024.098d1a14e2f871db82d8a2392d59b587.png",
+                    "sizes": "1024x1024",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_180x180.d0c3ef3c6be29a9ca57ead5171bbebc4.png",
+                    "sizes": "180x180",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_167x167.3a26fccf02024d9e908aa61a168c04b6.png",
+                    "sizes": "167x167",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_152x152.749dc17e04c34f6e3ade0c6ec90a827c.png",
+                    "sizes": "152x152",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_120x120.4a19b1dbc4514d6e3e3929c28f912cc8.png",
+                    "sizes": "120x120",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_1024x1024.d69a88e67af2780d56e54cd3c3eb79c8.png",
+                    "sizes": "1024x1024",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_512x512.4d257dbb0cb55b755dc9a2b4138a374d.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_192x192.60f60d9894b3583ca14328401a9fdcce.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_144x144.6b57d81dd9f2390043627e88385ef8c6.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                }
+            ],
+            "name": "Todoist",
+            "short_name": "Todoist",
+            "orientation": "portrait",
+            "display": "standalone",
+            "start_url": ".",
+            "background_color": "#EEEEEE",
+            "theme_color": "#C24F3D",
+            "root_uri": "https://todoist.com/app/manifest.48149c9f0c601e29a9554640f7bf5b4d.json",
+            "description": "no description"
         },
         {
             "name": "YouTube",
@@ -681,70 +744,122 @@
                 }
             ],
             "root_uri": "https://www.youtube.com/manifest.webmanifest",
-            "description": {}
+            "description": "Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube."
         },
         {
+            "android_package_name": "com.pinterest",
+            "background_color": "#fff",
+            "display": "minimal-ui",
             "icons": [
                 {
-                    "src": "/app/manifest_icons/icon_1024x1024.098d1a14e2f871db82d8a2392d59b587.png",
-                    "sizes": "1024x1024",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/app/manifest_icons/icon_1024x1024.098d1a14e2f871db82d8a2392d59b587.png",
-                    "sizes": "1024x1024",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/app/manifest_icons/icon_180x180.d0c3ef3c6be29a9ca57ead5171bbebc4.png",
-                    "sizes": "180x180",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/app/manifest_icons/icon_167x167.3a26fccf02024d9e908aa61a168c04b6.png",
-                    "sizes": "167x167",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/app/manifest_icons/icon_152x152.749dc17e04c34f6e3ade0c6ec90a827c.png",
-                    "sizes": "152x152",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/app/manifest_icons/icon_120x120.4a19b1dbc4514d6e3e3929c28f912cc8.png",
-                    "sizes": "120x120",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/app/manifest_icons/icon_1024x1024.d69a88e67af2780d56e54cd3c3eb79c8.png",
-                    "sizes": "1024x1024",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/app/manifest_icons/icon_512x512.4d257dbb0cb55b755dc9a2b4138a374d.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/app/manifest_icons/icon_192x192.60f60d9894b3583ca14328401a9fdcce.png",
+                    "src": "https://s.pinimg.com/images/favicon_red_192.png",
                     "sizes": "192x192",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/app/manifest_icons/icon_144x144.6b57d81dd9f2390043627e88385ef8c6.png",
-                    "sizes": "144x144",
                     "type": "image/png"
                 }
             ],
-            "name": "Todoist",
-            "short_name": "Todoist",
+            "gcm_sender_id": "1021726025582",
+            "gcm_user_visible_only": true,
+            "name": "Pinterest",
             "orientation": "portrait",
-            "display": "standalone",
-            "start_url": ".",
-            "background_color": "#EEEEEE",
-            "theme_color": "#C24F3D",
-            "root_uri": "https://todoist.com/app/manifest.48149c9f0c601e29a9554640f7bf5b4d.json",
-            "description": {}
+            "short_name": "Pinterest",
+            "start_url": "/?utm_source=homescreen_icon",
+            "theme_color": "#FFFFFF",
+            "related_applications": [
+                {
+                    "platform": "play",
+                    "id": "com.pinterest"
+                },
+                {
+                    "platform": "play",
+                    "id": "com.pinterest.ota"
+                },
+                {
+                    "platform": "play",
+                    "id": "com.pinterest.test"
+                },
+                {
+                    "platform": "play",
+                    "id": "com.pinterest.twa"
+                },
+                {
+                    "platform": "play",
+                    "id": "com.pinterest.dev"
+                },
+                {
+                    "platform": "webapp",
+                    "url": "https://www.pinterest.com/manifest.json"
+                }
+            ],
+            "url_handlers": [
+                {
+                    "origin": "https://*.pinterest.com"
+                },
+                {
+                    "origin": "https://*.pinterest.info"
+                },
+                {
+                    "origin": "https://*.pinterest.at"
+                },
+                {
+                    "origin": "https://*.pinterest.com.au"
+                },
+                {
+                    "origin": "https://*.pinterest.ca"
+                },
+                {
+                    "origin": "https://*.pinterest.ch"
+                },
+                {
+                    "origin": "https://*.pinterest.cl"
+                },
+                {
+                    "origin": "https://*.pinterest.de"
+                },
+                {
+                    "origin": "https://*.pinterest.dk"
+                },
+                {
+                    "origin": "https://*.pinterest.es"
+                },
+                {
+                    "origin": "https://*.pinterest.fr"
+                },
+                {
+                    "origin": "https://*.pinterest.co.uk"
+                },
+                {
+                    "origin": "https://*.pinterest.ie"
+                },
+                {
+                    "origin": "https://*.pinterest.it"
+                },
+                {
+                    "origin": "https://*.pinterest.jp"
+                },
+                {
+                    "origin": "https://*.pinterest.co.kr"
+                },
+                {
+                    "origin": "https://*.pinterest.com.mx"
+                },
+                {
+                    "origin": "https://*.pinterest.nz"
+                },
+                {
+                    "origin": "https://*.pinterest.se"
+                },
+                {
+                    "origin": "https://*.pinterest.ph"
+                },
+                {
+                    "origin": "https://*.pinterest.pt"
+                },
+                {
+                    "origin": "https://*.pinterest.ru"
+                }
+            ],
+            "root_uri": "https://pinterest.com/manifest.json",
+            "description": "Discover recipes, home ideas, style inspiration and other ideas to try."
         },
         {
             "name": "2Brew",
@@ -781,7 +896,7 @@
             "background_color": "#f9f9fa",
             "theme_color": "#f9f9fa",
             "root_uri": "https://2brew.github.io/manifest.json",
-            "description": {}
+            "description": "no description"
         },
         {
             "name": "Alarm DJ",
@@ -844,6 +959,167 @@
             "root_uri": "https://alarmdj.com/manifest.json"
         },
         {
+            "name": "Bolster",
+            "icons": [
+                {
+                    "src": "/icons/512.png",
+                    "type": "image/png",
+                    "sizes": "512x512"
+                },
+                {
+                    "src": "/icons/192.png",
+                    "type": "image/png",
+                    "sizes": "192x192"
+                },
+                {
+                    "src": "/icons/maskable/512.png",
+                    "type": "image/png",
+                    "sizes": "512x512",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "/icons/maskable/192.png",
+                    "type": "image/png",
+                    "sizes": "192x192",
+                    "purpose": "maskable"
+                }
+            ],
+            "start_url": "/",
+            "background_color": "#000000",
+            "theme_color": "#000000",
+            "display": "standalone",
+            "root_uri": "https://bolster.pro/manifest.json",
+            "description": "The secure, private journal."
+        },
+        {
+            "name": "Cat Safe Foods",
+            "short_name": "Cat Safe Foods",
+            "description": "Sharing food with your cat? Make sure it's safe first",
+            "display": "standalone",
+            "start_url": "./",
+            "scope": ".",
+            "theme_color": "#000",
+            "background_color": "#000",
+            "orientation": "portrait-primary",
+            "icons": [
+                {
+                    "src": "android-chrome-36x36.png",
+                    "sizes": "36x36",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-48x48.png",
+                    "sizes": "48x48",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-72x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-96x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-384x384.png",
+                    "sizes": "384x384",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                },
+                {
+                    "src": "maskable_icon.png",
+                    "sizes": "650x650",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "monochrome_icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "monochrome"
+                }
+            ],
+            "categories": [
+                "pets",
+                "food"
+            ],
+            "screenshots": [
+                {
+                    "src": "screenshot1.png",
+                    "sizes": "1500x800",
+                    "type": "image/png"
+                },
+                {
+                    "src": "screenshot2.png",
+                    "sizes": "1500x800",
+                    "type": "image/png"
+                },
+                {
+                    "src": "screenshot3.png",
+                    "sizes": "1500x800",
+                    "type": "image/png"
+                }
+            ],
+            "shortcuts": [
+                {
+                    "name": "View Safe Foods",
+                    "description": "View all foods that are safe for cats to eat",
+                    "url": "./safe",
+                    "icons": [
+                        {
+                            "src": "icon-thumbs-up.png",
+                            "sizes": "512x512"
+                        }
+                    ]
+                },
+                {
+                    "name": "View Unsafe Foods",
+                    "description": "View all foods that are not safe for cats to eat",
+                    "url": "./unsafe",
+                    "icons": [
+                        {
+                            "src": "icon-thumbs-down.png",
+                            "sizes": "512x512"
+                        }
+                    ]
+                }
+            ],
+            "prefer_related_applications": true,
+            "related_applications": [
+                {
+                    "platform": "webapp",
+                    "url": "https://catsafefoods.com/manifest.json"
+                },
+                {
+                    "platform": "play",
+                    "url": "https://play.google.com/store/apps/details?id=com.catsafefoods_paid.twa",
+                    "id": "com.catsafefoods_paid.twa"
+                }
+            ],
+            "root_uri": "https://catsafefoods.com/./manifest.json"
+        },
+        {
             "name": "Anonynote",
             "short_name": "Anonynote",
             "icons": [
@@ -864,23 +1140,7 @@
             "scope": "/",
             "display": "standalone",
             "root_uri": "https://anonynote.org/site.webmanifest",
-            "description": {}
-        },
-        {
-            "short_name": "Dev.Opera",
-            "name": "Dev.Opera",
-            "icons": [
-                {
-                    "src": "apple-touch-icon.png",
-                    "sizes": "180x180",
-                    "type": "image/png"
-                }
-            ],
-            "start_url": "/",
-            "display": "standalone",
-            "orientation": "any",
-            "root_uri": "https://dev.opera.com/.webmanifest",
-            "description": {}
+            "description": "A free Progressive Web App for anonymously saving, retrieving and organizing notes. No accounts or logins! Quickly access important data from all of your devices."
         },
         {
             "short_name": "GPA Calculator",
@@ -986,37 +1246,145 @@
             "root_uri": "https://gpacalculator.memorymaps.io/manifest.json"
         },
         {
-            "name": "Bolster",
+            "short_name": "Dev.Opera",
+            "name": "Dev.Opera",
             "icons": [
                 {
-                    "src": "/icons/512.png",
-                    "type": "image/png",
-                    "sizes": "512x512"
-                },
-                {
-                    "src": "/icons/192.png",
-                    "type": "image/png",
-                    "sizes": "192x192"
-                },
-                {
-                    "src": "/icons/maskable/512.png",
-                    "type": "image/png",
-                    "sizes": "512x512",
-                    "purpose": "maskable"
-                },
-                {
-                    "src": "/icons/maskable/192.png",
-                    "type": "image/png",
-                    "sizes": "192x192",
-                    "purpose": "maskable"
+                    "src": "apple-touch-icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png"
                 }
             ],
             "start_url": "/",
-            "background_color": "#000000",
-            "theme_color": "#000000",
             "display": "standalone",
-            "root_uri": "https://bolster.pro/manifest.json",
-            "description": {}
+            "orientation": "any",
+            "root_uri": "https://dev.opera.com/.webmanifest",
+            "description": "Dev.Opera covers current and future HTML, CSS and JavaScript features and implementations, responsive web design, browser extensions, and more."
+        },
+        {
+            "name": "MConverter",
+            "short_name": "MConverter",
+            "description": "Free secure online file converter. Quick, easy and simple. Can convert in bulk. Lots of video, audio, image, e-book, office and archive formats supported. No registration needed.",
+            "categories": [
+                "utilities",
+                "photo",
+                "music",
+                "books"
+            ],
+            "iarc_rating_id": "0e447ab4-66c9-4632-8486-9a364857c470",
+            "start_url": "/?homescreen=1",
+            "display": "standalone",
+            "theme_color": "#2e5598",
+            "background_color": "#2e5598",
+            "icons": [
+                {
+                    "src": "img/icon-pwa.png",
+                    "type": "image/png",
+                    "sizes": "1024x1024",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "img/icon-pwa-circle.png",
+                    "type": "image/png",
+                    "sizes": "512x512",
+                    "purpose": "any"
+                }
+            ],
+            "screenshots": [
+                {
+                    "src": "img/screenshots/mobile-home.png",
+                    "sizes": "1080x2280",
+                    "type": "image/png"
+                },
+                {
+                    "src": "img/screenshots/mobile-pick-format.png",
+                    "sizes": "1080x2280",
+                    "type": "image/png"
+                },
+                {
+                    "src": "img/screenshots/mobile-share-file.png",
+                    "sizes": "1080x2280",
+                    "type": "image/png"
+                },
+                {
+                    "src": "img/screenshots/mobile-convert-dark.png",
+                    "sizes": "1080x2280",
+                    "type": "image/png"
+                },
+                {
+                    "src": "img/screenshots/mobile-download-multi.png",
+                    "sizes": "1080x2280",
+                    "type": "image/png"
+                },
+                {
+                    "src": "img/screenshots/desktop-home.png",
+                    "sizes": "2400x1600",
+                    "type": "image/png"
+                },
+                {
+                    "src": "img/screenshots/desktop-pick-format.png",
+                    "sizes": "2400x1600",
+                    "type": "image/png"
+                },
+                {
+                    "src": "img/screenshots/desktop-convert-dark.png",
+                    "sizes": "2400x1600",
+                    "type": "image/png"
+                },
+                {
+                    "src": "img/screenshots/desktop-download-multi.png",
+                    "sizes": "2400x1600",
+                    "type": "image/png"
+                }
+            ],
+            "shortcuts": [
+                {
+                    "name": "My Account",
+                    "url": "/?homescreen=1#account",
+                    "icons": [
+                        {
+                            "src": "img/shortcuts/account.png",
+                            "sizes": "192x192"
+                        }
+                    ]
+                },
+                {
+                    "name": "Options",
+                    "url": "/?homescreen=1#options",
+                    "icons": [
+                        {
+                            "src": "img/shortcuts/options.png",
+                            "sizes": "192x192"
+                        }
+                    ]
+                }
+            ],
+            "share_target": {
+                "action": "/?homescreen=1&share-target=1",
+                "method": "POST",
+                "enctype": "multipart/form-data",
+                "params": {
+                    "files": [
+                        {
+                            "name": "file",
+                            "accept": [
+                                "*/*"
+                            ]
+                        }
+                    ]
+                }
+            },
+            "related_applications": [
+                {
+                    "platform": "play",
+                    "id": "eu.mconverter.twa"
+                },
+                {
+                    "platform": "webapp",
+                    "url": "https://mconverter.eu/manifest.json"
+                }
+            ],
+            "root_uri": "https://mconverter.eu/manifest.json"
         },
         {
             "name": "Indecisive: Decision-Making App",
@@ -1148,129 +1516,27 @@
             "root_uri": "https://indecisive.us/manifest.json"
         },
         {
-            "name": "MConverter",
-            "short_name": "MConverter",
-            "description": "Free secure online file converter. Quick, easy and simple. Can convert in bulk. Lots of video, audio, image, e-book, office and archive formats supported. No registration needed.",
-            "categories": [
-                "utilities",
-                "photo",
-                "music",
-                "books"
-            ],
-            "iarc_rating_id": "0e447ab4-66c9-4632-8486-9a364857c470",
-            "start_url": "/?homescreen=1",
-            "display": "standalone",
-            "theme_color": "#2e5598",
-            "background_color": "#2e5598",
+            "short_name": "PixelCraft",
+            "name": "PixelCraft",
+            "prefer_related_applications": false,
             "icons": [
                 {
-                    "src": "img/icon-pwa.png",
-                    "type": "image/png",
-                    "sizes": "1024x1024",
-                    "purpose": "maskable"
+                    "src": "/icons/logo.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
                 },
                 {
-                    "src": "img/icon-pwa-circle.png",
-                    "type": "image/png",
+                    "src": "/icons/logo.png",
                     "sizes": "512x512",
-                    "purpose": "any"
-                }
-            ],
-            "screenshots": [
-                {
-                    "src": "img/screenshots/mobile-home.png",
-                    "sizes": "1080x2280",
-                    "type": "image/png"
-                },
-                {
-                    "src": "img/screenshots/mobile-pick-format.png",
-                    "sizes": "1080x2280",
-                    "type": "image/png"
-                },
-                {
-                    "src": "img/screenshots/mobile-share-file.png",
-                    "sizes": "1080x2280",
-                    "type": "image/png"
-                },
-                {
-                    "src": "img/screenshots/mobile-convert-dark.png",
-                    "sizes": "1080x2280",
-                    "type": "image/png"
-                },
-                {
-                    "src": "img/screenshots/mobile-download-multi.png",
-                    "sizes": "1080x2280",
-                    "type": "image/png"
-                },
-                {
-                    "src": "img/screenshots/desktop-home.png",
-                    "sizes": "2400x1600",
-                    "type": "image/png"
-                },
-                {
-                    "src": "img/screenshots/desktop-pick-format.png",
-                    "sizes": "2400x1600",
-                    "type": "image/png"
-                },
-                {
-                    "src": "img/screenshots/desktop-convert-dark.png",
-                    "sizes": "2400x1600",
-                    "type": "image/png"
-                },
-                {
-                    "src": "img/screenshots/desktop-download-multi.png",
-                    "sizes": "2400x1600",
                     "type": "image/png"
                 }
             ],
-            "shortcuts": [
-                {
-                    "name": "My Account",
-                    "url": "/?homescreen=1#account",
-                    "icons": [
-                        {
-                            "src": "img/shortcuts/account.png",
-                            "sizes": "192x192"
-                        }
-                    ]
-                },
-                {
-                    "name": "Options",
-                    "url": "/?homescreen=1#options",
-                    "icons": [
-                        {
-                            "src": "img/shortcuts/options.png",
-                            "sizes": "192x192"
-                        }
-                    ]
-                }
-            ],
-            "share_target": {
-                "action": "/?homescreen=1&share-target=1",
-                "method": "POST",
-                "enctype": "multipart/form-data",
-                "params": {
-                    "files": [
-                        {
-                            "name": "file",
-                            "accept": [
-                                "*/*"
-                            ]
-                        }
-                    ]
-                }
-            },
-            "related_applications": [
-                {
-                    "platform": "play",
-                    "id": "eu.mconverter.twa"
-                },
-                {
-                    "platform": "webapp",
-                    "url": "https://mconverter.eu/manifest.json"
-                }
-            ],
-            "root_uri": "https://mconverter.eu/manifest.json"
+            "start_url": "/",
+            "background_color": "#ffffff",
+            "Theme_color": "#ffffff",
+            "display": "standalone",
+            "root_uri": "https://pixelcraft.web.app/manifest.json",
+            "description": "no description"
         },
         {
             "name": "Let's Plant",
@@ -1342,29 +1608,6 @@
             "status": "ok",
             "prompt_message": "Add a Home screen icon for easy access to Let's Plant",
             "root_uri": "https://letsplant.org/img/manifest.json"
-        },
-        {
-            "short_name": "PixelCraft",
-            "name": "PixelCraft",
-            "prefer_related_applications": false,
-            "icons": [
-                {
-                    "src": "/icons/logo.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/icons/logo.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                }
-            ],
-            "start_url": "/",
-            "background_color": "#ffffff",
-            "Theme_color": "#ffffff",
-            "display": "standalone",
-            "root_uri": "https://pixelcraft.web.app/manifest.json",
-            "description": {}
         },
         {
             "name": "Passky",
@@ -1532,7 +1775,7 @@
                 }
             ],
             "root_uri": "https://deanhume.github.io/beer/manifest.json",
-            "description": {}
+            "description": "Progressive Beer - The ultimate guide to beer around the world."
         },
         {
             "short_name": "Resume Nation",
@@ -1564,7 +1807,7 @@
             "theme_color": "#673AB7",
             "background_color": "#EEEEEE",
             "root_uri": "https://resume-nation.github.io/manifest.json",
-            "description": {}
+            "description": ""
         },
         {
             "name": "Saints Schedule & Info",
@@ -1661,6 +1904,154 @@
             "root_uri": "https://saintsschedule.info/manifest.json"
         },
         {
+            "lang": "en",
+            "short_name": "rem's b:log",
+            "name": "rem's b:log",
+            "icons": [
+                {
+                    "src": "/images/remy-2014-twitter.png",
+                    "sizes": "300x300",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/images/remy-512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "start_url": "/",
+            "display": "minimal-ui",
+            "background_color": "#1A1A1A",
+            "theme_color": "#1A1A1A",
+            "root_uri": "https://remysharp.com/manifest.json",
+            "description": "About [code] and all that jazz"
+        },
+        {
+            "name": "Simple PWA",
+            "short_name": "Simple PWA",
+            "display": "standalone",
+            "start_url": "./?utm_source=pwa_install",
+            "scope": ".",
+            "theme_color": "#000",
+            "background_color": "#000",
+            "icons": [
+                {
+                    "src": "android-chrome-36x36.png",
+                    "sizes": "36x36",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-48x48.png",
+                    "sizes": "48x48",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-72x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-96x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-384x384.png",
+                    "sizes": "384x384",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                },
+                {
+                    "src": "maskable_icon.png",
+                    "sizes": "650x650",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                }
+            ],
+            "root_uri": "https://simplepwa.com/./manifest.json",
+            "description": "no description"
+        },
+        {
+            "name": "GitHub",
+            "short_name": "GitHub",
+            "icons": [
+                {
+                    "sizes": "114x114",
+                    "src": "https://github.githubassets.com/apple-touch-icon-114x114.png"
+                },
+                {
+                    "sizes": "120x120",
+                    "src": "https://github.githubassets.com/apple-touch-icon-120x120.png"
+                },
+                {
+                    "sizes": "144x144",
+                    "src": "https://github.githubassets.com/apple-touch-icon-144x144.png"
+                },
+                {
+                    "sizes": "152x152",
+                    "src": "https://github.githubassets.com/apple-touch-icon-152x152.png"
+                },
+                {
+                    "sizes": "180x180",
+                    "src": "https://github.githubassets.com/apple-touch-icon-180x180.png"
+                },
+                {
+                    "sizes": "57x57",
+                    "src": "https://github.githubassets.com/apple-touch-icon-57x57.png"
+                },
+                {
+                    "sizes": "60x60",
+                    "src": "https://github.githubassets.com/apple-touch-icon-60x60.png"
+                },
+                {
+                    "sizes": "72x72",
+                    "src": "https://github.githubassets.com/apple-touch-icon-72x72.png"
+                },
+                {
+                    "sizes": "76x76",
+                    "src": "https://github.githubassets.com/apple-touch-icon-76x76.png"
+                },
+                {
+                    "src": "https://github.githubassets.com/app-icon-192.png",
+                    "type": "image/png",
+                    "sizes": "192x192"
+                },
+                {
+                    "src": "https://github.githubassets.com/app-icon-512.png",
+                    "type": "image/png",
+                    "sizes": "512x512"
+                }
+            ],
+            "prefer_related_applications": true,
+            "related_applications": [
+                {
+                    "platform": "play",
+                    "url": "https://play.google.com/store/apps/details?id=com.github.android",
+                    "id": "com.github.android"
+                }
+            ],
+            "root_uri": "https://github.com/manifest.json"
+        },
+        {
             "short_name": "Care Cards",
             "name": "Care Cards",
             "icons": [
@@ -1691,122 +2082,193 @@
             "background_color": "#6CCBC5",
             "orientation": "portrait",
             "root_uri": "https://carecards.io/manifest.json",
-            "description": {}
+            "description": "no description"
         },
         {
-            "android_package_name": "com.pinterest",
-            "background_color": "#fff",
-            "display": "minimal-ui",
+            "name": "FlagWarriors",
+            "short_name": "fl",
             "icons": [
                 {
-                    "src": "https://s.pinimg.com/images/favicon_red_192.png",
+                    "src": "./img/icons/android-chrome-64x64.png",
+                    "sizes": "64x64",
+                    "type": "image/png"
+                },
+                {
+                    "src": "./img/icons/android-chrome-192x192.png",
                     "sizes": "192x192",
                     "type": "image/png"
                 }
             ],
-            "gcm_sender_id": "1021726025582",
-            "gcm_user_visible_only": true,
-            "name": "Pinterest",
+            "start_url": ".",
+            "display": "standalone",
+            "theme_color": "#000000",
+            "background_color": "#ffffff",
+            "root_uri": "https://flagwarriors.netlify.com/manifest.json",
+            "description": "no description"
+        },
+        {
+            "short_name": "jf",
+            "name": "JSON formatter",
+            "display": "standalone",
+            "description": "Minimalist JSON formatter designed to enhance productivity",
+            "icons": [
+                {
+                    "src": "images/logo-192_4.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any"
+                },
+                {
+                    "src": "images/logo-512_4.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any"
+                },
+                {
+                    "src": "images/logo-maskable-192_4.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "images/logo-maskable-512_4.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                }
+            ],
+            "start_url": "/?isInPwaMode=1",
+            "background_color": "white",
+            "theme_color": "white",
+            "scope": "/",
+            "root_uri": "https://jsonformatter.live/manifest.json"
+        },
+        {
+            "short_name": "Pony Foo",
+            "name": "Pony Foo",
+            "start_url": "/",
+            "display": "standalone",
             "orientation": "portrait",
-            "short_name": "Pinterest",
-            "start_url": "/?utm_source=homescreen_icon",
-            "theme_color": "#FFFFFF",
-            "related_applications": [
+            "lang": "en",
+            "theme_color": "#333333",
+            "background_color": "#fcfcfc",
+            "share_target": {
+                "action": "/api/share-target",
+                "params": {
+                    "title": "title",
+                    "text": "text",
+                    "url": "url"
+                }
+            },
+            "icons": [
                 {
-                    "platform": "play",
-                    "id": "com.pinterest"
+                    "src": "/android-chrome-36x36.png",
+                    "sizes": "36x36",
+                    "type": "image/png",
+                    "density": 0.75
                 },
                 {
-                    "platform": "play",
-                    "id": "com.pinterest.ota"
+                    "src": "/android-chrome-48x48.png",
+                    "sizes": "48x48",
+                    "type": "image/png",
+                    "density": 1
                 },
                 {
-                    "platform": "play",
-                    "id": "com.pinterest.test"
+                    "src": "/android-chrome-72x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png",
+                    "density": 1.5
                 },
                 {
-                    "platform": "play",
-                    "id": "com.pinterest.twa"
+                    "src": "/android-chrome-96x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png",
+                    "density": 2
                 },
                 {
-                    "platform": "play",
-                    "id": "com.pinterest.dev"
+                    "src": "/android-chrome-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png",
+                    "density": 3
                 },
                 {
-                    "platform": "webapp",
-                    "url": "https://www.pinterest.com/manifest.json"
+                    "src": "/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "density": 4
                 }
             ],
-            "url_handlers": [
+            "root_uri": "https://ponyfoo.com/manifest.json",
+            "description": "Read the latest about JavaScript, ES6, and ECMAScript proposals on TC39. Follow the Pony Foo Weekly newsletter to stay on top of interesting and trending topics around the web platform."
+        },
+        {
+            "short_name": "BudgetTracker",
+            "name": "Budget Tracker",
+            "description": "Track expenses and analyse if they stick to a budget",
+            "start_url": ".",
+            "display": "standalone",
+            "theme_color": "#4a148c",
+            "background_color": "#2f0d59",
+            "icons": [
                 {
-                    "origin": "https://*.pinterest.com"
+                    "src": "favicon.ico",
+                    "sizes": "64x64 32x32 24x24 16x16",
+                    "type": "image/x-icon"
                 },
                 {
-                    "origin": "https://*.pinterest.info"
+                    "src": "android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
                 },
                 {
-                    "origin": "https://*.pinterest.at"
-                },
-                {
-                    "origin": "https://*.pinterest.com.au"
-                },
-                {
-                    "origin": "https://*.pinterest.ca"
-                },
-                {
-                    "origin": "https://*.pinterest.ch"
-                },
-                {
-                    "origin": "https://*.pinterest.cl"
-                },
-                {
-                    "origin": "https://*.pinterest.de"
-                },
-                {
-                    "origin": "https://*.pinterest.dk"
-                },
-                {
-                    "origin": "https://*.pinterest.es"
-                },
-                {
-                    "origin": "https://*.pinterest.fr"
-                },
-                {
-                    "origin": "https://*.pinterest.co.uk"
-                },
-                {
-                    "origin": "https://*.pinterest.ie"
-                },
-                {
-                    "origin": "https://*.pinterest.it"
-                },
-                {
-                    "origin": "https://*.pinterest.jp"
-                },
-                {
-                    "origin": "https://*.pinterest.co.kr"
-                },
-                {
-                    "origin": "https://*.pinterest.com.mx"
-                },
-                {
-                    "origin": "https://*.pinterest.nz"
-                },
-                {
-                    "origin": "https://*.pinterest.se"
-                },
-                {
-                    "origin": "https://*.pinterest.ph"
-                },
-                {
-                    "origin": "https://*.pinterest.pt"
-                },
-                {
-                    "origin": "https://*.pinterest.ru"
+                    "src": "android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
                 }
             ],
-            "root_uri": "https://pinterest.com/manifest.json",
-            "description": {}
+            "screenshots": [
+                {
+                    "src": "screenshots/budget-list.webp",
+                    "sizes": "360x590",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "screenshots/budget-view.webp",
+                    "sizes": "360x590",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "screenshots/budget-view.webp",
+                    "sizes": "360x590",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "screenshots/edit-budget.webp",
+                    "sizes": "360x590",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "screenshots/edit-expense.webp",
+                    "sizes": "360x590",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "screenshots/statistics.webp",
+                    "sizes": "360x590",
+                    "type": "image/webp"
+                }
+            ],
+            "root_uri": "https://btapp.netlify.com/manifest.json"
+        },
+        {
+            "name": "Dean Hume's Blog",
+            "short_name": "Dean Hume",
+            "start_url": "/",
+            "theme_color": "#000",
+            "background_color": "#000",
+            "display": "standalone",
+            "root_uri": "https://deanhume.com/manifest.json",
+            "description": "My name is Dean Hume, and I am an author, blogger, and software developer."
         },
         {
             "name": "PregBuddy",
@@ -1857,7 +2319,357 @@
             ],
             "gcm_sender_id": "103953800507",
             "root_uri": "https://app.pregbuddy.com/manifest.json",
-            "description": {}
+            "description": "Stay prepared &amp; fit with FREE weekly pregnancy tips about your baby &amp; your body! Best app for pregnant women."
+        },
+        {
+            "short_name": "MobiTUKI",
+            "name": "MobiTUKI English-Swahili Advanced Dictionary",
+            "description": "The best available English-Swahili-English dictionary with 30000+ entries, including idioms, derivatives, etymology and examples.",
+            "start_url": "/english-swahili#fromPwa",
+            "background_color": "#8ab49e",
+            "display": "standalone",
+            "lang": "en-GB",
+            "scope": "/",
+            "theme_color": "#468966",
+            "categories": [
+                "education",
+                "utilities"
+            ],
+            "icons": [
+                {
+                    "src": "/static/img/src/logo-rendered.svg",
+                    "type": "image/svg+xml",
+                    "sizes": "any",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/static/img/favicon/android-chrome-192x192.png",
+                    "type": "image/png",
+                    "sizes": "192x192",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/static/img/favicon/android-chrome-512x512.png",
+                    "type": "image/png",
+                    "sizes": "512x512",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/static/img/favicon/apple-touch-icon.png",
+                    "type": "image/png",
+                    "sizes": "180x180",
+                    "purpose": "any maskable"
+                }
+            ],
+            "shortcuts": [
+                {
+                    "name": "Swahili-English",
+                    "short_name": "English-Swahili",
+                    "description": "MobiTUKI Kiswahili-Kiingereza Kamusi Kuu",
+                    "url": "/swahili-english?source=pwa",
+                    "icons": [
+                        {
+                            "src": "/static/img/favicon/android-chrome-192x192.png",
+                            "type": "image/png",
+                            "sizes": "192x192"
+                        }
+                    ]
+                },
+                {
+                    "name": "English-Swahili",
+                    "short_name": "English-Swahili",
+                    "description": "MobiTUKI Advanced Englis-Swahili Dictionary",
+                    "url": "/english-swahili?source=pwa",
+                    "icons": [
+                        {
+                            "src": "/static/img/favicon/android-chrome-192x192.png",
+                            "type": "image/png",
+                            "sizes": "192x192"
+                        }
+                    ]
+                }
+            ],
+            "screenshots": [
+                {
+                    "src": "/static/img/screenshot1.png",
+                    "sizes": "758x1266",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/static/img/screenshot2.png",
+                    "sizes": "758x1266",
+                    "type": "image/png"
+                }
+            ],
+            "root_uri": "https://swahili-dictionary.com/app.webmanifest"
+        },
+        {
+            "name": "Freelancer - Hire & Find Jobs",
+            "short_name": "Freelancer",
+            "theme_color": "#007fed",
+            "background_color": "#f0f0f0",
+            "display": "standalone",
+            "scope": "/",
+            "start_url": "/internal/pwa?sw=true&utm_source=manifest",
+            "lang": "en",
+            "icons": [
+                {
+                    "src": "https://www.f-cdn.com/assets/main/en/assets/app-icons/icon-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.f-cdn.com/assets/main/en/assets/app-icons/icon-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "root_uri": "https://m.freelancer.com/manifest.webmanifest",
+            "description": "no description"
+        },
+        {
+            "name": "Versus, compare anything",
+            "short_name": "Versus",
+            "description": "Compare smartphones, cameras, cities, headphones, graphics cards, and much more. With detailed tech specs, data visualizations, and price comparisons, Versus is the best product finder for a wide range of consumer electronics, from smartphones to PC hardware.",
+            "icons": [
+                {
+                    "src": "icons/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "icons/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "icons/apple-touch-icon-60x60.png",
+                    "sizes": "60x60",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "icons/apple-touch-icon-76x76.png",
+                    "sizes": "76x76",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "icons/apple-touch-icon-120x120.png",
+                    "sizes": "120x120",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "icons/apple-touch-icon-152x152.png",
+                    "sizes": "152x152",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "icons/apple-touch-icon-180x180.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "icons/apple-touch-icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "icons/favicon-16x16.png",
+                    "sizes": "16x16",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "icons/favicon-32x32.png",
+                    "sizes": "32x32",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "icons/msapplication-icon-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "icons/mstile-150x150.png",
+                    "sizes": "150x150",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "screenshots": [
+                {
+                    "src": "img/1_compare-min.png",
+                    "sizes": "1242x2208",
+                    "type": "image/png"
+                },
+                {
+                    "src": "img/2_discover-min.png",
+                    "sizes": "1242x2208",
+                    "type": "image/png"
+                },
+                {
+                    "src": "img/3_buy-min.png",
+                    "sizes": "1242x2208",
+                    "type": "image/png"
+                }
+            ],
+            "start_url": "/?utm_source=PWA",
+            "theme_color": "#161616",
+            "background_color": "#161616",
+            "display": "standalone",
+            "root_uri": "https://versus.com/manifest.webmanifest"
+        },
+        {
+            "name": "Scoreboard",
+            "short_name": "Scoreboard",
+            "description": "🤘 Scoreboard.Rocks - Scoreboard App that Rocks",
+            "icons": [
+                {
+                    "src": "https://scoreboard.rocks/wp-content/uploads/scoreboard.rocks192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "https://scoreboard.rocks/wp-content/uploads/appicon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "background_color": "#ffffff",
+            "theme_color": "#ffffff",
+            "display": "fullscreen",
+            "orientation": "portrait",
+            "start_url": "https://scoreboard.rocks/",
+            "scope": "https://scoreboard.rocks/",
+            "root_uri": "https://scoreboard.rocks/pwa-manifest.json"
+        },
+        {
+            "name": "todo.blue",
+            "short_name": "todo.blue",
+            "description": "ToDo App in Blue",
+            "icons": [
+                {
+                    "src": "https://todo.blue/wp-content/uploads/todoblue192a.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any"
+                },
+                {
+                    "src": "https://todo.blue/wp-content/uploads/todoblue192a.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "https://todo.blue/wp-content/uploads/todoblue512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any"
+                },
+                {
+                    "src": "https://todo.blue/wp-content/uploads/todoblue512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                }
+            ],
+            "background_color": "#004aad",
+            "theme_color": "#004aad",
+            "display": "fullscreen",
+            "orientation": "portrait",
+            "start_url": "https://todo.blue/app/",
+            "scope": "https://todo.blue/",
+            "shortcuts": [
+                {
+                    "name": "Blue Notepad",
+                    "description": "Awespome Notepad in Blue",
+                    "url": "https://todo.blue/notes/",
+                    "icons": [
+                        {
+                            "src": "https://todo.blue/wp-content/uploads/notes.png",
+                            "sizes": "96x96",
+                            "type": "image/png",
+                            "purpose": "any"
+                        }
+                    ]
+                },
+                {
+                    "name": "Weekly Planner",
+                    "description": "Weekly Planner in Blue",
+                    "url": "https://todo.blue/weekly#/todos/home",
+                    "icons": [
+                        {
+                            "src": "https://todo.blue/wp-content/uploads/week.png",
+                            "sizes": "96x96",
+                            "type": "image/png",
+                            "purpose": "any"
+                        }
+                    ]
+                },
+                {
+                    "name": "Daily Planner",
+                    "description": "Daily Planner in Blue",
+                    "url": "https://todo.blue/day/",
+                    "icons": [
+                        {
+                            "src": "https://todo.blue/wp-content/uploads/daily.png",
+                            "sizes": "96x96",
+                            "type": "image/png",
+                            "purpose": "any"
+                        }
+                    ]
+                },
+                {
+                    "name": "Blue Dashboard",
+                    "description": "ToDo Planner Dashboard in Blue",
+                    "url": "https://todo.blue/dashboard/",
+                    "icons": [
+                        {
+                            "src": "https://todo.blue/wp-content/uploads/dashboard.png",
+                            "sizes": "96x96",
+                            "type": "image/png",
+                            "purpose": "any"
+                        }
+                    ]
+                },
+                {
+                    "name": "Blue Drawer",
+                    "description": "Quick Notes Drawer in Blue",
+                    "url": "https://todo.blue/draw/",
+                    "icons": [
+                        {
+                            "src": "https://todo.blue/wp-content/uploads/draw.png",
+                            "sizes": "96x96",
+                            "type": "image/png",
+                            "purpose": "any"
+                        }
+                    ]
+                }
+            ],
+            "related_applications": [
+                {
+                    "platform": "play",
+                    "url": "https://play.google.com/store/apps/details?id=blue.todo.twa",
+                    "id": "blue.todo.twa"
+                },
+                {
+                    "platform": "windows",
+                    "url": "https://www.microsoft.com/store/apps/9P7Q7FL2ZNJ7",
+                    "id": "9P7Q7FL2ZNJ7"
+                }
+            ],
+            "root_uri": "https://todo.blue/pwa-manifest.json"
         },
         {
             "name": "علی‌بابا خرید بلیط هواپیما بلیط قطار و بلیط هواپیما خارجی",
@@ -1899,6 +2711,60 @@
                 }
             ],
             "root_uri": "https://www.alibaba.ir/pwa-manifest.json"
+        },
+        {
+            "name": "amp.dev",
+            "short_name": "amp.dev",
+            "theme_color": "#005af0",
+            "background_color": "#ffffff",
+            "display": "standalone",
+            "scope": "/",
+            "start_url": "/",
+            "icons": [
+                {
+                    "src": "/static/img/icons/icon-72x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/static/img/icons/icon-96x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/static/img/icons/icon-128x128.png",
+                    "sizes": "128x128",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/static/img/icons/icon-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/static/img/icons/icon-152x152.png",
+                    "sizes": "152x152",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/static/img/icons/icon-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/static/img/icons/icon-384x384.png",
+                    "sizes": "384x384",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/static/img/icons/icon-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "splash_pages": null,
+            "root_uri": "https://www.ampproject.org/manifest.json",
+            "description": "Whether you are a publisher, e-commerce company, storyteller, advertiser or email sender, AMP makes it easy to create great experiences on the web. Use AMP to build websites, stories, ads and emails."
         },
         {
             "short_name": "شرکت گامان تزئین جاوید",
