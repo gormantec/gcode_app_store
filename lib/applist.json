@@ -183,7 +183,8 @@
                     "origin": "https://*.pinterest.ru"
                 }
             ],
-            "root_uri": "https://www.pinterest.com.au/manifest.json"
+            "root_uri": "https://www.pinterest.com.au/manifest.json",
+            "description": {}
         },
         {
             "lang": "en-us",
@@ -244,7 +245,8 @@
                     "src": "https://d2c3nvafyekx5z.cloudfront.net/images/logos/square-light-11852e267c30000bf63ef60def1fef5e.svg"
                 }
             ],
-            "root_uri": "https://www.soundslice.com/webmanifest.json"
+            "root_uri": "https://www.soundslice.com/webmanifest.json",
+            "description": {}
         },
         {
             "name": "طراحی، فروش و نصب دوربین‌های مداربسته",
@@ -266,7 +268,8 @@
                     "type": "image/png"
                 }
             ],
-            "root_uri": "https://mcctv.ir/wp-json/wp/v2/web-app-manifest"
+            "root_uri": "https://mcctv.ir/wp-json/wp/v2/web-app-manifest",
+            "description": {}
         },
         {
             "android_package_name": "com.pinterest",
@@ -380,111 +383,71 @@
                     "origin": "https://*.pinterest.ru"
                 }
             ],
-            "root_uri": "https://www.pinterest.com/manifest.json"
+            "root_uri": "https://www.pinterest.com/manifest.json",
+            "description": {}
         },
         {
-            "name": "YouTube",
-            "short_name": "YouTube",
-            "background_color": "#FFFFFF",
-            "display": "minimal-ui",
-            "start_url": "/?feature=ytca",
-            "scope": "/",
             "icons": [
                 {
-                    "src": "https://www.gstatic.com/youtube/img/branding/favicon/favicon_144x144.png",
+                    "src": "/app/manifest_icons/icon_1024x1024.098d1a14e2f871db82d8a2392d59b587.png",
+                    "sizes": "1024x1024",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_1024x1024.098d1a14e2f871db82d8a2392d59b587.png",
+                    "sizes": "1024x1024",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_180x180.d0c3ef3c6be29a9ca57ead5171bbebc4.png",
+                    "sizes": "180x180",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_167x167.3a26fccf02024d9e908aa61a168c04b6.png",
+                    "sizes": "167x167",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_152x152.749dc17e04c34f6e3ade0c6ec90a827c.png",
+                    "sizes": "152x152",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_120x120.4a19b1dbc4514d6e3e3929c28f912cc8.png",
+                    "sizes": "120x120",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_1024x1024.d69a88e67af2780d56e54cd3c3eb79c8.png",
+                    "sizes": "1024x1024",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_512x512.4d257dbb0cb55b755dc9a2b4138a374d.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_192x192.60f60d9894b3583ca14328401a9fdcce.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_144x144.6b57d81dd9f2390043627e88385ef8c6.png",
                     "sizes": "144x144",
                     "type": "image/png"
-                },
-                {
-                    "src": "https://www.gstatic.com/youtube/img/branding/favicon/favicon_192x192.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                },
-                {
-                    "src": "https://www.gstatic.com/youtube/img/web/monochrome/logo_16x16.png",
-                    "sizes": "16x16",
-                    "type": "image/png",
-                    "purpose": "monochrome"
-                },
-                {
-                    "src": "https://www.gstatic.com/youtube/img/web/monochrome/logo_32x32.png",
-                    "sizes": "32x32",
-                    "type": "image/png",
-                    "purpose": "monochrome"
-                },
-                {
-                    "src": "https://fonts.gstatic.com/s/i/googlematerialicons/video_youtube/v11/white-48dp/1x/gm_video_youtube_white_48dp.png",
-                    "sizes": "48x48",
-                    "type": "image/png",
-                    "purpose": "monochrome"
-                },
-                {
-                    "src": "https://www.gstatic.com/youtube/img/web/monochrome/logo_512x512.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "monochrome"
                 }
             ],
-            "theme_color": "#FF0000",
-            "gcm_sender_id": "402845223712",
-            "gcm_user_visible_only": true,
-            "related_applications": [],
-            "capture_links": "none",
-            "shortcuts": [
-                {
-                    "name": "Subscriptions",
-                    "url": "/feed/subscriptions?feature=app_shortcuts",
-                    "icons": [
-                        {
-                            "src": "https://www.gstatic.com/youtube/img/web/shortcuts/subscriptions_512x512.png",
-                            "sizes": "512x512",
-                            "type": "image/png",
-                            "purpose": "any monochrome"
-                        }
-                    ]
-                },
-                {
-                    "name": "Explore",
-                    "url": "/feed/explore?feature=app_shortcuts",
-                    "icons": [
-                        {
-                            "src": "https://www.gstatic.com/youtube/img/web/shortcuts/explore_512x512.png",
-                            "sizes": "512x512",
-                            "type": "image/png",
-                            "purpose": "any monochrome"
-                        }
-                    ]
-                }
-            ],
-            "root_uri": "https://www.youtube.com/manifest.webmanifest"
-        },
-        {
-            "short_name": "اطلس ابزار ",
-            "name": "فروشگاه تخصصی ابزار ",
-            "icons": [
-                {
-                    "src": "//atlastools.ir/wp-content/uploads/2021/10/192.png",
-                    "type": "image/png",
-                    "sizes": "192x192",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "//atlastools.ir/wp-content/uploads/2021/10/512.png",
-                    "type": "image/png",
-                    "sizes": "512x512",
-                    "purpose": "any maskable"
-                }
-            ],
+            "name": "Todoist",
+            "short_name": "Todoist",
+            "orientation": "portrait",
             "display": "standalone",
-            "start_url": "/",
-            "lang": "fa-IR",
-            "description": "خرید ابزار زیر قیمت کل بازار ایران ",
-            "background_color": "#fff",
-            "theme_color": "#000000",
-            "scope": "/",
-            "prefer_related_applications": false,
-            "version": "6.0.0",
-            "root_uri": "https://atlastools.ir/manifest.json"
+            "start_url": ".",
+            "background_color": "#EEEEEE",
+            "theme_color": "#C24F3D",
+            "root_uri": "https://todoist.com/app/manifest.48149c9f0c601e29a9554640f7bf5b4d.json",
+            "description": {}
         },
         {
             "background_color": "#456BD9",
@@ -679,121 +642,109 @@
             "root_uri": "https://www.pwabuilder.com/manifest.json"
         },
         {
+            "name": "YouTube",
+            "short_name": "YouTube",
+            "background_color": "#FFFFFF",
+            "display": "minimal-ui",
+            "start_url": "/?feature=ytca",
+            "scope": "/",
             "icons": [
                 {
-                    "src": "/app/manifest_icons/icon_1024x1024.098d1a14e2f871db82d8a2392d59b587.png",
-                    "sizes": "1024x1024",
+                    "src": "https://www.gstatic.com/youtube/img/branding/favicon/favicon_144x144.png",
+                    "sizes": "144x144",
                     "type": "image/png"
                 },
                 {
-                    "src": "/app/manifest_icons/icon_1024x1024.098d1a14e2f871db82d8a2392d59b587.png",
-                    "sizes": "1024x1024",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/app/manifest_icons/icon_180x180.d0c3ef3c6be29a9ca57ead5171bbebc4.png",
-                    "sizes": "180x180",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/app/manifest_icons/icon_167x167.3a26fccf02024d9e908aa61a168c04b6.png",
-                    "sizes": "167x167",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/app/manifest_icons/icon_152x152.749dc17e04c34f6e3ade0c6ec90a827c.png",
-                    "sizes": "152x152",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/app/manifest_icons/icon_120x120.4a19b1dbc4514d6e3e3929c28f912cc8.png",
-                    "sizes": "120x120",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/app/manifest_icons/icon_1024x1024.d69a88e67af2780d56e54cd3c3eb79c8.png",
-                    "sizes": "1024x1024",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/app/manifest_icons/icon_512x512.4d257dbb0cb55b755dc9a2b4138a374d.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/app/manifest_icons/icon_192x192.60f60d9894b3583ca14328401a9fdcce.png",
+                    "src": "https://www.gstatic.com/youtube/img/branding/favicon/favicon_192x192.png",
                     "sizes": "192x192",
                     "type": "image/png"
                 },
                 {
-                    "src": "/app/manifest_icons/icon_144x144.6b57d81dd9f2390043627e88385ef8c6.png",
-                    "sizes": "144x144",
-                    "type": "image/png"
+                    "src": "https://www.gstatic.com/youtube/img/web/monochrome/logo_16x16.png",
+                    "sizes": "16x16",
+                    "type": "image/png",
+                    "purpose": "monochrome"
+                },
+                {
+                    "src": "https://www.gstatic.com/youtube/img/web/monochrome/logo_32x32.png",
+                    "sizes": "32x32",
+                    "type": "image/png",
+                    "purpose": "monochrome"
+                },
+                {
+                    "src": "https://fonts.gstatic.com/s/i/googlematerialicons/video_youtube/v11/white-48dp/1x/gm_video_youtube_white_48dp.png",
+                    "sizes": "48x48",
+                    "type": "image/png",
+                    "purpose": "monochrome"
+                },
+                {
+                    "src": "https://www.gstatic.com/youtube/img/web/monochrome/logo_512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "monochrome"
                 }
             ],
-            "name": "Todoist",
-            "short_name": "Todoist",
-            "orientation": "portrait",
-            "display": "standalone",
-            "start_url": ".",
-            "background_color": "#EEEEEE",
-            "theme_color": "#C24F3D",
-            "root_uri": "https://todoist.com/app/manifest.48149c9f0c601e29a9554640f7bf5b4d.json"
+            "theme_color": "#FF0000",
+            "gcm_sender_id": "402845223712",
+            "gcm_user_visible_only": true,
+            "related_applications": [],
+            "capture_links": "none",
+            "shortcuts": [
+                {
+                    "name": "Subscriptions",
+                    "url": "/feed/subscriptions?feature=app_shortcuts",
+                    "icons": [
+                        {
+                            "src": "https://www.gstatic.com/youtube/img/web/shortcuts/subscriptions_512x512.png",
+                            "sizes": "512x512",
+                            "type": "image/png",
+                            "purpose": "any monochrome"
+                        }
+                    ]
+                },
+                {
+                    "name": "Explore",
+                    "url": "/feed/explore?feature=app_shortcuts",
+                    "icons": [
+                        {
+                            "src": "https://www.gstatic.com/youtube/img/web/shortcuts/explore_512x512.png",
+                            "sizes": "512x512",
+                            "type": "image/png",
+                            "purpose": "any monochrome"
+                        }
+                    ]
+                }
+            ],
+            "root_uri": "https://www.youtube.com/manifest.webmanifest",
+            "description": {}
         },
         {
-            "name": "BMW.com",
-            "short_name": "BMW.com",
-            "theme_color": "#1c69d4",
-            "background_color": "#ffffff",
-            "display": "standalone",
-            "scope": "/",
-            "start_url": "/en/index.html",
+            "short_name": "اطلس ابزار ",
+            "name": "فروشگاه تخصصی ابزار ",
             "icons": [
                 {
-                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-72x72.png",
-                    "sizes": "72x72",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-96x96.png",
-                    "sizes": "96x96",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-128x128.png",
-                    "sizes": "128x128",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-144x144.png",
-                    "sizes": "144x144",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-152x152.png",
-                    "sizes": "152x152",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-192x192.png",
+                    "src": "//atlastools.ir/wp-content/uploads/2021/10/192.png",
+                    "type": "image/png",
                     "sizes": "192x192",
-                    "type": "image/png"
+                    "purpose": "any maskable"
                 },
                 {
-                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-384x384.png",
-                    "sizes": "384x384",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-512x512.png",
+                    "src": "//atlastools.ir/wp-content/uploads/2021/10/512.png",
+                    "type": "image/png",
                     "sizes": "512x512",
-                    "type": "image/png"
+                    "purpose": "any maskable"
                 }
             ],
-            "splash_pages": null,
-            "gcm_sender_id": "671555070731",
-            "gcm_user_visible_only": true,
-            "root_uri": "https://www.bmw.com/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/manifest_en.json"
+            "display": "standalone",
+            "start_url": "/",
+            "lang": "fa-IR",
+            "description": "خرید ابزار زیر قیمت کل بازار ایران ",
+            "background_color": "#fff",
+            "theme_color": "#000000",
+            "scope": "/",
+            "prefer_related_applications": false,
+            "version": "6.0.0",
+            "root_uri": "https://atlastools.ir/manifest.json"
         },
         {
             "android_package_name": "com.pinterest",
@@ -907,7 +858,64 @@
                     "origin": "https://*.pinterest.ru"
                 }
             ],
-            "root_uri": "https://pinterest.com/manifest.json"
+            "root_uri": "https://pinterest.com/manifest.json",
+            "description": {}
+        },
+        {
+            "name": "BMW.com",
+            "short_name": "BMW.com",
+            "theme_color": "#1c69d4",
+            "background_color": "#ffffff",
+            "display": "standalone",
+            "scope": "/",
+            "start_url": "/en/index.html",
+            "icons": [
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-72x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-96x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-128x128.png",
+                    "sizes": "128x128",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-152x152.png",
+                    "sizes": "152x152",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-384x384.png",
+                    "sizes": "384x384",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "splash_pages": null,
+            "gcm_sender_id": "671555070731",
+            "gcm_user_visible_only": true,
+            "root_uri": "https://www.bmw.com/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/manifest_en.json",
+            "description": {}
         },
         {
             "name": "علی‌بابا خرید بلیط هواپیما بلیط قطار و بلیط هواپیما خارجی",
