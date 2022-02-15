@@ -2785,6 +2785,88 @@
             "splash_pages": null,
             "root_uri": "https://www.ampproject.org/manifest.json",
             "description": "Whether you are a publisher, e-commerce company, storyteller, advertiser or email sender, AMP makes it easy to create great experiences on the web. Use AMP to build websites, stories, ads and emails."
+        },
+        {
+            "short_name": "MobiTUKI",
+            "name": "MobiTUKI English-Swahili Advanced Dictionary",
+            "description": "The best available English-Swahili-English dictionary with 30000+ entries, including idioms, derivatives, etymology and examples.",
+            "start_url": "/english-swahili#fromPwa",
+            "background_color": "#8ab49e",
+            "display": "standalone",
+            "lang": "en-GB",
+            "scope": "/",
+            "theme_color": "#468966",
+            "categories": [
+                "education",
+                "utilities"
+            ],
+            "icons": [
+                {
+                    "src": "/static/img/src/logo-rendered.svg",
+                    "type": "image/svg+xml",
+                    "sizes": "any",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/static/img/favicon/android-chrome-192x192.png",
+                    "type": "image/png",
+                    "sizes": "192x192",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/static/img/favicon/android-chrome-512x512.png",
+                    "type": "image/png",
+                    "sizes": "512x512",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/static/img/favicon/apple-touch-icon.png",
+                    "type": "image/png",
+                    "sizes": "180x180",
+                    "purpose": "any maskable"
+                }
+            ],
+            "shortcuts": [
+                {
+                    "name": "Swahili-English",
+                    "short_name": "English-Swahili",
+                    "description": "MobiTUKI Kiswahili-Kiingereza Kamusi Kuu",
+                    "url": "/swahili-english?source=pwa",
+                    "icons": [
+                        {
+                            "src": "/static/img/favicon/android-chrome-192x192.png",
+                            "type": "image/png",
+                            "sizes": "192x192"
+                        }
+                    ]
+                },
+                {
+                    "name": "English-Swahili",
+                    "short_name": "English-Swahili",
+                    "description": "MobiTUKI Advanced Englis-Swahili Dictionary",
+                    "url": "/english-swahili?source=pwa",
+                    "icons": [
+                        {
+                            "src": "/static/img/favicon/android-chrome-192x192.png",
+                            "type": "image/png",
+                            "sizes": "192x192"
+                        }
+                    ]
+                }
+            ],
+            "screenshots": [
+                {
+                    "src": "/static/img/screenshot1.png",
+                    "sizes": "758x1266",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/static/img/screenshot2.png",
+                    "sizes": "758x1266",
+                    "type": "image/png"
+                }
+            ],
+            "root_uri": "https://swahili-dictionary.com/app.webmanifest"
         }
     ]
 }
