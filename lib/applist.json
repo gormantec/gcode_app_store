@@ -2108,7 +2108,7 @@
                 }
             ],
             "root_uri": "https://simplepwa.com/./manifest.json",
-            "description": "no description"
+            "description": "Simple Progressive Web App (PWA) template"
         },
         {
             "lang": "en",
@@ -2225,7 +2225,7 @@
             "background_color": "#6CCBC5",
             "orientation": "portrait",
             "root_uri": "https://carecards.io/manifest.json",
-            "description": "no description"
+            "description": "We all get a little overwhelmed from time to time. Care Cards is a set of helpful little tips to keep you on top of your mental well-being."
         },
         {
             "name": "FlagWarriors",
