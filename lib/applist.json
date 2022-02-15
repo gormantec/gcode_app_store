@@ -417,86 +417,6 @@
             "manifest_hits": 2
         },
         {
-            "lang": "en",
-            "short_name": "adactio",
-            "name": "adactio",
-            "description": "Jeremy Keith",
-            "icons": [
-                {
-                    "src": "/icon-512.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/icon.png",
-                    "sizes": "300x300",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/icon-192.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/apple-touch-icon.png",
-                    "sizes": "180x180",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-150.jpg",
-                    "sizes": "150x150",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-192.jpg",
-                    "sizes": "192x192",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-200.jpg",
-                    "sizes": "200x200",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-300.jpg",
-                    "sizes": "300x300",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-500.jpg",
-                    "sizes": "500x500",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-512.jpg",
-                    "sizes": "512x512",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-600.jpg",
-                    "sizes": "600x600",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                }
-            ],
-            "start_url": "/",
-            "display": "minimal-ui",
-            "background_color": "#ffffff",
-            "theme_color": "#ffffff",
-            "root_uri": "https://adactio.com/manifest.json",
-            "manifest_hits": 2
-        },
-        {
             "dir": "ltr",
             "lang": "EN",
             "name": "PWABuilder",
@@ -1424,6 +1344,86 @@
             "root_uri": "https://dev.opera.com/.webmanifest",
             "manifest_hits": 3,
             "description": "Dev.Opera covers current and future HTML, CSS and JavaScript features and implementations, responsive web design, browser extensions, and more."
+        },
+        {
+            "lang": "en",
+            "short_name": "adactio",
+            "name": "adactio",
+            "description": "Jeremy Keith",
+            "icons": [
+                {
+                    "src": "/icon-512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/icon.png",
+                    "sizes": "300x300",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/icon-192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apple-touch-icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-150.jpg",
+                    "sizes": "150x150",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-192.jpg",
+                    "sizes": "192x192",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-200.jpg",
+                    "sizes": "200x200",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-300.jpg",
+                    "sizes": "300x300",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-500.jpg",
+                    "sizes": "500x500",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-512.jpg",
+                    "sizes": "512x512",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-600.jpg",
+                    "sizes": "600x600",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/",
+            "display": "minimal-ui",
+            "background_color": "#ffffff",
+            "theme_color": "#ffffff",
+            "root_uri": "https://adactio.com/manifest.json",
+            "manifest_hits": 2
         },
         {
             "name": "Indecisive: Decision-Making App",
@@ -3950,36 +3950,6 @@
             "root_uri": "https://wordpress.com/calypso/manifest.json",
             "manifest_hits": 1,
             "description": "Create a free website or build a blog with ease on WordPress.com. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support."
-        },
-        {
-            "name": "AutoScout24",
-            "short_name": "AutoScout24",
-            "start_url": "/?ipl=home-screen&ipc=launch",
-            "orientation": "any",
-            "display": "standalone",
-            "icons": [
-                {
-                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-192x192.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                },
-                {
-                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-256x256.png",
-                    "sizes": "256x256",
-                    "type": "image/png"
-                },
-                {
-                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-512x512.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                }
-            ],
-            "theme_color": "#fff",
-            "background_color": "#fff",
-            "gcm_sender_id": "103953800507",
-            "root_uri": "https://www.autoscout24.de/service-worker/manifests/manifest.json",
-            "manifest_hits": 84,
-            "description": "Neu- und Gebrauchtwagen sowie Motorräder, Wohnmobile und Nutzfahrzeuge finden Sie auf AutoScout24, dem europaweit größten Online-Automarkt."
         },
         {
             "name": "Netzwelt",
