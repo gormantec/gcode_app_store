@@ -2867,6 +2867,264 @@
                 }
             ],
             "root_uri": "https://swahili-dictionary.com/app.webmanifest"
+        },
+        {
+            "short_name": "Tower Game",
+            "name": "Tower Game",
+            "description": "Stack blocks and build the tallest tower!",
+            "icons": [
+                {
+                    "src": "/assets/icon-192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/assets/icon-512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "start_url": "/",
+            "background_color": "#F95240",
+            "theme_color": "#F95240",
+            "display": "standalone",
+            "orientation": "portrait",
+            "root_uri": "https://www.towergame.app/manifest.json"
+        },
+        {
+            "name": "Water Wars",
+            "short_name": "Wat-Wars",
+            "icons": [
+                {
+                    "src": "touch-icons/touch-icon-iphone.png",
+                    "type": "image/png",
+                    "sizes": "114x114"
+                },
+                {
+                    "src": "touch-icons/touch-icon-ipad.png",
+                    "type": "image/png",
+                    "sizes": "152x152"
+                },
+                {
+                    "src": "touch-icons/touch-icon-ipad-retina.png",
+                    "type": "image/png",
+                    "sizes": "167x167"
+                },
+                {
+                    "src": "touch-icons/touch-icon-iphone-retina.png",
+                    "type": "image/png",
+                    "sizes": "180x180"
+                },
+                {
+                    "src": "touch-icons/touch-icon.png",
+                    "type": "image/png",
+                    "sizes": "192x192"
+                },
+                {
+                    "src": "splashscreens/splash-icon.png",
+                    "type": "image/png",
+                    "sizes": "512x512"
+                }
+            ],
+            "start_url": "index.html",
+            "background_color": "#ffffff",
+            "display": "standalone",
+            "orientation": "landscape",
+            "scope": "index.html",
+            "theme_color": "#ffffff",
+            "root_uri": "https://vcjhwebdev.github.io/waterwars/manifest.json",
+            "description": "no description"
+        },
+        {
+            "manifest_version": 3,
+            "name": "damn dog",
+            "short_name": "damn dog",
+            "description": "A guessing game for wikiHow illustrations.",
+            "default_locale": "en",
+            "display": "standalone",
+            "scope": "/",
+            "start_url": "/",
+            "theme_color": "#222730",
+            "background_color": "#222730",
+            "icons": [
+                {
+                    "src": "/android-chrome-36x36.png",
+                    "sizes": "36x36",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/android-chrome-48x48.png",
+                    "sizes": "48x48",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/android-chrome-72x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/android-chrome-96x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/maskable-128.png",
+                    "sizes": "128x128",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "/maskable-144.png",
+                    "sizes": "144x144",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "/maskable-192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "/maskable-256.png",
+                    "sizes": "256x256",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "/maskable-512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "/maskable-1024.png",
+                    "sizes": "1024x1024",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                }
+            ],
+            "root_uri": "https://damn.dog/manifest.json"
+        },
+        {
+            "name": "Cloud Four",
+            "short_name": "Cloud Four",
+            "description": "We design and develop responsive websites and progressive web apps.",
+            "dir": "ltr",
+            "lang": "en",
+            "icons": [
+                {
+                    "src": "/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "theme_color": "#456BD9",
+            "background_color": "#456BD9",
+            "display": "standalone",
+            "orientation": "natural",
+            "start_url": "/",
+            "categories": [
+                "business",
+                "technology",
+                "web"
+            ],
+            "gcm_sender_id": "482941778795",
+            "root_uri": "https://cloudfour.com/manifest.json"
+        },
+        {
+            "name": "YouTube",
+            "short_name": "YouTube",
+            "background_color": "#FFFFFF",
+            "display": "minimal-ui",
+            "start_url": "/?feature=ytca",
+            "scope": "/",
+            "icons": [
+                {
+                    "src": "https://www.gstatic.com/youtube/img/branding/favicon/favicon_144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.gstatic.com/youtube/img/branding/favicon/favicon_192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.gstatic.com/youtube/img/web/monochrome/logo_16x16.png",
+                    "sizes": "16x16",
+                    "type": "image/png",
+                    "purpose": "monochrome"
+                },
+                {
+                    "src": "https://www.gstatic.com/youtube/img/web/monochrome/logo_32x32.png",
+                    "sizes": "32x32",
+                    "type": "image/png",
+                    "purpose": "monochrome"
+                },
+                {
+                    "src": "https://fonts.gstatic.com/s/i/googlematerialicons/video_youtube/v11/white-48dp/1x/gm_video_youtube_white_48dp.png",
+                    "sizes": "48x48",
+                    "type": "image/png",
+                    "purpose": "monochrome"
+                },
+                {
+                    "src": "https://www.gstatic.com/youtube/img/web/monochrome/logo_512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "monochrome"
+                }
+            ],
+            "theme_color": "#FF0000",
+            "gcm_sender_id": "402845223712",
+            "gcm_user_visible_only": true,
+            "related_applications": [],
+            "capture_links": "none",
+            "shortcuts": [
+                {
+                    "name": "Subscriptions",
+                    "url": "/feed/subscriptions?feature=app_shortcuts",
+                    "icons": [
+                        {
+                            "src": "https://www.gstatic.com/youtube/img/web/shortcuts/subscriptions_512x512.png",
+                            "sizes": "512x512",
+                            "type": "image/png",
+                            "purpose": "any monochrome"
+                        }
+                    ]
+                },
+                {
+                    "name": "Explore",
+                    "url": "/feed/explore?feature=app_shortcuts",
+                    "icons": [
+                        {
+                            "src": "https://www.gstatic.com/youtube/img/web/shortcuts/explore_512x512.png",
+                            "sizes": "512x512",
+                            "type": "image/png",
+                            "purpose": "any monochrome"
+                        }
+                    ]
+                }
+            ],
+            "root_uri": "https://youtube.com/manifest.webmanifest",
+            "description": "Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube."
+        },
+        {
+            "name": "Koombea",
+            "start_url": "https://www.koombea.com/",
+            "display": "minimal-ui",
+            "dir": "ltr",
+            "short_name": "Koombea",
+            "lang": "en-US",
+            "background_color": "#fff",
+            "theme_color": "#fff",
+            "description": "Koombea is the leading mobile consultancy and web app development agency for businesses looking to bring their ideas to reality.",
+            "root_uri": "https://www.koombea.com/wp-json/wp/v2/web-app-manifest"
         }
     ]
 }
