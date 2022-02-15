@@ -985,6 +985,24 @@
             "prefer_related_applications": false,
             "version": "7.0.0",
             "root_uri": "https://gamantj.com/manifest.json"
+        },
+        {
+            "name": "Code and Comment",
+            "short_name": "Code and Comment",
+            "start_url": "./",
+            "display": "standalone",
+            "orientation": "any",
+            "background_color": "#fff",
+            "theme_color": "#f1f7fe",
+            "icons": [
+                {
+                    "src": "icon.png",
+                    "type": "image/png",
+                    "sizes": "192x192"
+                }
+            ],
+            "root_uri": "https://code-and-comment.github.io/code-and-comment/manifest.json",
+            "description": "PWA to add comment to Github file."
         }
     ]
 }
