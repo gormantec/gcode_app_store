@@ -272,184 +272,6 @@
             "description": {}
         },
         {
-            "android_package_name": "com.pinterest",
-            "background_color": "#fff",
-            "display": "minimal-ui",
-            "icons": [
-                {
-                    "src": "https://s.pinimg.com/images/favicon_red_192.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                }
-            ],
-            "gcm_sender_id": "1021726025582",
-            "gcm_user_visible_only": true,
-            "name": "Pinterest",
-            "orientation": "portrait",
-            "short_name": "Pinterest",
-            "start_url": "/?utm_source=homescreen_icon",
-            "theme_color": "#FFFFFF",
-            "related_applications": [
-                {
-                    "platform": "play",
-                    "id": "com.pinterest"
-                },
-                {
-                    "platform": "play",
-                    "id": "com.pinterest.ota"
-                },
-                {
-                    "platform": "play",
-                    "id": "com.pinterest.test"
-                },
-                {
-                    "platform": "play",
-                    "id": "com.pinterest.twa"
-                },
-                {
-                    "platform": "play",
-                    "id": "com.pinterest.dev"
-                },
-                {
-                    "platform": "webapp",
-                    "url": "https://www.pinterest.com/manifest.json"
-                }
-            ],
-            "url_handlers": [
-                {
-                    "origin": "https://*.pinterest.com"
-                },
-                {
-                    "origin": "https://*.pinterest.info"
-                },
-                {
-                    "origin": "https://*.pinterest.at"
-                },
-                {
-                    "origin": "https://*.pinterest.com.au"
-                },
-                {
-                    "origin": "https://*.pinterest.ca"
-                },
-                {
-                    "origin": "https://*.pinterest.ch"
-                },
-                {
-                    "origin": "https://*.pinterest.cl"
-                },
-                {
-                    "origin": "https://*.pinterest.de"
-                },
-                {
-                    "origin": "https://*.pinterest.dk"
-                },
-                {
-                    "origin": "https://*.pinterest.es"
-                },
-                {
-                    "origin": "https://*.pinterest.fr"
-                },
-                {
-                    "origin": "https://*.pinterest.co.uk"
-                },
-                {
-                    "origin": "https://*.pinterest.ie"
-                },
-                {
-                    "origin": "https://*.pinterest.it"
-                },
-                {
-                    "origin": "https://*.pinterest.jp"
-                },
-                {
-                    "origin": "https://*.pinterest.co.kr"
-                },
-                {
-                    "origin": "https://*.pinterest.com.mx"
-                },
-                {
-                    "origin": "https://*.pinterest.nz"
-                },
-                {
-                    "origin": "https://*.pinterest.se"
-                },
-                {
-                    "origin": "https://*.pinterest.ph"
-                },
-                {
-                    "origin": "https://*.pinterest.pt"
-                },
-                {
-                    "origin": "https://*.pinterest.ru"
-                }
-            ],
-            "root_uri": "https://www.pinterest.com/manifest.json",
-            "description": {}
-        },
-        {
-            "icons": [
-                {
-                    "src": "/app/manifest_icons/icon_1024x1024.098d1a14e2f871db82d8a2392d59b587.png",
-                    "sizes": "1024x1024",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/app/manifest_icons/icon_1024x1024.098d1a14e2f871db82d8a2392d59b587.png",
-                    "sizes": "1024x1024",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/app/manifest_icons/icon_180x180.d0c3ef3c6be29a9ca57ead5171bbebc4.png",
-                    "sizes": "180x180",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/app/manifest_icons/icon_167x167.3a26fccf02024d9e908aa61a168c04b6.png",
-                    "sizes": "167x167",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/app/manifest_icons/icon_152x152.749dc17e04c34f6e3ade0c6ec90a827c.png",
-                    "sizes": "152x152",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/app/manifest_icons/icon_120x120.4a19b1dbc4514d6e3e3929c28f912cc8.png",
-                    "sizes": "120x120",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/app/manifest_icons/icon_1024x1024.d69a88e67af2780d56e54cd3c3eb79c8.png",
-                    "sizes": "1024x1024",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/app/manifest_icons/icon_512x512.4d257dbb0cb55b755dc9a2b4138a374d.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/app/manifest_icons/icon_192x192.60f60d9894b3583ca14328401a9fdcce.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/app/manifest_icons/icon_144x144.6b57d81dd9f2390043627e88385ef8c6.png",
-                    "sizes": "144x144",
-                    "type": "image/png"
-                }
-            ],
-            "name": "Todoist",
-            "short_name": "Todoist",
-            "orientation": "portrait",
-            "display": "standalone",
-            "start_url": ".",
-            "background_color": "#EEEEEE",
-            "theme_color": "#C24F3D",
-            "root_uri": "https://todoist.com/app/manifest.48149c9f0c601e29a9554640f7bf5b4d.json",
-            "description": {}
-        },
-        {
             "background_color": "#456BD9",
             "description": "A collection of Progressive Web App case studies.",
             "display": "standalone",
@@ -642,6 +464,149 @@
             "root_uri": "https://www.pwabuilder.com/manifest.json"
         },
         {
+            "android_package_name": "com.pinterest",
+            "background_color": "#fff",
+            "display": "minimal-ui",
+            "icons": [
+                {
+                    "src": "https://s.pinimg.com/images/favicon_red_192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                }
+            ],
+            "gcm_sender_id": "1021726025582",
+            "gcm_user_visible_only": true,
+            "name": "Pinterest",
+            "orientation": "portrait",
+            "short_name": "Pinterest",
+            "start_url": "/?utm_source=homescreen_icon",
+            "theme_color": "#FFFFFF",
+            "related_applications": [
+                {
+                    "platform": "play",
+                    "id": "com.pinterest"
+                },
+                {
+                    "platform": "play",
+                    "id": "com.pinterest.ota"
+                },
+                {
+                    "platform": "play",
+                    "id": "com.pinterest.test"
+                },
+                {
+                    "platform": "play",
+                    "id": "com.pinterest.twa"
+                },
+                {
+                    "platform": "play",
+                    "id": "com.pinterest.dev"
+                },
+                {
+                    "platform": "webapp",
+                    "url": "https://www.pinterest.com/manifest.json"
+                }
+            ],
+            "url_handlers": [
+                {
+                    "origin": "https://*.pinterest.com"
+                },
+                {
+                    "origin": "https://*.pinterest.info"
+                },
+                {
+                    "origin": "https://*.pinterest.at"
+                },
+                {
+                    "origin": "https://*.pinterest.com.au"
+                },
+                {
+                    "origin": "https://*.pinterest.ca"
+                },
+                {
+                    "origin": "https://*.pinterest.ch"
+                },
+                {
+                    "origin": "https://*.pinterest.cl"
+                },
+                {
+                    "origin": "https://*.pinterest.de"
+                },
+                {
+                    "origin": "https://*.pinterest.dk"
+                },
+                {
+                    "origin": "https://*.pinterest.es"
+                },
+                {
+                    "origin": "https://*.pinterest.fr"
+                },
+                {
+                    "origin": "https://*.pinterest.co.uk"
+                },
+                {
+                    "origin": "https://*.pinterest.ie"
+                },
+                {
+                    "origin": "https://*.pinterest.it"
+                },
+                {
+                    "origin": "https://*.pinterest.jp"
+                },
+                {
+                    "origin": "https://*.pinterest.co.kr"
+                },
+                {
+                    "origin": "https://*.pinterest.com.mx"
+                },
+                {
+                    "origin": "https://*.pinterest.nz"
+                },
+                {
+                    "origin": "https://*.pinterest.se"
+                },
+                {
+                    "origin": "https://*.pinterest.ph"
+                },
+                {
+                    "origin": "https://*.pinterest.pt"
+                },
+                {
+                    "origin": "https://*.pinterest.ru"
+                }
+            ],
+            "root_uri": "https://www.pinterest.com/manifest.json",
+            "description": {}
+        },
+        {
+            "short_name": "اطلس ابزار ",
+            "name": "فروشگاه تخصصی ابزار ",
+            "icons": [
+                {
+                    "src": "//atlastools.ir/wp-content/uploads/2021/10/192.png",
+                    "type": "image/png",
+                    "sizes": "192x192",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "//atlastools.ir/wp-content/uploads/2021/10/512.png",
+                    "type": "image/png",
+                    "sizes": "512x512",
+                    "purpose": "any maskable"
+                }
+            ],
+            "display": "standalone",
+            "start_url": "/",
+            "lang": "fa-IR",
+            "description": "خرید ابزار زیر قیمت کل بازار ایران ",
+            "background_color": "#fff",
+            "theme_color": "#000000",
+            "scope": "/",
+            "prefer_related_applications": false,
+            "version": "6.0.0",
+            "root_uri": "https://atlastools.ir/manifest.json"
+        },
+        {
             "name": "YouTube",
             "short_name": "YouTube",
             "background_color": "#FFFFFF",
@@ -719,32 +684,1014 @@
             "description": {}
         },
         {
-            "short_name": "اطلس ابزار ",
-            "name": "فروشگاه تخصصی ابزار ",
             "icons": [
                 {
-                    "src": "//atlastools.ir/wp-content/uploads/2021/10/192.png",
-                    "type": "image/png",
-                    "sizes": "192x192",
-                    "purpose": "any maskable"
+                    "src": "/app/manifest_icons/icon_1024x1024.098d1a14e2f871db82d8a2392d59b587.png",
+                    "sizes": "1024x1024",
+                    "type": "image/png"
                 },
                 {
-                    "src": "//atlastools.ir/wp-content/uploads/2021/10/512.png",
-                    "type": "image/png",
+                    "src": "/app/manifest_icons/icon_1024x1024.098d1a14e2f871db82d8a2392d59b587.png",
+                    "sizes": "1024x1024",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_180x180.d0c3ef3c6be29a9ca57ead5171bbebc4.png",
+                    "sizes": "180x180",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_167x167.3a26fccf02024d9e908aa61a168c04b6.png",
+                    "sizes": "167x167",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_152x152.749dc17e04c34f6e3ade0c6ec90a827c.png",
+                    "sizes": "152x152",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_120x120.4a19b1dbc4514d6e3e3929c28f912cc8.png",
+                    "sizes": "120x120",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_1024x1024.d69a88e67af2780d56e54cd3c3eb79c8.png",
+                    "sizes": "1024x1024",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_512x512.4d257dbb0cb55b755dc9a2b4138a374d.png",
                     "sizes": "512x512",
-                    "purpose": "any maskable"
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_192x192.60f60d9894b3583ca14328401a9fdcce.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/app/manifest_icons/icon_144x144.6b57d81dd9f2390043627e88385ef8c6.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
                 }
             ],
+            "name": "Todoist",
+            "short_name": "Todoist",
+            "orientation": "portrait",
+            "display": "standalone",
+            "start_url": ".",
+            "background_color": "#EEEEEE",
+            "theme_color": "#C24F3D",
+            "root_uri": "https://todoist.com/app/manifest.48149c9f0c601e29a9554640f7bf5b4d.json",
+            "description": {}
+        },
+        {
+            "name": "2Brew",
+            "short_name": "2Brew",
+            "icons": [
+                {
+                    "src": "public/icon/icon_128x128.png",
+                    "sizes": "128x128",
+                    "type": "image/png"
+                },
+                {
+                    "src": "public/icon/icon_144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "public/icon/icon_152x152.png",
+                    "sizes": "152x152",
+                    "type": "image/png"
+                },
+                {
+                    "src": "public/icon/icon_192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "public/icon/icon_512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "start_url": "/",
+            "display": "standalone",
+            "background_color": "#f9f9fa",
+            "theme_color": "#f9f9fa",
+            "root_uri": "https://2brew.github.io/manifest.json",
+            "description": {}
+        },
+        {
+            "name": "Alarm DJ",
+            "short_name": "Alarm Clock",
+            "description": "Alarm DJ is an online alarm clock that plays your MP3 files and YouTube videos of your choice.Works offline, right from the browser - no installation needed.",
+            "dir": "ltr",
+            "lang": "en-US",
+            "display": "standalone",
+            "orientation": "landscape",
+            "start_url": "./?utm_source=web_app_manifest",
+            "background_color": "#fff",
+            "icons": [
+                {
+                    "src": "https://alarmdj.com/assets/images/favicons/android-chrome-36x36.png",
+                    "sizes": "36x36",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://alarmdj.com/assets/images/favicons/android-chrome-48x48.png",
+                    "sizes": "48x48",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://alarmdj.com/assets/images/favicons/android-chrome-72x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://alarmdj.com/assets/images/favicons/android-chrome-96x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://alarmdj.com/assets/images/favicons/android-chrome-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://alarmdj.com/assets/images/favicons/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://alarmdj.com/assets/images/favicons/android-chrome-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://alarmdj.com/assets/images/favicons/android-chrome-384x384.png",
+                    "sizes": "384x384",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://alarmdj.com/assets/images/favicons/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "theme_color": "#3E2723",
+            "root_uri": "https://alarmdj.com/manifest.json"
+        },
+        {
+            "name": "Anonynote",
+            "short_name": "Anonynote",
+            "icons": [
+                {
+                    "src": "/favicons/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/favicons/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "theme_color": "#0099cc",
+            "background_color": "#0099cc",
+            "start_url": "/",
+            "scope": "/",
+            "display": "standalone",
+            "root_uri": "https://anonynote.org/site.webmanifest",
+            "description": {}
+        },
+        {
+            "short_name": "Dev.Opera",
+            "name": "Dev.Opera",
+            "icons": [
+                {
+                    "src": "apple-touch-icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png"
+                }
+            ],
+            "start_url": "/",
+            "display": "standalone",
+            "orientation": "any",
+            "root_uri": "https://dev.opera.com/.webmanifest",
+            "description": {}
+        },
+        {
+            "short_name": "GPA Calculator",
+            "name": "GPA Calculator by Memory Maps",
+            "description": "Generate beautiful animated artwork from your unique GPA Calculator inputs and reach your academic goals. 🌟",
+            "display": "standalone",
+            "scope": "/",
+            "start_url": "/",
+            "icons": [
+                {
+                    "src": "/images/icons/calculator-logo-192x192.png",
+                    "type": "image/png",
+                    "sizes": "192x192",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "/images/icons/calculator-logo-192x192.png",
+                    "type": "image/png",
+                    "sizes": "192x192",
+                    "purpose": "any"
+                },
+                {
+                    "src": "/images/icons/calculator-logo-512x512.png",
+                    "type": "image/png",
+                    "sizes": "512x512",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "/images/icons/calculator-logo-512x512.png",
+                    "type": "image/png",
+                    "sizes": "512x512",
+                    "purpose": "any"
+                }
+            ],
+            "background_color": "#0F0823",
+            "theme_color": "#0F0823",
+            "shortcuts": [
+                {
+                    "short_name": "High School GPA Calculator",
+                    "name": "High School GPA Calculator by Memory Maps",
+                    "description": "Generate beautiful animated artwork from your unique GPA Calculator inputs and reach your academic goals. 🌟",
+                    "url": "/high-school-gpa-calculator.html",
+                    "icons": [
+                        {
+                            "src": "/images/icons/calculator-logo-192x192.png",
+                            "type": "image/png",
+                            "sizes": "192x192",
+                            "purpose": "maskable"
+                        },
+                        {
+                            "src": "/images/icons/calculator-logo-192x192.png",
+                            "type": "image/png",
+                            "sizes": "192x192",
+                            "purpose": "any"
+                        },
+                        {
+                            "src": "/images/icons/calculator-logo-512x512.png",
+                            "type": "image/png",
+                            "sizes": "512x512",
+                            "purpose": "maskable"
+                        },
+                        {
+                            "src": "/images/icons/calculator-logo-512x512.png",
+                            "type": "image/png",
+                            "sizes": "512x512",
+                            "purpose": "any"
+                        }
+                    ]
+                },
+                {
+                    "short_name": "College GPA Calculator",
+                    "name": "College GPA Calculator by Memory Maps",
+                    "description": "Generate beautiful animated artwork from your unique GPA Calculator inputs and reach your academic goals. 🌟",
+                    "url": "/college-gpa-calculator.html",
+                    "icons": [
+                        {
+                            "src": "/images/icons/calculator-logo-192x192.png",
+                            "type": "image/png",
+                            "sizes": "192x192",
+                            "purpose": "maskable"
+                        },
+                        {
+                            "src": "/images/icons/calculator-logo-192x192.png",
+                            "type": "image/png",
+                            "sizes": "192x192",
+                            "purpose": "any"
+                        },
+                        {
+                            "src": "/images/icons/calculator-logo-512x512.png",
+                            "type": "image/png",
+                            "sizes": "512x512",
+                            "purpose": "maskable"
+                        },
+                        {
+                            "src": "/images/icons/calculator-logo-512x512.png",
+                            "type": "image/png",
+                            "sizes": "512x512",
+                            "purpose": "any"
+                        }
+                    ]
+                }
+            ],
+            "root_uri": "https://gpacalculator.memorymaps.io/manifest.json"
+        },
+        {
+            "name": "Bolster",
+            "icons": [
+                {
+                    "src": "/icons/512.png",
+                    "type": "image/png",
+                    "sizes": "512x512"
+                },
+                {
+                    "src": "/icons/192.png",
+                    "type": "image/png",
+                    "sizes": "192x192"
+                },
+                {
+                    "src": "/icons/maskable/512.png",
+                    "type": "image/png",
+                    "sizes": "512x512",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "/icons/maskable/192.png",
+                    "type": "image/png",
+                    "sizes": "192x192",
+                    "purpose": "maskable"
+                }
+            ],
+            "start_url": "/",
+            "background_color": "#000000",
+            "theme_color": "#000000",
+            "display": "standalone",
+            "root_uri": "https://bolster.pro/manifest.json",
+            "description": {}
+        },
+        {
+            "name": "Indecisive: Decision-Making App",
+            "short_name": "Indecisive",
+            "display": "standalone",
+            "start_url": "https://indecisive.us/",
+            "theme_color": "#16a085",
+            "background_color": "#2c3e50",
+            "lang": "",
+            "orientation": "portrait-primary",
+            "description": "App to help you make a decision",
+            "icons": [
+                {
+                    "src": "assets/icons/icon-1024x1024.png",
+                    "sizes": "1024x1024",
+                    "type": "image/png"
+                },
+                {
+                    "src": "assets/icons/icon-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                },
+                {
+                    "src": "assets/icons/icon-384x384.png",
+                    "sizes": "384x384",
+                    "type": "image/png"
+                },
+                {
+                    "src": "assets/icons/icon-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "assets/icons/icon-180x180.png",
+                    "sizes": "180x180",
+                    "type": "image/png"
+                },
+                {
+                    "src": "assets/icons/icon-152x152.png",
+                    "sizes": "152x152",
+                    "type": "image/png"
+                },
+                {
+                    "src": "assets/icons/icon-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "assets/icons/icon-128x128.png",
+                    "sizes": "128x128",
+                    "type": "image/png"
+                },
+                {
+                    "src": "assets/icons/icon-120x120.png",
+                    "sizes": "120x120",
+                    "type": "image/png"
+                },
+                {
+                    "src": "assets/icons/icon-96x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                },
+                {
+                    "src": "assets/icons/icon-76x76.png",
+                    "sizes": "76x76",
+                    "type": "image/png"
+                },
+                {
+                    "src": "assets/icons/icon-72x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png"
+                },
+                {
+                    "src": "assets/icons/icon-48x48.png",
+                    "sizes": "48x48",
+                    "type": "image/png"
+                },
+                {
+                    "src": "assets/icons/icon-2208x1242.png",
+                    "sizes": "2208x1242",
+                    "type": "image/png"
+                },
+                {
+                    "src": "assets/icons/icon-2048x1536.png",
+                    "sizes": "2048x1536",
+                    "type": "image/png"
+                },
+                {
+                    "src": "assets/icons/icon-1536x2048.png",
+                    "sizes": "1536x2048",
+                    "type": "image/png"
+                },
+                {
+                    "src": "assets/icons/icon-1334x750.png",
+                    "sizes": "1334x750",
+                    "type": "image/png"
+                },
+                {
+                    "src": "assets/icons/icon-1242x2208.png",
+                    "sizes": "1242x2208",
+                    "type": "image/png"
+                },
+                {
+                    "src": "assets/icons/icon-1024x768.png",
+                    "sizes": "1024x768",
+                    "type": "image/png"
+                },
+                {
+                    "src": "assets/icons/icon-768x1024.png",
+                    "sizes": "768x1024",
+                    "type": "image/png"
+                },
+                {
+                    "src": "assets/icons/icon-750x1334.png",
+                    "sizes": "750x1334",
+                    "type": "image/png"
+                },
+                {
+                    "src": "assets/icons/icon-640x1136.png",
+                    "sizes": "640x1136",
+                    "type": "image/png"
+                },
+                {
+                    "src": "assets/icons/icon-640x960.png",
+                    "sizes": "640x960",
+                    "type": "image/png"
+                }
+            ],
+            "root_uri": "https://indecisive.us/manifest.json"
+        },
+        {
+            "name": "MConverter",
+            "short_name": "MConverter",
+            "description": "Free secure online file converter. Quick, easy and simple. Can convert in bulk. Lots of video, audio, image, e-book, office and archive formats supported. No registration needed.",
+            "categories": [
+                "utilities",
+                "photo",
+                "music",
+                "books"
+            ],
+            "iarc_rating_id": "0e447ab4-66c9-4632-8486-9a364857c470",
+            "start_url": "/?homescreen=1",
+            "display": "standalone",
+            "theme_color": "#2e5598",
+            "background_color": "#2e5598",
+            "icons": [
+                {
+                    "src": "img/icon-pwa.png",
+                    "type": "image/png",
+                    "sizes": "1024x1024",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "img/icon-pwa-circle.png",
+                    "type": "image/png",
+                    "sizes": "512x512",
+                    "purpose": "any"
+                }
+            ],
+            "screenshots": [
+                {
+                    "src": "img/screenshots/mobile-home.png",
+                    "sizes": "1080x2280",
+                    "type": "image/png"
+                },
+                {
+                    "src": "img/screenshots/mobile-pick-format.png",
+                    "sizes": "1080x2280",
+                    "type": "image/png"
+                },
+                {
+                    "src": "img/screenshots/mobile-share-file.png",
+                    "sizes": "1080x2280",
+                    "type": "image/png"
+                },
+                {
+                    "src": "img/screenshots/mobile-convert-dark.png",
+                    "sizes": "1080x2280",
+                    "type": "image/png"
+                },
+                {
+                    "src": "img/screenshots/mobile-download-multi.png",
+                    "sizes": "1080x2280",
+                    "type": "image/png"
+                },
+                {
+                    "src": "img/screenshots/desktop-home.png",
+                    "sizes": "2400x1600",
+                    "type": "image/png"
+                },
+                {
+                    "src": "img/screenshots/desktop-pick-format.png",
+                    "sizes": "2400x1600",
+                    "type": "image/png"
+                },
+                {
+                    "src": "img/screenshots/desktop-convert-dark.png",
+                    "sizes": "2400x1600",
+                    "type": "image/png"
+                },
+                {
+                    "src": "img/screenshots/desktop-download-multi.png",
+                    "sizes": "2400x1600",
+                    "type": "image/png"
+                }
+            ],
+            "shortcuts": [
+                {
+                    "name": "My Account",
+                    "url": "/?homescreen=1#account",
+                    "icons": [
+                        {
+                            "src": "img/shortcuts/account.png",
+                            "sizes": "192x192"
+                        }
+                    ]
+                },
+                {
+                    "name": "Options",
+                    "url": "/?homescreen=1#options",
+                    "icons": [
+                        {
+                            "src": "img/shortcuts/options.png",
+                            "sizes": "192x192"
+                        }
+                    ]
+                }
+            ],
+            "share_target": {
+                "action": "/?homescreen=1&share-target=1",
+                "method": "POST",
+                "enctype": "multipart/form-data",
+                "params": {
+                    "files": [
+                        {
+                            "name": "file",
+                            "accept": [
+                                "*/*"
+                            ]
+                        }
+                    ]
+                }
+            },
+            "related_applications": [
+                {
+                    "platform": "play",
+                    "id": "eu.mconverter.twa"
+                },
+                {
+                    "platform": "webapp",
+                    "url": "https://mconverter.eu/manifest.json"
+                }
+            ],
+            "root_uri": "https://mconverter.eu/manifest.json"
+        },
+        {
+            "name": "Let's Plant",
+            "short_name": "Let's Plant",
+            "description": "A smart way to choose the right plant.",
+            "start_url": "/?utm_source=pwa_homescreen",
+            "scope": "/",
+            "icons": [
+                {
+                    "src": "/img/apple-touch-icon-57x57.png",
+                    "sizes": "57x57",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/img/apple-touch-icon-60x60.png",
+                    "sizes": "60x60",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/img/apple-touch-icon-72x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/img/apple-touch-icon-76x76.png",
+                    "sizes": "76x76",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/img/apple-touch-icon-114x114.png",
+                    "sizes": "114x114",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/img/apple-touch-icon-120x120.png",
+                    "sizes": "120x120",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/img/apple-touch-icon-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/img/apple-touch-icon-152x152.png",
+                    "sizes": "152x152",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/img/apple-touch-icon-180x180.png",
+                    "sizes": "180x180",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/img/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/img/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "theme_color": "#ffffff",
+            "background_color": "#ffffff",
+            "display": "standalone",
+            "orientation": "portrait",
+            "status": "ok",
+            "prompt_message": "Add a Home screen icon for easy access to Let's Plant",
+            "root_uri": "https://letsplant.org/img/manifest.json"
+        },
+        {
+            "short_name": "PixelCraft",
+            "name": "PixelCraft",
+            "prefer_related_applications": false,
+            "icons": [
+                {
+                    "src": "/icons/logo.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/icons/logo.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "start_url": "/",
+            "background_color": "#ffffff",
+            "Theme_color": "#ffffff",
+            "display": "standalone",
+            "root_uri": "https://pixelcraft.web.app/manifest.json",
+            "description": {}
+        },
+        {
+            "name": "Passky",
+            "short_name": "Passky",
+            "id": "/",
+            "start_url": "/",
+            "scope": ".",
+            "description": "Passky is simple, modern, lightweight, open source and secure password manager.",
+            "categories": [
+                "productivity",
+                "security",
+                "utilities"
+            ],
+            "icons": [
+                {
+                    "src": "images/icons/icon-48x48.png",
+                    "sizes": "48x48",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icons/icon-72x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icons/icon-96x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icons/icon-128x128.png",
+                    "sizes": "128x128",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icons/icon-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icons/icon-152x152.png",
+                    "sizes": "152x152",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icons/icon-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icons/icon-384x384.png",
+                    "sizes": "384x384",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icons/icon-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icons/icon-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                }
+            ],
+            "screenshots": [
+                {
+                    "src": "images/screenshots/1.jpg",
+                    "sizes": "1080x2400",
+                    "type": "image/jpg"
+                },
+                {
+                    "src": "images/screenshots/2.jpg",
+                    "sizes": "1080x2400",
+                    "type": "image/jpg"
+                },
+                {
+                    "src": "images/screenshots/3.jpg",
+                    "sizes": "1080x2400",
+                    "type": "image/jpg"
+                },
+                {
+                    "src": "images/screenshots/4.jpg",
+                    "sizes": "1080x2400",
+                    "type": "image/jpg"
+                },
+                {
+                    "src": "images/screenshots/5.jpg",
+                    "sizes": "1080x2400",
+                    "type": "image/jpg"
+                },
+                {
+                    "src": "images/screenshots/6.jpg",
+                    "sizes": "1080x2400",
+                    "type": "image/jpg"
+                },
+                {
+                    "src": "images/screenshots/7.jpg",
+                    "sizes": "1080x2400",
+                    "type": "image/jpg"
+                },
+                {
+                    "src": "images/screenshots/8.jpg",
+                    "sizes": "1080x2400",
+                    "type": "image/jpg"
+                }
+            ],
+            "theme_color": "#0D1117",
+            "background_color": "#DFE5EB",
+            "display": "standalone",
+            "orientation": "portrait",
+            "iarc_rating_id": "1ff144b5-7bfc-4207-abed-0e549cb80406",
+            "related_applications": [
+                {
+                    "platform": "play",
+                    "url": "https://play.google.com/store/apps/details?id=com.rabbitcompany.passky",
+                    "id": "com.rabbitcompany.passky"
+                },
+                {
+                    "platform": "chrome_web_store",
+                    "url": "https://chrome.google.com/webstore/detail/passky/ngncpgfjhnkgfcjamgljadegplonbihi",
+                    "id": "ngncpgfjhnkgfcjamgljadegplonbihi"
+                },
+                {
+                    "platform": "windows",
+                    "url": "https://www.microsoft.com/en-us/p/passky/9nrcp6hppb82",
+                    "id": "9nrcp6hppb82"
+                }
+            ],
+            "root_uri": "https://vault.passky.org/manifest.json"
+        },
+        {
+            "name": "Progressive Beer",
+            "short_name": "Progressive Beer",
+            "lang": "en-US",
+            "start_url": "./index.html",
+            "display": "standalone",
+            "theme_color": "#ffe400",
+            "background_color": "#ffe400",
+            "icons": [
+                {
+                    "src": "./images/beer-icon-192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "density": 1
+                },
+                {
+                    "src": "./images/beer-icon-144.png",
+                    "sizes": "144x144",
+                    "type": "image/png",
+                    "density": "1"
+                },
+                {
+                    "src": "./images/beer-icon-240.png",
+                    "sizes": "240x240",
+                    "type": "image/png",
+                    "density": "1"
+                },
+                {
+                    "src": "./images/beer-icon-96.png",
+                    "sizes": "96x96",
+                    "type": "image/png",
+                    "density": "1"
+                }
+            ],
+            "root_uri": "https://deanhume.github.io/beer/manifest.json",
+            "description": {}
+        },
+        {
+            "short_name": "Resume Nation",
+            "name": "Resume Nation",
+            "display": "standalone",
+            "icons": [
+                {
+                    "src": "images/icon-48.png",
+                    "sizes": "48x48",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icon-96.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icon-144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icon-192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                }
+            ],
+            "start_url": "index.html",
+            "theme_color": "#673AB7",
+            "background_color": "#EEEEEE",
+            "root_uri": "https://resume-nation.github.io/manifest.json",
+            "description": {}
+        },
+        {
+            "name": "Saints Schedule & Info",
+            "short_name": "SaintsInfo",
             "display": "standalone",
             "start_url": "/",
-            "lang": "fa-IR",
-            "description": "خرید ابزار زیر قیمت کل بازار ایران ",
-            "background_color": "#fff",
-            "theme_color": "#000000",
-            "scope": "/",
-            "prefer_related_applications": false,
-            "version": "6.0.0",
-            "root_uri": "https://atlastools.ir/manifest.json"
+            "theme_color": "#D3BC8D",
+            "background_color": "#010203",
+            "lang": "",
+            "orientation": "portrait-primary",
+            "description": "New Orleans Saints' game schedule, news, and bar database.",
+            "icons": [
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-512.png",
+                    "sizes": "512x512"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-44.png",
+                    "sizes": "44x44"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-48.png",
+                    "sizes": "48x48"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-1024x600.png",
+                    "sizes": "1240x600"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-300.png",
+                    "sizes": "300x300"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-150.png",
+                    "sizes": "150x150"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-88.png",
+                    "sizes": "88x88"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-24.png",
+                    "sizes": "24x24"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-50.png",
+                    "sizes": "50x50"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-620x300.png",
+                    "sizes": "620x300"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-192.png",
+                    "sizes": "192x192"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-144.png",
+                    "sizes": "144x144"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-96.png",
+                    "sizes": "96x96"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-72.png",
+                    "sizes": "72x72"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-36.png",
+                    "sizes": "36x36"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-1024.png",
+                    "sizes": "1024x1024"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-180.png",
+                    "sizes": "180x180"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-152.png",
+                    "sizes": "152x152"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-120.png",
+                    "sizes": "120x120"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-76.png",
+                    "sizes": "76x76"
+                }
+            ],
+            "root_uri": "https://saintsschedule.info/manifest.json"
+        },
+        {
+            "short_name": "Care Cards",
+            "name": "Care Cards",
+            "icons": [
+                {
+                    "src": "favicon.ico",
+                    "sizes": "32x32 16x16",
+                    "type": "image/x-icon"
+                },
+                {
+                    "src": "icon-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "icon-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "icon-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "start_url": "./index.html",
+            "display": "standalone",
+            "theme_color": "#343434",
+            "background_color": "#6CCBC5",
+            "orientation": "portrait",
+            "root_uri": "https://carecards.io/manifest.json",
+            "description": {}
         },
         {
             "android_package_name": "com.pinterest",
@@ -862,59 +1809,54 @@
             "description": {}
         },
         {
-            "name": "BMW.com",
-            "short_name": "BMW.com",
-            "theme_color": "#1c69d4",
-            "background_color": "#ffffff",
-            "display": "standalone",
-            "scope": "/",
-            "start_url": "/en/index.html",
+            "name": "PregBuddy",
+            "short_name": "PregBuddy",
             "icons": [
                 {
-                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-72x72.png",
+                    "src": "/img/icons/favicon-48x48.png",
+                    "sizes": "48x48",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/img/icons/favicon-72x72.png",
                     "sizes": "72x72",
                     "type": "image/png"
                 },
                 {
-                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-96x96.png",
+                    "src": "/img/icons/favicon-96x96.png",
                     "sizes": "96x96",
                     "type": "image/png"
                 },
                 {
-                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-128x128.png",
-                    "sizes": "128x128",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-144x144.png",
+                    "src": "/img/icons/favicon-144x144.png",
                     "sizes": "144x144",
                     "type": "image/png"
                 },
                 {
-                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-152x152.png",
-                    "sizes": "152x152",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-192x192.png",
+                    "src": "/img/icons/favicon-192x192.png",
                     "sizes": "192x192",
                     "type": "image/png"
                 },
                 {
-                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-384x384.png",
-                    "sizes": "384x384",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-512x512.png",
+                    "src": "/img/icons/favicon-512x512.png",
                     "sizes": "512x512",
                     "type": "image/png"
                 }
             ],
-            "splash_pages": null,
-            "gcm_sender_id": "671555070731",
-            "gcm_user_visible_only": true,
-            "root_uri": "https://www.bmw.com/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/manifest_en.json",
+            "start_url": "index.html",
+            "display": "standalone",
+            "orientation": "portrait",
+            "background_color": "#148d74",
+            "theme_color": "#1bbc9b",
+            "related_applications": [
+                {
+                    "platform": "play",
+                    "id": "com.pregbuddy",
+                    "url": "https://play.google.com/store/apps/details?id=com.pregbuddy&hl=en"
+                }
+            ],
+            "gcm_sender_id": "103953800507",
+            "root_uri": "https://app.pregbuddy.com/manifest.json",
             "description": {}
         },
         {
