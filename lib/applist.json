@@ -25,7 +25,8 @@
             "description": "calculator",
             "prefer_related_applications": false,
             "root_uri": "https://gcode.com.au/apps/37790665-calculator/manifest.json",
-            "file_md5": "man0c6e7f9236a61b78da7847e71c2ce416"
+            "file_md5": "man0c6e7f9236a61b78da7847e71c2ce416",
+            "manifest_hits": 0
         },
         {
             "name": "boatcrew",
@@ -52,7 +53,8 @@
             "description": "boatcrew",
             "prefer_related_applications": false,
             "root_uri": "https://gcode.com.au/apps/37790665-boatcrew/manifest.json",
-            "file_md5": "mandf5b0360ab1bf73c9309f6f5c0530e58"
+            "file_md5": "mandf5b0360ab1bf73c9309f6f5c0530e58",
+            "manifest_hits": 0
         },
         {
             "name": "Google Maps",
@@ -98,7 +100,8 @@
                 "gcm"
             ],
             "root_uri": "https://www.google.com/maps/preview/pwa/manifest?source=ttpwa&hl=en",
-            "file_md5": "man70ce16632135ed8ee16d001f603fec95"
+            "file_md5": "man70ce16632135ed8ee16d001f603fec95",
+            "manifest_hits": 0
         },
         {
             "android_package_name": "com.pinterest",
@@ -214,6 +217,7 @@
             ],
             "root_uri": "https://www.pinterest.com.au/manifest.json",
             "file_md5": "man810a2108296e618e740c9b7d5d82427a",
+            "manifest_hits": 0,
             "description": "Discover recipes, home ideas, style inspiration and other ideas to try."
         },
         {
@@ -256,7 +260,8 @@
                 "news"
             ],
             "root_uri": "https://flipboard.com/manifest.webmanifest",
-            "file_md5": "man5ba83d556fdc0a177c3b26aa30565756"
+            "file_md5": "man5ba83d556fdc0a177c3b26aa30565756",
+            "manifest_hits": 0
         },
         {
             "lang": "en",
@@ -278,6 +283,7 @@
             ],
             "root_uri": "https://www.soundslice.com/webmanifest.json",
             "file_md5": "manad56c32f7fc9569d0fb79213aad043b1",
+            "manifest_hits": 0,
             "description": "Learn music better with our living sheet music."
         },
         {
@@ -358,7 +364,8 @@
             "background_color": "#ffffff",
             "theme_color": "#ffffff",
             "root_uri": "https://adactio.com/manifest.json",
-            "file_md5": "man7528dce84d4795d3ea6a9a86abd0accb"
+            "file_md5": "man7528dce84d4795d3ea6a9a86abd0accb",
+            "manifest_hits": 0
         },
         {
             "background_color": "#456BD9",
@@ -384,7 +391,8 @@
             "start_url": "/",
             "theme_color": "#456BD9",
             "root_uri": "https://www.pwastats.com/manifest.json",
-            "file_md5": "man1686f62ac906916f55ceaf6498721223"
+            "file_md5": "man1686f62ac906916f55ceaf6498721223",
+            "manifest_hits": 0
         },
         {
             "dir": "ltr",
@@ -473,7 +481,8 @@
                 "utility"
             ],
             "root_uri": "https://www.pwabuilder.com/manifest.json",
-            "file_md5": "man08c63e58863bd10e21334ff02ed6a680"
+            "file_md5": "man08c63e58863bd10e21334ff02ed6a680",
+            "manifest_hits": 0
         },
         {
             "name": "YouTube",
@@ -551,6 +560,7 @@
             ],
             "root_uri": "https://www.youtube.com/manifest.webmanifest",
             "file_md5": "mana8f5eb29f852b756dc73fab692ef143a",
+            "manifest_hits": 0,
             "description": "Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube."
         },
         {
@@ -615,6 +625,7 @@
             "theme_color": "#C24F3D",
             "root_uri": "https://todoist.com/app/manifest.48149c9f0c601e29a9554640f7bf5b4d.json",
             "file_md5": "mane4c7123c4fc56803da46ef87f30c7478",
+            "manifest_hits": 0,
             "description": "no description"
         },
         {
@@ -639,7 +650,8 @@
             "orientation": "natural",
             "start_url": "/",
             "root_uri": "https://www.smashingmagazine.com/manifest.json",
-            "file_md5": "man1af6395faba03c3cbddf24eb8b61d305"
+            "file_md5": "man1af6395faba03c3cbddf24eb8b61d305",
+            "manifest_hits": 0
         },
         {
             "short_name": "SmashingConf",
@@ -673,6 +685,7 @@
             "theme_color": "#df342b",
             "root_uri": "https://smashingconf.com/manifest.json",
             "file_md5": "man1000bd0afb7b3261ae711217c1927361",
+            "manifest_hits": 3,
             "description": "The Smashing Cat is stuck on the couch, but that does not mean we have to stop learning. Meet our online workshops, and boost your skills from the comfort of your home or office."
         },
         {
@@ -730,6 +743,7 @@
             "gcm_user_visible_only": true,
             "root_uri": "https://www.bmw.com/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/manifest_en.json",
             "file_md5": "man37403d73b1135cb7c30040ee8ff1d5e8",
+            "manifest_hits": 0,
             "description": "► Read now: Inspiring stories and interviews, exciting videos and helpful insight. Discover the future of mobility at BMW.com."
         },
         {
@@ -768,6 +782,7 @@
             "theme_color": "#f9f9fa",
             "root_uri": "https://2brew.github.io/manifest.json",
             "file_md5": "man11b78d070edc1ebffb829f47766ceaaf",
+            "manifest_hits": 0,
             "description": "no description"
         },
         {
@@ -829,7 +844,8 @@
             ],
             "theme_color": "#3E2723",
             "root_uri": "https://alarmdj.com/manifest.json",
-            "file_md5": "mane6efcdd11406358ef0b749eda0ea7021"
+            "file_md5": "mane6efcdd11406358ef0b749eda0ea7021",
+            "manifest_hits": 0
         },
         {
             "name": "Anonynote",
@@ -853,6 +869,7 @@
             "display": "standalone",
             "root_uri": "https://anonynote.org/site.webmanifest",
             "file_md5": "mand85007a23ddaf9cf93c78b009a36936b",
+            "manifest_hits": 0,
             "description": "A free Progressive Web App for anonymously saving, retrieving and organizing notes. No accounts or logins! Quickly access important data from all of your devices."
         },
         {
@@ -887,6 +904,7 @@
             "display": "standalone",
             "root_uri": "https://bolster.pro/manifest.json",
             "file_md5": "man6f435a85298fbeebae5a00a5d2983104",
+            "manifest_hits": 0,
             "description": "The secure, private journal."
         },
         {
@@ -1016,7 +1034,8 @@
                 }
             ],
             "root_uri": "https://catsafefoods.com/./manifest.json",
-            "file_md5": "man9ad1fc3043e747b4cbff5b4202d438a5"
+            "file_md5": "man9ad1fc3043e747b4cbff5b4202d438a5",
+            "manifest_hits": 0
         },
         {
             "name": "Dog Safe Foods",
@@ -1145,7 +1164,8 @@
                 }
             ],
             "root_uri": "https://dogsafefoods.com/./manifest.json",
-            "file_md5": "man00e5b75e3d745f7adbbd3ebd6a4f69a1"
+            "file_md5": "man00e5b75e3d745f7adbbd3ebd6a4f69a1",
+            "manifest_hits": 0
         },
         {
             "short_name": "Dev.Opera",
@@ -1162,6 +1182,7 @@
             "orientation": "any",
             "root_uri": "https://dev.opera.com/.webmanifest",
             "file_md5": "man699f3c77a27e726e9b6aa68c82f6bf4f",
+            "manifest_hits": 0,
             "description": "Dev.Opera covers current and future HTML, CSS and JavaScript features and implementations, responsive web design, browser extensions, and more."
         },
         {
@@ -1266,7 +1287,8 @@
                 }
             ],
             "root_uri": "https://gpacalculator.memorymaps.io/manifest.json",
-            "file_md5": "man13edc114382fe6d79d5670edaa314384"
+            "file_md5": "man13edc114382fe6d79d5670edaa314384",
+            "manifest_hits": 0
         },
         {
             "name": "Indecisive: Decision-Making App",
@@ -1396,7 +1418,8 @@
                 }
             ],
             "root_uri": "https://indecisive.us/manifest.json",
-            "file_md5": "man7a654aa9b6ce2f60c32775265e6d066e"
+            "file_md5": "man7a654aa9b6ce2f60c32775265e6d066e",
+            "manifest_hits": 0
         },
         {
             "name": "Let's Plant",
@@ -1468,7 +1491,8 @@
             "status": "ok",
             "prompt_message": "Add a Home screen icon for easy access to Let's Plant",
             "root_uri": "https://letsplant.org/img/manifest.json",
-            "file_md5": "man9e365041d54ab5d2ae425b24a60d98f9"
+            "file_md5": "man9e365041d54ab5d2ae425b24a60d98f9",
+            "manifest_hits": 0
         },
         {
             "name": "MConverter",
@@ -1594,7 +1618,8 @@
                 }
             ],
             "root_uri": "https://mconverter.eu/manifest.json",
-            "file_md5": "man2d9ce45ff8b8c2887f76a324e49707b3"
+            "file_md5": "man2d9ce45ff8b8c2887f76a324e49707b3",
+            "manifest_hits": 0
         },
         {
             "short_name": "PixelCraft",
@@ -1618,6 +1643,7 @@
             "display": "standalone",
             "root_uri": "https://pixelcraft.web.app/manifest.json",
             "file_md5": "man2e5f2e823e6eb3f34a35fe86e4b500db",
+            "manifest_hits": 0,
             "description": "no description"
         },
         {
@@ -1656,6 +1682,7 @@
             ],
             "root_uri": "https://deanhume.github.io/beer/manifest.json",
             "file_md5": "man40d98385a8bbe873f4cbeda0218eeb39",
+            "manifest_hits": 0,
             "description": "Progressive Beer - The ultimate guide to beer around the world."
         },
         {
@@ -1689,6 +1716,7 @@
             "background_color": "#EEEEEE",
             "root_uri": "https://resume-nation.github.io/manifest.json",
             "file_md5": "man772503c7e120739b3fff58e2e59b84d6",
+            "manifest_hits": 0,
             "description": "no description"
         },
         {
@@ -1821,7 +1849,8 @@
                 }
             ],
             "root_uri": "https://vault.passky.org/manifest.json",
-            "file_md5": "man263858c4708947efb310459ca63f1168"
+            "file_md5": "man263858c4708947efb310459ca63f1168",
+            "manifest_hits": 0
         },
         {
             "name": "Saints Schedule & Info",
@@ -1916,7 +1945,8 @@
                 }
             ],
             "root_uri": "https://saintsschedule.info/manifest.json",
-            "file_md5": "man9d6a24a15bef2378da9354bc3059094e"
+            "file_md5": "man9d6a24a15bef2378da9354bc3059094e",
+            "manifest_hits": 0
         },
         {
             "lang": "en",
@@ -1940,6 +1970,7 @@
             "theme_color": "#1A1A1A",
             "root_uri": "https://remysharp.com/manifest.json",
             "file_md5": "manc4d819f6d3de6677255184afc5a6767d",
+            "manifest_hits": 0,
             "description": "About [code] and all that jazz"
         },
         {
@@ -2005,6 +2036,7 @@
             ],
             "root_uri": "https://simplepwa.com/./manifest.json",
             "file_md5": "man8ab4bc45f6a3a7ca6537b6a153340b37",
+            "manifest_hits": 0,
             "description": "Simple Progressive Web App (PWA) template"
         },
         {
@@ -2039,6 +2071,7 @@
             "orientation": "portrait",
             "root_uri": "https://carecards.io/manifest.json",
             "file_md5": "man77aff1ee78e37984f09c6e9fac8d84be",
+            "manifest_hits": 0,
             "description": "We all get a little overwhelmed from time to time. Care Cards is a set of helpful little tips to keep you on top of your mental well-being."
         },
         {
@@ -2091,6 +2124,7 @@
             "gcm_sender_id": "103953800507",
             "root_uri": "https://app.pregbuddy.com/manifest.json",
             "file_md5": "man5939583c320b14bd74f46a4f9fcf4f21",
+            "manifest_hits": 0,
             "description": "Stay prepared &amp; fit with FREE weekly pregnancy tips about your baby &amp; your body! Best app for pregnant women."
         },
         {
@@ -2193,7 +2227,8 @@
             "background_color": "#161616",
             "display": "standalone",
             "root_uri": "https://versus.com/manifest.webmanifest",
-            "file_md5": "man39fedc52b660b8630f32323b32d1ff2b"
+            "file_md5": "man39fedc52b660b8630f32323b32d1ff2b",
+            "manifest_hits": 0
         },
         {
             "name": "Scoreboard",
@@ -2220,7 +2255,8 @@
             "start_url": "https://scoreboard.rocks/",
             "scope": "https://scoreboard.rocks/",
             "root_uri": "https://scoreboard.rocks/pwa-manifest.json",
-            "file_md5": "man8a8bd24d49f14b7eca22dfc90d8399a0"
+            "file_md5": "man8a8bd24d49f14b7eca22dfc90d8399a0",
+            "manifest_hits": 0
         },
         {
             "name": "todo.blue",
@@ -2338,7 +2374,8 @@
                 }
             ],
             "root_uri": "https://todo.blue/pwa-manifest.json",
-            "file_md5": "man923e258ca45671fb6c3c17d15aab4f92"
+            "file_md5": "man923e258ca45671fb6c3c17d15aab4f92",
+            "manifest_hits": 0
         },
         {
             "name": "Pete LePage",
@@ -2371,7 +2408,8 @@
                 }
             ],
             "root_uri": "https://petelepage.com/manifest.json",
-            "file_md5": "mandd5add321204d7cacb91e255568467ee"
+            "file_md5": "mandd5add321204d7cacb91e255568467ee",
+            "manifest_hits": 0
         },
         {
             "name": "Cloud Four",
@@ -2403,7 +2441,8 @@
             ],
             "gcm_sender_id": "482941778795",
             "root_uri": "https://cloudfour.com/manifest.json",
-            "file_md5": "man66cfc7554db06cf512b79513b5faa876"
+            "file_md5": "man66cfc7554db06cf512b79513b5faa876",
+            "manifest_hits": 0
         },
         {
             "name": "Koombea",
@@ -2416,7 +2455,8 @@
             "theme_color": "#fff",
             "description": "Koombea is the leading mobile consultancy and web app development agency for businesses looking to bring their ideas to reality.",
             "root_uri": "https://www.koombea.com/wp-json/wp/v2/web-app-manifest",
-            "file_md5": "man990f817c762e34b6e0eb1b1f3ff93cd4"
+            "file_md5": "man990f817c762e34b6e0eb1b1f3ff93cd4",
+            "manifest_hits": 0
         },
         {
             "name": "AnonAce",
@@ -2500,7 +2540,8 @@
                 }
             ],
             "root_uri": "https://anonace.com/./manifest.json",
-            "file_md5": "man969058ad0ee4fae6754dbbcf13575db4"
+            "file_md5": "man969058ad0ee4fae6754dbbcf13575db4",
+            "manifest_hits": 0
         },
         {
             "icons": [
@@ -2554,7 +2595,8 @@
             "theme_color": "#ffffff",
             "background_color": "#76afeb",
             "root_uri": "https://murillo94.github.io/weather-pwa/manifest.json",
-            "file_md5": "manb43d385ae17942d52a429bbf9ce9657b"
+            "file_md5": "manb43d385ae17942d52a429bbf9ce9657b",
+            "manifest_hits": 0
         },
         {
             "name": "todo koolsol",
@@ -2581,7 +2623,8 @@
             "version": "20222501-01",
             "orientation": "any",
             "root_uri": "https://todo.koolsol.app/manifest.json.php",
-            "file_md5": "man6145f2ecf4510b94f4a206c76784bb8f"
+            "file_md5": "man6145f2ecf4510b94f4a206c76784bb8f",
+            "manifest_hits": 0
         },
         {
             "name": "ColorBlindSim",
@@ -2605,7 +2648,8 @@
             "theme_color": "#587498",
             "background_color": "#587498",
             "root_uri": "https://www.colorblindsim.com/manifest.8b7a3d31.webmanifest",
-            "file_md5": "man1eb37e70bdb8212d59d7e9778684df43"
+            "file_md5": "man1eb37e70bdb8212d59d7e9778684df43",
+            "manifest_hits": 0
         },
         {
             "dir": "ltr",
@@ -2654,7 +2698,8 @@
                 }
             ],
             "root_uri": "https://thesession.org/manifest.json",
-            "file_md5": "man6cfbef93bacdc2135099d8188c65a9bf"
+            "file_md5": "man6cfbef93bacdc2135099d8188c65a9bf",
+            "manifest_hits": 0
         },
         {
             "name": "Web Dev I",
@@ -2697,7 +2742,8 @@
                 }
             ],
             "root_uri": "https://vcjhwebdev.github.io/manifest.json",
-            "file_md5": "man41ffd111fdbd52cd7e9303afbecb498f"
+            "file_md5": "man41ffd111fdbd52cd7e9303afbecb498f",
+            "manifest_hits": 0
         },
         {
             "name": "Color Heroes!",
@@ -2721,6 +2767,7 @@
             "start_url": "/",
             "root_uri": "https://colorhero.es/site.webmanifest",
             "file_md5": "man2282664f27823c06329649d52057850f",
+            "manifest_hits": 0,
             "description": "Superhero color guessing game"
         },
         {
@@ -2751,7 +2798,8 @@
             ],
             "orientation": "any",
             "root_uri": "https://minesweeper.koolsol.app/manifest.json",
-            "file_md5": "man79b13ba0e56f595fb54d7b1cfe73da62"
+            "file_md5": "man79b13ba0e56f595fb54d7b1cfe73da62",
+            "manifest_hits": 0
         },
         {
             "name": "koolsol solitaire",
@@ -2781,7 +2829,8 @@
             ],
             "orientation": "any",
             "root_uri": "https://www.koolsol.com/manifest-20220215-01.json.php",
-            "file_md5": "manf531ce7cb93a790b6347fd6138689121"
+            "file_md5": "manf531ce7cb93a790b6347fd6138689121",
+            "manifest_hits": 0
         },
         {
             "name": "Material Money",
@@ -2805,7 +2854,8 @@
             "background_color": "#263238",
             "theme_color": "#263238",
             "root_uri": "https://material.money/manifest.json",
-            "file_md5": "man97428607aa5b945d880f03fb671a6dba"
+            "file_md5": "man97428607aa5b945d880f03fb671a6dba",
+            "manifest_hits": 0
         },
         {
             "name": "The Clear Evidence",
@@ -2833,7 +2883,8 @@
             "scope": "https://theclearevidence.org/",
             "gcm_sender_id": "482941778795",
             "root_uri": "https://theclearevidence.org/pwa-manifest.json",
-            "file_md5": "manda8e7cbf07faa9f7db10fb52005c90fb"
+            "file_md5": "manda8e7cbf07faa9f7db10fb52005c90fb",
+            "manifest_hits": 0
         },
         {
             "name": "koolsol solitaire",
@@ -2863,7 +2914,8 @@
             ],
             "orientation": "any",
             "root_uri": "https://www.koolsol.app/manifest-20220215-01.json.php",
-            "file_md5": "mand9fe73f0ae8bacddde71de21697d94f6"
+            "file_md5": "mand9fe73f0ae8bacddde71de21697d94f6",
+            "manifest_hits": 0
         },
         {
             "name": "koolsol memory",
@@ -2893,7 +2945,8 @@
             ],
             "orientation": "any",
             "root_uri": "https://memory.koolsol.app/manifest.json",
-            "file_md5": "man801b4b8a05268d830b1e2afd2b615f2c"
+            "file_md5": "man801b4b8a05268d830b1e2afd2b615f2c",
+            "manifest_hits": 0
         },
         {
             "name": "koolsol solitaire",
@@ -2923,7 +2976,8 @@
             ],
             "orientation": "any",
             "root_uri": "https://www.koolsol.fr/manifest-20220215-01.json.php",
-            "file_md5": "manb624dd5ca51bad887ddba08fb29380c3"
+            "file_md5": "manb624dd5ca51bad887ddba08fb29380c3",
+            "manifest_hits": 0
         },
         {
             "name": "Assistant for Scrap Mechanic",
@@ -2948,7 +3002,8 @@
                 }
             ],
             "root_uri": "https://scrapassistant.com/manifest.json",
-            "file_md5": "man3c8435ddc80eef38fb15d411619bd7a9"
+            "file_md5": "man3c8435ddc80eef38fb15d411619bd7a9",
+            "manifest_hits": 0
         },
         {
             "lang": "pt-br",
@@ -3005,6 +3060,7 @@
             ],
             "root_uri": "https://iondrimbafilho.me/manifest.webmanifest",
             "file_md5": "man223c6772d96f5994502dff3ed06ed04a",
+            "manifest_hits": 0,
             "description": "All things Javascript"
         },
         {
@@ -3022,6 +3078,7 @@
             ],
             "root_uri": "https://app.ft.com/metatags.json?v=3",
             "file_md5": "mand87bfd40c92ff56bb87546d459230063",
+            "manifest_hits": 0,
             "description": "no description"
         },
         {
@@ -3061,6 +3118,7 @@
             ],
             "root_uri": "https://wordpress.com/calypso/manifest.json",
             "file_md5": "man7b227c240e8bc8e295e18dd04cec09c4",
+            "manifest_hits": 0,
             "description": "Create a free website or build a blog with ease on WordPress.com. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support."
         },
         {
@@ -3117,6 +3175,7 @@
             ],
             "root_uri": "https://www.netzwelt.de/assets/redesign/configs/manifest.json",
             "file_md5": "manf8ac1e0cd90682d68532200fc8ddd1a5",
+            "manifest_hits": 0,
             "description": "Netzwelt.de bietet Testberichte, Downloads, Anleitungen und ausführliche Informationen wie Kaufberatungen &amp; Videos zu Smartphones, Tablet-PCs, Notebooks, Software, Fernseher und Smart Home."
         },
         {
@@ -3180,6 +3239,7 @@
             "splash_pages": null,
             "root_uri": "https://www.reichelt.de/manifest.json?stamp=531",
             "file_md5": "manaa34aa384ca0389f91d663e97eb22424",
+            "manifest_hits": 0,
             "description": "&#220;ber 100.000 Artikel aus Technik & Elektronik online kaufen bei reichelt.de. Schnelle Lieferung & g&#252;nstige Preise&#33; reichelt elektronik - Technik verbindet."
         },
         {
@@ -3210,6 +3270,7 @@
             "gcm_sender_id": "103953800507",
             "root_uri": "https://www.autoscout24.de/service-worker/manifests/manifest.json",
             "file_md5": "manb3589d98270a8c41d1239fcba6ed8a5f",
+            "manifest_hits": 0,
             "description": "Neu- und Gebrauchtwagen sowie Motorräder, Wohnmobile und Nutzfahrzeuge finden Sie auf AutoScout24, dem europaweit größten Online-Automarkt."
         },
         {
@@ -3247,7 +3308,8 @@
                 }
             ],
             "root_uri": "https://www.welt.de/assets/resources/manifest/manifest-202e2e564b.json",
-            "file_md5": "man73c0d40f27e96cf6e9b15081ed1327a2"
+            "file_md5": "man73c0d40f27e96cf6e9b15081ed1327a2",
+            "manifest_hits": 0
         },
         {
             "short_name": "bücher.de",
@@ -3270,6 +3332,7 @@
             "background_color": "#e0e0e0",
             "root_uri": "https://www.buecher.de/assets/pwa/manifest.json",
             "file_md5": "mane4f25439fc47a0fd84859a2d58120715",
+            "manifest_hits": 0,
             "description": "bücher.de:  ✔ über 15 Mio. Artikel ✔ Versandkostenfrei online bestellen ✔ Kein Mindestbestellwert ✔ Bequem per Rechnung bezahlen!"
         },
         {
@@ -3325,6 +3388,7 @@
             "splash_pages": null,
             "root_uri": "https://amp.dev/manifest.json",
             "file_md5": "man6465a3c7ba28f95f45adc093bef9018e",
+            "manifest_hits": 0,
             "description": "Whether you are a publisher, e-commerce company, storyteller, advertiser or email sender, AMP makes it easy to create great experiences on the web. Use AMP to build websites, stories, ads and emails."
         },
         {
@@ -3376,6 +3440,7 @@
             "gcm_user_visible_only": true,
             "root_uri": "https://www.indiatoday.in/manifest.json",
             "file_md5": "man94cd97ad9071cb656bed57ef02038418",
+            "manifest_hits": 0,
             "description": "no description"
         },
         {
@@ -3441,7 +3506,8 @@
                 }
             ],
             "root_uri": "https://m.alibaba.com/manifest-pwa.json",
-            "file_md5": "man3a56405588f9a9ea27e2729c217e5a9c"
+            "file_md5": "man3a56405588f9a9ea27e2729c217e5a9c",
+            "manifest_hits": 0
         }
     ]
 }
