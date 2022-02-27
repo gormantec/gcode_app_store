@@ -24,7 +24,8 @@
             "start_url": "/apps/37790665-calculator/index.html",
             "description": "calculator",
             "prefer_related_applications": false,
-            "root_uri": "https://gcode.com.au/apps/37790665-calculator/manifest.json"
+            "root_uri": "https://gcode.com.au/apps/37790665-calculator/manifest.json",
+            "file_md5": "man0c6e7f9236a61b78da7847e71c2ce416"
         },
         {
             "name": "boatcrew",
@@ -50,7 +51,8 @@
             "start_url": "/apps/37790665-boatcrew/index.html",
             "description": "boatcrew",
             "prefer_related_applications": false,
-            "root_uri": "https://gcode.com.au/apps/37790665-boatcrew/manifest.json"
+            "root_uri": "https://gcode.com.au/apps/37790665-boatcrew/manifest.json",
+            "file_md5": "mandf5b0360ab1bf73c9309f6f5c0530e58"
         },
         {
             "name": "Google Maps",
@@ -95,7 +97,8 @@
             "permissions": [
                 "gcm"
             ],
-            "root_uri": "https://www.google.com/maps/preview/pwa/manifest?source=ttpwa&hl=en"
+            "root_uri": "https://www.google.com/maps/preview/pwa/manifest?source=ttpwa&hl=en",
+            "file_md5": "man70ce16632135ed8ee16d001f603fec95"
         },
         {
             "android_package_name": "com.pinterest",
@@ -210,6 +213,7 @@
                 }
             ],
             "root_uri": "https://www.pinterest.com.au/manifest.json",
+            "file_md5": "man810a2108296e618e740c9b7d5d82427a",
             "description": "Discover recipes, home ideas, style inspiration and other ideas to try."
         },
         {
@@ -251,7 +255,9 @@
             "categories": [
                 "news"
             ],
-            "root_uri": "https://flipboard.com/manifest.webmanifest"
+            "root_uri": "https://flipboard.com/manifest.webmanifest",
+            "file_md5": "man5ba83d556fdc0a177c3b26aa30565756",
+            "manifest_hits": 2
         },
         {
             "lang": "en",
@@ -272,6 +278,8 @@
                 }
             ],
             "root_uri": "https://www.soundslice.com/webmanifest.json",
+            "file_md5": "manad56c32f7fc9569d0fb79213aad043b1",
+            "manifest_hits": 2,
             "description": "Learn music better with our living sheet music."
         },
         {
@@ -295,6 +303,8 @@
                 }
             ],
             "root_uri": "https://mcctv.ir/wp-json/wp/v2/web-app-manifest",
+            "file_md5": "man13e53b84dc599c9d0bf135b530722fae",
+            "manifest_hits": 1,
             "description": "no description"
         },
         {
@@ -410,7 +420,90 @@
                 }
             ],
             "root_uri": "https://www.pinterest.com/manifest.json",
+            "file_md5": "man810a2108296e618e740c9b7d5d82427a",
+            "manifest_hits": 1,
             "description": "Discover recipes, home ideas, style inspiration and other ideas to try."
+        },
+        {
+            "lang": "en",
+            "short_name": "adactio",
+            "name": "adactio",
+            "description": "Jeremy Keith",
+            "icons": [
+                {
+                    "src": "/icon-512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/icon.png",
+                    "sizes": "300x300",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/icon-192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apple-touch-icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-150.jpg",
+                    "sizes": "150x150",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-192.jpg",
+                    "sizes": "192x192",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-200.jpg",
+                    "sizes": "200x200",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-300.jpg",
+                    "sizes": "300x300",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-500.jpg",
+                    "sizes": "500x500",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-512.jpg",
+                    "sizes": "512x512",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/images/photo-600.jpg",
+                    "sizes": "600x600",
+                    "type": "image/jpeg",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/",
+            "display": "minimal-ui",
+            "background_color": "#ffffff",
+            "theme_color": "#ffffff",
+            "root_uri": "https://adactio.com/manifest.json",
+            "file_md5": "man7528dce84d4795d3ea6a9a86abd0accb",
+            "manifest_hits": 1
         },
         {
             "background_color": "#456BD9",
@@ -435,7 +528,9 @@
             "short_name": "PWA Stats",
             "start_url": "/",
             "theme_color": "#456BD9",
-            "root_uri": "https://www.pwastats.com/manifest.json"
+            "root_uri": "https://www.pwastats.com/manifest.json",
+            "file_md5": "man1686f62ac906916f55ceaf6498721223",
+            "manifest_hits": 1
         },
         {
             "dir": "ltr",
@@ -523,7 +618,9 @@
             "categories": [
                 "utility"
             ],
-            "root_uri": "https://www.pwabuilder.com/manifest.json"
+            "root_uri": "https://www.pwabuilder.com/manifest.json",
+            "file_md5": "man08c63e58863bd10e21334ff02ed6a680",
+            "manifest_hits": 1
         },
         {
             "name": "YouTube",
@@ -600,6 +697,8 @@
                 }
             ],
             "root_uri": "https://www.youtube.com/manifest.webmanifest",
+            "file_md5": "mana8f5eb29f852b756dc73fab692ef143a",
+            "manifest_hits": 32,
             "description": "Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube."
         },
         {
@@ -628,7 +727,9 @@
             "scope": "/",
             "prefer_related_applications": false,
             "version": "6.0.0",
-            "root_uri": "https://atlastools.ir/manifest.json"
+            "root_uri": "https://atlastools.ir/manifest.json",
+            "file_md5": "man26e3336dc484fc2c194de52698402714",
+            "manifest_hits": 1
         },
         {
             "icons": [
@@ -691,6 +792,8 @@
             "background_color": "#EEEEEE",
             "theme_color": "#C24F3D",
             "root_uri": "https://todoist.com/app/manifest.48149c9f0c601e29a9554640f7bf5b4d.json",
+            "file_md5": "mane4c7123c4fc56803da46ef87f30c7478",
+            "manifest_hits": 1,
             "description": "no description"
         },
         {
@@ -806,7 +909,147 @@
                 }
             ],
             "root_uri": "https://pinterest.com/manifest.json",
+            "file_md5": "man810a2108296e618e740c9b7d5d82427a",
+            "manifest_hits": 1,
             "description": "Discover recipes, home ideas, style inspiration and other ideas to try."
+        },
+        {
+            "name": "علی‌بابا خرید بلیط هواپیما بلیط قطار و بلیط هواپیما خارجی",
+            "short_name": "علی‌بابا",
+            "description": "باسابقه‌ترین و معتبرترین سامانه خرید اینترنتی بلیط هواپیما،بلیط چارتر و بلیط قطار رجا، رزرو بلیط هواپیما و خرید بلیط هواپیما خارجی و داخلی از معتبرترین ایرلاین‌های ایران و جهان",
+            "background_color": "#FFFFFF",
+            "theme_color": "#FFFFFF",
+            "dir": "rtl",
+            "lang": "fa",
+            "display": "standalone",
+            "start_url": "/?standalone=true",
+            "icons": [
+                {
+                    "src": "/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/maskable-icon-x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "/maskable-icon-x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                }
+            ],
+            "root_uri": "https://www.alibaba.ir/pwa-manifest.json",
+            "file_md5": "man889b3aabbd53dce05de76e5f22c5252b",
+            "manifest_hits": 1
+        },
+        {
+            "name": "Smashing Magazine",
+            "short_name": "Smashing",
+            "description": "For professional web designers and developers.",
+            "icons": [
+                {
+                    "src": "https://www.smashingmagazine.com/images/favicon/favicon-192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.smashingmagazine.com/images/favicon/favicon-512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "theme_color": "#E6492F",
+            "background_color": "#E6492F",
+            "display": "standalone",
+            "orientation": "natural",
+            "start_url": "/",
+            "root_uri": "https://www.smashingmagazine.com/manifest.json",
+            "file_md5": "man1af6395faba03c3cbddf24eb8b61d305",
+            "manifest_hits": 1
+        },
+        {
+            "short_name": "SmashingConf",
+            "name": "Smashing Online Workshops",
+            "icons": [
+                {
+                    "src": "/images/app-icon-256x256.png",
+                    "type": "image/png",
+                    "sizes": "256x256"
+                },
+                {
+                    "src": "/images/app-icon-384x384.png",
+                    "type": "image/png",
+                    "sizes": "384x384"
+                },
+                {
+                    "src": "/images/app-icon-384x384.png",
+                    "type": "image/png",
+                    "sizes": "512x512"
+                },
+                {
+                    "src": "/images/app-icon-maskable.png",
+                    "sizes": "384x384",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/online-workshops/",
+            "background_color": "#FFFFFF",
+            "display": "standalone",
+            "theme_color": "#df342b",
+            "root_uri": "https://smashingconf.com/manifest.json",
+            "file_md5": "man1000bd0afb7b3261ae711217c1927361",
+            "manifest_hits": 2,
+            "description": "The Smashing Cat is stuck on the couch, but that does not mean we have to stop learning. Meet our online workshops, and boost your skills from the comfort of your home or office."
+        },
+        {
+            "short_name": "SmashingConf",
+            "name": "Smashing Online Workshops",
+            "icons": [
+                {
+                    "src": "/images/app-icon-256x256.png",
+                    "type": "image/png",
+                    "sizes": "256x256"
+                },
+                {
+                    "src": "/images/app-icon-384x384.png",
+                    "type": "image/png",
+                    "sizes": "384x384"
+                },
+                {
+                    "src": "/images/app-icon-384x384.png",
+                    "type": "image/png",
+                    "sizes": "512x512"
+                },
+                {
+                    "src": "/images/app-icon-maskable.png",
+                    "sizes": "384x384",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/online-workshops/",
+            "background_color": "#FFFFFF",
+            "display": "standalone",
+            "theme_color": "#df342b",
+            "root_uri": "https://www.smashingconf.com/manifest.json",
+            "file_md5": "man1000bd0afb7b3261ae711217c1927361",
+            "manifest_hits": 1,
+            "description": "The Smashing Cat is stuck on the couch, but that does not mean we have to stop learning. Meet our online workshops, and boost your skills from the comfort of your home or office."
         },
         {
             "name": "BMW.com",
@@ -862,94 +1105,9 @@
             "gcm_sender_id": "671555070731",
             "gcm_user_visible_only": true,
             "root_uri": "https://www.bmw.com/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/manifest_en.json",
+            "file_md5": "man37403d73b1135cb7c30040ee8ff1d5e8",
+            "manifest_hits": 1,
             "description": "► Read now: Inspiring stories and interviews, exciting videos and helpful insight. Discover the future of mobility at BMW.com."
-        },
-        {
-            "name": "علی‌بابا خرید بلیط هواپیما بلیط قطار و بلیط هواپیما خارجی",
-            "short_name": "علی‌بابا",
-            "description": "باسابقه‌ترین و معتبرترین سامانه خرید اینترنتی بلیط هواپیما،بلیط چارتر و بلیط قطار رجا، رزرو بلیط هواپیما و خرید بلیط هواپیما خارجی و داخلی از معتبرترین ایرلاین‌های ایران و جهان",
-            "background_color": "#FFFFFF",
-            "theme_color": "#FFFFFF",
-            "dir": "rtl",
-            "lang": "fa",
-            "display": "standalone",
-            "start_url": "/?standalone=true",
-            "icons": [
-                {
-                    "src": "/android-chrome-192x192.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/android-chrome-512x512.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/android-chrome-512x512.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/maskable-icon-x512.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "maskable"
-                },
-                {
-                    "src": "/maskable-icon-x192.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "maskable"
-                }
-            ],
-            "root_uri": "https://www.alibaba.ir/pwa-manifest.json"
-        },
-        {
-            "short_name": "شرکت گامان تزئین جاوید",
-            "name": "شرکت گامان تزئین جاوید",
-            "icons": [
-                {
-                    "src": "//gamantj.com/wp-content/uploads/2021/09/logo-gaman-192.png",
-                    "type": "image/png",
-                    "sizes": "192x192",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "//gamantj.com/wp-content/uploads/2021/09/logo-gaman-512.png",
-                    "type": "image/png",
-                    "sizes": "512x512",
-                    "purpose": "any maskable"
-                }
-            ],
-            "display": "fullscreen",
-            "start_url": "/",
-            "lang": "fa-IR",
-            "description": "فروش انواع موکت - کفپوش - چمن مصنوعی",
-            "background_color": "#fff",
-            "theme_color": "#0058a1",
-            "scope": "/",
-            "prefer_related_applications": false,
-            "version": "7.0.0",
-            "root_uri": "https://gamantj.com/manifest.json"
-        },
-        {
-            "name": "Code and Comment",
-            "short_name": "Code and Comment",
-            "start_url": "./",
-            "display": "standalone",
-            "orientation": "any",
-            "background_color": "#fff",
-            "theme_color": "#f1f7fe",
-            "icons": [
-                {
-                    "src": "icon.png",
-                    "type": "image/png",
-                    "sizes": "192x192"
-                }
-            ],
-            "root_uri": "https://code-and-comment.github.io/code-and-comment/manifest.json",
-            "description": "PWA to add comment to Github file."
         },
         {
             "name": "2Brew",
@@ -986,6 +1144,8 @@
             "background_color": "#f9f9fa",
             "theme_color": "#f9f9fa",
             "root_uri": "https://2brew.github.io/manifest.json",
+            "file_md5": "man11b78d070edc1ebffb829f47766ceaaf",
+            "manifest_hits": 1,
             "description": "no description"
         },
         {
@@ -1046,7 +1206,9 @@
                 }
             ],
             "theme_color": "#3E2723",
-            "root_uri": "https://alarmdj.com/manifest.json"
+            "root_uri": "https://alarmdj.com/manifest.json",
+            "file_md5": "mane6efcdd11406358ef0b749eda0ea7021",
+            "manifest_hits": 1
         },
         {
             "name": "Anonynote",
@@ -1069,6 +1231,8 @@
             "scope": "/",
             "display": "standalone",
             "root_uri": "https://anonynote.org/site.webmanifest",
+            "file_md5": "mand85007a23ddaf9cf93c78b009a36936b",
+            "manifest_hits": 1,
             "description": "A free Progressive Web App for anonymously saving, retrieving and organizing notes. No accounts or logins! Quickly access important data from all of your devices."
         },
         {
@@ -1102,6 +1266,8 @@
             "theme_color": "#000000",
             "display": "standalone",
             "root_uri": "https://bolster.pro/manifest.json",
+            "file_md5": "man6f435a85298fbeebae5a00a5d2983104",
+            "manifest_hits": 1,
             "description": "The secure, private journal."
         },
         {
@@ -1230,7 +1396,157 @@
                     "id": "com.catsafefoods_paid.twa"
                 }
             ],
-            "root_uri": "https://catsafefoods.com/./manifest.json"
+            "root_uri": "https://catsafefoods.com/./manifest.json",
+            "file_md5": "man9ad1fc3043e747b4cbff5b4202d438a5",
+            "manifest_hits": 1
+        },
+        {
+            "name": "Dog Safe Foods",
+            "short_name": "Dog Safe Foods",
+            "description": "Sharing food with your dog? Make sure it's safe first",
+            "display": "standalone",
+            "start_url": "./",
+            "scope": ".",
+            "theme_color": "#000",
+            "background_color": "#000",
+            "orientation": "portrait-primary",
+            "icons": [
+                {
+                    "src": "android-chrome-36x36.png",
+                    "sizes": "36x36",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-48x48.png",
+                    "sizes": "48x48",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-72x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-96x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-384x384.png",
+                    "sizes": "384x384",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                },
+                {
+                    "src": "maskable_icon.png",
+                    "sizes": "650x650",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "monochrome_icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "monochrome"
+                }
+            ],
+            "categories": [
+                "pets",
+                "food"
+            ],
+            "screenshots": [
+                {
+                    "src": "screenshot1.png",
+                    "sizes": "1500x800",
+                    "type": "image/png"
+                },
+                {
+                    "src": "screenshot2.png",
+                    "sizes": "1500x800",
+                    "type": "image/png"
+                },
+                {
+                    "src": "screenshot3.png",
+                    "sizes": "1500x800",
+                    "type": "image/png"
+                }
+            ],
+            "shortcuts": [
+                {
+                    "name": "View Safe Foods",
+                    "description": "View all foods that are safe for dogs to eat",
+                    "url": "./safe",
+                    "icons": [
+                        {
+                            "src": "icon-thumbs-up.png",
+                            "sizes": "512x512"
+                        }
+                    ]
+                },
+                {
+                    "name": "View Unsafe Foods",
+                    "description": "View all foods that are not safe for dogs to eat",
+                    "url": "./unsafe",
+                    "icons": [
+                        {
+                            "src": "icon-thumbs-down.png",
+                            "sizes": "512x512"
+                        }
+                    ]
+                }
+            ],
+            "prefer_related_applications": true,
+            "related_applications": [
+                {
+                    "platform": "webapp",
+                    "url": "https://dogsafefoods.com/manifest.json"
+                },
+                {
+                    "platform": "play",
+                    "url": "https://play.google.com/store/apps/details?id=com.dogsafefoods.twa",
+                    "id": "com.dogsafefoods.twa"
+                }
+            ],
+            "root_uri": "https://dogsafefoods.com/./manifest.json",
+            "file_md5": "man00e5b75e3d745f7adbbd3ebd6a4f69a1",
+            "manifest_hits": 1
+        },
+        {
+            "short_name": "Dev.Opera",
+            "name": "Dev.Opera",
+            "icons": [
+                {
+                    "src": "apple-touch-icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png"
+                }
+            ],
+            "start_url": "/",
+            "display": "standalone",
+            "orientation": "any",
+            "root_uri": "https://dev.opera.com/.webmanifest",
+            "file_md5": "man699f3c77a27e726e9b6aa68c82f6bf4f",
+            "manifest_hits": 2,
+            "description": "Dev.Opera covers current and future HTML, CSS and JavaScript features and implementations, responsive web design, browser extensions, and more."
         },
         {
             "short_name": "GPA Calculator",
@@ -1333,103 +1649,9 @@
                     ]
                 }
             ],
-            "root_uri": "https://gpacalculator.memorymaps.io/manifest.json"
-        },
-        {
-            "short_name": "Dev.Opera",
-            "name": "Dev.Opera",
-            "icons": [
-                {
-                    "src": "apple-touch-icon.png",
-                    "sizes": "180x180",
-                    "type": "image/png"
-                }
-            ],
-            "start_url": "/",
-            "display": "standalone",
-            "orientation": "any",
-            "root_uri": "https://dev.opera.com/.webmanifest",
-            "manifest_hits": 2,
-            "description": "Dev.Opera covers current and future HTML, CSS and JavaScript features and implementations, responsive web design, browser extensions, and more."
-        },
-        {
-            "lang": "en",
-            "short_name": "adactio",
-            "name": "adactio",
-            "description": "Jeremy Keith",
-            "icons": [
-                {
-                    "src": "/icon-512.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/icon.png",
-                    "sizes": "300x300",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/icon-192.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/apple-touch-icon.png",
-                    "sizes": "180x180",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-150.jpg",
-                    "sizes": "150x150",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-192.jpg",
-                    "sizes": "192x192",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-200.jpg",
-                    "sizes": "200x200",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-300.jpg",
-                    "sizes": "300x300",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-500.jpg",
-                    "sizes": "500x500",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-512.jpg",
-                    "sizes": "512x512",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/images/photo-600.jpg",
-                    "sizes": "600x600",
-                    "type": "image/jpeg",
-                    "purpose": "any maskable"
-                }
-            ],
-            "start_url": "/",
-            "display": "minimal-ui",
-            "background_color": "#ffffff",
-            "theme_color": "#ffffff",
-            "root_uri": "https://adactio.com/manifest.json"
+            "root_uri": "https://gpacalculator.memorymaps.io/manifest.json",
+            "file_md5": "man13edc114382fe6d79d5670edaa314384",
+            "manifest_hits": 1
         },
         {
             "name": "Indecisive: Decision-Making App",
@@ -1558,7 +1780,82 @@
                     "type": "image/png"
                 }
             ],
-            "root_uri": "https://indecisive.us/manifest.json"
+            "root_uri": "https://indecisive.us/manifest.json",
+            "file_md5": "man7a654aa9b6ce2f60c32775265e6d066e",
+            "manifest_hits": 1
+        },
+        {
+            "name": "Let's Plant",
+            "short_name": "Let's Plant",
+            "description": "A smart way to choose the right plant.",
+            "start_url": "/?utm_source=pwa_homescreen",
+            "scope": "/",
+            "icons": [
+                {
+                    "src": "/img/apple-touch-icon-57x57.png",
+                    "sizes": "57x57",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/img/apple-touch-icon-60x60.png",
+                    "sizes": "60x60",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/img/apple-touch-icon-72x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/img/apple-touch-icon-76x76.png",
+                    "sizes": "76x76",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/img/apple-touch-icon-114x114.png",
+                    "sizes": "114x114",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/img/apple-touch-icon-120x120.png",
+                    "sizes": "120x120",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/img/apple-touch-icon-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/img/apple-touch-icon-152x152.png",
+                    "sizes": "152x152",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/img/apple-touch-icon-180x180.png",
+                    "sizes": "180x180",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/img/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/img/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "theme_color": "#ffffff",
+            "background_color": "#ffffff",
+            "display": "standalone",
+            "orientation": "portrait",
+            "status": "ok",
+            "prompt_message": "Add a Home screen icon for easy access to Let's Plant",
+            "root_uri": "https://letsplant.org/img/manifest.json",
+            "file_md5": "man9e365041d54ab5d2ae425b24a60d98f9",
+            "manifest_hits": 1
         },
         {
             "name": "MConverter",
@@ -1683,78 +1980,107 @@
                     "url": "https://mconverter.eu/manifest.json"
                 }
             ],
-            "root_uri": "https://mconverter.eu/manifest.json"
+            "root_uri": "https://mconverter.eu/manifest.json",
+            "file_md5": "man2d9ce45ff8b8c2887f76a324e49707b3",
+            "manifest_hits": 1
         },
         {
-            "name": "Let's Plant",
-            "short_name": "Let's Plant",
-            "description": "A smart way to choose the right plant.",
-            "start_url": "/?utm_source=pwa_homescreen",
-            "scope": "/",
+            "short_name": "PixelCraft",
+            "name": "PixelCraft",
+            "prefer_related_applications": false,
             "icons": [
                 {
-                    "src": "/img/apple-touch-icon-57x57.png",
-                    "sizes": "57x57",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/img/apple-touch-icon-60x60.png",
-                    "sizes": "60x60",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/img/apple-touch-icon-72x72.png",
-                    "sizes": "72x72",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/img/apple-touch-icon-76x76.png",
-                    "sizes": "76x76",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/img/apple-touch-icon-114x114.png",
-                    "sizes": "114x114",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/img/apple-touch-icon-120x120.png",
-                    "sizes": "120x120",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/img/apple-touch-icon-144x144.png",
-                    "sizes": "144x144",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/img/apple-touch-icon-152x152.png",
-                    "sizes": "152x152",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/img/apple-touch-icon-180x180.png",
-                    "sizes": "180x180",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/img/android-chrome-192x192.png",
+                    "src": "/icons/logo.png",
                     "sizes": "192x192",
                     "type": "image/png"
                 },
                 {
-                    "src": "/img/android-chrome-512x512.png",
+                    "src": "/icons/logo.png",
                     "sizes": "512x512",
                     "type": "image/png"
                 }
             ],
-            "theme_color": "#ffffff",
+            "start_url": "/",
             "background_color": "#ffffff",
+            "Theme_color": "#ffffff",
             "display": "standalone",
-            "orientation": "portrait",
-            "status": "ok",
-            "prompt_message": "Add a Home screen icon for easy access to Let's Plant",
-            "root_uri": "https://letsplant.org/img/manifest.json"
+            "root_uri": "https://pixelcraft.web.app/manifest.json",
+            "file_md5": "man2e5f2e823e6eb3f34a35fe86e4b500db",
+            "manifest_hits": 1,
+            "description": "no description"
+        },
+        {
+            "name": "Progressive Beer",
+            "short_name": "Progressive Beer",
+            "lang": "en-US",
+            "start_url": "./index.html",
+            "display": "standalone",
+            "theme_color": "#ffe400",
+            "background_color": "#ffe400",
+            "icons": [
+                {
+                    "src": "./images/beer-icon-192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "density": 1
+                },
+                {
+                    "src": "./images/beer-icon-144.png",
+                    "sizes": "144x144",
+                    "type": "image/png",
+                    "density": "1"
+                },
+                {
+                    "src": "./images/beer-icon-240.png",
+                    "sizes": "240x240",
+                    "type": "image/png",
+                    "density": "1"
+                },
+                {
+                    "src": "./images/beer-icon-96.png",
+                    "sizes": "96x96",
+                    "type": "image/png",
+                    "density": "1"
+                }
+            ],
+            "root_uri": "https://deanhume.github.io/beer/manifest.json",
+            "file_md5": "man40d98385a8bbe873f4cbeda0218eeb39",
+            "manifest_hits": 1,
+            "description": "Progressive Beer - The ultimate guide to beer around the world."
+        },
+        {
+            "short_name": "Resume Nation",
+            "name": "Resume Nation",
+            "display": "standalone",
+            "icons": [
+                {
+                    "src": "images/icon-48.png",
+                    "sizes": "48x48",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icon-96.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icon-144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icon-192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                }
+            ],
+            "start_url": "index.html",
+            "theme_color": "#673AB7",
+            "background_color": "#EEEEEE",
+            "root_uri": "https://resume-nation.github.io/manifest.json",
+            "file_md5": "man772503c7e120739b3fff58e2e59b84d6",
+            "manifest_hits": 1,
+            "description": "no description"
         },
         {
             "name": "Passky",
@@ -1885,30 +2211,9 @@
                     "id": "9nrcp6hppb82"
                 }
             ],
-            "root_uri": "https://vault.passky.org/manifest.json"
-        },
-        {
-            "short_name": "PixelCraft",
-            "name": "PixelCraft",
-            "prefer_related_applications": false,
-            "icons": [
-                {
-                    "src": "/icons/logo.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/icons/logo.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                }
-            ],
-            "start_url": "/",
-            "background_color": "#ffffff",
-            "Theme_color": "#ffffff",
-            "display": "standalone",
-            "root_uri": "https://pixelcraft.web.app/manifest.json",
-            "description": "no description"
+            "root_uri": "https://vault.passky.org/manifest.json",
+            "file_md5": "man263858c4708947efb310459ca63f1168",
+            "manifest_hits": 1
         },
         {
             "name": "Saints Schedule & Info",
@@ -2002,76 +2307,34 @@
                     "sizes": "76x76"
                 }
             ],
-            "root_uri": "https://saintsschedule.info/manifest.json"
+            "root_uri": "https://saintsschedule.info/manifest.json",
+            "file_md5": "man9d6a24a15bef2378da9354bc3059094e",
+            "manifest_hits": 1
         },
         {
-            "name": "Progressive Beer",
-            "short_name": "Progressive Beer",
-            "lang": "en-US",
-            "start_url": "./index.html",
-            "display": "standalone",
-            "theme_color": "#ffe400",
-            "background_color": "#ffe400",
+            "lang": "en",
+            "short_name": "rem's b:log",
+            "name": "rem's b:log",
             "icons": [
                 {
-                    "src": "./images/beer-icon-192.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "density": 1
-                },
-                {
-                    "src": "./images/beer-icon-144.png",
-                    "sizes": "144x144",
-                    "type": "image/png",
-                    "density": "1"
-                },
-                {
-                    "src": "./images/beer-icon-240.png",
-                    "sizes": "240x240",
-                    "type": "image/png",
-                    "density": "1"
-                },
-                {
-                    "src": "./images/beer-icon-96.png",
-                    "sizes": "96x96",
-                    "type": "image/png",
-                    "density": "1"
-                }
-            ],
-            "root_uri": "https://deanhume.github.io/beer/manifest.json",
-            "description": "Progressive Beer - The ultimate guide to beer around the world."
-        },
-        {
-            "short_name": "Resume Nation",
-            "name": "Resume Nation",
-            "display": "standalone",
-            "icons": [
-                {
-                    "src": "images/icon-48.png",
-                    "sizes": "48x48",
+                    "src": "/images/remy-2014-twitter.png",
+                    "sizes": "300x300",
                     "type": "image/png"
                 },
                 {
-                    "src": "images/icon-96.png",
-                    "sizes": "96x96",
-                    "type": "image/png"
-                },
-                {
-                    "src": "images/icon-144.png",
-                    "sizes": "144x144",
-                    "type": "image/png"
-                },
-                {
-                    "src": "images/icon-192.png",
-                    "sizes": "192x192",
+                    "src": "/images/remy-512.png",
+                    "sizes": "512x512",
                     "type": "image/png"
                 }
             ],
-            "start_url": "index.html",
-            "theme_color": "#673AB7",
-            "background_color": "#EEEEEE",
-            "root_uri": "https://resume-nation.github.io/manifest.json",
-            "description": "no description"
+            "start_url": "/",
+            "display": "minimal-ui",
+            "background_color": "#1A1A1A",
+            "theme_color": "#1A1A1A",
+            "root_uri": "https://remysharp.com/manifest.json",
+            "file_md5": "manc4d819f6d3de6677255184afc5a6767d",
+            "manifest_hits": 1,
+            "description": "About [code] and all that jazz"
         },
         {
             "name": "Simple PWA",
@@ -2135,91 +2398,9 @@
                 }
             ],
             "root_uri": "https://simplepwa.com/./manifest.json",
+            "file_md5": "man8ab4bc45f6a3a7ca6537b6a153340b37",
+            "manifest_hits": 1,
             "description": "Simple Progressive Web App (PWA) template"
-        },
-        {
-            "lang": "en",
-            "short_name": "rem's b:log",
-            "name": "rem's b:log",
-            "icons": [
-                {
-                    "src": "/images/remy-2014-twitter.png",
-                    "sizes": "300x300",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/images/remy-512.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                }
-            ],
-            "start_url": "/",
-            "display": "minimal-ui",
-            "background_color": "#1A1A1A",
-            "theme_color": "#1A1A1A",
-            "root_uri": "https://remysharp.com/manifest.json",
-            "description": "About [code] and all that jazz"
-        },
-        {
-            "name": "GitHub",
-            "short_name": "GitHub",
-            "icons": [
-                {
-                    "sizes": "114x114",
-                    "src": "https://github.githubassets.com/apple-touch-icon-114x114.png"
-                },
-                {
-                    "sizes": "120x120",
-                    "src": "https://github.githubassets.com/apple-touch-icon-120x120.png"
-                },
-                {
-                    "sizes": "144x144",
-                    "src": "https://github.githubassets.com/apple-touch-icon-144x144.png"
-                },
-                {
-                    "sizes": "152x152",
-                    "src": "https://github.githubassets.com/apple-touch-icon-152x152.png"
-                },
-                {
-                    "sizes": "180x180",
-                    "src": "https://github.githubassets.com/apple-touch-icon-180x180.png"
-                },
-                {
-                    "sizes": "57x57",
-                    "src": "https://github.githubassets.com/apple-touch-icon-57x57.png"
-                },
-                {
-                    "sizes": "60x60",
-                    "src": "https://github.githubassets.com/apple-touch-icon-60x60.png"
-                },
-                {
-                    "sizes": "72x72",
-                    "src": "https://github.githubassets.com/apple-touch-icon-72x72.png"
-                },
-                {
-                    "sizes": "76x76",
-                    "src": "https://github.githubassets.com/apple-touch-icon-76x76.png"
-                },
-                {
-                    "src": "https://github.githubassets.com/app-icon-192.png",
-                    "type": "image/png",
-                    "sizes": "192x192"
-                },
-                {
-                    "src": "https://github.githubassets.com/app-icon-512.png",
-                    "type": "image/png",
-                    "sizes": "512x512"
-                }
-            ],
-            "prefer_related_applications": true,
-            "related_applications": [
-                {
-                    "platform": "play",
-                    "url": "https://play.google.com/store/apps/details?id=com.github.android",
-                    "id": "com.github.android"
-                }
-            ],
-            "root_uri": "https://github.com/manifest.json"
         },
         {
             "short_name": "Care Cards",
@@ -2252,193 +2433,9 @@
             "background_color": "#6CCBC5",
             "orientation": "portrait",
             "root_uri": "https://carecards.io/manifest.json",
+            "file_md5": "man77aff1ee78e37984f09c6e9fac8d84be",
+            "manifest_hits": 1,
             "description": "We all get a little overwhelmed from time to time. Care Cards is a set of helpful little tips to keep you on top of your mental well-being."
-        },
-        {
-            "name": "FlagWarriors",
-            "short_name": "fl",
-            "icons": [
-                {
-                    "src": "./img/icons/android-chrome-64x64.png",
-                    "sizes": "64x64",
-                    "type": "image/png"
-                },
-                {
-                    "src": "./img/icons/android-chrome-192x192.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                }
-            ],
-            "start_url": ".",
-            "display": "standalone",
-            "theme_color": "#000000",
-            "background_color": "#ffffff",
-            "root_uri": "https://flagwarriors.netlify.com/manifest.json",
-            "description": "no description"
-        },
-        {
-            "short_name": "jf",
-            "name": "JSON formatter",
-            "display": "standalone",
-            "description": "Minimalist JSON formatter designed to enhance productivity",
-            "icons": [
-                {
-                    "src": "images/logo-192_4.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any"
-                },
-                {
-                    "src": "images/logo-512_4.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any"
-                },
-                {
-                    "src": "images/logo-maskable-192_4.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "maskable"
-                },
-                {
-                    "src": "images/logo-maskable-512_4.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "maskable"
-                }
-            ],
-            "start_url": "/?isInPwaMode=1",
-            "background_color": "white",
-            "theme_color": "white",
-            "scope": "/",
-            "root_uri": "https://jsonformatter.live/manifest.json"
-        },
-        {
-            "short_name": "Pony Foo",
-            "name": "Pony Foo",
-            "start_url": "/",
-            "display": "standalone",
-            "orientation": "portrait",
-            "lang": "en",
-            "theme_color": "#333333",
-            "background_color": "#fcfcfc",
-            "share_target": {
-                "action": "/api/share-target",
-                "params": {
-                    "title": "title",
-                    "text": "text",
-                    "url": "url"
-                }
-            },
-            "icons": [
-                {
-                    "src": "/android-chrome-36x36.png",
-                    "sizes": "36x36",
-                    "type": "image/png",
-                    "density": 0.75
-                },
-                {
-                    "src": "/android-chrome-48x48.png",
-                    "sizes": "48x48",
-                    "type": "image/png",
-                    "density": 1
-                },
-                {
-                    "src": "/android-chrome-72x72.png",
-                    "sizes": "72x72",
-                    "type": "image/png",
-                    "density": 1.5
-                },
-                {
-                    "src": "/android-chrome-96x96.png",
-                    "sizes": "96x96",
-                    "type": "image/png",
-                    "density": 2
-                },
-                {
-                    "src": "/android-chrome-144x144.png",
-                    "sizes": "144x144",
-                    "type": "image/png",
-                    "density": 3
-                },
-                {
-                    "src": "/android-chrome-192x192.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "density": 4
-                }
-            ],
-            "root_uri": "https://ponyfoo.com/manifest.json",
-            "description": "Read the latest about JavaScript, ES6, and ECMAScript proposals on TC39. Follow the Pony Foo Weekly newsletter to stay on top of interesting and trending topics around the web platform."
-        },
-        {
-            "short_name": "BudgetTracker",
-            "name": "Budget Tracker",
-            "description": "Track expenses and analyse if they stick to a budget",
-            "start_url": ".",
-            "display": "standalone",
-            "theme_color": "#4a148c",
-            "background_color": "#2f0d59",
-            "icons": [
-                {
-                    "src": "favicon.ico",
-                    "sizes": "64x64 32x32 24x24 16x16",
-                    "type": "image/x-icon"
-                },
-                {
-                    "src": "android-chrome-192x192.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                },
-                {
-                    "src": "android-chrome-512x512.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                }
-            ],
-            "screenshots": [
-                {
-                    "src": "screenshots/budget-list.webp",
-                    "sizes": "360x590",
-                    "type": "image/webp"
-                },
-                {
-                    "src": "screenshots/budget-view.webp",
-                    "sizes": "360x590",
-                    "type": "image/webp"
-                },
-                {
-                    "src": "screenshots/budget-view.webp",
-                    "sizes": "360x590",
-                    "type": "image/webp"
-                },
-                {
-                    "src": "screenshots/edit-budget.webp",
-                    "sizes": "360x590",
-                    "type": "image/webp"
-                },
-                {
-                    "src": "screenshots/edit-expense.webp",
-                    "sizes": "360x590",
-                    "type": "image/webp"
-                },
-                {
-                    "src": "screenshots/statistics.webp",
-                    "sizes": "360x590",
-                    "type": "image/webp"
-                }
-            ],
-            "root_uri": "https://btapp.netlify.com/manifest.json"
-        },
-        {
-            "name": "Dean Hume's Blog",
-            "short_name": "Dean Hume",
-            "start_url": "/",
-            "theme_color": "#000",
-            "background_color": "#000",
-            "display": "standalone",
-            "root_uri": "https://deanhume.com/manifest.json",
-            "description": "My name is Dean Hume, and I am an author, blogger, and software developer."
         },
         {
             "name": "PregBuddy",
@@ -2489,31 +2486,9 @@
             ],
             "gcm_sender_id": "103953800507",
             "root_uri": "https://app.pregbuddy.com/manifest.json",
+            "file_md5": "man5939583c320b14bd74f46a4f9fcf4f21",
+            "manifest_hits": 1,
             "description": "Stay prepared &amp; fit with FREE weekly pregnancy tips about your baby &amp; your body! Best app for pregnant women."
-        },
-        {
-            "name": "Freelancer - Hire & Find Jobs",
-            "short_name": "Freelancer",
-            "theme_color": "#007fed",
-            "background_color": "#f0f0f0",
-            "display": "standalone",
-            "scope": "/",
-            "start_url": "/internal/pwa?sw=true&utm_source=manifest",
-            "lang": "en",
-            "icons": [
-                {
-                    "src": "https://www.f-cdn.com/assets/main/en/assets/app-icons/icon-192x192.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                },
-                {
-                    "src": "https://www.f-cdn.com/assets/main/en/assets/app-icons/icon-512x512.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                }
-            ],
-            "root_uri": "https://m.freelancer.com/manifest.webmanifest",
-            "description": "no description"
         },
         {
             "name": "Versus, compare anything",
@@ -2614,7 +2589,9 @@
             "theme_color": "#161616",
             "background_color": "#161616",
             "display": "standalone",
-            "root_uri": "https://versus.com/manifest.webmanifest"
+            "root_uri": "https://versus.com/manifest.webmanifest",
+            "file_md5": "man39fedc52b660b8630f32323b32d1ff2b",
+            "manifest_hits": 1
         },
         {
             "name": "Scoreboard",
@@ -2640,7 +2617,9 @@
             "orientation": "portrait",
             "start_url": "https://scoreboard.rocks/",
             "scope": "https://scoreboard.rocks/",
-            "root_uri": "https://scoreboard.rocks/pwa-manifest.json"
+            "root_uri": "https://scoreboard.rocks/pwa-manifest.json",
+            "file_md5": "man8a8bd24d49f14b7eca22dfc90d8399a0",
+            "manifest_hits": 1
         },
         {
             "name": "todo.blue",
@@ -2757,281 +2736,43 @@
                     "id": "9P7Q7FL2ZNJ7"
                 }
             ],
-            "root_uri": "https://todo.blue/pwa-manifest.json"
+            "root_uri": "https://todo.blue/pwa-manifest.json",
+            "file_md5": "man923e258ca45671fb6c3c17d15aab4f92",
+            "manifest_hits": 1
         },
         {
-            "name": "amp.dev",
-            "short_name": "amp.dev",
-            "theme_color": "#005af0",
-            "background_color": "#ffffff",
-            "display": "standalone",
-            "scope": "/",
-            "start_url": "/",
+            "name": "Pete LePage",
+            "start_url": "https://petelepage.com",
+            "display": "minimal-ui",
+            "dir": "ltr",
+            "short_name": "Pete LePage",
+            "lang": "en-US",
+            "background_color": "#eeeeee",
+            "theme_color": "#ca2017",
+            "description": "Thoughts on web development, life, and photography.",
             "icons": [
                 {
-                    "src": "/static/img/icons/icon-72x72.png",
-                    "sizes": "72x72",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/static/img/icons/icon-96x96.png",
-                    "sizes": "96x96",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/static/img/icons/icon-128x128.png",
-                    "sizes": "128x128",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/static/img/icons/icon-144x144.png",
-                    "sizes": "144x144",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/static/img/icons/icon-152x152.png",
-                    "sizes": "152x152",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/static/img/icons/icon-192x192.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/static/img/icons/icon-384x384.png",
-                    "sizes": "384x384",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/static/img/icons/icon-512x512.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                }
-            ],
-            "splash_pages": null,
-            "root_uri": "https://www.ampproject.org/manifest.json",
-            "description": "Whether you are a publisher, e-commerce company, storyteller, advertiser or email sender, AMP makes it easy to create great experiences on the web. Use AMP to build websites, stories, ads and emails."
-        },
-        {
-            "short_name": "MobiTUKI",
-            "name": "MobiTUKI English-Swahili Advanced Dictionary",
-            "description": "The best available English-Swahili-English dictionary with 30000+ entries, including idioms, derivatives, etymology and examples.",
-            "start_url": "/english-swahili",
-            "background_color": "#8ab49e",
-            "display": "standalone",
-            "lang": "en-GB",
-            "scope": "/",
-            "theme_color": "#468966",
-            "categories": [
-                "education",
-                "utilities"
-            ],
-            "icons": [
-                {
-                    "src": "/static/img/src/logo-rendered.svg",
-                    "type": "image/svg+xml",
-                    "sizes": "any",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/static/img/favicon/android-chrome-192x192.png",
-                    "type": "image/png",
-                    "sizes": "192x192",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/static/img/favicon/android-chrome-512x512.png",
-                    "type": "image/png",
-                    "sizes": "512x512",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/static/img/favicon/apple-touch-icon.png",
-                    "type": "image/png",
-                    "sizes": "180x180",
-                    "purpose": "any maskable"
-                }
-            ],
-            "shortcuts": [
-                {
-                    "name": "Swahili-English",
-                    "short_name": "English-Swahili",
-                    "description": "MobiTUKI Kiswahili-Kiingereza Kamusi Kuu",
-                    "url": "/swahili-english?source=pwa",
-                    "icons": [
-                        {
-                            "src": "/static/img/favicon/android-chrome-192x192.png",
-                            "type": "image/png",
-                            "sizes": "192x192"
-                        }
-                    ]
-                },
-                {
-                    "name": "English-Swahili",
-                    "short_name": "English-Swahili",
-                    "description": "MobiTUKI Advanced Englis-Swahili Dictionary",
-                    "url": "/english-swahili?source=pwa",
-                    "icons": [
-                        {
-                            "src": "/static/img/favicon/android-chrome-192x192.png",
-                            "type": "image/png",
-                            "sizes": "192x192"
-                        }
-                    ]
-                }
-            ],
-            "screenshots": [
-                {
-                    "src": "/static/img/screenshot1.png",
-                    "sizes": "758x1266",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/static/img/screenshot2.png",
-                    "sizes": "758x1266",
-                    "type": "image/png"
-                }
-            ],
-            "root_uri": "https://swahili-dictionary.com/app.webmanifest"
-        },
-        {
-            "short_name": "Tower Game",
-            "name": "Tower Game",
-            "description": "Stack blocks and build the tallest tower!",
-            "icons": [
-                {
-                    "src": "/assets/icon-192.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/assets/icon-512.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                }
-            ],
-            "start_url": "/",
-            "background_color": "#F95240",
-            "theme_color": "#F95240",
-            "display": "standalone",
-            "orientation": "portrait",
-            "root_uri": "https://www.towergame.app/manifest.json"
-        },
-        {
-            "name": "Water Wars",
-            "short_name": "Wat-Wars",
-            "icons": [
-                {
-                    "src": "touch-icons/touch-icon-iphone.png",
-                    "type": "image/png",
-                    "sizes": "114x114"
-                },
-                {
-                    "src": "touch-icons/touch-icon-ipad.png",
-                    "type": "image/png",
-                    "sizes": "152x152"
-                },
-                {
-                    "src": "touch-icons/touch-icon-ipad-retina.png",
-                    "type": "image/png",
-                    "sizes": "167x167"
-                },
-                {
-                    "src": "touch-icons/touch-icon-iphone-retina.png",
-                    "type": "image/png",
-                    "sizes": "180x180"
-                },
-                {
-                    "src": "touch-icons/touch-icon.png",
-                    "type": "image/png",
-                    "sizes": "192x192"
-                },
-                {
-                    "src": "splashscreens/splash-icon.png",
-                    "type": "image/png",
-                    "sizes": "512x512"
-                }
-            ],
-            "start_url": "index.html",
-            "background_color": "#ffffff",
-            "display": "standalone",
-            "orientation": "landscape",
-            "scope": "index.html",
-            "theme_color": "#ffffff",
-            "root_uri": "https://vcjhwebdev.github.io/waterwars/manifest.json",
-            "description": "no description"
-        },
-        {
-            "manifest_version": 3,
-            "name": "damn dog",
-            "short_name": "damn dog",
-            "description": "A guessing game for wikiHow illustrations.",
-            "default_locale": "en",
-            "display": "standalone",
-            "scope": "/",
-            "start_url": "/",
-            "theme_color": "#222730",
-            "background_color": "#222730",
-            "icons": [
-                {
-                    "src": "/android-chrome-36x36.png",
-                    "sizes": "36x36",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/android-chrome-48x48.png",
-                    "sizes": "48x48",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/android-chrome-72x72.png",
-                    "sizes": "72x72",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/android-chrome-96x96.png",
-                    "sizes": "96x96",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/maskable-128.png",
-                    "sizes": "128x128",
-                    "type": "image/png",
-                    "purpose": "maskable"
-                },
-                {
-                    "src": "/maskable-144.png",
-                    "sizes": "144x144",
-                    "type": "image/png",
-                    "purpose": "maskable"
-                },
-                {
-                    "src": "/maskable-192.png",
+                    "src": "/img/h5g-sq-192.png",
                     "sizes": "192x192",
                     "type": "image/png",
-                    "purpose": "maskable"
+                    "purpose": "any"
                 },
                 {
-                    "src": "/maskable-256.png",
-                    "sizes": "256x256",
-                    "type": "image/png",
-                    "purpose": "maskable"
-                },
-                {
-                    "src": "/maskable-512.png",
+                    "src": "/img/h5g-sq-512.png",
                     "sizes": "512x512",
                     "type": "image/png",
-                    "purpose": "maskable"
+                    "purpose": "any"
                 },
                 {
-                    "src": "/maskable-1024.png",
-                    "sizes": "1024x1024",
+                    "src": "/img/h5g-sq-720-maskable.png",
+                    "sizes": "720x720",
                     "type": "image/png",
                     "purpose": "maskable"
                 }
             ],
-            "root_uri": "https://damn.dog/manifest.json"
+            "root_uri": "https://petelepage.com/manifest.json",
+            "file_md5": "mandd5add321204d7cacb91e255568467ee",
+            "manifest_hits": 1
         },
         {
             "name": "Cloud Four",
@@ -3062,7 +2803,9 @@
                 "web"
             ],
             "gcm_sender_id": "482941778795",
-            "root_uri": "https://cloudfour.com/manifest.json"
+            "root_uri": "https://cloudfour.com/manifest.json",
+            "file_md5": "man66cfc7554db06cf512b79513b5faa876",
+            "manifest_hits": 1
         },
         {
             "name": "YouTube",
@@ -3139,6 +2882,8 @@
                 }
             ],
             "root_uri": "https://youtube.com/manifest.webmanifest",
+            "file_md5": "mana8f5eb29f852b756dc73fab692ef143a",
+            "manifest_hits": 3,
             "description": "Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube."
         },
         {
@@ -3152,188 +2897,125 @@
             "theme_color": "#fff",
             "description": "Koombea is the leading mobile consultancy and web app development agency for businesses looking to bring their ideas to reality.",
             "root_uri": "https://www.koombea.com/wp-json/wp/v2/web-app-manifest",
-            "manifest_hits": 7
+            "file_md5": "man990f817c762e34b6e0eb1b1f3ff93cd4",
+            "manifest_hits": 46
         },
         {
-            "name": "Dog Safe Foods",
-            "short_name": "Dog Safe Foods",
-            "description": "Sharing food with your dog? Make sure it's safe first",
-            "display": "standalone",
-            "start_url": "./",
-            "scope": ".",
-            "theme_color": "#000",
-            "background_color": "#000",
-            "orientation": "portrait-primary",
+            "android_package_name": "com.pinterest",
+            "background_color": "#fff",
+            "display": "minimal-ui",
             "icons": [
                 {
-                    "src": "android-chrome-36x36.png",
-                    "sizes": "36x36",
-                    "type": "image/png"
-                },
-                {
-                    "src": "android-chrome-48x48.png",
-                    "sizes": "48x48",
-                    "type": "image/png"
-                },
-                {
-                    "src": "android-chrome-72x72.png",
-                    "sizes": "72x72",
-                    "type": "image/png"
-                },
-                {
-                    "src": "android-chrome-96x96.png",
-                    "sizes": "96x96",
-                    "type": "image/png"
-                },
-                {
-                    "src": "android-chrome-144x144.png",
-                    "sizes": "144x144",
-                    "type": "image/png"
-                },
-                {
-                    "src": "android-chrome-192x192.png",
+                    "src": "https://s.pinimg.com/images/favicon_red_192.png",
                     "sizes": "192x192",
                     "type": "image/png"
-                },
-                {
-                    "src": "android-chrome-256x256.png",
-                    "sizes": "256x256",
-                    "type": "image/png"
-                },
-                {
-                    "src": "android-chrome-384x384.png",
-                    "sizes": "384x384",
-                    "type": "image/png"
-                },
-                {
-                    "src": "android-chrome-512x512.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                },
-                {
-                    "src": "maskable_icon.png",
-                    "sizes": "650x650",
-                    "type": "image/png",
-                    "purpose": "maskable"
-                },
-                {
-                    "src": "monochrome_icon.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "monochrome"
                 }
             ],
-            "categories": [
-                "pets",
-                "food"
-            ],
-            "screenshots": [
-                {
-                    "src": "screenshot1.png",
-                    "sizes": "1500x800",
-                    "type": "image/png"
-                },
-                {
-                    "src": "screenshot2.png",
-                    "sizes": "1500x800",
-                    "type": "image/png"
-                },
-                {
-                    "src": "screenshot3.png",
-                    "sizes": "1500x800",
-                    "type": "image/png"
-                }
-            ],
-            "shortcuts": [
-                {
-                    "name": "View Safe Foods",
-                    "description": "View all foods that are safe for dogs to eat",
-                    "url": "./safe",
-                    "icons": [
-                        {
-                            "src": "icon-thumbs-up.png",
-                            "sizes": "512x512"
-                        }
-                    ]
-                },
-                {
-                    "name": "View Unsafe Foods",
-                    "description": "View all foods that are not safe for dogs to eat",
-                    "url": "./unsafe",
-                    "icons": [
-                        {
-                            "src": "icon-thumbs-down.png",
-                            "sizes": "512x512"
-                        }
-                    ]
-                }
-            ],
-            "prefer_related_applications": true,
+            "gcm_sender_id": "1021726025582",
+            "gcm_user_visible_only": true,
+            "name": "Pinterest",
+            "orientation": "portrait",
+            "short_name": "Pinterest",
+            "start_url": "/?utm_source=homescreen_icon",
+            "theme_color": "#FFFFFF",
             "related_applications": [
                 {
-                    "platform": "webapp",
-                    "url": "https://dogsafefoods.com/manifest.json"
+                    "platform": "play",
+                    "id": "com.pinterest"
                 },
                 {
                     "platform": "play",
-                    "url": "https://play.google.com/store/apps/details?id=com.dogsafefoods.twa",
-                    "id": "com.dogsafefoods.twa"
+                    "id": "com.pinterest.ota"
+                },
+                {
+                    "platform": "play",
+                    "id": "com.pinterest.test"
+                },
+                {
+                    "platform": "play",
+                    "id": "com.pinterest.twa"
+                },
+                {
+                    "platform": "play",
+                    "id": "com.pinterest.dev"
+                },
+                {
+                    "platform": "webapp",
+                    "url": "https://www.pinterest.com/manifest.json"
                 }
             ],
-            "root_uri": "https://dogsafefoods.com/./manifest.json"
-        },
-        {
-            "icons": [
+            "url_handlers": [
                 {
-                    "src": "icon_512x512.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
+                    "origin": "https://*.pinterest.com"
                 },
                 {
-                    "src": "icon_384x384.png",
-                    "sizes": "384x384",
-                    "type": "image/png"
+                    "origin": "https://*.pinterest.info"
                 },
                 {
-                    "src": "icon_192x192.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
+                    "origin": "https://*.pinterest.at"
                 },
                 {
-                    "src": "icon_152x152.png",
-                    "sizes": "152x152",
-                    "type": "image/png"
+                    "origin": "https://*.pinterest.com.au"
                 },
                 {
-                    "src": "icon_144x144.png",
-                    "sizes": "144x144",
-                    "type": "image/png"
+                    "origin": "https://*.pinterest.ca"
                 },
                 {
-                    "src": "icon_128x128.png",
-                    "sizes": "128x128",
-                    "type": "image/png"
+                    "origin": "https://*.pinterest.ch"
                 },
                 {
-                    "src": "icon_96x96.png",
-                    "sizes": "96x96",
-                    "type": "image/png"
+                    "origin": "https://*.pinterest.cl"
                 },
                 {
-                    "src": "icon_72x72.png",
-                    "sizes": "72x72",
-                    "type": "image/png"
+                    "origin": "https://*.pinterest.de"
+                },
+                {
+                    "origin": "https://*.pinterest.dk"
+                },
+                {
+                    "origin": "https://*.pinterest.es"
+                },
+                {
+                    "origin": "https://*.pinterest.fr"
+                },
+                {
+                    "origin": "https://*.pinterest.co.uk"
+                },
+                {
+                    "origin": "https://*.pinterest.ie"
+                },
+                {
+                    "origin": "https://*.pinterest.it"
+                },
+                {
+                    "origin": "https://*.pinterest.jp"
+                },
+                {
+                    "origin": "https://*.pinterest.co.kr"
+                },
+                {
+                    "origin": "https://*.pinterest.com.mx"
+                },
+                {
+                    "origin": "https://*.pinterest.nz"
+                },
+                {
+                    "origin": "https://*.pinterest.se"
+                },
+                {
+                    "origin": "https://*.pinterest.ph"
+                },
+                {
+                    "origin": "https://*.pinterest.pt"
+                },
+                {
+                    "origin": "https://*.pinterest.ru"
                 }
             ],
-            "name": "WeatherApp",
-            "short_name": "WeatherApp",
-            "orientation": "portrait",
-            "display": "standalone",
-            "start_url": ".",
-            "description": "Find out the current weather forecast in any city around the world.",
-            "theme_color": "#ffffff",
-            "background_color": "#76afeb",
-            "root_uri": "https://murillo94.github.io/weather-pwa/manifest.json"
+            "root_uri": "https://www.pinterest.co.uk/manifest.json",
+            "file_md5": "man810a2108296e618e740c9b7d5d82427a",
+            "manifest_hits": 1,
+            "description": "Discover recipes, home ideas, style inspiration and other ideas to try."
         },
         {
             "name": "AnonAce",
@@ -3416,30 +3098,92 @@
                     ]
                 }
             ],
-            "root_uri": "https://anonace.com/./manifest.json"
+            "root_uri": "https://anonace.com/./manifest.json",
+            "file_md5": "man969058ad0ee4fae6754dbbcf13575db4",
+            "manifest_hits": 2
         },
         {
-            "name": "Color Heroes!",
-            "short_name": "ColorHeroes",
             "icons": [
                 {
-                    "src": "android-chrome-192x192.png",
+                    "src": "icon_512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                },
+                {
+                    "src": "icon_384x384.png",
+                    "sizes": "384x384",
+                    "type": "image/png"
+                },
+                {
+                    "src": "icon_192x192.png",
                     "sizes": "192x192",
                     "type": "image/png"
                 },
                 {
-                    "src": "android-chrome-512x512.png",
+                    "src": "icon_152x152.png",
+                    "sizes": "152x152",
+                    "type": "image/png"
+                },
+                {
+                    "src": "icon_144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "icon_128x128.png",
+                    "sizes": "128x128",
+                    "type": "image/png"
+                },
+                {
+                    "src": "icon_96x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                },
+                {
+                    "src": "icon_72x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png"
+                }
+            ],
+            "name": "WeatherApp",
+            "short_name": "WeatherApp",
+            "orientation": "portrait",
+            "display": "standalone",
+            "start_url": ".",
+            "description": "Find out the current weather forecast in any city around the world.",
+            "theme_color": "#ffffff",
+            "background_color": "#76afeb",
+            "root_uri": "https://murillo94.github.io/weather-pwa/manifest.json",
+            "file_md5": "manb43d385ae17942d52a429bbf9ce9657b",
+            "manifest_hits": 1
+        },
+        {
+            "name": "todo koolsol",
+            "short_name": "todo",
+            "description": "A sortable todo list",
+            "start_url": "https://todo.koolsol.app/",
+            "scope": "https://todo.koolsol.app/",
+            "display": "standalone",
+            "theme_color": "#99D9EA",
+            "background_color": "#EEE",
+            "icons": [
+                {
+                    "src": "highres-icon-4.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "highres-icon-512-1.png",
                     "sizes": "512x512",
                     "type": "image/png"
                 }
             ],
-            "theme_color": "#000000",
-            "background_color": "#000000",
-            "display": "standalone",
-            "orientation": "portrait",
-            "start_url": "/",
-            "root_uri": "https://colorhero.es/site.webmanifest",
-            "description": "Superhero color guessing game"
+            "version": "20222501-01",
+            "orientation": "any",
+            "root_uri": "https://todo.koolsol.app/manifest.json.php",
+            "file_md5": "man6145f2ecf4510b94f4a206c76784bb8f",
+            "manifest_hits": 1
         },
         {
             "name": "ColorBlindSim",
@@ -3462,49 +3206,9 @@
             ],
             "theme_color": "#587498",
             "background_color": "#587498",
-            "root_uri": "https://www.colorblindsim.com/manifest.8b7a3d31.webmanifest"
-        },
-        {
-            "name": "Web Dev I",
-            "icons": [
-                {
-                    "src": "images/icon36.png",
-                    "sizes": "36x36",
-                    "type": "image/png",
-                    "density": "0.75"
-                },
-                {
-                    "src": "images/icon48.png",
-                    "sizes": "48x48",
-                    "type": "image/png",
-                    "density": "1.0"
-                },
-                {
-                    "src": "images/icon72.png",
-                    "sizes": "72x72",
-                    "type": "image/png",
-                    "density": "1.5"
-                },
-                {
-                    "src": "images/icon96.png",
-                    "sizes": "96x96",
-                    "type": "image/png",
-                    "density": "2.0"
-                },
-                {
-                    "src": "images/icon144.png",
-                    "sizes": "144x144",
-                    "type": "image/png",
-                    "density": "3.0"
-                },
-                {
-                    "src": "images/icon192.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "density": "4.0"
-                }
-            ],
-            "root_uri": "https://vcjhwebdev.github.io/manifest.json"
+            "root_uri": "https://www.colorblindsim.com/manifest.8b7a3d31.webmanifest",
+            "file_md5": "man1eb37e70bdb8212d59d7e9778684df43",
+            "manifest_hits": 2
         },
         {
             "dir": "ltr",
@@ -3552,7 +3256,78 @@
                     "origin": "https://thesession.org"
                 }
             ],
-            "root_uri": "https://thesession.org/manifest.json"
+            "root_uri": "https://thesession.org/manifest.json",
+            "file_md5": "man6cfbef93bacdc2135099d8188c65a9bf",
+            "manifest_hits": 4
+        },
+        {
+            "name": "Web Dev I",
+            "icons": [
+                {
+                    "src": "images/icon36.png",
+                    "sizes": "36x36",
+                    "type": "image/png",
+                    "density": "0.75"
+                },
+                {
+                    "src": "images/icon48.png",
+                    "sizes": "48x48",
+                    "type": "image/png",
+                    "density": "1.0"
+                },
+                {
+                    "src": "images/icon72.png",
+                    "sizes": "72x72",
+                    "type": "image/png",
+                    "density": "1.5"
+                },
+                {
+                    "src": "images/icon96.png",
+                    "sizes": "96x96",
+                    "type": "image/png",
+                    "density": "2.0"
+                },
+                {
+                    "src": "images/icon144.png",
+                    "sizes": "144x144",
+                    "type": "image/png",
+                    "density": "3.0"
+                },
+                {
+                    "src": "images/icon192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "density": "4.0"
+                }
+            ],
+            "root_uri": "https://vcjhwebdev.github.io/manifest.json",
+            "file_md5": "man41ffd111fdbd52cd7e9303afbecb498f",
+            "manifest_hits": 2
+        },
+        {
+            "name": "Color Heroes!",
+            "short_name": "ColorHeroes",
+            "icons": [
+                {
+                    "src": "android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "theme_color": "#000000",
+            "background_color": "#000000",
+            "display": "standalone",
+            "orientation": "portrait",
+            "start_url": "/",
+            "root_uri": "https://colorhero.es/site.webmanifest",
+            "file_md5": "man2282664f27823c06329649d52057850f",
+            "manifest_hits": 1,
+            "description": "Superhero color guessing game"
         },
         {
             "name": "koolsol minesweeper",
@@ -3581,56 +3356,9 @@
                 "games"
             ],
             "orientation": "any",
-            "root_uri": "https://minesweeper.koolsol.app/manifest.json"
-        },
-        {
-            "name": "todo koolsol",
-            "short_name": "todo",
-            "description": "A sortable todo list",
-            "start_url": "https://todo.koolsol.app/",
-            "scope": "https://todo.koolsol.app/",
-            "display": "standalone",
-            "theme_color": "#99D9EA",
-            "background_color": "#EEE",
-            "icons": [
-                {
-                    "src": "highres-icon-4.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "highres-icon-512-1.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                }
-            ],
-            "version": "20222501-01",
-            "orientation": "any",
-            "root_uri": "https://todo.koolsol.app/manifest.json.php"
-        },
-        {
-            "name": "Material Money",
-            "short_name": "M Money",
-            "manifest_version": 2,
-            "description": "A fast, offline-friendly, Material Design-inspired currency converter.",
-            "icons": [
-                {
-                    "src": "images/touch/icon-256x256-b0e7ff1848.png",
-                    "sizes": "256x256",
-                    "type": "image/png"
-                },
-                {
-                    "src": "images/touch/icon-512x512-2ac984ca14.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                }
-            ],
-            "start_url": "/",
-            "display": "standalone",
-            "background_color": "#263238",
-            "theme_color": "#263238",
-            "root_uri": "https://material.money/manifest.json"
+            "root_uri": "https://minesweeper.koolsol.app/manifest.json",
+            "file_md5": "man79b13ba0e56f595fb54d7b1cfe73da62",
+            "manifest_hits": 1
         },
         {
             "name": "koolsol solitaire",
@@ -3659,7 +3387,34 @@
                 "entertainment"
             ],
             "orientation": "any",
-            "root_uri": "https://www.koolsol.com/manifest-20211230-01.json.php"
+            "root_uri": "https://www.koolsol.com/manifest-20220215-01.json.php",
+            "file_md5": "manf531ce7cb93a790b6347fd6138689121",
+            "manifest_hits": 2
+        },
+        {
+            "name": "Material Money",
+            "short_name": "M Money",
+            "manifest_version": 2,
+            "description": "A fast, offline-friendly, Material Design-inspired currency converter.",
+            "icons": [
+                {
+                    "src": "images/touch/icon-256x256-b0e7ff1848.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/touch/icon-512x512-2ac984ca14.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "start_url": "/",
+            "display": "standalone",
+            "background_color": "#263238",
+            "theme_color": "#263238",
+            "root_uri": "https://material.money/manifest.json",
+            "file_md5": "man97428607aa5b945d880f03fb671a6dba",
+            "manifest_hits": 1
         },
         {
             "name": "The Clear Evidence",
@@ -3686,7 +3441,9 @@
             "start_url": "https://theclearevidence.org/",
             "scope": "https://theclearevidence.org/",
             "gcm_sender_id": "482941778795",
-            "root_uri": "https://theclearevidence.org/pwa-manifest.json"
+            "root_uri": "https://theclearevidence.org/pwa-manifest.json",
+            "file_md5": "manda8e7cbf07faa9f7db10fb52005c90fb",
+            "manifest_hits": 23
         },
         {
             "name": "koolsol solitaire",
@@ -3715,36 +3472,9 @@
                 "entertainment"
             ],
             "orientation": "any",
-            "root_uri": "https://www.koolsol.app/manifest-20211230-01.json.php"
-        },
-        {
-            "name": "koolsol solitaire",
-            "short_name": "koolsol",
-            "description": "The classic international solitaire card game in many languages with solutions.",
-            "start_url": "https://www.koolsol.fr/",
-            "scope": "https://www.koolsol.fr/",
-            "display": "standalone",
-            "theme_color": "#99D9EA",
-            "background_color": "#EEE",
-            "icons": [
-                {
-                    "src": "https://www.koolsol.fr/highres-icon-4.png",
-                    "sizes": "192x192",
-                    "purpose": "maskable",
-                    "type": "image/png"
-                },
-                {
-                    "src": "https://www.koolsol.fr/highres-icon-512-1.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                }
-            ],
-            "categories": [
-                "games",
-                "entertainment"
-            ],
-            "orientation": "any",
-            "root_uri": "https://www.koolsol.fr/manifest-20211230-01.json.php"
+            "root_uri": "https://www.koolsol.app/manifest-20220215-01.json.php",
+            "file_md5": "mand9fe73f0ae8bacddde71de21697d94f6",
+            "manifest_hits": 1
         },
         {
             "name": "koolsol memory",
@@ -3773,7 +3503,40 @@
                 "games"
             ],
             "orientation": "any",
-            "root_uri": "https://memory.koolsol.app/manifest.json"
+            "root_uri": "https://memory.koolsol.app/manifest.json",
+            "file_md5": "man801b4b8a05268d830b1e2afd2b615f2c",
+            "manifest_hits": 1
+        },
+        {
+            "name": "koolsol solitaire",
+            "short_name": "koolsol",
+            "description": "The classic international solitaire card game in many languages with solutions.",
+            "start_url": "https://www.koolsol.fr/",
+            "scope": "https://www.koolsol.fr/",
+            "display": "standalone",
+            "theme_color": "#99D9EA",
+            "background_color": "#EEE",
+            "icons": [
+                {
+                    "src": "https://www.koolsol.fr/highres-icon-4.png",
+                    "sizes": "192x192",
+                    "purpose": "maskable",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.koolsol.fr/highres-icon-512-1.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "categories": [
+                "games",
+                "entertainment"
+            ],
+            "orientation": "any",
+            "root_uri": "https://www.koolsol.fr/manifest-20220215-01.json.php",
+            "file_md5": "manb624dd5ca51bad887ddba08fb29380c3",
+            "manifest_hits": 1
         },
         {
             "name": "Assistant for Scrap Mechanic",
@@ -3797,7 +3560,9 @@
                     "type": "image/png"
                 }
             ],
-            "root_uri": "https://scrapassistant.com/manifest.json"
+            "root_uri": "https://scrapassistant.com/manifest.json",
+            "file_md5": "man3c8435ddc80eef38fb15d411619bd7a9",
+            "manifest_hits": 1
         },
         {
             "lang": "pt-br",
@@ -3853,6 +3618,8 @@
                 }
             ],
             "root_uri": "https://iondrimbafilho.me/manifest.webmanifest",
+            "file_md5": "man223c6772d96f5994502dff3ed06ed04a",
+            "manifest_hits": 1,
             "description": "All things Javascript"
         },
         {
@@ -3869,6 +3636,8 @@
                 }
             ],
             "root_uri": "https://app.ft.com/metatags.json?v=3",
+            "file_md5": "mand87bfd40c92ff56bb87546d459230063",
+            "manifest_hits": 2,
             "description": "no description"
         },
         {
@@ -3907,6 +3676,8 @@
                 }
             ],
             "root_uri": "https://wordpress.com/calypso/manifest.json",
+            "file_md5": "man7b227c240e8bc8e295e18dd04cec09c4",
+            "manifest_hits": 1,
             "description": "Create a free website or build a blog with ease on WordPress.com. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support."
         },
         {
@@ -3962,6 +3733,8 @@
                 }
             ],
             "root_uri": "https://www.netzwelt.de/assets/redesign/configs/manifest.json",
+            "file_md5": "manf8ac1e0cd90682d68532200fc8ddd1a5",
+            "manifest_hits": 275,
             "description": "Netzwelt.de bietet Testberichte, Downloads, Anleitungen und ausführliche Informationen wie Kaufberatungen &amp; Videos zu Smartphones, Tablet-PCs, Notebooks, Software, Fernseher und Smart Home."
         },
         {
@@ -4024,29 +3797,40 @@
             ],
             "splash_pages": null,
             "root_uri": "https://www.reichelt.de/manifest.json?stamp=531",
+            "file_md5": "manaa34aa384ca0389f91d663e97eb22424",
+            "manifest_hits": 108,
             "description": "&#220;ber 100.000 Artikel aus Technik & Elektronik online kaufen bei reichelt.de. Schnelle Lieferung & g&#252;nstige Preise&#33; reichelt elektronik - Technik verbindet."
         },
         {
-            "short_name": "bücher.de",
-            "name": "Bücher versandkostenfrei bestellen bei buecher.de",
+            "name": "AutoScout24",
+            "short_name": "AutoScout24",
+            "start_url": "/?ipl=home-screen&ipc=launch",
+            "orientation": "any",
+            "display": "standalone",
             "icons": [
                 {
-                    "src": "../favicons/192x192.png?v=1",
-                    "type": "image/png",
-                    "sizes": "192x192"
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
                 },
                 {
-                    "src": "../favicons/512x512.png?v=1",
-                    "type": "image/png",
-                    "sizes": "512x512"
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
                 }
             ],
-            "start_url": "/?utm_source=homescreen",
-            "display": "standalone",
-            "theme_color": "#00989A",
-            "background_color": "#e0e0e0",
-            "root_uri": "https://www.buecher.de/assets/pwa/manifest.json",
-            "description": "bücher.de:  ✔ über 15 Mio. Artikel ✔ Versandkostenfrei online bestellen ✔ Kein Mindestbestellwert ✔ Bequem per Rechnung bezahlen!"
+            "theme_color": "#fff",
+            "background_color": "#fff",
+            "gcm_sender_id": "103953800507",
+            "root_uri": "https://www.autoscout24.de/service-worker/manifests/manifest.json",
+            "file_md5": "manb3589d98270a8c41d1239fcba6ed8a5f",
+            "manifest_hits": 83,
+            "description": "Neu- und Gebrauchtwagen sowie Motorräder, Wohnmobile und Nutzfahrzeuge finden Sie auf AutoScout24, dem europaweit größten Online-Automarkt."
         },
         {
             "name": "WELT - News",
@@ -4082,7 +3866,33 @@
                     "id": "de.cellular.n24hybrid"
                 }
             ],
-            "root_uri": "https://www.welt.de/assets/resources/manifest/manifest-202e2e564b.json"
+            "root_uri": "https://www.welt.de/assets/resources/manifest/manifest-202e2e564b.json",
+            "file_md5": "man73c0d40f27e96cf6e9b15081ed1327a2",
+            "manifest_hits": 25
+        },
+        {
+            "short_name": "bücher.de",
+            "name": "Bücher versandkostenfrei bestellen bei buecher.de",
+            "icons": [
+                {
+                    "src": "../favicons/192x192.png?v=1",
+                    "type": "image/png",
+                    "sizes": "192x192"
+                },
+                {
+                    "src": "../favicons/512x512.png?v=1",
+                    "type": "image/png",
+                    "sizes": "512x512"
+                }
+            ],
+            "start_url": "/?utm_source=homescreen",
+            "display": "standalone",
+            "theme_color": "#00989A",
+            "background_color": "#e0e0e0",
+            "root_uri": "https://www.buecher.de/assets/pwa/manifest.json",
+            "file_md5": "mane4f25439fc47a0fd84859a2d58120715",
+            "manifest_hits": 105,
+            "description": "bücher.de:  ✔ über 15 Mio. Artikel ✔ Versandkostenfrei online bestellen ✔ Kein Mindestbestellwert ✔ Bequem per Rechnung bezahlen!"
         },
         {
             "name": "amp.dev",
@@ -4136,6 +3946,8 @@
             ],
             "splash_pages": null,
             "root_uri": "https://amp.dev/manifest.json",
+            "file_md5": "man6465a3c7ba28f95f45adc093bef9018e",
+            "manifest_hits": 17,
             "description": "Whether you are a publisher, e-commerce company, storyteller, advertiser or email sender, AMP makes it easy to create great experiences on the web. Use AMP to build websites, stories, ads and emails."
         },
         {
@@ -4213,7 +4025,501 @@
                 }
             ],
             "root_uri": "https://m.youtube.com/manifest.webmanifest",
+            "file_md5": "mana8f5eb29f852b756dc73fab692ef143a",
+            "manifest_hits": 1,
             "description": "Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube."
+        },
+        {
+            "name": "reichelt Elektronik",
+            "short_name": "reichelt",
+            "theme_color": "#56b9a2",
+            "background_color": "#fff",
+            "display": "fullscreen",
+            "Scope": "/",
+            "start_url": "/?utm_source=homescreen",
+            "icons": [
+                {
+                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-72x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-96x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-128x128.png",
+                    "sizes": "128x128",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-152x152.png",
+                    "sizes": "152x152",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-384x384.png",
+                    "sizes": "384x384",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "splash_pages": null,
+            "root_uri": "https://www.reichelt.nl/manifest.json?stamp=531",
+            "file_md5": "manaa34aa384ca0389f91d663e97eb22424",
+            "manifest_hits": 1,
+            "description": "no description"
+        },
+        {
+            "name": "reichelt Elektronik",
+            "short_name": "reichelt",
+            "theme_color": "#56b9a2",
+            "background_color": "#fff",
+            "display": "fullscreen",
+            "Scope": "/",
+            "start_url": "/?utm_source=homescreen",
+            "icons": [
+                {
+                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-72x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-96x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-128x128.png",
+                    "sizes": "128x128",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-152x152.png",
+                    "sizes": "152x152",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-384x384.png",
+                    "sizes": "384x384",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "splash_pages": null,
+            "root_uri": "https://www.reichelt.at/manifest.json?stamp=531",
+            "file_md5": "manaa34aa384ca0389f91d663e97eb22424",
+            "manifest_hits": 1,
+            "description": "no description"
+        },
+        {
+            "name": "reichelt Elektronik",
+            "short_name": "reichelt",
+            "theme_color": "#56b9a2",
+            "background_color": "#fff",
+            "display": "fullscreen",
+            "Scope": "/",
+            "start_url": "/?utm_source=homescreen",
+            "icons": [
+                {
+                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-72x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-96x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-128x128.png",
+                    "sizes": "128x128",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-152x152.png",
+                    "sizes": "152x152",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-384x384.png",
+                    "sizes": "384x384",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "splash_pages": null,
+            "root_uri": "https://secure.reichelt.de/manifest.json?stamp=531",
+            "file_md5": "manaa34aa384ca0389f91d663e97eb22424",
+            "manifest_hits": 1,
+            "description": "&#220;ber 100.000 Artikel aus Technik & Elektronik online kaufen bei reichelt.de. Schnelle Lieferung & g&#252;nstige Preise&#33; reichelt elektronik - Technik verbindet."
+        },
+        {
+            "name": "Indiatoday",
+            "short_name": "Indiatoday",
+            "icons": [
+                {
+                    "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/misc/chrome-touch-icon-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/misc/icon-128x128.png",
+                    "sizes": "128x128",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/misc/ms-touch-icon-144x144-preco.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/misc/medium-icon.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/misc/icon-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/misc/icon-384x384.png",
+                    "sizes": "384x384",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/misc/icon-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "start_url": "https://www.indiatoday.in",
+            "display": "standalone",
+            "orientation": "natural",
+            "background_color": "#fff",
+            "theme_color": "#C04A4A",
+            "gcm_sender_id": "393239297034",
+            "gcm_user_visible_only": true,
+            "root_uri": "https://www.indiatoday.in/manifest.json",
+            "file_md5": "man94cd97ad9071cb656bed57ef02038418",
+            "manifest_hits": 3,
+            "description": "no description"
+        },
+        {
+            "name": "AutoScout24",
+            "short_name": "AutoScout24",
+            "start_url": "/?ipl=home-screen&ipc=launch",
+            "orientation": "any",
+            "display": "standalone",
+            "icons": [
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "theme_color": "#fff",
+            "background_color": "#fff",
+            "gcm_sender_id": "103953800507",
+            "root_uri": "https://www.autoscout24.at/service-worker/manifests/manifest.json",
+            "file_md5": "manb3589d98270a8c41d1239fcba6ed8a5f",
+            "manifest_hits": 2,
+            "description": "Neu- und Gebrauchtwagen sowie Motorräder, Wohnmobile und Nutzfahrzeuge finden Sie auf AutoScout24, dem europaweit größten Online-Automarkt."
+        },
+        {
+            "name": "AutoScout24",
+            "short_name": "AutoScout24",
+            "start_url": "/?ipl=home-screen&ipc=launch",
+            "orientation": "any",
+            "display": "standalone",
+            "icons": [
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "theme_color": "#fff",
+            "background_color": "#fff",
+            "gcm_sender_id": "103953800507",
+            "root_uri": "https://www.autoscout24.es/service-worker/manifests/manifest.json",
+            "file_md5": "manb3589d98270a8c41d1239fcba6ed8a5f",
+            "manifest_hits": 1,
+            "description": "Comprar coches de segunda mano y nuevos. Gran oferta de coches de ocasión, km0, seminuevos y usados. Compra venta vehículos en el gran mercado europeo de AutoScout24."
+        },
+        {
+            "name": "AutoScout24",
+            "short_name": "AutoScout24",
+            "start_url": "/?ipl=home-screen&ipc=launch",
+            "orientation": "any",
+            "display": "standalone",
+            "icons": [
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "theme_color": "#fff",
+            "background_color": "#fff",
+            "gcm_sender_id": "103953800507",
+            "root_uri": "https://www.autoscout24.it/service-worker/manifests/manifest.json",
+            "file_md5": "manb3589d98270a8c41d1239fcba6ed8a5f",
+            "manifest_hits": 1,
+            "description": "Trova o vendi le tue auto usate e nuove, moto usate e camper usati su AutoScout24, il più grande sito internet di annunci auto in Europa!"
+        },
+        {
+            "name": "AutoScout24",
+            "short_name": "AutoScout24",
+            "start_url": "/?ipl=home-screen&ipc=launch",
+            "orientation": "any",
+            "display": "standalone",
+            "icons": [
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "theme_color": "#fff",
+            "background_color": "#fff",
+            "gcm_sender_id": "103953800507",
+            "root_uri": "https://www.autoscout24.fr/service-worker/manifests/manifest.json",
+            "file_md5": "manb3589d98270a8c41d1239fcba6ed8a5f",
+            "manifest_hits": 1,
+            "description": "Voitures d&#x27;occasion à vendre! Plus que 2.700.000 voitures occasions et neuves à vendre en Europe avec AutoScout24."
+        },
+        {
+            "name": "AutoScout24",
+            "short_name": "AutoScout24",
+            "start_url": "/?ipl=home-screen&ipc=launch",
+            "orientation": "any",
+            "display": "standalone",
+            "icons": [
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "theme_color": "#fff",
+            "background_color": "#fff",
+            "gcm_sender_id": "103953800507",
+            "root_uri": "https://www.autoscout24.nl/service-worker/manifests/manifest.json",
+            "file_md5": "manb3589d98270a8c41d1239fcba6ed8a5f",
+            "manifest_hits": 1,
+            "description": "Europa&#x27;s online auto marktplaats voor het kopen en verkopen van tweedehands auto&#x27;s. Altijd 1,8 miljoen occasions online bij AutoScout24!"
+        },
+        {
+            "name": "AutoScout24",
+            "short_name": "AutoScout24",
+            "start_url": "/?ipl=home-screen&ipc=launch",
+            "orientation": "any",
+            "display": "standalone",
+            "icons": [
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "theme_color": "#fff",
+            "background_color": "#fff",
+            "gcm_sender_id": "103953800507",
+            "root_uri": "https://www.autoscout24.lu/service-worker/manifests/manifest.json",
+            "file_md5": "manb3589d98270a8c41d1239fcba6ed8a5f",
+            "manifest_hits": 1,
+            "description": "Voitures d&#x27;occasion à vendre! Plus que 2.700.000 voitures occasions et neuves à vendre en Europe avec AutoScout24."
+        },
+        {
+            "name": "AutoScout24",
+            "short_name": "AutoScout24",
+            "start_url": "/?ipl=home-screen&ipc=launch",
+            "orientation": "any",
+            "display": "standalone",
+            "icons": [
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "theme_color": "#fff",
+            "background_color": "#fff",
+            "gcm_sender_id": "103953800507",
+            "root_uri": "https://www.autoscout24.cz/service-worker/manifests/manifest.json",
+            "file_md5": "manb3589d98270a8c41d1239fcba6ed8a5f",
+            "manifest_hits": 1,
+            "description": "AutoScout24: Největší evropský trh s ojetými a novými automobily. Váš automobilový portál zaměřený na nákup a prodej automobilů včetně novinek a informací k autům."
+        },
+        {
+            "name": "AutoScout24",
+            "short_name": "AutoScout24",
+            "start_url": "/?ipl=home-screen&ipc=launch",
+            "orientation": "any",
+            "display": "standalone",
+            "icons": [
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "theme_color": "#fff",
+            "background_color": "#fff",
+            "gcm_sender_id": "103953800507",
+            "root_uri": "https://www.autoscout24.bg/service-worker/manifests/manifest.json",
+            "file_md5": "manb3589d98270a8c41d1239fcba6ed8a5f",
+            "manifest_hits": 1,
+            "description": "AutoScout24: Големият европейски пазар за употребявани и нови автомобили. Вашият автомобилен портал за продажба и покупка на автомобили с новини и информация около колата."
         },
         {
             "name": "AutoScout24",
@@ -4242,7 +4548,257 @@
             "background_color": "#fff",
             "gcm_sender_id": "103953800507",
             "root_uri": "https://www.autoscout24.com/service-worker/manifests/manifest.json",
+            "file_md5": "manb3589d98270a8c41d1239fcba6ed8a5f",
+            "manifest_hits": 1,
             "description": "Find your next used car on AutoScout24. Search for used cars, new cars, motorcycles and trucks on the largest pan-European online car market."
+        },
+        {
+            "name": "AutoScout24",
+            "short_name": "AutoScout24",
+            "start_url": "/?ipl=home-screen&ipc=launch",
+            "orientation": "any",
+            "display": "standalone",
+            "icons": [
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "theme_color": "#fff",
+            "background_color": "#fff",
+            "gcm_sender_id": "103953800507",
+            "root_uri": "https://www.autoscout24.hr/service-worker/manifests/manifest.json",
+            "file_md5": "manb3589d98270a8c41d1239fcba6ed8a5f",
+            "manifest_hits": 1,
+            "description": "Najveći europski auto oglasnik za rabljena i nova vozila. Vaš portal za kupnju i prodaju automobila s vijestima i informacijama iz svijeta automobila."
+        },
+        {
+            "name": "AutoScout24",
+            "short_name": "AutoScout24",
+            "start_url": "/?ipl=home-screen&ipc=launch",
+            "orientation": "any",
+            "display": "standalone",
+            "icons": [
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "theme_color": "#fff",
+            "background_color": "#fff",
+            "gcm_sender_id": "103953800507",
+            "root_uri": "https://www.autoscout24.pl/service-worker/manifests/manifest.json",
+            "file_md5": "manb3589d98270a8c41d1239fcba6ed8a5f",
+            "manifest_hits": 1,
+            "description": "AutoScout24: Twój europejski portal z samochodami używanymi. Znajdziesz tu ogromny wybór samochodów z Niemiec i Europy."
+        },
+        {
+            "name": "AutoScout24",
+            "short_name": "AutoScout24",
+            "start_url": "/?ipl=home-screen&ipc=launch",
+            "orientation": "any",
+            "display": "standalone",
+            "icons": [
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "theme_color": "#fff",
+            "background_color": "#fff",
+            "gcm_sender_id": "103953800507",
+            "root_uri": "https://www.autoscout24.ro/service-worker/manifests/manifest.json",
+            "file_md5": "manb3589d98270a8c41d1239fcba6ed8a5f",
+            "manifest_hits": 1,
+            "description": "AutoScout24: Cel mai mare site de vânzări auto din Europa pentru autovehicule rulate şi noi Portalul dumneavoastră de vânzări şi cumpărări auto cu noutăţi şi informaţii din lumea auto."
+        },
+        {
+            "name": "AutoScout24",
+            "short_name": "AutoScout24",
+            "start_url": "/?ipl=home-screen&ipc=launch",
+            "orientation": "any",
+            "display": "standalone",
+            "icons": [
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "theme_color": "#fff",
+            "background_color": "#fff",
+            "gcm_sender_id": "103953800507",
+            "root_uri": "https://www.autoscout24.se/service-worker/manifests/manifest.json",
+            "file_md5": "manb3589d98270a8c41d1239fcba6ed8a5f",
+            "manifest_hits": 1,
+            "description": "Den europeiska marknaden för begagnade och nya bilar. Din portal för att köpa och sälja bilar som har information och de senaste nyheterna om allt som rör bilar."
+        },
+        {
+            "name": "AutoScout24",
+            "short_name": "AutoScout24",
+            "start_url": "/?ipl=home-screen&ipc=launch",
+            "orientation": "any",
+            "display": "standalone",
+            "icons": [
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "theme_color": "#fff",
+            "background_color": "#fff",
+            "gcm_sender_id": "103953800507",
+            "root_uri": "https://www.autoscout24.ru/service-worker/manifests/manifest.json",
+            "file_md5": "manb3589d98270a8c41d1239fcba6ed8a5f",
+            "manifest_hits": 1,
+            "description": "Автобазар, продажа новых и подержанных автомобилей. АвтоСкаут24 предлагает последние новости, тесты и другие новинки из мира автомобилей и мотоциклов"
+        },
+        {
+            "name": "AutoScout24",
+            "short_name": "AutoScout24",
+            "start_url": "/?ipl=home-screen&ipc=launch",
+            "orientation": "any",
+            "display": "standalone",
+            "icons": [
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "theme_color": "#fff",
+            "background_color": "#fff",
+            "gcm_sender_id": "103953800507",
+            "root_uri": "https://www.autoscout24.com.tr/service-worker/manifests/manifest.json",
+            "file_md5": "manb3589d98270a8c41d1239fcba6ed8a5f",
+            "manifest_hits": 1,
+            "description": "AutoScout24: Avrupadan Sahibinden satilik 2.El Arabalar ve 0 km yeni araba ve otomobil. Oto alim satim islemleri ve Otomobil ile alakali bilgi, yenilik ve haberler."
+        },
+        {
+            "name": "AutoScout24",
+            "short_name": "AutoScout24",
+            "start_url": "/?ipl=home-screen&ipc=launch",
+            "orientation": "any",
+            "display": "standalone",
+            "icons": [
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "theme_color": "#fff",
+            "background_color": "#fff",
+            "gcm_sender_id": "103953800507",
+            "root_uri": "https://www.autoscout24.com.ua/service-worker/manifests/manifest.json",
+            "file_md5": "manb3589d98270a8c41d1239fcba6ed8a5f",
+            "manifest_hits": 1,
+            "description": "Авторинок, продаж нових та вживаних автомобілів. AutoScout24 інформує про останні новини, тести та інші новинки зі світу автомобілів та мотоциклів."
+        },
+        {
+            "name": "AutoScout24",
+            "short_name": "AutoScout24",
+            "start_url": "/?ipl=home-screen&ipc=launch",
+            "orientation": "any",
+            "display": "standalone",
+            "icons": [
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "theme_color": "#fff",
+            "background_color": "#fff",
+            "gcm_sender_id": "103953800507",
+            "root_uri": "https://www.autoscout24.hu/service-worker/manifests/manifest.json",
+            "file_md5": "manb3589d98270a8c41d1239fcba6ed8a5f",
+            "manifest_hits": 1,
+            "description": "Találjon új és használt autókat, motorkerékpárokat, lakókocsikat és kamionokat az AutoScout24-en, amely Európa legnagyobb online autópiaca"
         },
         {
             "name": "Alibaba.com",
@@ -4306,131 +4862,8 @@
                     "url": "https://m.alibaba.com/manifest-pwa.json"
                 }
             ],
-            "root_uri": "https://m.alibaba.com/manifest-pwa.json"
-        },
-        {
-            "name": "Smashing Magazine",
-            "short_name": "Smashing",
-            "description": "For professional web designers and developers.",
-            "icons": [
-                {
-                    "src": "https://www.smashingmagazine.com/images/favicon/favicon-192.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                },
-                {
-                    "src": "https://www.smashingmagazine.com/images/favicon/favicon-512.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                }
-            ],
-            "theme_color": "#E6492F",
-            "background_color": "#E6492F",
-            "display": "standalone",
-            "orientation": "natural",
-            "start_url": "/",
-            "root_uri": "https://www.smashingmagazine.com/manifest.json",
-            "manifest_hits": 1
-        },
-        {
-            "short_name": "SmashingConf",
-            "name": "Smashing Online Workshops",
-            "icons": [
-                {
-                    "src": "/images/app-icon-256x256.png",
-                    "type": "image/png",
-                    "sizes": "256x256"
-                },
-                {
-                    "src": "/images/app-icon-384x384.png",
-                    "type": "image/png",
-                    "sizes": "384x384"
-                },
-                {
-                    "src": "/images/app-icon-384x384.png",
-                    "type": "image/png",
-                    "sizes": "512x512"
-                },
-                {
-                    "src": "/images/app-icon-maskable.png",
-                    "sizes": "384x384",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                }
-            ],
-            "start_url": "/online-workshops/",
-            "background_color": "#FFFFFF",
-            "display": "standalone",
-            "theme_color": "#df342b",
-            "root_uri": "https://smashingconf.com/manifest.json",
-            "manifest_hits": 2,
-            "description": "The Smashing Cat is stuck on the couch, but that does not mean we have to stop learning. Meet our online workshops, and boost your skills from the comfort of your home or office."
-        },
-        {
-            "short_name": "SmashingConf",
-            "name": "Smashing Online Workshops",
-            "icons": [
-                {
-                    "src": "/images/app-icon-256x256.png",
-                    "type": "image/png",
-                    "sizes": "256x256"
-                },
-                {
-                    "src": "/images/app-icon-384x384.png",
-                    "type": "image/png",
-                    "sizes": "384x384"
-                },
-                {
-                    "src": "/images/app-icon-384x384.png",
-                    "type": "image/png",
-                    "sizes": "512x512"
-                },
-                {
-                    "src": "/images/app-icon-maskable.png",
-                    "sizes": "384x384",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                }
-            ],
-            "start_url": "/online-workshops/",
-            "background_color": "#FFFFFF",
-            "display": "standalone",
-            "theme_color": "#df342b",
-            "root_uri": "https://www.smashingconf.com/manifest.json",
-            "manifest_hits": 1,
-            "description": "The Smashing Cat is stuck on the couch, but that does not mean we have to stop learning. Meet our online workshops, and boost your skills from the comfort of your home or office."
-        },
-        {
-            "name": "Pete LePage",
-            "start_url": "https://petelepage.com",
-            "display": "minimal-ui",
-            "dir": "ltr",
-            "short_name": "Pete LePage",
-            "lang": "en-US",
-            "background_color": "#eeeeee",
-            "theme_color": "#ca2017",
-            "description": "Thoughts on web development, life, and photography.",
-            "icons": [
-                {
-                    "src": "/img/h5g-sq-192.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any"
-                },
-                {
-                    "src": "/img/h5g-sq-512.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any"
-                },
-                {
-                    "src": "/img/h5g-sq-720-maskable.png",
-                    "sizes": "720x720",
-                    "type": "image/png",
-                    "purpose": "maskable"
-                }
-            ],
-            "root_uri": "https://petelepage.com/manifest.json",
+            "root_uri": "https://m.alibaba.com/manifest-pwa.json",
+            "file_md5": "man3a56405588f9a9ea27e2729c217e5a9c",
             "manifest_hits": 1
         }
     ]
