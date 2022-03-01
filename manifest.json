@@ -14,6 +14,6 @@
     }
   ],
   "start_url": "/index.html",
-  "description": "appstore",
+  "description": "A catalogue of all the gcode published PWA apps, as well as a selection of other publicly available PWA apps.",
   "prefer_related_applications": false
 }
