@@ -4,9 +4,9 @@
             "dir": "ltr",
             "name": "gcode",
             "display": "standalone",
-            "start_url": "https://gcode.com.au/index.html",
+            "start_url": "/index.html",
             "short_name": "gcode",
-            "description": "An implementation of \"codemirror.net\" designed for easy access to coding for kids and schools.",
+            "description": "Easy coding for kids and schools. PWA apps, dApps, mobile apps, javacript, typescript, assembly script and python.",
             "orientation": "any",
             "background_color": "#FFFFFF",
             "theme_color": "#005040",
@@ -460,7 +460,7 @@
                 }
             ],
             "root_uri": "https://gcode.com.au/manifest.webmanifest",
-            "file_md5": "man0ce4f1ba60931e3f7145ea4b01407098",
+            "file_md5": "manb62c3fac2ea4ada756a5c44c7d68872b",
             "manifest_hits": 0
         },
         {
@@ -479,10 +479,38 @@
                 }
             ],
             "start_url": "/index.html",
-            "description": "appstore",
+            "description": "A catalogue of all the gcode published PWA apps, as well as a selection of other publicly available PWA apps.",
             "prefer_related_applications": false,
             "root_uri": "https://store.gcode.com.au/manifest.json",
-            "file_md5": "manbf8929e2db160f533e6992001ffd247e",
+            "file_md5": "manb292d4d70528afbd31567c03fb0a5ebb",
+            "manifest_hits": 0
+        },
+        {
+            "name": "gps",
+            "short_name": "gps",
+            "theme_color": "#212121",
+            "background_color": "#212121",
+            "display": "standalone",
+            "orientation": "any",
+            "icons": [
+                {
+                    "src": "/apps/37790665-gps/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-gps/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-gps/index.html",
+            "description": "gps",
+            "prefer_related_applications": false,
+            "root_uri": "https://gcode.com.au/apps/37790665-gps/manifest.json",
+            "file_md5": "man1b88e1ae207712e435cdd57efef6ceb6",
             "manifest_hits": 0
         },
         {
@@ -3574,7 +3602,7 @@
             ],
             "root_uri": "https://app.ft.com/metatags.json?v=3",
             "file_md5": "mand87bfd40c92ff56bb87546d459230063",
-            "manifest_hits": 0,
+            "manifest_hits": 2,
             "description": "no description"
         },
         {
