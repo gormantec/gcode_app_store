@@ -512,7 +512,7 @@
             "root_uri": "https://gcode.com.au/apps/37790665-gps/manifest.json",
             "file_md5": "man1b88e1ae207712e435cdd57efef6ceb6",
             "manifest_hits": 0,
-            "apk_location": "https://gcode.com.au/apps/37790665-calculator/apk/app-release-signed.apk"
+            "apk_location": "https://gcode.com.au/apps/37790665-gps/apk/app-release-signed.apk"
         },
         {
             "name": "calculator",
@@ -568,7 +568,8 @@
             "prefer_related_applications": false,
             "root_uri": "https://gcode.com.au/apps/37790665-boatcrew/manifest.json",
             "file_md5": "mandf5b0360ab1bf73c9309f6f5c0530e58",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apk_location": "https://gcode.com.au/apps/37790665-boatcrew/apk/app-release-signed.apk"
         },
         {
             "name": "screen time",
@@ -643,49 +644,6 @@
             ],
             "root_uri": "https://www.google.com/maps/preview/pwa/manifest?source=ttpwa&hl=en",
             "file_md5": "man70ce16632135ed8ee16d001f603fec95",
-            "manifest_hits": 0
-        },
-        {
-            "lang": "en-us",
-            "name": "Flipboard",
-            "short_name": "Flipboard",
-            "description": "Discover top news & lifestyle",
-            "start_url": "/",
-            "orientation": "any",
-            "display": "minimal-ui",
-            "icons": [
-                {
-                    "src": "https://s.flipboard.com/webu/images/meta/flipboard-512.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "https://s.flipboard.com/webu/images/meta/flipboard-192.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                }
-            ],
-            "theme_color": "#f52828",
-            "background_color": "#ffffff",
-            "prefer_related_applications": true,
-            "related_applications": [
-                {
-                    "platform": "play",
-                    "url": "https://app.adjust.com/o5mhwuy?redirect=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dflipboard.app%26hl%3Den_US%26gl%3DUS",
-                    "id": "358801284"
-                },
-                {
-                    "platform": "itunes",
-                    "url": "https://app.adjust.com/ek5qk69?redirect=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fflipboard-latest-stories%2Fid358801284%23%3Fplatform%3Diphone"
-                }
-            ],
-            "categories": [
-                "news"
-            ],
-            "root_uri": "https://flipboard.com/manifest.webmanifest",
-            "file_md5": "man5ba83d556fdc0a177c3b26aa30565756",
             "manifest_hits": 0
         },
         {
@@ -803,8 +761,50 @@
             "root_uri": "https://www.pinterest.com.au/manifest.json",
             "file_md5": "man810a2108296e618e740c9b7d5d82427a",
             "manifest_hits": 0,
-            "description": "Discover recipes, home ideas, style inspiration and other ideas to try.",
-            "apk_location": null
+            "description": "Discover recipes, home ideas, style inspiration and other ideas to try."
+        },
+        {
+            "lang": "en-us",
+            "name": "Flipboard",
+            "short_name": "Flipboard",
+            "description": "Discover top news & lifestyle",
+            "start_url": "/",
+            "orientation": "any",
+            "display": "minimal-ui",
+            "icons": [
+                {
+                    "src": "https://s.flipboard.com/webu/images/meta/flipboard-512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "https://s.flipboard.com/webu/images/meta/flipboard-192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "theme_color": "#f52828",
+            "background_color": "#ffffff",
+            "prefer_related_applications": true,
+            "related_applications": [
+                {
+                    "platform": "play",
+                    "url": "https://app.adjust.com/o5mhwuy?redirect=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dflipboard.app%26hl%3Den_US%26gl%3DUS",
+                    "id": "358801284"
+                },
+                {
+                    "platform": "itunes",
+                    "url": "https://app.adjust.com/ek5qk69?redirect=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fflipboard-latest-stories%2Fid358801284%23%3Fplatform%3Diphone"
+                }
+            ],
+            "categories": [
+                "news"
+            ],
+            "root_uri": "https://flipboard.com/manifest.webmanifest",
+            "file_md5": "man5ba83d556fdc0a177c3b26aa30565756",
+            "manifest_hits": 2
         },
         {
             "lang": "en",
@@ -826,7 +826,7 @@
             ],
             "root_uri": "https://www.soundslice.com/webmanifest.json",
             "file_md5": "manad56c32f7fc9569d0fb79213aad043b1",
-            "manifest_hits": 0,
+            "manifest_hits": 3,
             "description": "Learn music better with our living sheet music."
         },
         {
@@ -854,7 +854,7 @@
             "theme_color": "#456BD9",
             "root_uri": "https://www.pwastats.com/manifest.json",
             "file_md5": "man1686f62ac906916f55ceaf6498721223",
-            "manifest_hits": 0
+            "manifest_hits": 2
         },
         {
             "lang": "en",
@@ -935,7 +935,7 @@
             "theme_color": "#ffffff",
             "root_uri": "https://adactio.com/manifest.json",
             "file_md5": "man7528dce84d4795d3ea6a9a86abd0accb",
-            "manifest_hits": 0
+            "manifest_hits": 2
         },
         {
             "name": "YouTube",
@@ -1013,98 +1013,8 @@
             ],
             "root_uri": "https://www.youtube.com/manifest.webmanifest",
             "file_md5": "mana8f5eb29f852b756dc73fab692ef143a",
-            "manifest_hits": 0,
+            "manifest_hits": 34,
             "description": "Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube."
-        },
-        {
-            "dir": "ltr",
-            "lang": "EN",
-            "name": "PWABuilder",
-            "display": "standalone",
-            "start_url": "/",
-            "short_name": "PWABuilder",
-            "theme_color": "#FFFFFF",
-            "description": "All the tools you need to build and deploy your Progressive Web Apps.",
-            "orientation": "any",
-            "background_color": "#FFFFFF",
-            "related_applications": [],
-            "prefer_related_applications": false,
-            "icons": [
-                {
-                    "src": "/assets/icons/icon_512.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/assets/icons/icon_192.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/assets/icons/icon_120.png",
-                    "sizes": "120x120",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/assets/icons/icon_60.png",
-                    "sizes": "60x60",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/assets/icons/icon_57.png",
-                    "sizes": "57x57",
-                    "type": "image/png"
-                }
-            ],
-            "screenshots": [
-                {
-                    "src": "/assets/screenshots/screen1.png",
-                    "sizes": "2880x1800",
-                    "type": "image/png",
-                    "description": "PWABuilder Home Screen"
-                },
-                {
-                    "src": "/assets/screenshots/screen2.png",
-                    "sizes": "2880/1800",
-                    "type": "image/png",
-                    "description": "PWABuilder Report Card"
-                },
-                {
-                    "src": "/assets/screenshots/screen3.png",
-                    "sizes": "2880x1800",
-                    "type": "image/png",
-                    "description": "Manifest information on the Report Card"
-                },
-                {
-                    "src": "/assets/screenshots/screen4.png",
-                    "sizes": "2880x1800",
-                    "type": "image/png",
-                    "description": "Pick a pre-built Service Worker"
-                },
-                {
-                    "src": "/assets/screenshots/screen5.png",
-                    "sizes": "2880x1800",
-                    "type": "image/png",
-                    "description": "Publish your PWA to the App Stores!"
-                },
-                {
-                    "src": "/assets/screenshots/mobile.png",
-                    "sizes": "1439x2881",
-                    "type": "image/png",
-                    "description": "PWABuilder also works on your phone!"
-                }
-            ],
-            "features": [
-                "Cross Platform",
-                "fast",
-                "simple"
-            ],
-            "categories": [
-                "utility"
-            ],
-            "root_uri": "https://www.pwabuilder.com/manifest.json",
-            "file_md5": "man08c63e58863bd10e21334ff02ed6a680",
-            "manifest_hits": 0
         },
         {
             "icons": [
@@ -1226,8 +1136,98 @@
             "gcm_user_visible_only": true,
             "root_uri": "https://www.bmw.com/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/manifest_en.json",
             "file_md5": "man37403d73b1135cb7c30040ee8ff1d5e8",
-            "manifest_hits": 0,
+            "manifest_hits": 2,
             "description": "► Read now: Inspiring stories and interviews, exciting videos and helpful insight. Discover the future of mobility at BMW.com."
+        },
+        {
+            "dir": "ltr",
+            "lang": "EN",
+            "name": "PWABuilder",
+            "display": "standalone",
+            "start_url": "/",
+            "short_name": "PWABuilder",
+            "theme_color": "#FFFFFF",
+            "description": "All the tools you need to build and deploy your Progressive Web Apps.",
+            "orientation": "any",
+            "background_color": "#FFFFFF",
+            "related_applications": [],
+            "prefer_related_applications": false,
+            "icons": [
+                {
+                    "src": "/assets/icons/icon_512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/assets/icons/icon_192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/assets/icons/icon_120.png",
+                    "sizes": "120x120",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/assets/icons/icon_60.png",
+                    "sizes": "60x60",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/assets/icons/icon_57.png",
+                    "sizes": "57x57",
+                    "type": "image/png"
+                }
+            ],
+            "screenshots": [
+                {
+                    "src": "/assets/screenshots/screen1.png",
+                    "sizes": "2880x1800",
+                    "type": "image/png",
+                    "description": "PWABuilder Home Screen"
+                },
+                {
+                    "src": "/assets/screenshots/screen2.png",
+                    "sizes": "2880/1800",
+                    "type": "image/png",
+                    "description": "PWABuilder Report Card"
+                },
+                {
+                    "src": "/assets/screenshots/screen3.png",
+                    "sizes": "2880x1800",
+                    "type": "image/png",
+                    "description": "Manifest information on the Report Card"
+                },
+                {
+                    "src": "/assets/screenshots/screen4.png",
+                    "sizes": "2880x1800",
+                    "type": "image/png",
+                    "description": "Pick a pre-built Service Worker"
+                },
+                {
+                    "src": "/assets/screenshots/screen5.png",
+                    "sizes": "2880x1800",
+                    "type": "image/png",
+                    "description": "Publish your PWA to the App Stores!"
+                },
+                {
+                    "src": "/assets/screenshots/mobile.png",
+                    "sizes": "1439x2881",
+                    "type": "image/png",
+                    "description": "PWABuilder also works on your phone!"
+                }
+            ],
+            "features": [
+                "Cross Platform",
+                "fast",
+                "simple"
+            ],
+            "categories": [
+                "utility"
+            ],
+            "root_uri": "https://www.pwabuilder.com/manifest.json",
+            "file_md5": "man08c63e58863bd10e21334ff02ed6a680",
+            "manifest_hits": 2
         },
         {
             "start_url": "/",
@@ -1279,7 +1279,7 @@
             "theme_color": "#f9f9fa",
             "root_uri": "https://2brew.github.io/manifest.json",
             "file_md5": "man11b78d070edc1ebffb829f47766ceaaf",
-            "manifest_hits": 0,
+            "manifest_hits": 2,
             "description": "no description"
         },
         {
@@ -1342,8 +1342,7 @@
             "theme_color": "#3E2723",
             "root_uri": "https://alarmdj.com/manifest.json",
             "file_md5": "mane6efcdd11406358ef0b749eda0ea7021",
-            "manifest_hits": 0,
-            "apk_location": "https://alarmdj.com/apk/app-release-signed.apk"
+            "manifest_hits": 2
         },
         {
             "name": "Anonynote",
@@ -1367,7 +1366,7 @@
             "display": "standalone",
             "root_uri": "https://anonynote.org/site.webmanifest",
             "file_md5": "mand85007a23ddaf9cf93c78b009a36936b",
-            "manifest_hits": 0,
+            "manifest_hits": 2,
             "description": "A free Progressive Web App for anonymously saving, retrieving and organizing notes. No accounts or logins! Quickly access important data from all of your devices."
         },
         {
@@ -1498,43 +1497,7 @@
             ],
             "root_uri": "https://catsafefoods.com/./manifest.json",
             "file_md5": "man9ad1fc3043e747b4cbff5b4202d438a5",
-            "manifest_hits": 0,
-            "apk_location": "https://dogsafefoods.com/./apk/app-release-signed.apk"
-        },
-        {
-            "name": "Bolster",
-            "icons": [
-                {
-                    "src": "/icons/512.png",
-                    "type": "image/png",
-                    "sizes": "512x512"
-                },
-                {
-                    "src": "/icons/192.png",
-                    "type": "image/png",
-                    "sizes": "192x192"
-                },
-                {
-                    "src": "/icons/maskable/512.png",
-                    "type": "image/png",
-                    "sizes": "512x512",
-                    "purpose": "maskable"
-                },
-                {
-                    "src": "/icons/maskable/192.png",
-                    "type": "image/png",
-                    "sizes": "192x192",
-                    "purpose": "maskable"
-                }
-            ],
-            "start_url": "/",
-            "background_color": "#000000",
-            "theme_color": "#000000",
-            "display": "standalone",
-            "root_uri": "https://bolster.pro/manifest.json",
-            "file_md5": "man6f435a85298fbeebae5a00a5d2983104",
-            "manifest_hits": 0,
-            "description": "The secure, private journal."
+            "manifest_hits": 2
         },
         {
             "name": "Dog Safe Foods",
@@ -1664,8 +1627,42 @@
             ],
             "root_uri": "https://dogsafefoods.com/./manifest.json",
             "file_md5": "man00e5b75e3d745f7adbbd3ebd6a4f69a1",
-            "manifest_hits": 0,
-            "apk_location": "https://dogsafefoods.com/./apk/app-release-signed.apk"
+            "manifest_hits": 2
+        },
+        {
+            "name": "Bolster",
+            "icons": [
+                {
+                    "src": "/icons/512.png",
+                    "type": "image/png",
+                    "sizes": "512x512"
+                },
+                {
+                    "src": "/icons/192.png",
+                    "type": "image/png",
+                    "sizes": "192x192"
+                },
+                {
+                    "src": "/icons/maskable/512.png",
+                    "type": "image/png",
+                    "sizes": "512x512",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "/icons/maskable/192.png",
+                    "type": "image/png",
+                    "sizes": "192x192",
+                    "purpose": "maskable"
+                }
+            ],
+            "start_url": "/",
+            "background_color": "#000000",
+            "theme_color": "#000000",
+            "display": "standalone",
+            "root_uri": "https://bolster.pro/manifest.json",
+            "file_md5": "man6f435a85298fbeebae5a00a5d2983104",
+            "manifest_hits": 2,
+            "description": "The secure, private journal."
         },
         {
             "short_name": "Dev.Opera",
@@ -1682,7 +1679,7 @@
             "orientation": "any",
             "root_uri": "https://dev.opera.com/.webmanifest",
             "file_md5": "man699f3c77a27e726e9b6aa68c82f6bf4f",
-            "manifest_hits": 0,
+            "manifest_hits": 3,
             "description": "Dev.Opera covers current and future HTML, CSS and JavaScript features and implementations, responsive web design, browser extensions, and more."
         },
         {
@@ -1788,8 +1785,273 @@
             ],
             "root_uri": "https://gpacalculator.memorymaps.io/manifest.json",
             "file_md5": "man13edc114382fe6d79d5670edaa314384",
-            "manifest_hits": 0,
-            "apk_location": "https://gpacalculator.memorymaps.io/apk/app-release-signed.apk"
+            "manifest_hits": 2
+        },
+        {
+            "short_name": "PixelCraft",
+            "name": "PixelCraft",
+            "prefer_related_applications": false,
+            "icons": [
+                {
+                    "src": "/icons/logo.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/icons/logo.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "start_url": "/",
+            "background_color": "#ffffff",
+            "Theme_color": "#ffffff",
+            "display": "standalone",
+            "root_uri": "https://pixelcraft.web.app/manifest.json",
+            "file_md5": "man2e5f2e823e6eb3f34a35fe86e4b500db",
+            "manifest_hits": 2,
+            "description": "no description"
+        },
+        {
+            "name": "Progressive Beer",
+            "short_name": "Progressive Beer",
+            "lang": "en-US",
+            "start_url": "./index.html",
+            "display": "standalone",
+            "theme_color": "#ffe400",
+            "background_color": "#ffe400",
+            "icons": [
+                {
+                    "src": "./images/beer-icon-192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "density": 1
+                },
+                {
+                    "src": "./images/beer-icon-144.png",
+                    "sizes": "144x144",
+                    "type": "image/png",
+                    "density": "1"
+                },
+                {
+                    "src": "./images/beer-icon-240.png",
+                    "sizes": "240x240",
+                    "type": "image/png",
+                    "density": "1"
+                },
+                {
+                    "src": "./images/beer-icon-96.png",
+                    "sizes": "96x96",
+                    "type": "image/png",
+                    "density": "1"
+                }
+            ],
+            "root_uri": "https://deanhume.github.io/beer/manifest.json",
+            "file_md5": "man40d98385a8bbe873f4cbeda0218eeb39",
+            "manifest_hits": 2,
+            "description": "Progressive Beer - The ultimate guide to beer around the world."
+        },
+        {
+            "short_name": "Resume Nation",
+            "name": "Resume Nation",
+            "display": "standalone",
+            "icons": [
+                {
+                    "src": "images/icon-48.png",
+                    "sizes": "48x48",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icon-96.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icon-144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icon-192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                }
+            ],
+            "start_url": "index.html",
+            "theme_color": "#673AB7",
+            "background_color": "#EEEEEE",
+            "root_uri": "https://resume-nation.github.io/manifest.json",
+            "file_md5": "man772503c7e120739b3fff58e2e59b84d6",
+            "manifest_hits": 2,
+            "description": "no description"
+        },
+        {
+            "short_name": "Care Cards",
+            "name": "Care Cards",
+            "icons": [
+                {
+                    "src": "favicon.ico",
+                    "sizes": "32x32 16x16",
+                    "type": "image/x-icon"
+                },
+                {
+                    "src": "icon-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "icon-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "icon-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "start_url": "./index.html",
+            "display": "standalone",
+            "theme_color": "#343434",
+            "background_color": "#6CCBC5",
+            "orientation": "portrait",
+            "root_uri": "https://carecards.io/manifest.json",
+            "file_md5": "man77aff1ee78e37984f09c6e9fac8d84be",
+            "manifest_hits": 2,
+            "description": "We all get a little overwhelmed from time to time. Care Cards is a set of helpful little tips to keep you on top of your mental well-being."
+        },
+        {
+            "name": "Passky",
+            "short_name": "Passky",
+            "id": "/",
+            "start_url": "/",
+            "scope": ".",
+            "description": "Passky is simple, modern, lightweight, open source and secure password manager.",
+            "categories": [
+                "productivity",
+                "security",
+                "utilities"
+            ],
+            "icons": [
+                {
+                    "src": "images/icons/icon-48x48.png",
+                    "sizes": "48x48",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icons/icon-72x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icons/icon-96x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icons/icon-128x128.png",
+                    "sizes": "128x128",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icons/icon-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icons/icon-152x152.png",
+                    "sizes": "152x152",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icons/icon-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icons/icon-384x384.png",
+                    "sizes": "384x384",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icons/icon-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/icons/icon-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                }
+            ],
+            "screenshots": [
+                {
+                    "src": "images/screenshots/1.jpg",
+                    "sizes": "1080x2400",
+                    "type": "image/jpg"
+                },
+                {
+                    "src": "images/screenshots/2.jpg",
+                    "sizes": "1080x2400",
+                    "type": "image/jpg"
+                },
+                {
+                    "src": "images/screenshots/3.jpg",
+                    "sizes": "1080x2400",
+                    "type": "image/jpg"
+                },
+                {
+                    "src": "images/screenshots/4.jpg",
+                    "sizes": "1080x2400",
+                    "type": "image/jpg"
+                },
+                {
+                    "src": "images/screenshots/5.jpg",
+                    "sizes": "1080x2400",
+                    "type": "image/jpg"
+                },
+                {
+                    "src": "images/screenshots/6.jpg",
+                    "sizes": "1080x2400",
+                    "type": "image/jpg"
+                },
+                {
+                    "src": "images/screenshots/7.jpg",
+                    "sizes": "1080x2400",
+                    "type": "image/jpg"
+                },
+                {
+                    "src": "images/screenshots/8.jpg",
+                    "sizes": "1080x2400",
+                    "type": "image/jpg"
+                }
+            ],
+            "theme_color": "#0D1117",
+            "background_color": "#DFE5EB",
+            "display": "standalone",
+            "orientation": "portrait",
+            "iarc_rating_id": "1ff144b5-7bfc-4207-abed-0e549cb80406",
+            "related_applications": [
+                {
+                    "platform": "play",
+                    "url": "https://play.google.com/store/apps/details?id=com.rabbitcompany.passky",
+                    "id": "com.rabbitcompany.passky"
+                },
+                {
+                    "platform": "chrome_web_store",
+                    "url": "https://chrome.google.com/webstore/detail/passky/ngncpgfjhnkgfcjamgljadegplonbihi",
+                    "id": "ngncpgfjhnkgfcjamgljadegplonbihi"
+                },
+                {
+                    "platform": "windows",
+                    "url": "https://www.microsoft.com/en-us/p/passky/9nrcp6hppb82",
+                    "id": "9nrcp6hppb82"
+                }
+            ],
+            "root_uri": "https://vault.passky.org/manifest.json",
+            "file_md5": "man263858c4708947efb310459ca63f1168",
+            "manifest_hits": 2
         },
         {
             "name": "Indecisive: Decision-Making App",
@@ -1920,32 +2182,7 @@
             ],
             "root_uri": "https://indecisive.us/manifest.json",
             "file_md5": "man7a654aa9b6ce2f60c32775265e6d066e",
-            "manifest_hits": 0
-        },
-        {
-            "short_name": "PixelCraft",
-            "name": "PixelCraft",
-            "prefer_related_applications": false,
-            "icons": [
-                {
-                    "src": "/icons/logo.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/icons/logo.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                }
-            ],
-            "start_url": "/",
-            "background_color": "#ffffff",
-            "Theme_color": "#ffffff",
-            "display": "standalone",
-            "root_uri": "https://pixelcraft.web.app/manifest.json",
-            "file_md5": "man2e5f2e823e6eb3f34a35fe86e4b500db",
-            "manifest_hits": 0,
-            "description": "no description"
+            "manifest_hits": 2
         },
         {
             "name": "Let's Plant",
@@ -2018,80 +2255,284 @@
             "prompt_message": "Add a Home screen icon for easy access to Let's Plant",
             "root_uri": "https://letsplant.org/img/manifest.json",
             "file_md5": "man9e365041d54ab5d2ae425b24a60d98f9",
-            "manifest_hits": 0
+            "manifest_hits": 2
         },
         {
-            "name": "Progressive Beer",
-            "short_name": "Progressive Beer",
-            "lang": "en-US",
-            "start_url": "./index.html",
-            "display": "standalone",
-            "theme_color": "#ffe400",
-            "background_color": "#ffe400",
+            "lang": "en",
+            "short_name": "rem's b:log",
+            "name": "rem's b:log",
             "icons": [
                 {
-                    "src": "./images/beer-icon-192.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "density": 1
+                    "src": "/images/remy-2014-twitter.png",
+                    "sizes": "300x300",
+                    "type": "image/png"
                 },
                 {
-                    "src": "./images/beer-icon-144.png",
-                    "sizes": "144x144",
-                    "type": "image/png",
-                    "density": "1"
-                },
-                {
-                    "src": "./images/beer-icon-240.png",
-                    "sizes": "240x240",
-                    "type": "image/png",
-                    "density": "1"
-                },
-                {
-                    "src": "./images/beer-icon-96.png",
-                    "sizes": "96x96",
-                    "type": "image/png",
-                    "density": "1"
+                    "src": "/images/remy-512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
                 }
             ],
-            "root_uri": "https://deanhume.github.io/beer/manifest.json",
-            "file_md5": "man40d98385a8bbe873f4cbeda0218eeb39",
-            "manifest_hits": 0,
-            "description": "Progressive Beer - The ultimate guide to beer around the world."
+            "start_url": "/",
+            "display": "minimal-ui",
+            "background_color": "#1A1A1A",
+            "theme_color": "#1A1A1A",
+            "root_uri": "https://remysharp.com/manifest.json",
+            "file_md5": "manc4d819f6d3de6677255184afc5a6767d",
+            "manifest_hits": 2,
+            "description": "About [code] and all that jazz"
         },
         {
-            "short_name": "Resume Nation",
-            "name": "Resume Nation",
+            "name": "Saints Schedule & Info",
+            "short_name": "SaintsInfo",
             "display": "standalone",
+            "start_url": "/",
+            "theme_color": "#D3BC8D",
+            "background_color": "#010203",
+            "lang": "",
+            "orientation": "portrait-primary",
+            "description": "New Orleans Saints' game schedule, news, and bar database.",
             "icons": [
                 {
-                    "src": "images/icon-48.png",
+                    "src": "https://saintsschedule.info/assets/icons/saints-512.png",
+                    "sizes": "512x512"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-44.png",
+                    "sizes": "44x44"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-48.png",
+                    "sizes": "48x48"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-1024x600.png",
+                    "sizes": "1240x600"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-300.png",
+                    "sizes": "300x300"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-150.png",
+                    "sizes": "150x150"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-88.png",
+                    "sizes": "88x88"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-24.png",
+                    "sizes": "24x24"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-50.png",
+                    "sizes": "50x50"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-620x300.png",
+                    "sizes": "620x300"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-192.png",
+                    "sizes": "192x192"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-144.png",
+                    "sizes": "144x144"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-96.png",
+                    "sizes": "96x96"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-72.png",
+                    "sizes": "72x72"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-36.png",
+                    "sizes": "36x36"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-1024.png",
+                    "sizes": "1024x1024"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-180.png",
+                    "sizes": "180x180"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-152.png",
+                    "sizes": "152x152"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-120.png",
+                    "sizes": "120x120"
+                },
+                {
+                    "src": "https://saintsschedule.info/assets/icons/saints-76.png",
+                    "sizes": "76x76"
+                }
+            ],
+            "root_uri": "https://saintsschedule.info/manifest.json",
+            "file_md5": "man9d6a24a15bef2378da9354bc3059094e",
+            "manifest_hits": 2
+        },
+        {
+            "name": "Versus, compare anything",
+            "short_name": "Versus",
+            "description": "Compare smartphones, cameras, cities, headphones, graphics cards, and much more. With detailed tech specs, data visualizations, and price comparisons, Versus is the best product finder for a wide range of consumer electronics, from smartphones to PC hardware.",
+            "icons": [
+                {
+                    "src": "icons/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "icons/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "icons/apple-touch-icon-60x60.png",
+                    "sizes": "60x60",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "icons/apple-touch-icon-76x76.png",
+                    "sizes": "76x76",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "icons/apple-touch-icon-120x120.png",
+                    "sizes": "120x120",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "icons/apple-touch-icon-152x152.png",
+                    "sizes": "152x152",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "icons/apple-touch-icon-180x180.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "icons/apple-touch-icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "icons/favicon-16x16.png",
+                    "sizes": "16x16",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "icons/favicon-32x32.png",
+                    "sizes": "32x32",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "icons/msapplication-icon-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "icons/mstile-150x150.png",
+                    "sizes": "150x150",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "screenshots": [
+                {
+                    "src": "img/1_compare-min.png",
+                    "sizes": "1242x2208",
+                    "type": "image/png"
+                },
+                {
+                    "src": "img/2_discover-min.png",
+                    "sizes": "1242x2208",
+                    "type": "image/png"
+                },
+                {
+                    "src": "img/3_buy-min.png",
+                    "sizes": "1242x2208",
+                    "type": "image/png"
+                }
+            ],
+            "start_url": "/?utm_source=PWA",
+            "theme_color": "#161616",
+            "background_color": "#161616",
+            "display": "standalone",
+            "root_uri": "https://versus.com/manifest.webmanifest",
+            "file_md5": "man39fedc52b660b8630f32323b32d1ff2b",
+            "manifest_hits": 2
+        },
+        {
+            "name": "PregBuddy",
+            "short_name": "PregBuddy",
+            "icons": [
+                {
+                    "src": "/img/icons/favicon-48x48.png",
                     "sizes": "48x48",
                     "type": "image/png"
                 },
                 {
-                    "src": "images/icon-96.png",
+                    "src": "/img/icons/favicon-72x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/img/icons/favicon-96x96.png",
                     "sizes": "96x96",
                     "type": "image/png"
                 },
                 {
-                    "src": "images/icon-144.png",
+                    "src": "/img/icons/favicon-144x144.png",
                     "sizes": "144x144",
                     "type": "image/png"
                 },
                 {
-                    "src": "images/icon-192.png",
+                    "src": "/img/icons/favicon-192x192.png",
                     "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/img/icons/favicon-512x512.png",
+                    "sizes": "512x512",
                     "type": "image/png"
                 }
             ],
             "start_url": "index.html",
-            "theme_color": "#673AB7",
-            "background_color": "#EEEEEE",
-            "root_uri": "https://resume-nation.github.io/manifest.json",
-            "file_md5": "man772503c7e120739b3fff58e2e59b84d6",
-            "manifest_hits": 0,
-            "description": "no description"
+            "display": "standalone",
+            "orientation": "portrait",
+            "background_color": "#148d74",
+            "theme_color": "#1bbc9b",
+            "related_applications": [
+                {
+                    "platform": "play",
+                    "id": "com.pregbuddy",
+                    "url": "https://play.google.com/store/apps/details?id=com.pregbuddy&hl=en"
+                }
+            ],
+            "gcm_sender_id": "103953800507",
+            "root_uri": "https://app.pregbuddy.com/manifest.json",
+            "file_md5": "man5939583c320b14bd74f46a4f9fcf4f21",
+            "manifest_hits": 2,
+            "description": "Stay prepared &amp; fit with FREE weekly pregnancy tips about your baby &amp; your body! Best app for pregnant women."
         },
         {
             "name": "MConverter",
@@ -2229,454 +2670,7 @@
             ],
             "root_uri": "https://mconverter.eu/manifest.json",
             "file_md5": "man1605c21a10724dbe96fa33de37622724",
-            "manifest_hits": 0
-        },
-        {
-            "name": "Passky",
-            "short_name": "Passky",
-            "id": "/",
-            "start_url": "/",
-            "scope": ".",
-            "description": "Passky is simple, modern, lightweight, open source and secure password manager.",
-            "categories": [
-                "productivity",
-                "security",
-                "utilities"
-            ],
-            "icons": [
-                {
-                    "src": "images/icons/icon-48x48.png",
-                    "sizes": "48x48",
-                    "type": "image/png"
-                },
-                {
-                    "src": "images/icons/icon-72x72.png",
-                    "sizes": "72x72",
-                    "type": "image/png"
-                },
-                {
-                    "src": "images/icons/icon-96x96.png",
-                    "sizes": "96x96",
-                    "type": "image/png"
-                },
-                {
-                    "src": "images/icons/icon-128x128.png",
-                    "sizes": "128x128",
-                    "type": "image/png"
-                },
-                {
-                    "src": "images/icons/icon-144x144.png",
-                    "sizes": "144x144",
-                    "type": "image/png"
-                },
-                {
-                    "src": "images/icons/icon-152x152.png",
-                    "sizes": "152x152",
-                    "type": "image/png"
-                },
-                {
-                    "src": "images/icons/icon-192x192.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                },
-                {
-                    "src": "images/icons/icon-384x384.png",
-                    "sizes": "384x384",
-                    "type": "image/png"
-                },
-                {
-                    "src": "images/icons/icon-512x512.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                },
-                {
-                    "src": "images/icons/icon-512x512.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "maskable"
-                }
-            ],
-            "screenshots": [
-                {
-                    "src": "images/screenshots/1.jpg",
-                    "sizes": "1080x2400",
-                    "type": "image/jpg"
-                },
-                {
-                    "src": "images/screenshots/2.jpg",
-                    "sizes": "1080x2400",
-                    "type": "image/jpg"
-                },
-                {
-                    "src": "images/screenshots/3.jpg",
-                    "sizes": "1080x2400",
-                    "type": "image/jpg"
-                },
-                {
-                    "src": "images/screenshots/4.jpg",
-                    "sizes": "1080x2400",
-                    "type": "image/jpg"
-                },
-                {
-                    "src": "images/screenshots/5.jpg",
-                    "sizes": "1080x2400",
-                    "type": "image/jpg"
-                },
-                {
-                    "src": "images/screenshots/6.jpg",
-                    "sizes": "1080x2400",
-                    "type": "image/jpg"
-                },
-                {
-                    "src": "images/screenshots/7.jpg",
-                    "sizes": "1080x2400",
-                    "type": "image/jpg"
-                },
-                {
-                    "src": "images/screenshots/8.jpg",
-                    "sizes": "1080x2400",
-                    "type": "image/jpg"
-                }
-            ],
-            "theme_color": "#0D1117",
-            "background_color": "#DFE5EB",
-            "display": "standalone",
-            "orientation": "portrait",
-            "iarc_rating_id": "1ff144b5-7bfc-4207-abed-0e549cb80406",
-            "related_applications": [
-                {
-                    "platform": "play",
-                    "url": "https://play.google.com/store/apps/details?id=com.rabbitcompany.passky",
-                    "id": "com.rabbitcompany.passky"
-                },
-                {
-                    "platform": "chrome_web_store",
-                    "url": "https://chrome.google.com/webstore/detail/passky/ngncpgfjhnkgfcjamgljadegplonbihi",
-                    "id": "ngncpgfjhnkgfcjamgljadegplonbihi"
-                },
-                {
-                    "platform": "windows",
-                    "url": "https://www.microsoft.com/en-us/p/passky/9nrcp6hppb82",
-                    "id": "9nrcp6hppb82"
-                }
-            ],
-            "root_uri": "https://vault.passky.org/manifest.json",
-            "file_md5": "man263858c4708947efb310459ca63f1168",
-            "manifest_hits": 0,
-            "apk_location": "https://saintsschedule.info/apk/app-release-signed.apk"
-        },
-        {
-            "name": "Saints Schedule & Info",
-            "short_name": "SaintsInfo",
-            "display": "standalone",
-            "start_url": "/",
-            "theme_color": "#D3BC8D",
-            "background_color": "#010203",
-            "lang": "",
-            "orientation": "portrait-primary",
-            "description": "New Orleans Saints' game schedule, news, and bar database.",
-            "icons": [
-                {
-                    "src": "https://saintsschedule.info/assets/icons/saints-512.png",
-                    "sizes": "512x512"
-                },
-                {
-                    "src": "https://saintsschedule.info/assets/icons/saints-44.png",
-                    "sizes": "44x44"
-                },
-                {
-                    "src": "https://saintsschedule.info/assets/icons/saints-48.png",
-                    "sizes": "48x48"
-                },
-                {
-                    "src": "https://saintsschedule.info/assets/icons/saints-1024x600.png",
-                    "sizes": "1240x600"
-                },
-                {
-                    "src": "https://saintsschedule.info/assets/icons/saints-300.png",
-                    "sizes": "300x300"
-                },
-                {
-                    "src": "https://saintsschedule.info/assets/icons/saints-150.png",
-                    "sizes": "150x150"
-                },
-                {
-                    "src": "https://saintsschedule.info/assets/icons/saints-88.png",
-                    "sizes": "88x88"
-                },
-                {
-                    "src": "https://saintsschedule.info/assets/icons/saints-24.png",
-                    "sizes": "24x24"
-                },
-                {
-                    "src": "https://saintsschedule.info/assets/icons/saints-50.png",
-                    "sizes": "50x50"
-                },
-                {
-                    "src": "https://saintsschedule.info/assets/icons/saints-620x300.png",
-                    "sizes": "620x300"
-                },
-                {
-                    "src": "https://saintsschedule.info/assets/icons/saints-192.png",
-                    "sizes": "192x192"
-                },
-                {
-                    "src": "https://saintsschedule.info/assets/icons/saints-144.png",
-                    "sizes": "144x144"
-                },
-                {
-                    "src": "https://saintsschedule.info/assets/icons/saints-96.png",
-                    "sizes": "96x96"
-                },
-                {
-                    "src": "https://saintsschedule.info/assets/icons/saints-72.png",
-                    "sizes": "72x72"
-                },
-                {
-                    "src": "https://saintsschedule.info/assets/icons/saints-36.png",
-                    "sizes": "36x36"
-                },
-                {
-                    "src": "https://saintsschedule.info/assets/icons/saints-1024.png",
-                    "sizes": "1024x1024"
-                },
-                {
-                    "src": "https://saintsschedule.info/assets/icons/saints-180.png",
-                    "sizes": "180x180"
-                },
-                {
-                    "src": "https://saintsschedule.info/assets/icons/saints-152.png",
-                    "sizes": "152x152"
-                },
-                {
-                    "src": "https://saintsschedule.info/assets/icons/saints-120.png",
-                    "sizes": "120x120"
-                },
-                {
-                    "src": "https://saintsschedule.info/assets/icons/saints-76.png",
-                    "sizes": "76x76"
-                }
-            ],
-            "root_uri": "https://saintsschedule.info/manifest.json",
-            "file_md5": "man9d6a24a15bef2378da9354bc3059094e",
-            "manifest_hits": 0
-        },
-        {
-            "lang": "en",
-            "short_name": "rem's b:log",
-            "name": "rem's b:log",
-            "icons": [
-                {
-                    "src": "/images/remy-2014-twitter.png",
-                    "sizes": "300x300",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/images/remy-512.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                }
-            ],
-            "start_url": "/",
-            "display": "minimal-ui",
-            "background_color": "#1A1A1A",
-            "theme_color": "#1A1A1A",
-            "root_uri": "https://remysharp.com/manifest.json",
-            "file_md5": "manc4d819f6d3de6677255184afc5a6767d",
-            "manifest_hits": 0,
-            "description": "About [code] and all that jazz"
-        },
-        {
-            "short_name": "Care Cards",
-            "name": "Care Cards",
-            "icons": [
-                {
-                    "src": "favicon.ico",
-                    "sizes": "32x32 16x16",
-                    "type": "image/x-icon"
-                },
-                {
-                    "src": "icon-144x144.png",
-                    "sizes": "144x144",
-                    "type": "image/png"
-                },
-                {
-                    "src": "icon-192x192.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                },
-                {
-                    "src": "icon-512x512.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                }
-            ],
-            "start_url": "./index.html",
-            "display": "standalone",
-            "theme_color": "#343434",
-            "background_color": "#6CCBC5",
-            "orientation": "portrait",
-            "root_uri": "https://carecards.io/manifest.json",
-            "file_md5": "man77aff1ee78e37984f09c6e9fac8d84be",
-            "manifest_hits": 0,
-            "description": "We all get a little overwhelmed from time to time. Care Cards is a set of helpful little tips to keep you on top of your mental well-being."
-        },
-        {
-            "name": "Versus, compare anything",
-            "short_name": "Versus",
-            "description": "Compare smartphones, cameras, cities, headphones, graphics cards, and much more. With detailed tech specs, data visualizations, and price comparisons, Versus is the best product finder for a wide range of consumer electronics, from smartphones to PC hardware.",
-            "icons": [
-                {
-                    "src": "icons/android-chrome-192x192.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "icons/android-chrome-512x512.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "icons/apple-touch-icon-60x60.png",
-                    "sizes": "60x60",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "icons/apple-touch-icon-76x76.png",
-                    "sizes": "76x76",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "icons/apple-touch-icon-120x120.png",
-                    "sizes": "120x120",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "icons/apple-touch-icon-152x152.png",
-                    "sizes": "152x152",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "icons/apple-touch-icon-180x180.png",
-                    "sizes": "180x180",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "icons/apple-touch-icon.png",
-                    "sizes": "180x180",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "icons/favicon-16x16.png",
-                    "sizes": "16x16",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "icons/favicon-32x32.png",
-                    "sizes": "32x32",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "icons/msapplication-icon-144x144.png",
-                    "sizes": "144x144",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "icons/mstile-150x150.png",
-                    "sizes": "150x150",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                }
-            ],
-            "screenshots": [
-                {
-                    "src": "img/1_compare-min.png",
-                    "sizes": "1242x2208",
-                    "type": "image/png"
-                },
-                {
-                    "src": "img/2_discover-min.png",
-                    "sizes": "1242x2208",
-                    "type": "image/png"
-                },
-                {
-                    "src": "img/3_buy-min.png",
-                    "sizes": "1242x2208",
-                    "type": "image/png"
-                }
-            ],
-            "start_url": "/?utm_source=PWA",
-            "theme_color": "#161616",
-            "background_color": "#161616",
-            "display": "standalone",
-            "root_uri": "https://versus.com/manifest.webmanifest",
-            "file_md5": "man39fedc52b660b8630f32323b32d1ff2b",
-            "manifest_hits": 0
-        },
-        {
-            "name": "PregBuddy",
-            "short_name": "PregBuddy",
-            "icons": [
-                {
-                    "src": "/img/icons/favicon-48x48.png",
-                    "sizes": "48x48",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/img/icons/favicon-72x72.png",
-                    "sizes": "72x72",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/img/icons/favicon-96x96.png",
-                    "sizes": "96x96",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/img/icons/favicon-144x144.png",
-                    "sizes": "144x144",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/img/icons/favicon-192x192.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/img/icons/favicon-512x512.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                }
-            ],
-            "start_url": "index.html",
-            "display": "standalone",
-            "orientation": "portrait",
-            "background_color": "#148d74",
-            "theme_color": "#1bbc9b",
-            "related_applications": [
-                {
-                    "platform": "play",
-                    "id": "com.pregbuddy",
-                    "url": "https://play.google.com/store/apps/details?id=com.pregbuddy&hl=en"
-                }
-            ],
-            "gcm_sender_id": "103953800507",
-            "root_uri": "https://app.pregbuddy.com/manifest.json",
-            "file_md5": "man5939583c320b14bd74f46a4f9fcf4f21",
-            "manifest_hits": 0,
-            "description": "Stay prepared &amp; fit with FREE weekly pregnancy tips about your baby &amp; your body! Best app for pregnant women.",
-            "apk_location": null
+            "manifest_hits": 2
         },
         {
             "name": "Scoreboard",
@@ -2704,7 +2698,7 @@
             "scope": "https://scoreboard.rocks/",
             "root_uri": "https://scoreboard.rocks/pwa-manifest.json",
             "file_md5": "man8a8bd24d49f14b7eca22dfc90d8399a0",
-            "manifest_hits": 0
+            "manifest_hits": 2
         },
         {
             "name": "todo.blue",
@@ -2823,7 +2817,7 @@
             ],
             "root_uri": "https://todo.blue/pwa-manifest.json",
             "file_md5": "man923e258ca45671fb6c3c17d15aab4f92",
-            "manifest_hits": 0
+            "manifest_hits": 2
         },
         {
             "name": "Pete LePage",
@@ -2871,7 +2865,7 @@
             "description": "Koombea is the leading mobile consultancy and web app development agency for businesses looking to bring their ideas to reality.",
             "root_uri": "https://www.koombea.com/wp-json/wp/v2/web-app-manifest",
             "file_md5": "man990f817c762e34b6e0eb1b1f3ff93cd4",
-            "manifest_hits": 0
+            "manifest_hits": 45
         },
         {
             "name": "AnonAce",
@@ -2956,7 +2950,7 @@
             ],
             "root_uri": "https://anonace.com/./manifest.json",
             "file_md5": "man969058ad0ee4fae6754dbbcf13575db4",
-            "manifest_hits": 0
+            "manifest_hits": 3
         },
         {
             "icons": [
@@ -3011,40 +3005,7 @@
             "background_color": "#76afeb",
             "root_uri": "https://murillo94.github.io/weather-pwa/manifest.json",
             "file_md5": "manb43d385ae17942d52a429bbf9ce9657b",
-            "manifest_hits": 0
-        },
-        {
-            "name": "Cloud Four",
-            "short_name": "Cloud Four",
-            "description": "We design and develop responsive websites and progressive web apps.",
-            "dir": "ltr",
-            "lang": "en",
-            "icons": [
-                {
-                    "src": "/android-chrome-192x192.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/android-chrome-512x512.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                }
-            ],
-            "theme_color": "#456BD9",
-            "background_color": "#456BD9",
-            "display": "standalone",
-            "orientation": "natural",
-            "start_url": "/",
-            "categories": [
-                "business",
-                "technology",
-                "web"
-            ],
-            "gcm_sender_id": "482941778795",
-            "root_uri": "https://cloudfour.com/manifest.json",
-            "file_md5": "man66cfc7554db06cf512b79513b5faa876",
-            "manifest_hits": 0
+            "manifest_hits": 2
         },
         {
             "name": "todo koolsol",
@@ -3072,7 +3033,7 @@
             "orientation": "any",
             "root_uri": "https://todo.koolsol.app/manifest.json.php",
             "file_md5": "man6145f2ecf4510b94f4a206c76784bb8f",
-            "manifest_hits": 0
+            "manifest_hits": 2
         },
         {
             "name": "ColorBlindSim",
@@ -3097,7 +3058,7 @@
             "background_color": "#587498",
             "root_uri": "https://www.colorblindsim.com/manifest.8b7a3d31.webmanifest",
             "file_md5": "man1eb37e70bdb8212d59d7e9778684df43",
-            "manifest_hits": 0
+            "manifest_hits": 3
         },
         {
             "name": "Web Dev I",
@@ -3141,6 +3102,64 @@
             ],
             "root_uri": "https://vcjhwebdev.github.io/manifest.json",
             "file_md5": "man41ffd111fdbd52cd7e9303afbecb498f",
+            "manifest_hits": 3
+        },
+        {
+            "name": "Color Heroes!",
+            "short_name": "ColorHeroes",
+            "icons": [
+                {
+                    "src": "android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "theme_color": "#000000",
+            "background_color": "#000000",
+            "display": "standalone",
+            "orientation": "portrait",
+            "start_url": "/",
+            "root_uri": "https://colorhero.es/site.webmanifest",
+            "file_md5": "man2282664f27823c06329649d52057850f",
+            "manifest_hits": 2,
+            "description": "Superhero color guessing game"
+        },
+        {
+            "name": "Cloud Four",
+            "short_name": "Cloud Four",
+            "description": "We design and develop responsive websites and progressive web apps.",
+            "dir": "ltr",
+            "lang": "en",
+            "icons": [
+                {
+                    "src": "/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "theme_color": "#456BD9",
+            "background_color": "#456BD9",
+            "display": "standalone",
+            "orientation": "natural",
+            "start_url": "/",
+            "categories": [
+                "business",
+                "technology",
+                "web"
+            ],
+            "gcm_sender_id": "482941778795",
+            "root_uri": "https://cloudfour.com/manifest.json",
+            "file_md5": "man66cfc7554db06cf512b79513b5faa876",
             "manifest_hits": 0
         },
         {
@@ -3197,32 +3216,7 @@
             ],
             "root_uri": "https://thesession.org/manifest.json",
             "file_md5": "man50a33887427c513f43b8e3e1c48f2292",
-            "manifest_hits": 0
-        },
-        {
-            "name": "Color Heroes!",
-            "short_name": "ColorHeroes",
-            "icons": [
-                {
-                    "src": "android-chrome-192x192.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                },
-                {
-                    "src": "android-chrome-512x512.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                }
-            ],
-            "theme_color": "#000000",
-            "background_color": "#000000",
-            "display": "standalone",
-            "orientation": "portrait",
-            "start_url": "/",
-            "root_uri": "https://colorhero.es/site.webmanifest",
-            "file_md5": "man2282664f27823c06329649d52057850f",
-            "manifest_hits": 0,
-            "description": "Superhero color guessing game"
+            "manifest_hits": 5
         },
         {
             "name": "koolsol solitaire",
@@ -3284,7 +3278,7 @@
             "orientation": "any",
             "root_uri": "https://minesweeper.koolsol.app/manifest.json",
             "file_md5": "man79b13ba0e56f595fb54d7b1cfe73da62",
-            "manifest_hits": 0
+            "manifest_hits": 2
         },
         {
             "name": "The Clear Evidence",
@@ -3313,32 +3307,7 @@
             "gcm_sender_id": "482941778795",
             "root_uri": "https://theclearevidence.org/pwa-manifest.json",
             "file_md5": "manda8e7cbf07faa9f7db10fb52005c90fb",
-            "manifest_hits": 0
-        },
-        {
-            "name": "Material Money",
-            "short_name": "M Money",
-            "manifest_version": 2,
-            "description": "A fast, offline-friendly, Material Design-inspired currency converter.",
-            "icons": [
-                {
-                    "src": "images/touch/icon-256x256-b0e7ff1848.png",
-                    "sizes": "256x256",
-                    "type": "image/png"
-                },
-                {
-                    "src": "images/touch/icon-512x512-2ac984ca14.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                }
-            ],
-            "start_url": "/",
-            "display": "standalone",
-            "background_color": "#263238",
-            "theme_color": "#263238",
-            "root_uri": "https://material.money/manifest.json",
-            "file_md5": "man97428607aa5b945d880f03fb671a6dba",
-            "manifest_hits": 0
+            "manifest_hits": 21
         },
         {
             "name": "koolsol solitaire",
@@ -3372,35 +3341,29 @@
             "manifest_hits": 0
         },
         {
-            "name": "koolsol memory",
-            "short_name": "memory",
-            "description": "The classic international memory game.",
-            "start_url": "/",
-            "scope": "/",
-            "display": "standalone",
-            "theme_color": "#99D9EA",
-            "background_color": "#EEE",
+            "name": "Material Money",
+            "short_name": "M Money",
+            "manifest_version": 2,
+            "description": "A fast, offline-friendly, Material Design-inspired currency converter.",
             "icons": [
                 {
-                    "src": "https://memory.koolsol.app/192x192-min.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any maskable"
+                    "src": "images/touch/icon-256x256-b0e7ff1848.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
                 },
                 {
-                    "src": "https://memory.koolsol.app/515x512-min.png",
+                    "src": "images/touch/icon-512x512-2ac984ca14.png",
                     "sizes": "512x512",
                     "type": "image/png"
                 }
             ],
-            "version": "20210303-01",
-            "categories": [
-                "games"
-            ],
-            "orientation": "any",
-            "root_uri": "https://memory.koolsol.app/manifest.json",
-            "file_md5": "man801b4b8a05268d830b1e2afd2b615f2c",
-            "manifest_hits": 0
+            "start_url": "/",
+            "display": "standalone",
+            "background_color": "#263238",
+            "theme_color": "#263238",
+            "root_uri": "https://material.money/manifest.json",
+            "file_md5": "man97428607aa5b945d880f03fb671a6dba",
+            "manifest_hits": 2
         },
         {
             "name": "koolsol solitaire",
@@ -3434,30 +3397,35 @@
             "manifest_hits": 0
         },
         {
-            "name": "Assistant for Scrap Mechanic",
-            "short_name": "Scrap Mechanic Survival Assistant",
-            "start_url": ".",
+            "name": "koolsol memory",
+            "short_name": "memory",
+            "description": "The classic international memory game.",
+            "start_url": "/",
+            "scope": "/",
             "display": "standalone",
-            "background_color": "#000000",
-            "theme_color": "#C24F02",
-            "description": "An assistant for the game Scrap Mechanic",
-            "orientation": "portrait-primary",
-            "prefer_related_applications": false,
+            "theme_color": "#99D9EA",
+            "background_color": "#EEE",
             "icons": [
                 {
-                    "src": "icons/Icon-192.png",
+                    "src": "https://memory.koolsol.app/192x192-min.png",
                     "sizes": "192x192",
-                    "type": "image/png"
+                    "type": "image/png",
+                    "purpose": "any maskable"
                 },
                 {
-                    "src": "icons/Icon-512.png",
+                    "src": "https://memory.koolsol.app/515x512-min.png",
                     "sizes": "512x512",
                     "type": "image/png"
                 }
             ],
-            "root_uri": "https://scrapassistant.com/manifest.json",
-            "file_md5": "man3c8435ddc80eef38fb15d411619bd7a9",
-            "manifest_hits": 0
+            "version": "20210303-01",
+            "categories": [
+                "games"
+            ],
+            "orientation": "any",
+            "root_uri": "https://memory.koolsol.app/manifest.json",
+            "file_md5": "man801b4b8a05268d830b1e2afd2b615f2c",
+            "manifest_hits": 2
         },
         {
             "lang": "pt-br",
@@ -3514,8 +3482,34 @@
             ],
             "root_uri": "https://iondrimbafilho.me/manifest.webmanifest",
             "file_md5": "man223c6772d96f5994502dff3ed06ed04a",
-            "manifest_hits": 0,
+            "manifest_hits": 2,
             "description": "All things Javascript"
+        },
+        {
+            "name": "Assistant for Scrap Mechanic",
+            "short_name": "Scrap Mechanic Survival Assistant",
+            "start_url": ".",
+            "display": "standalone",
+            "background_color": "#000000",
+            "theme_color": "#C24F02",
+            "description": "An assistant for the game Scrap Mechanic",
+            "orientation": "portrait-primary",
+            "prefer_related_applications": false,
+            "icons": [
+                {
+                    "src": "icons/Icon-192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "icons/Icon-512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "root_uri": "https://scrapassistant.com/manifest.json",
+            "file_md5": "man3c8435ddc80eef38fb15d411619bd7a9",
+            "manifest_hits": 2
         },
         {
             "name": "Financial Times",
@@ -3532,7 +3526,7 @@
             ],
             "root_uri": "https://app.ft.com/metatags.json?v=3",
             "file_md5": "mand87bfd40c92ff56bb87546d459230063",
-            "manifest_hits": 0,
+            "manifest_hits": 3,
             "description": "no description"
         },
         {
@@ -3572,7 +3566,7 @@
             ],
             "root_uri": "https://wordpress.com/calypso/manifest.json",
             "file_md5": "man7b227c240e8bc8e295e18dd04cec09c4",
-            "manifest_hits": 0,
+            "manifest_hits": 2,
             "description": "Create a free website or build a blog with ease on WordPress.com. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support."
         },
         {
@@ -3668,38 +3662,7 @@
             ],
             "root_uri": "https://www.welt.de/assets/resources/manifest/manifest-202e2e564b.json",
             "file_md5": "man73c0d40f27e96cf6e9b15081ed1327a2",
-            "manifest_hits": 0
-        },
-        {
-            "name": "AutoScout24",
-            "short_name": "AutoScout24",
-            "start_url": "/?ipl=home-screen&ipc=launch",
-            "orientation": "any",
-            "display": "standalone",
-            "icons": [
-                {
-                    "src": "/service-worker/images/android-chrome-192x192.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/service-worker/images/android-chrome-256x256.png",
-                    "sizes": "256x256",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/service-worker/images/android-chrome-512x512.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                }
-            ],
-            "theme_color": "#fff",
-            "background_color": "#fff",
-            "gcm_sender_id": "103953800507",
-            "root_uri": "https://www.autoscout24.de/service-worker/manifests/manifest.json",
-            "file_md5": "manb46ba03c28a95456b7c299e0efa9b97f",
-            "manifest_hits": 0,
-            "description": "Neu- und Gebrauchtwagen sowie Motorräder, Wohnmobile und Nutzfahrzeuge finden Sie auf AutoScout24, dem europaweit größten Online-Automarkt."
+            "manifest_hits": 29
         },
         {
             "name": "amp.dev",
@@ -3754,32 +3717,8 @@
             "splash_pages": null,
             "root_uri": "https://amp.dev/manifest.json",
             "file_md5": "man6465a3c7ba28f95f45adc093bef9018e",
-            "manifest_hits": 0,
+            "manifest_hits": 18,
             "description": "Whether you are a publisher, e-commerce company, storyteller, advertiser or email sender, AMP makes it easy to create great experiences on the web. Use AMP to build websites, stories, ads and emails."
-        },
-        {
-            "short_name": "bücher.de",
-            "name": "Bücher versandkostenfrei bestellen bei buecher.de",
-            "icons": [
-                {
-                    "src": "../favicons/192x192.png?v=1",
-                    "type": "image/png",
-                    "sizes": "192x192"
-                },
-                {
-                    "src": "../favicons/512x512.png?v=1",
-                    "type": "image/png",
-                    "sizes": "512x512"
-                }
-            ],
-            "start_url": "/?utm_source=homescreen",
-            "display": "standalone",
-            "theme_color": "#00989A",
-            "background_color": "#e0e0e0",
-            "root_uri": "https://www.buecher.de/assets/pwa/manifest.json",
-            "file_md5": "mane4f25439fc47a0fd84859a2d58120715",
-            "manifest_hits": 0,
-            "description": "bücher.de:  ✔ über 15 Mio. Artikel ✔ Versandkostenfrei online bestellen ✔ Kein Mindestbestellwert ✔ Bequem per Rechnung bezahlen!"
         },
         {
             "name": "Alibaba.com",
@@ -3845,134 +3784,38 @@
             ],
             "root_uri": "https://m.alibaba.com/manifest-pwa.json",
             "file_md5": "man3a56405588f9a9ea27e2729c217e5a9c",
-            "manifest_hits": 0
+            "manifest_hits": 2
         },
         {
-            "name": "Indiatoday",
-            "short_name": "Indiatoday",
+            "name": "AutoScout24",
+            "short_name": "AutoScout24",
+            "start_url": "/?ipl=home-screen&ipc=launch",
+            "orientation": "any",
+            "display": "standalone",
             "icons": [
                 {
-                    "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/misc/chrome-touch-icon-192x192.png",
+                    "src": "/service-worker/images/android-chrome-192x192.png",
                     "sizes": "192x192",
                     "type": "image/png"
                 },
                 {
-                    "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/misc/icon-128x128.png",
-                    "sizes": "128x128",
-                    "type": "image/png"
-                },
-                {
-                    "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/misc/ms-touch-icon-144x144-preco.png",
-                    "sizes": "144x144",
-                    "type": "image/png"
-                },
-                {
-                    "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/misc/medium-icon.png",
-                    "sizes": "96x96",
-                    "type": "image/png"
-                },
-                {
-                    "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/misc/icon-256x256.png",
+                    "src": "/service-worker/images/android-chrome-256x256.png",
                     "sizes": "256x256",
                     "type": "image/png"
                 },
                 {
-                    "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/misc/icon-384x384.png",
-                    "sizes": "384x384",
-                    "type": "image/png"
-                },
-                {
-                    "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/misc/icon-512x512.png",
+                    "src": "/service-worker/images/android-chrome-512x512.png",
                     "sizes": "512x512",
                     "type": "image/png"
                 }
             ],
-            "start_url": "https://www.indiatoday.in",
-            "display": "standalone",
-            "orientation": "natural",
-            "background_color": "#fff",
-            "theme_color": "#C04A4A",
-            "gcm_sender_id": "393239297034",
-            "gcm_user_visible_only": true,
-            "root_uri": "https://www.indiatoday.in/manifest.json",
-            "file_md5": "man94cd97ad9071cb656bed57ef02038418",
-            "manifest_hits": 0,
-            "description": "no description"
-        },
-        {
-            "short_name": "Shortcuts",
-            "name": "App Shortcuts Sample",
-            "icons": [
-                {
-                    "src": "/assets/small-icon.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/assets/large-icon.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                }
-            ],
-            "start_url": "/?start_url",
-            "scope": "/",
-            "display": "standalone",
-            "background_color": "#fff",
             "theme_color": "#fff",
-            "shortcuts": [
-                {
-                    "name": "Feel blue",
-                    "short_name": "Blue",
-                    "url": "/blue?shortcut",
-                    "icons": [
-                        {
-                            "src": "/assets/blue.png",
-                            "sizes": "192x192",
-                            "type": "image/png"
-                        }
-                    ]
-                },
-                {
-                    "name": "Feel red",
-                    "short_name": "Red",
-                    "url": "/red?shortcut",
-                    "icons": [
-                        {
-                            "src": "/assets/red.png",
-                            "sizes": "192x192",
-                            "type": "image/png"
-                        }
-                    ]
-                },
-                {
-                    "name": "Feel yellow",
-                    "short_name": "Yellow",
-                    "url": "/yellow?shortcut",
-                    "icons": [
-                        {
-                            "src": "/assets/yellow.png",
-                            "sizes": "192x192",
-                            "type": "image/png"
-                        }
-                    ]
-                },
-                {
-                    "name": "Feel green",
-                    "short_name": "Green",
-                    "url": "/green?shortcut",
-                    "icons": [
-                        {
-                            "src": "/assets/green.png",
-                            "sizes": "192x192",
-                            "type": "image/png"
-                        }
-                    ]
-                }
-            ],
-            "root_uri": "https://app-shortcuts.glitch.me/manifest.json",
-            "file_md5": "man63e1cae1f3e60c0381ce80be366a4475",
-            "manifest_hits": 0,
-            "description": "A PWA sample for app shortcuts"
+            "background_color": "#fff",
+            "gcm_sender_id": "103953800507",
+            "root_uri": "https://www.autoscout24.de/service-worker/manifests/manifest.json",
+            "file_md5": "manb46ba03c28a95456b7c299e0efa9b97f",
+            "manifest_hits": 39,
+            "description": "Neu- und Gebrauchtwagen sowie Motorräder, Wohnmobile und Nutzfahrzeuge finden Sie auf AutoScout24, dem europaweit größten Online-Automarkt."
         },
         {
             "name": "GitHub",
@@ -4037,8 +3880,32 @@
             ],
             "root_uri": "https://github.com/manifest.json",
             "file_md5": "man6acbdecaca6d2ff51ca8cf8a2fdd5b2d",
-            "manifest_hits": 0,
+            "manifest_hits": 101,
             "description": "GitHub is where over 83 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and features, power your CI/CD and DevOps workflows, and secure code before you commit it."
+        },
+        {
+            "short_name": "bücher.de",
+            "name": "Bücher versandkostenfrei bestellen bei buecher.de",
+            "icons": [
+                {
+                    "src": "../favicons/192x192.png?v=1",
+                    "type": "image/png",
+                    "sizes": "192x192"
+                },
+                {
+                    "src": "../favicons/512x512.png?v=1",
+                    "type": "image/png",
+                    "sizes": "512x512"
+                }
+            ],
+            "start_url": "/?utm_source=homescreen",
+            "display": "standalone",
+            "theme_color": "#00989A",
+            "background_color": "#e0e0e0",
+            "root_uri": "https://www.buecher.de/assets/pwa/manifest.json",
+            "file_md5": "mane4f25439fc47a0fd84859a2d58120715",
+            "manifest_hits": 145,
+            "description": "bücher.de:  ✔ über 15 Mio. Artikel ✔ Versandkostenfrei online bestellen ✔ Kein Mindestbestellwert ✔ Bequem per Rechnung bezahlen!"
         },
         {
             "short_name": "Encounters",
@@ -4496,7 +4363,203 @@
             ],
             "root_uri": "https://encounters.heromuster.com/manifest.webmanifest",
             "file_md5": "man0d5466a30d49ae8aeb91c2b954146763",
-            "manifest_hits": 0
+            "manifest_hits": 2
+        },
+        {
+            "name": "Code and Comment",
+            "short_name": "Code and Comment",
+            "start_url": "./",
+            "display": "standalone",
+            "orientation": "any",
+            "background_color": "#fff",
+            "theme_color": "#f1f7fe",
+            "icons": [
+                {
+                    "src": "icon.png",
+                    "type": "image/png",
+                    "sizes": "192x192"
+                }
+            ],
+            "root_uri": "https://code-and-comment.github.io/code-and-comment/manifest.json",
+            "file_md5": "manbd03e191afe269b85a648201105a8f92",
+            "manifest_hits": 2,
+            "description": "PWA to add comment to Github file."
+        },
+        {
+            "name": "React PWA Docs",
+            "short_name": "React PWA",
+            "dir": "ltr",
+            "lang": "en-US",
+            "orientation": "any",
+            "start_url": "/",
+            "background_color": "#17a2b8",
+            "theme_color": "#17a2b8",
+            "display": "standalone",
+            "description": "ReactPWA & PawJS documentation. Easily write progressive web apps with ReactJS and ES6. Containerize your application without npm packages.",
+            "icons": [
+                {
+                    "src": "/img/pwa/icon-72x72.png",
+                    "sizes": "72x72"
+                },
+                {
+                    "src": "/img/pwa/icon-96x96.png",
+                    "sizes": "96x96"
+                },
+                {
+                    "src": "/img/pwa/icon-128x128.png",
+                    "sizes": "128x128"
+                },
+                {
+                    "src": "/img/pwa/icon-144x144.png",
+                    "sizes": "144x144"
+                },
+                {
+                    "src": "/img/pwa/icon-152x152.png",
+                    "sizes": "152x152"
+                },
+                {
+                    "src": "/img/pwa/icon-192x192.png",
+                    "sizes": "192x192"
+                },
+                {
+                    "src": "/img/pwa/icon-384x384.png",
+                    "sizes": "384x384"
+                },
+                {
+                    "src": "/img/pwa/icon-512x512.png",
+                    "sizes": "512x512"
+                }
+            ],
+            "root_uri": "https://www.reactpwa.com/manifest.json",
+            "file_md5": "man7c18bac86745ac96704dbbf9311900e1",
+            "manifest_hits": 2
+        },
+        {
+            "name": "Indiatoday",
+            "short_name": "Indiatoday",
+            "icons": [
+                {
+                    "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/misc/chrome-touch-icon-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/misc/icon-128x128.png",
+                    "sizes": "128x128",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/misc/ms-touch-icon-144x144-preco.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/misc/medium-icon.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/misc/icon-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/misc/icon-384x384.png",
+                    "sizes": "384x384",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/misc/icon-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "start_url": "https://www.indiatoday.in",
+            "display": "standalone",
+            "orientation": "natural",
+            "background_color": "#fff",
+            "theme_color": "#C04A4A",
+            "gcm_sender_id": "393239297034",
+            "gcm_user_visible_only": true,
+            "root_uri": "https://www.indiatoday.in/manifest.json",
+            "file_md5": "man94cd97ad9071cb656bed57ef02038418",
+            "manifest_hits": 0,
+            "description": "no description"
+        },
+        {
+            "short_name": "Shortcuts",
+            "name": "App Shortcuts Sample",
+            "icons": [
+                {
+                    "src": "/assets/small-icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/assets/large-icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "start_url": "/?start_url",
+            "scope": "/",
+            "display": "standalone",
+            "background_color": "#fff",
+            "theme_color": "#fff",
+            "shortcuts": [
+                {
+                    "name": "Feel blue",
+                    "short_name": "Blue",
+                    "url": "/blue?shortcut",
+                    "icons": [
+                        {
+                            "src": "/assets/blue.png",
+                            "sizes": "192x192",
+                            "type": "image/png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Feel red",
+                    "short_name": "Red",
+                    "url": "/red?shortcut",
+                    "icons": [
+                        {
+                            "src": "/assets/red.png",
+                            "sizes": "192x192",
+                            "type": "image/png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Feel yellow",
+                    "short_name": "Yellow",
+                    "url": "/yellow?shortcut",
+                    "icons": [
+                        {
+                            "src": "/assets/yellow.png",
+                            "sizes": "192x192",
+                            "type": "image/png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Feel green",
+                    "short_name": "Green",
+                    "url": "/green?shortcut",
+                    "icons": [
+                        {
+                            "src": "/assets/green.png",
+                            "sizes": "192x192",
+                            "type": "image/png"
+                        }
+                    ]
+                }
+            ],
+            "root_uri": "https://app-shortcuts.glitch.me/manifest.json",
+            "file_md5": "man63e1cae1f3e60c0381ce80be366a4475",
+            "manifest_hits": 0,
+            "description": "A PWA sample for app shortcuts"
         },
         {
             "name": "Wavemaker",
@@ -4550,77 +4613,8 @@
             ],
             "root_uri": "https://wavemaker.cards/manifest.json",
             "file_md5": "manf3ba4000630412161919cad525e7ba59",
-            "manifest_hits": 0,
+            "manifest_hits": 2,
             "description": "Wavemaker Novel Planning and Writing Software."
-        },
-        {
-            "name": "React PWA Docs",
-            "short_name": "React PWA",
-            "dir": "ltr",
-            "lang": "en-US",
-            "orientation": "any",
-            "start_url": "/",
-            "background_color": "#17a2b8",
-            "theme_color": "#17a2b8",
-            "display": "standalone",
-            "description": "ReactPWA & PawJS documentation. Easily write progressive web apps with ReactJS and ES6. Containerize your application without npm packages.",
-            "icons": [
-                {
-                    "src": "/img/pwa/icon-72x72.png",
-                    "sizes": "72x72"
-                },
-                {
-                    "src": "/img/pwa/icon-96x96.png",
-                    "sizes": "96x96"
-                },
-                {
-                    "src": "/img/pwa/icon-128x128.png",
-                    "sizes": "128x128"
-                },
-                {
-                    "src": "/img/pwa/icon-144x144.png",
-                    "sizes": "144x144"
-                },
-                {
-                    "src": "/img/pwa/icon-152x152.png",
-                    "sizes": "152x152"
-                },
-                {
-                    "src": "/img/pwa/icon-192x192.png",
-                    "sizes": "192x192"
-                },
-                {
-                    "src": "/img/pwa/icon-384x384.png",
-                    "sizes": "384x384"
-                },
-                {
-                    "src": "/img/pwa/icon-512x512.png",
-                    "sizes": "512x512"
-                }
-            ],
-            "root_uri": "https://www.reactpwa.com/manifest.json",
-            "file_md5": "man7c18bac86745ac96704dbbf9311900e1",
-            "manifest_hits": 0
-        },
-        {
-            "name": "Code and Comment",
-            "short_name": "Code and Comment",
-            "start_url": "./",
-            "display": "standalone",
-            "orientation": "any",
-            "background_color": "#fff",
-            "theme_color": "#f1f7fe",
-            "icons": [
-                {
-                    "src": "icon.png",
-                    "type": "image/png",
-                    "sizes": "192x192"
-                }
-            ],
-            "root_uri": "https://code-and-comment.github.io/code-and-comment/manifest.json",
-            "file_md5": "manbd03e191afe269b85a648201105a8f92",
-            "manifest_hits": 0,
-            "description": "PWA to add comment to Github file."
         },
         {
             "name": "collAnon",
@@ -4738,7 +4732,485 @@
             "version": "2.0.2",
             "root_uri": "https://collanon.app/manifest.json",
             "file_md5": "mane0520cd5423346ea4f72b95726d54fca",
-            "manifest_hits": 0
+            "manifest_hits": 2
+        },
+        {
+            "name": "Simple PWA",
+            "short_name": "Simple PWA",
+            "display": "standalone",
+            "start_url": "./?utm_source=pwa_install",
+            "scope": ".",
+            "theme_color": "#000",
+            "background_color": "#000",
+            "icons": [
+                {
+                    "src": "android-chrome-36x36.png",
+                    "sizes": "36x36",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-48x48.png",
+                    "sizes": "48x48",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-72x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-96x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-384x384.png",
+                    "sizes": "384x384",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                },
+                {
+                    "src": "maskable_icon.png",
+                    "sizes": "650x650",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                }
+            ],
+            "root_uri": "https://simplepwa.com/./manifest.json",
+            "file_md5": "man8ab4bc45f6a3a7ca6537b6a153340b37",
+            "manifest_hits": 2,
+            "description": "Simple Progressive Web App (PWA) template"
+        },
+        {
+            "name": "FlagWarriors",
+            "short_name": "fl",
+            "icons": [
+                {
+                    "src": "./img/icons/android-chrome-64x64.png",
+                    "sizes": "64x64",
+                    "type": "image/png"
+                },
+                {
+                    "src": "./img/icons/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                }
+            ],
+            "start_url": ".",
+            "display": "standalone",
+            "theme_color": "#000000",
+            "background_color": "#ffffff",
+            "root_uri": "https://flagwarriors.netlify.com/manifest.json",
+            "file_md5": "man302a111334286894a45d2895af0270d4",
+            "manifest_hits": 2,
+            "description": "no description"
+        },
+        {
+            "short_name": "Pony Foo",
+            "name": "Pony Foo",
+            "start_url": "/",
+            "display": "standalone",
+            "orientation": "portrait",
+            "lang": "en",
+            "theme_color": "#333333",
+            "background_color": "#fcfcfc",
+            "share_target": {
+                "action": "/api/share-target",
+                "params": {
+                    "title": "title",
+                    "text": "text",
+                    "url": "url"
+                }
+            },
+            "icons": [
+                {
+                    "src": "/android-chrome-36x36.png",
+                    "sizes": "36x36",
+                    "type": "image/png",
+                    "density": 0.75
+                },
+                {
+                    "src": "/android-chrome-48x48.png",
+                    "sizes": "48x48",
+                    "type": "image/png",
+                    "density": 1
+                },
+                {
+                    "src": "/android-chrome-72x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png",
+                    "density": 1.5
+                },
+                {
+                    "src": "/android-chrome-96x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png",
+                    "density": 2
+                },
+                {
+                    "src": "/android-chrome-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png",
+                    "density": 3
+                },
+                {
+                    "src": "/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "density": 4
+                }
+            ],
+            "root_uri": "https://ponyfoo.com/manifest.json",
+            "file_md5": "manddc8079fd2bcc5a40c82ae095de3e4e6",
+            "manifest_hits": 2,
+            "description": "Read the latest about JavaScript, ES6, and ECMAScript proposals on TC39. Follow the Pony Foo Weekly newsletter to stay on top of interesting and trending topics around the web platform."
+        },
+        {
+            "short_name": "MobiTUKI",
+            "name": "MobiTUKI English-Swahili Advanced Dictionary",
+            "description": "The best available English-Swahili-English dictionary with 30000+ entries, including idioms, derivatives, etymology and examples.",
+            "start_url": "/english-swahili",
+            "background_color": "#8ab49e",
+            "display": "standalone",
+            "lang": "en-GB",
+            "scope": "/",
+            "theme_color": "#468966",
+            "categories": [
+                "education",
+                "utilities"
+            ],
+            "icons": [
+                {
+                    "src": "/static/img/src/logo-rendered.svg",
+                    "type": "image/svg+xml",
+                    "sizes": "any",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/static/img/favicon/android-chrome-192x192.png",
+                    "type": "image/png",
+                    "sizes": "192x192",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/static/img/favicon/android-chrome-512x512.png",
+                    "type": "image/png",
+                    "sizes": "512x512",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/static/img/favicon/apple-touch-icon.png",
+                    "type": "image/png",
+                    "sizes": "180x180",
+                    "purpose": "any maskable"
+                }
+            ],
+            "shortcuts": [
+                {
+                    "name": "Swahili-English",
+                    "short_name": "English-Swahili",
+                    "description": "MobiTUKI Kiswahili-Kiingereza Kamusi Kuu",
+                    "url": "/swahili-english?source=pwa",
+                    "icons": [
+                        {
+                            "src": "/static/img/favicon/android-chrome-192x192.png",
+                            "type": "image/png",
+                            "sizes": "192x192"
+                        }
+                    ]
+                },
+                {
+                    "name": "English-Swahili",
+                    "short_name": "English-Swahili",
+                    "description": "MobiTUKI Advanced Englis-Swahili Dictionary",
+                    "url": "/english-swahili?source=pwa",
+                    "icons": [
+                        {
+                            "src": "/static/img/favicon/android-chrome-192x192.png",
+                            "type": "image/png",
+                            "sizes": "192x192"
+                        }
+                    ]
+                }
+            ],
+            "screenshots": [
+                {
+                    "src": "/static/img/screenshot1.png",
+                    "sizes": "758x1266",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/static/img/screenshot2.png",
+                    "sizes": "758x1266",
+                    "type": "image/png"
+                }
+            ],
+            "root_uri": "https://swahili-dictionary.com/app.webmanifest",
+            "file_md5": "man40dc4aa74985fc5c0827afa239418da1",
+            "manifest_hits": 2
+        },
+        {
+            "name": "Dean Hume's Blog",
+            "short_name": "Dean Hume",
+            "start_url": "/",
+            "theme_color": "#000",
+            "background_color": "#000",
+            "display": "standalone",
+            "root_uri": "https://deanhume.com/manifest.json",
+            "file_md5": "man1ca564c2f6d17766ca8d032615aee70c",
+            "manifest_hits": 2,
+            "description": "My name is Dean Hume, and I am an author, blogger, and software developer."
+        },
+        {
+            "short_name": "jf",
+            "name": "JSON formatter",
+            "display": "standalone",
+            "description": "Minimalist JSON formatter designed to enhance productivity",
+            "icons": [
+                {
+                    "src": "images/logo-192_4.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any"
+                },
+                {
+                    "src": "images/logo-512_4.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any"
+                },
+                {
+                    "src": "images/logo-maskable-192_4.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "images/logo-maskable-512_4.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                }
+            ],
+            "start_url": "/?isInPwaMode=1",
+            "background_color": "white",
+            "theme_color": "white",
+            "scope": "/",
+            "root_uri": "https://jsonformatter.live/manifest.json",
+            "file_md5": "man81dbb324c64db6c5c8ae7c8db73a2518",
+            "manifest_hits": 2
+        },
+        {
+            "short_name": "BudgetTracker",
+            "name": "Budget Tracker",
+            "description": "Track expenses and analyse if they stick to a budget",
+            "start_url": ".",
+            "display": "standalone",
+            "theme_color": "#4a148c",
+            "background_color": "#2f0d59",
+            "icons": [
+                {
+                    "src": "favicon.ico",
+                    "sizes": "64x64 32x32 24x24 16x16",
+                    "type": "image/x-icon"
+                },
+                {
+                    "src": "android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "screenshots": [
+                {
+                    "src": "screenshots/budget-list.webp",
+                    "sizes": "360x590",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "screenshots/budget-view.webp",
+                    "sizes": "360x590",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "screenshots/budget-view.webp",
+                    "sizes": "360x590",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "screenshots/edit-budget.webp",
+                    "sizes": "360x590",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "screenshots/edit-expense.webp",
+                    "sizes": "360x590",
+                    "type": "image/webp"
+                },
+                {
+                    "src": "screenshots/statistics.webp",
+                    "sizes": "360x590",
+                    "type": "image/webp"
+                }
+            ],
+            "root_uri": "https://btapp.netlify.com/manifest.json",
+            "file_md5": "man6290193631e456bf7c2b07917eb12ae7",
+            "manifest_hits": 2
+        },
+        {
+            "name": "MORSURE",
+            "short_name": "MORSURE",
+            "icons": [
+                {
+                    "src": "/images/icons/icon-128x128.png",
+                    "sizes": "128x128",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/images/icons/icon-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/images/icons/icon-152x152.png",
+                    "sizes": "152x152",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/images/icons/icon-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/images/icons/icon-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/images/icons/icon-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "start_url": "/index.html",
+            "display": "standalone",
+            "background_color": "#980000",
+            "theme_color": "#980000",
+            "root_uri": "https://morsure.netlify.app/manifest.json",
+            "file_md5": "manff4aed748ee9acb85aeb4a5382ad3604",
+            "manifest_hits": 2,
+            "description": "A tiny morse app"
+        },
+        {
+            "name": "Freelancer - Hire & Find Jobs",
+            "short_name": "Freelancer",
+            "theme_color": "#007fed",
+            "background_color": "#f0f0f0",
+            "display": "standalone",
+            "scope": "/",
+            "start_url": "/internal/pwa?sw=true&utm_source=manifest",
+            "lang": "en",
+            "icons": [
+                {
+                    "src": "https://www.f-cdn.com/assets/main/en/assets/app-icons/icon-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.f-cdn.com/assets/main/en/assets/app-icons/icon-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "root_uri": "https://m.freelancer.com/manifest.webmanifest",
+            "file_md5": "mana3aab3907867e741ae3f8c8494df4f35",
+            "manifest_hits": 2,
+            "description": "no description"
+        },
+        {
+            "name": "Boomlive",
+            "short_name": "Boomlive",
+            "theme_color": "e2422d",
+            "background_color": "#ffffff",
+            "display": "fullscreen",
+            "orientation": "portrait",
+            "scope": "/",
+            "start_url": "/",
+            "icons": [
+                {
+                    "src": "/images/icons/icon-72x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/images/icons/icon-96x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/images/icons/icon-128x128.png",
+                    "sizes": "128x128",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/images/icons/icon-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/images/icons/icon-152x152.png",
+                    "sizes": "152x152",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/images/icons/icon-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/images/icons/icon-384x384.png",
+                    "sizes": "384x384",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/images/icons/icon-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/images/icons/icon-1024x1024.png",
+                    "sizes": "1024x1024",
+                    "type": "image/png"
+                }
+            ],
+            "splash_pages": null,
+            "root_uri": "https://www.boomlive.in/manifest.json",
+            "file_md5": "man7ee9c644c33bc40423893a720227bdaf",
+            "manifest_hits": 1,
+            "description": "BOOM FactCheck - India's most trusted fact checker of viral fake news, photos and videos on social media. Get verified fact-check stories on the latest news."
         }
     ]
 }
