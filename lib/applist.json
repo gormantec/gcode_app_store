@@ -483,7 +483,8 @@
             "prefer_related_applications": false,
             "root_uri": "https://store.gcode.com.au/manifest.json",
             "file_md5": "manb292d4d70528afbd31567c03fb0a5ebb",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apkLocation": "https://store.gcode.com.au/apk/app-release-signed.apk"
         },
         {
             "name": "gps",
@@ -511,7 +512,8 @@
             "prefer_related_applications": false,
             "root_uri": "https://gcode.com.au/apps/37790665-gps/manifest.json",
             "file_md5": "man1b88e1ae207712e435cdd57efef6ceb6",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apkLocation": "https://gcode.com.au/apps/37790665-gps/apk/app-release-signed.apk"
         },
         {
             "name": "calculator",
@@ -539,7 +541,8 @@
             "prefer_related_applications": false,
             "root_uri": "https://gcode.com.au/apps/37790665-calculator/manifest.json",
             "file_md5": "man0c6e7f9236a61b78da7847e71c2ce416",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apkLocation": "https://gcode.com.au/apps/37790665-calculator/apk/app-release-signed.apk"
         },
         {
             "name": "boatcrew",
@@ -567,7 +570,8 @@
             "prefer_related_applications": false,
             "root_uri": "https://gcode.com.au/apps/37790665-boatcrew/manifest.json",
             "file_md5": "mandf5b0360ab1bf73c9309f6f5c0530e58",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apkLocation": "https://gcode.com.au/apps/37790665-boatcrew/apk/app-release-signed.apk"
         },
         {
             "name": "screen time",
@@ -595,7 +599,8 @@
             "prefer_related_applications": false,
             "root_uri": "https://gcode.com.au/apps/37790665-screen%20time/manifest.json",
             "file_md5": "manb4dbcc2adbca44ac735b1eaa0515362a",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apkLocation": "https://gcode.com.au/apps/37790665-screen%20time/apk/app-release-signed.apk"
         },
         {
             "name": "Google Maps",
@@ -759,7 +764,8 @@
             "root_uri": "https://www.pinterest.com.au/manifest.json",
             "file_md5": "man810a2108296e618e740c9b7d5d82427a",
             "manifest_hits": 0,
-            "description": "Discover recipes, home ideas, style inspiration and other ideas to try."
+            "description": "Discover recipes, home ideas, style inspiration and other ideas to try.",
+            "apkLocation": "https://www.pinterest.com.au/apk/app-release-signed.apk"
         },
         {
             "lang": "en-us",
@@ -906,7 +912,8 @@
             "theme_color": "#ffffff",
             "root_uri": "https://adactio.com/manifest.json",
             "file_md5": "man7528dce84d4795d3ea6a9a86abd0accb",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apkLocation": "https://adactio.com/apk/app-release-signed.apk"
         },
         {
             "background_color": "#456BD9",
@@ -933,7 +940,8 @@
             "theme_color": "#456BD9",
             "root_uri": "https://www.pwastats.com/manifest.json",
             "file_md5": "man1686f62ac906916f55ceaf6498721223",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apkLocation": "https://www.pwastats.com/apk/app-release-signed.apk"
         },
         {
             "dir": "ltr",
@@ -1023,7 +1031,8 @@
             ],
             "root_uri": "https://www.pwabuilder.com/manifest.json",
             "file_md5": "man08c63e58863bd10e21334ff02ed6a680",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apkLocation": "https://www.pwabuilder.com/apk/app-release-signed.apk"
         },
         {
             "name": "YouTube",
@@ -1101,7 +1110,7 @@
             ],
             "root_uri": "https://www.youtube.com/manifest.webmanifest",
             "file_md5": "mana8f5eb29f852b756dc73fab692ef143a",
-            "manifest_hits": 0,
+            "manifest_hits": 4,
             "description": "Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube."
         },
         {
@@ -1170,64 +1179,20 @@
             "description": "no description"
         },
         {
-            "name": "Smashing Magazine",
-            "short_name": "Smashing",
-            "description": "For professional web designers and developers.",
-            "icons": [
-                {
-                    "src": "https://www.smashingmagazine.com/images/favicon/favicon-192.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                },
-                {
-                    "src": "https://www.smashingmagazine.com/images/favicon/favicon-512.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                }
-            ],
-            "theme_color": "#E6492F",
-            "background_color": "#E6492F",
-            "display": "standalone",
-            "orientation": "natural",
             "start_url": "/",
             "root_uri": "https://www.smashingmagazine.com/manifest.json",
-            "file_md5": "man1af6395faba03c3cbddf24eb8b61d305",
-            "manifest_hits": 0
+            "file_md5": "manb54ad3a2c682f893a45212adaeac4f0f",
+            "manifest_hits": 0,
+            "description": "no description",
+            "apkLocation": "https://www.smashingmagazine.com/apk/app-release-signed.apk"
         },
         {
-            "short_name": "SmashingConf",
-            "name": "Smashing Online Workshops",
-            "icons": [
-                {
-                    "src": "/images/app-icon-256x256.png",
-                    "type": "image/png",
-                    "sizes": "256x256"
-                },
-                {
-                    "src": "/images/app-icon-384x384.png",
-                    "type": "image/png",
-                    "sizes": "384x384"
-                },
-                {
-                    "src": "/images/app-icon-384x384.png",
-                    "type": "image/png",
-                    "sizes": "512x512"
-                },
-                {
-                    "src": "/images/app-icon-maskable.png",
-                    "sizes": "384x384",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                }
-            ],
             "start_url": "/online-workshops/",
-            "background_color": "#FFFFFF",
-            "display": "standalone",
-            "theme_color": "#df342b",
             "root_uri": "https://smashingconf.com/manifest.json",
-            "file_md5": "man1000bd0afb7b3261ae711217c1927361",
+            "file_md5": "man1d7e22d50825cbe41a308bad37579b9b",
             "manifest_hits": 0,
-            "description": "The Smashing Cat is stuck on the couch, but that does not mean we have to stop learning. Meet our online workshops, and boost your skills from the comfort of your home or office."
+            "description": "The Smashing Cat is stuck on the couch, but that does not mean we have to stop learning. Meet our online workshops, and boost your skills from the comfort of your home or office.",
+            "apkLocation": "https://smashingconf.com/apk/app-release-signed.apk"
         },
         {
             "name": "BMW.com",
@@ -1324,7 +1289,8 @@
             "root_uri": "https://2brew.github.io/manifest.json",
             "file_md5": "man11b78d070edc1ebffb829f47766ceaaf",
             "manifest_hits": 0,
-            "description": "no description"
+            "description": "no description",
+            "apkLocation": "https://2brew.github.io/apk/app-release-signed.apk"
         },
         {
             "name": "Alarm DJ",
@@ -1386,7 +1352,8 @@
             "theme_color": "#3E2723",
             "root_uri": "https://alarmdj.com/manifest.json",
             "file_md5": "mane6efcdd11406358ef0b749eda0ea7021",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apkLocation": "https://alarmdj.com/apk/app-release-signed.apk"
         },
         {
             "name": "Anonynote",
@@ -1446,7 +1413,8 @@
             "root_uri": "https://bolster.pro/manifest.json",
             "file_md5": "man6f435a85298fbeebae5a00a5d2983104",
             "manifest_hits": 0,
-            "description": "The secure, private journal."
+            "description": "The secure, private journal.",
+            "apkLocation": "https://bolster.pro/apk/app-release-signed.apk"
         },
         {
             "name": "Cat Safe Foods",
@@ -1576,7 +1544,8 @@
             ],
             "root_uri": "https://catsafefoods.com/./manifest.json",
             "file_md5": "man9ad1fc3043e747b4cbff5b4202d438a5",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apkLocation": "https://catsafefoods.com/./apk/app-release-signed.apk"
         },
         {
             "name": "Dog Safe Foods",
@@ -1706,7 +1675,8 @@
             ],
             "root_uri": "https://dogsafefoods.com/./manifest.json",
             "file_md5": "man00e5b75e3d745f7adbbd3ebd6a4f69a1",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apkLocation": "https://dogsafefoods.com/./apk/app-release-signed.apk"
         },
         {
             "short_name": "Dev.Opera",
@@ -1829,7 +1799,8 @@
             ],
             "root_uri": "https://gpacalculator.memorymaps.io/manifest.json",
             "file_md5": "man13edc114382fe6d79d5670edaa314384",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apkLocation": "https://gpacalculator.memorymaps.io/apk/app-release-signed.apk"
         },
         {
             "name": "Indecisive: Decision-Making App",
@@ -1960,7 +1931,8 @@
             ],
             "root_uri": "https://indecisive.us/manifest.json",
             "file_md5": "man7a654aa9b6ce2f60c32775265e6d066e",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apkLocation": "https://indecisive.us/apk/app-release-signed.apk"
         },
         {
             "name": "Let's Plant",
@@ -2033,7 +2005,8 @@
             "prompt_message": "Add a Home screen icon for easy access to Let's Plant",
             "root_uri": "https://letsplant.org/img/manifest.json",
             "file_md5": "man9e365041d54ab5d2ae425b24a60d98f9",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apkLocation": "https://letsplant.org/img/apk/app-release-signed.apk"
         },
         {
             "name": "MConverter",
@@ -2171,7 +2144,8 @@
             ],
             "root_uri": "https://mconverter.eu/manifest.json",
             "file_md5": "man1605c21a10724dbe96fa33de37622724",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apkLocation": "https://mconverter.eu/apk/app-release-signed.apk"
         },
         {
             "short_name": "PixelCraft",
@@ -2196,7 +2170,8 @@
             "root_uri": "https://pixelcraft.web.app/manifest.json",
             "file_md5": "man2e5f2e823e6eb3f34a35fe86e4b500db",
             "manifest_hits": 0,
-            "description": "no description"
+            "description": "no description",
+            "apkLocation": "https://pixelcraft.web.app/apk/app-release-signed.apk"
         },
         {
             "name": "Progressive Beer",
@@ -2235,7 +2210,8 @@
             "root_uri": "https://deanhume.github.io/beer/manifest.json",
             "file_md5": "man40d98385a8bbe873f4cbeda0218eeb39",
             "manifest_hits": 0,
-            "description": "Progressive Beer - The ultimate guide to beer around the world."
+            "description": "Progressive Beer - The ultimate guide to beer around the world.",
+            "apkLocation": "https://deanhume.github.io/beer/apk/app-release-signed.apk"
         },
         {
             "short_name": "Resume Nation",
@@ -2269,7 +2245,8 @@
             "root_uri": "https://resume-nation.github.io/manifest.json",
             "file_md5": "man772503c7e120739b3fff58e2e59b84d6",
             "manifest_hits": 0,
-            "description": "no description"
+            "description": "no description",
+            "apkLocation": "https://resume-nation.github.io/apk/app-release-signed.apk"
         },
         {
             "name": "Passky",
@@ -2402,7 +2379,8 @@
             ],
             "root_uri": "https://vault.passky.org/manifest.json",
             "file_md5": "man263858c4708947efb310459ca63f1168",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apkLocation": "https://vault.passky.org/apk/app-release-signed.apk"
         },
         {
             "name": "Saints Schedule & Info",
@@ -2498,7 +2476,8 @@
             ],
             "root_uri": "https://saintsschedule.info/manifest.json",
             "file_md5": "man9d6a24a15bef2378da9354bc3059094e",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apkLocation": "https://saintsschedule.info/apk/app-release-signed.apk"
         },
         {
             "lang": "en",
@@ -2523,7 +2502,8 @@
             "root_uri": "https://remysharp.com/manifest.json",
             "file_md5": "manc4d819f6d3de6677255184afc5a6767d",
             "manifest_hits": 0,
-            "description": "About [code] and all that jazz"
+            "description": "About [code] and all that jazz",
+            "apkLocation": "https://remysharp.com/apk/app-release-signed.apk"
         },
         {
             "name": "Simple PWA",
@@ -2589,7 +2569,8 @@
             "root_uri": "https://simplepwa.com/./manifest.json",
             "file_md5": "man8ab4bc45f6a3a7ca6537b6a153340b37",
             "manifest_hits": 0,
-            "description": "Simple Progressive Web App (PWA) template"
+            "description": "Simple Progressive Web App (PWA) template",
+            "apkLocation": "https://simplepwa.com/./apk/app-release-signed.apk"
         },
         {
             "short_name": "Care Cards",
@@ -2624,7 +2605,8 @@
             "root_uri": "https://carecards.io/manifest.json",
             "file_md5": "man77aff1ee78e37984f09c6e9fac8d84be",
             "manifest_hits": 0,
-            "description": "We all get a little overwhelmed from time to time. Care Cards is a set of helpful little tips to keep you on top of your mental well-being."
+            "description": "We all get a little overwhelmed from time to time. Care Cards is a set of helpful little tips to keep you on top of your mental well-being.",
+            "apkLocation": "https://carecards.io/apk/app-release-signed.apk"
         },
         {
             "name": "PregBuddy",
@@ -2677,7 +2659,8 @@
             "root_uri": "https://app.pregbuddy.com/manifest.json",
             "file_md5": "man5939583c320b14bd74f46a4f9fcf4f21",
             "manifest_hits": 0,
-            "description": "Stay prepared &amp; fit with FREE weekly pregnancy tips about your baby &amp; your body! Best app for pregnant women."
+            "description": "Stay prepared &amp; fit with FREE weekly pregnancy tips about your baby &amp; your body! Best app for pregnant women.",
+            "apkLocation": "https://app.pregbuddy.com/apk/app-release-signed.apk"
         },
         {
             "name": "Versus, compare anything",
@@ -2961,7 +2944,8 @@
             ],
             "root_uri": "https://petelepage.com/manifest.json",
             "file_md5": "mandd5add321204d7cacb91e255568467ee",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apkLocation": "https://petelepage.com/apk/app-release-signed.apk"
         },
         {
             "name": "Cloud Four",
@@ -2994,7 +2978,8 @@
             "gcm_sender_id": "482941778795",
             "root_uri": "https://cloudfour.com/manifest.json",
             "file_md5": "man66cfc7554db06cf512b79513b5faa876",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apkLocation": "https://cloudfour.com/apk/app-release-signed.apk"
         },
         {
             "name": "Koombea",
@@ -3008,7 +2993,7 @@
             "description": "Koombea is the leading mobile consultancy and web app development agency for businesses looking to bring their ideas to reality.",
             "root_uri": "https://www.koombea.com/wp-json/wp/v2/web-app-manifest",
             "file_md5": "man990f817c762e34b6e0eb1b1f3ff93cd4",
-            "manifest_hits": 0
+            "manifest_hits": 8
         },
         {
             "name": "AnonAce",
@@ -3093,7 +3078,8 @@
             ],
             "root_uri": "https://anonace.com/./manifest.json",
             "file_md5": "man969058ad0ee4fae6754dbbcf13575db4",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apkLocation": "https://anonace.com/./apk/app-release-signed.apk"
         },
         {
             "icons": [
@@ -3148,7 +3134,8 @@
             "background_color": "#76afeb",
             "root_uri": "https://murillo94.github.io/weather-pwa/manifest.json",
             "file_md5": "manb43d385ae17942d52a429bbf9ce9657b",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apkLocation": "https://murillo94.github.io/weather-pwa/apk/app-release-signed.apk"
         },
         {
             "name": "todo koolsol",
@@ -3218,6 +3205,10 @@
             "orientation": "any",
             "related_applications": [],
             "prefer_related_applications": false,
+            "categories": [
+                "music",
+                "social"
+            ],
             "icons": [
                 {
                     "src": "/icon-192.png",
@@ -3236,12 +3227,14 @@
                 {
                     "src": "/img/screenshots/tune.png",
                     "type": "image/png",
-                    "sizes": "540x720"
+                    "sizes": "540x720",
+                    "label": "A traditional Irish tune displayed as sheet music."
                 },
                 {
                     "src": "/img/screenshots/session.png",
                     "type": "image/png",
-                    "sizes": "540x720"
+                    "sizes": "540x720",
+                    "label": "The listing for a traditional Irish music session in Galway showing its location."
                 }
             ],
             "url_handlers": [
@@ -3250,8 +3243,9 @@
                 }
             ],
             "root_uri": "https://thesession.org/manifest.json",
-            "file_md5": "man6cfbef93bacdc2135099d8188c65a9bf",
-            "manifest_hits": 0
+            "file_md5": "man50a33887427c513f43b8e3e1c48f2292",
+            "manifest_hits": 0,
+            "apkLocation": "https://thesession.org/apk/app-release-signed.apk"
         },
         {
             "name": "Web Dev I",
@@ -3295,7 +3289,8 @@
             ],
             "root_uri": "https://vcjhwebdev.github.io/manifest.json",
             "file_md5": "man41ffd111fdbd52cd7e9303afbecb498f",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apkLocation": "https://vcjhwebdev.github.io/apk/app-release-signed.apk"
         },
         {
             "name": "Color Heroes!",
@@ -3351,7 +3346,8 @@
             "orientation": "any",
             "root_uri": "https://minesweeper.koolsol.app/manifest.json",
             "file_md5": "man79b13ba0e56f595fb54d7b1cfe73da62",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apkLocation": "https://minesweeper.koolsol.app/apk/app-release-signed.apk"
         },
         {
             "name": "koolsol solitaire",
@@ -3407,7 +3403,8 @@
             "theme_color": "#263238",
             "root_uri": "https://material.money/manifest.json",
             "file_md5": "man97428607aa5b945d880f03fb671a6dba",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apkLocation": "https://material.money/apk/app-release-signed.apk"
         },
         {
             "name": "The Clear Evidence",
@@ -3498,7 +3495,8 @@
             "orientation": "any",
             "root_uri": "https://memory.koolsol.app/manifest.json",
             "file_md5": "man801b4b8a05268d830b1e2afd2b615f2c",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apkLocation": "https://memory.koolsol.app/apk/app-release-signed.apk"
         },
         {
             "name": "koolsol solitaire",
@@ -3555,7 +3553,8 @@
             ],
             "root_uri": "https://scrapassistant.com/manifest.json",
             "file_md5": "man3c8435ddc80eef38fb15d411619bd7a9",
-            "manifest_hits": 0
+            "manifest_hits": 0,
+            "apkLocation": "https://scrapassistant.com/apk/app-release-signed.apk"
         },
         {
             "lang": "pt-br",
@@ -3671,7 +3670,8 @@
             "root_uri": "https://wordpress.com/calypso/manifest.json",
             "file_md5": "man7b227c240e8bc8e295e18dd04cec09c4",
             "manifest_hits": 0,
-            "description": "Create a free website or build a blog with ease on WordPress.com. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support."
+            "description": "Create a free website or build a blog with ease on WordPress.com. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support.",
+            "apkLocation": "https://wordpress.com/calypso/apk/app-release-signed.apk"
         },
         {
             "name": "Netzwelt",
@@ -3728,71 +3728,8 @@
             "root_uri": "https://www.netzwelt.de/assets/redesign/configs/manifest.json",
             "file_md5": "manf8ac1e0cd90682d68532200fc8ddd1a5",
             "manifest_hits": 0,
-            "description": "Netzwelt.de bietet Testberichte, Downloads, Anleitungen und ausführliche Informationen wie Kaufberatungen &amp; Videos zu Smartphones, Tablet-PCs, Notebooks, Software, Fernseher und Smart Home."
-        },
-        {
-            "name": "reichelt Elektronik",
-            "short_name": "reichelt",
-            "theme_color": "#56b9a2",
-            "background_color": "#fff",
-            "display": "fullscreen",
-            "Scope": "/",
-            "start_url": "/?utm_source=homescreen",
-            "icons": [
-                {
-                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-72x72.png",
-                    "sizes": "72x72",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-96x96.png",
-                    "sizes": "96x96",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-128x128.png",
-                    "sizes": "128x128",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-144x144.png",
-                    "sizes": "144x144",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-152x152.png",
-                    "sizes": "152x152",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-192x192.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-384x384.png",
-                    "sizes": "384x384",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "https://cdn-reichelt.de/bilder/web/pwa/icon-512x512.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                }
-            ],
-            "splash_pages": null,
-            "root_uri": "https://www.reichelt.de/manifest.json?stamp=531",
-            "file_md5": "manaa34aa384ca0389f91d663e97eb22424",
-            "manifest_hits": 0,
-            "description": "&#220;ber 100.000 Artikel aus Technik & Elektronik online kaufen bei reichelt.de. Schnelle Lieferung & g&#252;nstige Preise&#33; reichelt elektronik - Technik verbindet."
+            "description": "Netzwelt.de bietet Testberichte, Downloads, Anleitungen und ausführliche Informationen wie Kaufberatungen &amp; Videos zu Smartphones, Tablet-PCs, Notebooks, Software, Fernseher und Smart Home.",
+            "apkLocation": "https://www.netzwelt.de/assets/redesign/configs/apk/app-release-signed.apk"
         },
         {
             "name": "AutoScout24",
@@ -3802,17 +3739,17 @@
             "display": "standalone",
             "icons": [
                 {
-                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-192x192.png",
+                    "src": "/service-worker/images/android-chrome-192x192.png",
                     "sizes": "192x192",
                     "type": "image/png"
                 },
                 {
-                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-256x256.png",
+                    "src": "/service-worker/images/android-chrome-256x256.png",
                     "sizes": "256x256",
                     "type": "image/png"
                 },
                 {
-                    "src": "https://www.autoscout24.de/service-worker/images/android-chrome-512x512.png",
+                    "src": "/service-worker/images/android-chrome-512x512.png",
                     "sizes": "512x512",
                     "type": "image/png"
                 }
@@ -3821,9 +3758,10 @@
             "background_color": "#fff",
             "gcm_sender_id": "103953800507",
             "root_uri": "https://www.autoscout24.de/service-worker/manifests/manifest.json",
-            "file_md5": "manb3589d98270a8c41d1239fcba6ed8a5f",
+            "file_md5": "manb46ba03c28a95456b7c299e0efa9b97f",
             "manifest_hits": 0,
-            "description": "Neu- und Gebrauchtwagen sowie Motorräder, Wohnmobile und Nutzfahrzeuge finden Sie auf AutoScout24, dem europaweit größten Online-Automarkt."
+            "description": "Neu- und Gebrauchtwagen sowie Motorräder, Wohnmobile und Nutzfahrzeuge finden Sie auf AutoScout24, dem europaweit größten Online-Automarkt.",
+            "apkLocation": "https://www.autoscout24.de/service-worker/manifests/apk/app-release-signed.apk"
         },
         {
             "name": "WELT - News",
@@ -3885,7 +3823,8 @@
             "root_uri": "https://www.buecher.de/assets/pwa/manifest.json",
             "file_md5": "mane4f25439fc47a0fd84859a2d58120715",
             "manifest_hits": 0,
-            "description": "bücher.de:  ✔ über 15 Mio. Artikel ✔ Versandkostenfrei online bestellen ✔ Kein Mindestbestellwert ✔ Bequem per Rechnung bezahlen!"
+            "description": "bücher.de:  ✔ über 15 Mio. Artikel ✔ Versandkostenfrei online bestellen ✔ Kein Mindestbestellwert ✔ Bequem per Rechnung bezahlen!",
+            "apkLocation": "https://www.buecher.de/assets/pwa/apk/app-release-signed.apk"
         },
         {
             "name": "amp.dev",
@@ -3941,7 +3880,8 @@
             "root_uri": "https://amp.dev/manifest.json",
             "file_md5": "man6465a3c7ba28f95f45adc093bef9018e",
             "manifest_hits": 0,
-            "description": "Whether you are a publisher, e-commerce company, storyteller, advertiser or email sender, AMP makes it easy to create great experiences on the web. Use AMP to build websites, stories, ads and emails."
+            "description": "Whether you are a publisher, e-commerce company, storyteller, advertiser or email sender, AMP makes it easy to create great experiences on the web. Use AMP to build websites, stories, ads and emails.",
+            "apkLocation": "https://amp.dev/apk/app-release-signed.apk"
         },
         {
             "name": "Indiatoday",
@@ -3993,7 +3933,8 @@
             "root_uri": "https://www.indiatoday.in/manifest.json",
             "file_md5": "man94cd97ad9071cb656bed57ef02038418",
             "manifest_hits": 0,
-            "description": "no description"
+            "description": "no description",
+            "apkLocation": "https://www.indiatoday.in/apk/app-release-signed.apk"
         },
         {
             "name": "Alibaba.com",
@@ -4133,12 +4074,15 @@
             ],
             "root_uri": "https://app-shortcuts.glitch.me/manifest.json",
             "file_md5": "man63e1cae1f3e60c0381ce80be366a4475",
-            "manifest_hits": 1,
-            "description": "A PWA sample for app shortcuts"
+            "manifest_hits": 0,
+            "description": "A PWA sample for app shortcuts",
+            "apkLocation": "https://app-shortcuts.glitch.me/apk/app-release-signed.apk"
         },
         {
             "name": "GitHub",
             "short_name": "GitHub",
+            "start_url": "/",
+            "display": "standalone",
             "icons": [
                 {
                     "sizes": "114x114",
@@ -4196,8 +4140,759 @@
                 }
             ],
             "root_uri": "https://github.com/manifest.json",
-            "file_md5": "man963374eb26a0ad0e0ab952523a77f6d9",
+            "file_md5": "man6acbdecaca6d2ff51ca8cf8a2fdd5b2d",
+            "manifest_hits": 14,
+            "description": "GitHub is where over 83 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and features, power your CI/CD and DevOps workflows, and secure code before you commit it.",
+            "apkLocation": "https://github.com/apk/app-release-signed.apk"
+        },
+        {
+            "name": "Wavemaker",
+            "short_name": "wavemaker",
+            "start_url": "/",
+            "display": "standalone",
+            "theme_color": "#37474f",
+            "background_color": "#37474f",
+            "icons": [
+                {
+                    "src": "/icons/android-icon-36x36.png",
+                    "sizes": "36x36",
+                    "type": "image/png",
+                    "density": "0.75"
+                },
+                {
+                    "src": "/icons/android-icon-48x48.png",
+                    "sizes": "48x48",
+                    "type": "image/png",
+                    "density": "1.0"
+                },
+                {
+                    "src": "/icons/android-icon-72x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png",
+                    "density": "1.5"
+                },
+                {
+                    "src": "/icons/android-icon-96x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png",
+                    "density": "2.0"
+                },
+                {
+                    "src": "/icons/android-icon-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png",
+                    "density": "3.0"
+                },
+                {
+                    "src": "/icons/android-icon-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "density": "4.0"
+                },
+                {
+                    "src": "/icons/icon-512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "root_uri": "https://wavemaker.cards/manifest.json",
+            "file_md5": "manf3ba4000630412161919cad525e7ba59",
+            "manifest_hits": 1,
+            "description": "Wavemaker Novel Planning and Writing Software.",
+            "apkLocation": "https://wavemaker.cards/apk/app-release-signed.apk"
+        },
+        {
+            "short_name": "Encounters",
+            "name": "Encounters Builder and Tracker",
+            "dir": "ltr",
+            "lang": "en-US",
+            "description": "Add NPCs, build encounters, and run your game with this tool for game masters. With offline and mobile support it's never been easier. Supports multiple RPG systems.",
+            "start_url": "/",
+            "background_color": "#F8F9FA",
+            "theme_color": "#007bff",
+            "display": "standalone",
+            "orientation": "any",
+            "scope": "/",
+            "screenshots": [
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/screenshots/mobile4.png",
+                    "sizes": "750x1334",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/screenshots/mobile3.png",
+                    "sizes": "750x1334",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/screenshots/mobile2.png",
+                    "sizes": "750x1334",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/screenshots/mobile6.png",
+                    "sizes": "750x1334",
+                    "type": "image/png"
+                }
+            ],
+            "icons": [
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/maskable_icon.png",
+                    "sizes": "196x196",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square71x71Logo.scale-400.png",
+                    "sizes": "284x284"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square71x71Logo.scale-200.png",
+                    "sizes": "142x142"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square71x71Logo.scale-100.png",
+                    "sizes": "71x71"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square71x71Logo.scale-150.png",
+                    "sizes": "107x107"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square71x71Logo.scale-125.png",
+                    "sizes": "89x89"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square150x150Logo.scale-400.png",
+                    "sizes": "600x600"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square150x150Logo.scale-200.png",
+                    "sizes": "300x300"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square150x150Logo.scale-100.png",
+                    "sizes": "150x150"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square150x150Logo.scale-150.png",
+                    "sizes": "225x225"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square150x150Logo.scale-125.png",
+                    "sizes": "188x188"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Wide310x150Logo.scale-400.png",
+                    "sizes": "1240x600"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Wide310x150Logo.scale-200.png",
+                    "sizes": "620x300"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Wide310x150Logo.scale-100.png",
+                    "sizes": "310x150"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Wide310x150Logo.scale-150.png",
+                    "sizes": "465x225"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Wide310x150Logo.scale-125.png",
+                    "sizes": "388x188"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square310x310Logo.scale-400.png",
+                    "sizes": "1240x1240"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square310x310Logo.scale-200.png",
+                    "sizes": "620x620"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square310x310Logo.scale-100.png",
+                    "sizes": "310x310"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square310x310Logo.scale-150.png",
+                    "sizes": "465x465"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square310x310Logo.scale-125.png",
+                    "sizes": "388x388"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square44x44Logo.scale-400.png",
+                    "sizes": "176x176"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square44x44Logo.scale-200.png",
+                    "sizes": "88x88"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square44x44Logo.scale-100.png",
+                    "sizes": "44x44"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square44x44Logo.scale-150.png",
+                    "sizes": "66x66"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square44x44Logo.scale-125.png",
+                    "sizes": "55x55"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square44x44Logo.targetsize-256.png",
+                    "sizes": "256x256"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square44x44Logo.targetsize-48.png",
+                    "sizes": "48x48"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square44x44Logo.targetsize-24.png",
+                    "sizes": "24x24"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square44x44Logo.targetsize-16.png",
+                    "sizes": "16x16"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square44x44Logo.targetsize-256_altform-unplated.png",
+                    "sizes": "256x256"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square44x44Logo.targetsize-48_altform-unplated.png",
+                    "sizes": "48x48"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square44x44Logo.targetsize-24_altform-unplated.png",
+                    "sizes": "24x24"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/Square44x44Logo.targetsize-16_altform-unplated.png",
+                    "sizes": "16x16"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/StoreLogo.scale-400.png",
+                    "sizes": "200x200"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/StoreLogo.scale-200.png",
+                    "sizes": "100x100"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/StoreLogo.scale-150.png",
+                    "sizes": "75x75"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/StoreLogo.scale-125.png",
+                    "sizes": "63x63"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/StoreLogo.scale-100.png",
+                    "sizes": "50x50"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/StoreLogo.png",
+                    "sizes": "50x50"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/SplashScreen.scale-400.png",
+                    "sizes": "2480x1200"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/SplashScreen.scale-200.png",
+                    "sizes": "1240x600"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/SplashScreen.scale-150.png",
+                    "sizes": "930x450"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/SplashScreen.scale-125.png",
+                    "sizes": "775x375"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows10/SplashScreen.scale-100.png",
+                    "sizes": "620x300"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows/windows-smallsquare-24-24.png",
+                    "sizes": "24x24"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows/windows-smallsquare-30-30.png",
+                    "sizes": "30x30"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows/windows-smallsquare-42-42.png",
+                    "sizes": "42x42"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows/windows-smallsquare-54-54.png",
+                    "sizes": "54x54"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows/windows-splashscreen-1116-540.png",
+                    "sizes": "1116x540"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows/windows-splashscreen-868-420.png",
+                    "sizes": "868x420"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows/windows-splashscreen-620-300.png",
+                    "sizes": "620x300"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows/windows-squarelogo-270-270.png",
+                    "sizes": "270x270"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows/windows-squarelogo-210-210.png",
+                    "sizes": "210x210"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows/windows-squarelogo-150-150.png",
+                    "sizes": "150x150"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows/windows-squarelogo-120-120.png",
+                    "sizes": "120x120"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows/windows-storelogo-90-90.png",
+                    "sizes": "90x90"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows/windows-storelogo-70-70.png",
+                    "sizes": "70x70"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows/windows-storelogo-50-50.png",
+                    "sizes": "50x50"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows/windowsphone-appicon-106-106.png",
+                    "sizes": "106x106"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows/windowsphone-appicon-62-62.png",
+                    "sizes": "62x62"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows/windowsphone-appicon-44-44.png",
+                    "sizes": "44x44"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows/windowsphone-mediumtile-360-360.png",
+                    "sizes": "360x360"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows/windowsphone-mediumtile-210-210.png",
+                    "sizes": "210x210"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows/windowsphone-mediumtile-150-150.png",
+                    "sizes": "150x150"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows/windowsphone-smalltile-170-170.png",
+                    "sizes": "170x170"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows/windowsphone-smalltile-99-99.png",
+                    "sizes": "99x99"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows/windowsphone-smalltile-71-71.png",
+                    "sizes": "71x71"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows/windowsphone-storelogo-120-120.png",
+                    "sizes": "120x120"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows/windowsphone-storelogo-70-70.png",
+                    "sizes": "70x70"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/windows/windowsphone-storelogo-50-50.png",
+                    "sizes": "50x50"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/android/android-launchericon-512-512.png",
+                    "sizes": "512x512"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/android/android-launchericon-192-192.png",
+                    "sizes": "192x192"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/android/android-launchericon-144-144.png",
+                    "sizes": "144x144"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/android/android-launchericon-96-96.png",
+                    "sizes": "96x96"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/android/android-launchericon-72-72.png",
+                    "sizes": "72x72"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/android/android-launchericon-48-48.png",
+                    "sizes": "48x48"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/ios/ios-appicon-1024-1024.png",
+                    "sizes": "1024x1024"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/ios/ios-appicon-180-180.png",
+                    "sizes": "180x180"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/ios/ios-appicon-152-152.png",
+                    "sizes": "152x152"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/ios/ios-appicon-120-120.png",
+                    "sizes": "120x120"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/ios/ios-appicon-76-76.png",
+                    "sizes": "76x76"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/ios/ios-launchimage-750-1334.png",
+                    "sizes": "750x1334"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/ios/ios-launchimage-1334-750.png",
+                    "sizes": "1334x750"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/ios/ios-launchimage-1242-2208.png",
+                    "sizes": "1242x2208"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/ios/ios-launchimage-2208-1242.png",
+                    "sizes": "2208x1242"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/ios/ios-launchimage-640-960.png",
+                    "sizes": "640x960"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/ios/ios-launchimage-640-1136.png",
+                    "sizes": "640x1136"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/ios/ios-launchimage-1536-2048.png",
+                    "sizes": "1536x2048"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/ios/ios-launchimage-2048-1536.png",
+                    "sizes": "2048x1536"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/ios/ios-launchimage-768-1024.png",
+                    "sizes": "768x1024"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/ios/ios-launchimage-1024-768.png",
+                    "sizes": "1024x768"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/chrome/chrome-extensionmanagementpage-48-48.png",
+                    "sizes": "48x48"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/chrome/chrome-favicon-16-16.png",
+                    "sizes": "16x16"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/chrome/chrome-installprocess-128-128.png",
+                    "sizes": "128x128"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/firefox/firefox-marketplace-512-512.png",
+                    "sizes": "512x512"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/firefox/firefox-marketplace-128-128.png",
+                    "sizes": "128x128"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/firefox/firefox-general-256-256.png",
+                    "sizes": "256x256"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/firefox/firefox-general-128-128.png",
+                    "sizes": "128x128"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/firefox/firefox-general-90-90.png",
+                    "sizes": "90x90"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/firefox/firefox-general-64-64.png",
+                    "sizes": "64x64"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/firefox/firefox-general-48-48.png",
+                    "sizes": "48x48"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/firefox/firefox-general-32-32.png",
+                    "sizes": "32x32"
+                },
+                {
+                    "src": "https://d107pwazkemjp5.cloudfront.net/icons/firefox/firefox-general-16-16.png",
+                    "sizes": "16x16"
+                }
+            ],
+            "root_uri": "https://encounters.heromuster.com/manifest.webmanifest",
+            "file_md5": "man0d5466a30d49ae8aeb91c2b954146763",
             "manifest_hits": 1
+        },
+        {
+            "name": "React PWA Docs",
+            "short_name": "React PWA",
+            "dir": "ltr",
+            "lang": "en-US",
+            "orientation": "any",
+            "start_url": "/",
+            "background_color": "#17a2b8",
+            "theme_color": "#17a2b8",
+            "display": "standalone",
+            "description": "ReactPWA & PawJS documentation. Easily write progressive web apps with ReactJS and ES6. Containerize your application without npm packages.",
+            "icons": [
+                {
+                    "src": "/img/pwa/icon-72x72.png",
+                    "sizes": "72x72"
+                },
+                {
+                    "src": "/img/pwa/icon-96x96.png",
+                    "sizes": "96x96"
+                },
+                {
+                    "src": "/img/pwa/icon-128x128.png",
+                    "sizes": "128x128"
+                },
+                {
+                    "src": "/img/pwa/icon-144x144.png",
+                    "sizes": "144x144"
+                },
+                {
+                    "src": "/img/pwa/icon-152x152.png",
+                    "sizes": "152x152"
+                },
+                {
+                    "src": "/img/pwa/icon-192x192.png",
+                    "sizes": "192x192"
+                },
+                {
+                    "src": "/img/pwa/icon-384x384.png",
+                    "sizes": "384x384"
+                },
+                {
+                    "src": "/img/pwa/icon-512x512.png",
+                    "sizes": "512x512"
+                }
+            ],
+            "root_uri": "https://www.reactpwa.com/manifest.json",
+            "file_md5": "man7c18bac86745ac96704dbbf9311900e1",
+            "manifest_hits": 1,
+            "apkLocation": "https://www.reactpwa.com/apk/app-release-signed.apk"
+        },
+        {
+            "name": "Code and Comment",
+            "short_name": "Code and Comment",
+            "start_url": "./",
+            "display": "standalone",
+            "orientation": "any",
+            "background_color": "#fff",
+            "theme_color": "#f1f7fe",
+            "icons": [
+                {
+                    "src": "icon.png",
+                    "type": "image/png",
+                    "sizes": "192x192"
+                }
+            ],
+            "root_uri": "https://code-and-comment.github.io/code-and-comment/manifest.json",
+            "file_md5": "manbd03e191afe269b85a648201105a8f92",
+            "manifest_hits": 1,
+            "description": "PWA to add comment to Github file.",
+            "apkLocation": "https://code-and-comment.github.io/code-and-comment/apk/app-release-signed.apk"
+        },
+        {
+            "name": "collAnon",
+            "short_name": "collAnon",
+            "description": "Collaborate anonymously without bias",
+            "dir": "ltr",
+            "start_url": "./",
+            "scope": "/",
+            "id": "/",
+            "display": "standalone",
+            "background_color": "#FADCC7",
+            "theme_color": "#FADCC7",
+            "orientation": "portrait",
+            "iarc_rating_id": "56c84b9d-8723-4821-a2f1-4fa72449caa9",
+            "ovr_package_name": "collAnon.app",
+            "prefer_related_applications": false,
+            "related_applications": [
+                {
+                    "platform": "play",
+                    "url": "https://play.google.com/store/apps/details?id=app.collanon.quick.twa",
+                    "id": "app.collanon.quick.twa"
+                }
+            ],
+            "share_target": {
+                "action": "/",
+                "method": "GET",
+                "enctype": "application/x-www-form-urlencoded",
+                "params": {
+                    "text": "ic"
+                }
+            },
+            "icons": [
+                {
+                    "src": "/imgs/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/imgs/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/imgs/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "categories": [
+                "business",
+                "government",
+                "health",
+                "politics",
+                "productivity",
+                "security",
+                "social",
+                "utilities",
+                "threads",
+                "discussions",
+                "communication",
+                "anonymous"
+            ],
+            "screenshots": [
+                {
+                    "src": "/imgs/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "shortcuts": [
+                {
+                    "name": "Discussions",
+                    "short_name": "Discussions",
+                    "url": "/discussions",
+                    "description": "See and partecipate on the active discussions.",
+                    "icons": [
+                        {
+                            "src": "/icons/comments.png",
+                            "type": "image/png",
+                            "sizes": "192x192",
+                            "purpose": "any"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ended discussions",
+                    "short_name": "Ended discussions",
+                    "url": "/ended-discussions",
+                    "description": "See how the discussions ended and on what people do agree more.",
+                    "icons": [
+                        {
+                            "src": "/icons/comments-alt.png",
+                            "type": "image/png",
+                            "sizes": "192x192",
+                            "purpose": "any"
+                        }
+                    ]
+                },
+                {
+                    "name": "Settings",
+                    "short_name": "Settings",
+                    "url": "/settings",
+                    "description": "Update you account settings/informations.",
+                    "icons": [
+                        {
+                            "src": "/icons/users-cog.png",
+                            "type": "image/png",
+                            "sizes": "192x192",
+                            "purpose": "any"
+                        }
+                    ]
+                }
+            ],
+            "version": "2.0.2",
+            "root_uri": "https://collanon.app/manifest.json",
+            "file_md5": "mane0520cd5423346ea4f72b95726d54fca",
+            "manifest_hits": 1,
+            "apkLocation": "https://collanon.app/apk/app-release-signed.apk"
+        },
+        {
+            "name": "MORSURE",
+            "short_name": "MORSURE",
+            "icons": [
+                {
+                    "src": "/images/icons/icon-128x128.png",
+                    "sizes": "128x128",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/images/icons/icon-144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/images/icons/icon-152x152.png",
+                    "sizes": "152x152",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/images/icons/icon-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/images/icons/icon-256x256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/images/icons/icon-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "start_url": "/index.html",
+            "display": "standalone",
+            "background_color": "#980000",
+            "theme_color": "#980000",
+            "root_uri": "https://morsure.netlify.app/manifest.json",
+            "file_md5": "manff4aed748ee9acb85aeb4a5382ad3604",
+            "manifest_hits": 1,
+            "description": "A tiny morse app",
+            "apkLocation": "https://morsure.netlify.app/apk/app-release-signed.apk"
         }
     ]
 }
