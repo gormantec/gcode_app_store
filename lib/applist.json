@@ -23,90 +23,33 @@
             "manifest_hits": 0
         },
         {
-            "name": "gps",
-            "short_name": "gps",
+            "name": "time",
+            "short_name": "time",
             "theme_color": "#212121",
             "background_color": "#212121",
             "display": "standalone",
             "orientation": "any",
             "icons": [
                 {
-                    "src": "/apps/37790665-gps/192x192.icon.png",
+                    "src": "/apps/37790665-time/192x192.icon.png",
                     "sizes": "192x192",
                     "type": "image/png",
                     "purpose": "any maskable"
                 },
                 {
-                    "src": "/apps/37790665-gps/512x512.icon.png",
+                    "src": "/apps/37790665-time/512x512.icon.png",
                     "sizes": "512x512",
                     "type": "image/png",
                     "purpose": "any maskable"
                 }
             ],
-            "start_url": "/apps/37790665-gps/index.html",
-            "description": "gps",
+            "start_url": "/apps/37790665-time/index.html",
+            "description": "time",
             "prefer_related_applications": false,
-            "root_uri": "https://gcode.com.au/apps/37790665-gps/manifest.json",
-            "file_md5": "man1b88e1ae207712e435cdd57efef6ceb6",
+            "root_uri": "https://gcode.com.au/apps/37790665-time/manifest.json",
+            "file_md5": "man4fdbd6b58b6f3db6b35595d94b1e22f2",
             "manifest_hits": 0,
-            "apk_location": "https://gcode.com.au/apps/37790665-gps/apk/app-release-signed.apk"
-        },
-        {
-            "name": "calculator",
-            "short_name": "calculator",
-            "theme_color": "#212121",
-            "background_color": "#212121",
-            "display": "standalone",
-            "orientation": "any",
-            "icons": [
-                {
-                    "src": "/apps/37790665-calculator/192x192.icon.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/apps/37790665-calculator/512x512.icon.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                }
-            ],
-            "start_url": "/apps/37790665-calculator/index.html",
-            "description": "calculator",
-            "prefer_related_applications": false,
-            "root_uri": "https://gcode.com.au/apps/37790665-calculator/manifest.json",
-            "file_md5": "man0c6e7f9236a61b78da7847e71c2ce416",
-            "manifest_hits": 0
-        },
-        {
-            "name": "boatcrew",
-            "short_name": "boatcrew",
-            "theme_color": "#222222",
-            "background_color": "#222222",
-            "display": "standalone",
-            "orientation": "any",
-            "icons": [
-                {
-                    "src": "/apps/37790665-boatcrew/192x192.icon.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/apps/37790665-boatcrew/512x512.icon.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                }
-            ],
-            "start_url": "/apps/37790665-boatcrew/index.html",
-            "description": "boatcrew",
-            "prefer_related_applications": false,
-            "root_uri": "https://gcode.com.au/apps/37790665-boatcrew/manifest.json",
-            "file_md5": "mandf5b0360ab1bf73c9309f6f5c0530e58",
-            "manifest_hits": 0,
-            "apk_location": "https://gcode.com.au/apps/37790665-boatcrew/apk/app-release-signed.apk"
+            "apk_location": "https://gcode.com.au/apps/37790665-time/apk/app-release-signed.apk"
         },
         {
             "name": "screen time",
@@ -117,23 +60,109 @@
             "orientation": "any",
             "icons": [
                 {
-                    "src": "/apps/37790665-screen time/192x192.icon.png",
+                    "src": "/apps/37790665-screen-time/192x192.icon.png",
                     "sizes": "192x192",
                     "type": "image/png",
                     "purpose": "any maskable"
                 },
                 {
-                    "src": "/apps/37790665-screen time/512x512.icon.png",
+                    "src": "/apps/37790665-screen-time/512x512.icon.png",
                     "sizes": "512x512",
                     "type": "image/png",
                     "purpose": "any maskable"
                 }
             ],
-            "start_url": "/apps/37790665-screen time/index.html",
+            "start_url": "/apps/37790665-screen-time/index.html",
             "description": "screen time",
             "prefer_related_applications": false,
-            "root_uri": "https://gcode.com.au/apps/37790665-screen%20time/manifest.json",
-            "file_md5": "manb4dbcc2adbca44ac735b1eaa0515362a",
+            "root_uri": "https://gcode.com.au/apps/37790665-screen-time/manifest.json",
+            "file_md5": "man5a3708075f0210113040c0f176f5e511",
+            "manifest_hits": 0,
+            "apk_location": "https://gcode.com.au/apps/37790665-screen-time/apk/app-release-signed.apk"
+        },
+        {
+            "name": "gcode",
+            "short_name": "gcode",
+            "theme_color": "#005040",
+            "background_color": "#005040",
+            "display": "standalone",
+            "orientation": "any",
+            "icons": [
+                {
+                    "src": "/apps/37790665-gcode/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-gcode/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-gcode/index.html",
+            "description": "gcode",
+            "prefer_related_applications": false,
+            "root_uri": "https://gcode.com.au/apps/37790665-gcode/manifest.json",
+            "file_md5": "manc94f3eca1bca428bd325c8ee3228e785",
+            "manifest_hits": 0,
+            "apk_location": "https://gcode.com.au/apps/37790665-gcode/apk/app-release-signed.apk"
+        },
+        {
+            "name": "crew",
+            "short_name": "crew",
+            "theme_color": "#222222",
+            "background_color": "#222222",
+            "display": "standalone",
+            "orientation": "any",
+            "icons": [
+                {
+                    "src": "/apps/37790665-crew/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-crew/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-crew/index.html",
+            "description": "crew",
+            "prefer_related_applications": false,
+            "root_uri": "https://gcode.com.au/apps/37790665-crew/manifest.json",
+            "file_md5": "manb7fbb354d954a6c644b2236badd79831",
+            "manifest_hits": 0
+        },
+        {
+            "name": "appstore",
+            "short_name": "appstore",
+            "theme_color": "#FFFFFF",
+            "background_color": "#FFFFFF",
+            "display": "standalone",
+            "orientation": "any",
+            "icons": [
+                {
+                    "src": "/apps/37790665-appstore/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-appstore/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-appstore/index.html",
+            "description": "appstore",
+            "prefer_related_applications": false,
+            "root_uri": "https://gcode.com.au/apps/37790665-appstore/manifest.json",
+            "file_md5": "mand930e0716dfe3a66bb689c351efff224",
             "manifest_hits": 0
         },
         {
@@ -252,6 +281,120 @@
             "file_md5": "man810a2108296e618e740c9b7d5d82427a",
             "manifest_hits": 0,
             "description": "Discover recipes, home ideas, style inspiration and other ideas to try."
+        },
+        {
+            "name": "gps",
+            "short_name": "gps",
+            "theme_color": "#212121",
+            "background_color": "#212121",
+            "display": "standalone",
+            "orientation": "any",
+            "icons": [
+                {
+                    "src": "/apps/37790665-gps/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-gps/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-gps/index.html",
+            "description": "gps",
+            "prefer_related_applications": false,
+            "root_uri": "https://gcode.com.au/apps/37790665-gps/manifest.json",
+            "file_md5": "man1b88e1ae207712e435cdd57efef6ceb6",
+            "manifest_hits": 0,
+            "apk_location": "https://gcode.com.au/apps/37790665-gps/apk/app-release-signed.apk"
+        },
+        {
+            "name": "calculator",
+            "short_name": "calculator",
+            "theme_color": "#212121",
+            "background_color": "#212121",
+            "display": "standalone",
+            "orientation": "any",
+            "icons": [
+                {
+                    "src": "/apps/37790665-calculator/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-calculator/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-calculator/index.html",
+            "description": "calculator",
+            "prefer_related_applications": false,
+            "root_uri": "https://gcode.com.au/apps/37790665-calculator/manifest.json",
+            "file_md5": "man0c6e7f9236a61b78da7847e71c2ce416",
+            "manifest_hits": 0
+        },
+        {
+            "name": "boatcrew",
+            "short_name": "boatcrew",
+            "theme_color": "#222222",
+            "background_color": "#222222",
+            "display": "standalone",
+            "orientation": "any",
+            "icons": [
+                {
+                    "src": "/apps/37790665-boatcrew/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-boatcrew/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-boatcrew/index.html",
+            "description": "boatcrew",
+            "prefer_related_applications": false,
+            "root_uri": "https://gcode.com.au/apps/37790665-boatcrew/manifest.json",
+            "file_md5": "mandf5b0360ab1bf73c9309f6f5c0530e58",
+            "manifest_hits": 0,
+            "apk_location": "https://gcode.com.au/apps/37790665-boatcrew/apk/app-release-signed.apk"
+        },
+        {
+            "name": "screen time",
+            "short_name": "screen time",
+            "theme_color": "#212121",
+            "background_color": "#212121",
+            "display": "standalone",
+            "orientation": "any",
+            "icons": [
+                {
+                    "src": "/apps/37790665-screen time/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-screen time/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-screen time/index.html",
+            "description": "screen time",
+            "prefer_related_applications": false,
+            "root_uri": "https://gcode.com.au/apps/37790665-screen%20time/manifest.json",
+            "file_md5": "manb4dbcc2adbca44ac735b1eaa0515362a",
+            "manifest_hits": 0
         },
         {
             "background_color": "#456BD9",
@@ -3178,6 +3321,150 @@
             "file_md5": "man7ee9c644c33bc40423893a720227bdaf",
             "manifest_hits": 0,
             "description": "BOOM FactCheck - India's most trusted fact checker of viral fake news, photos and videos on social media. Get verified fact-check stories on the latest news."
+        },
+        {
+            "short_name": "Tower Game",
+            "name": "Tower Game",
+            "description": "Stack blocks and build the tallest tower!",
+            "icons": [
+                {
+                    "src": "/assets/icon-192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/assets/icon-512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                }
+            ],
+            "start_url": "/",
+            "background_color": "#F95240",
+            "theme_color": "#F95240",
+            "display": "standalone",
+            "orientation": "portrait",
+            "root_uri": "https://www.towergame.app/manifest.json",
+            "file_md5": "manb48cb7782708f6200b77d9c935197cd7",
+            "manifest_hits": 0
+        },
+        {
+            "name": "Water Wars",
+            "short_name": "Wat-Wars",
+            "icons": [
+                {
+                    "src": "touch-icons/touch-icon-iphone.png",
+                    "type": "image/png",
+                    "sizes": "114x114"
+                },
+                {
+                    "src": "touch-icons/touch-icon-ipad.png",
+                    "type": "image/png",
+                    "sizes": "152x152"
+                },
+                {
+                    "src": "touch-icons/touch-icon-ipad-retina.png",
+                    "type": "image/png",
+                    "sizes": "167x167"
+                },
+                {
+                    "src": "touch-icons/touch-icon-iphone-retina.png",
+                    "type": "image/png",
+                    "sizes": "180x180"
+                },
+                {
+                    "src": "touch-icons/touch-icon.png",
+                    "type": "image/png",
+                    "sizes": "192x192"
+                },
+                {
+                    "src": "splashscreens/splash-icon.png",
+                    "type": "image/png",
+                    "sizes": "512x512"
+                }
+            ],
+            "start_url": "index.html",
+            "background_color": "#ffffff",
+            "display": "standalone",
+            "orientation": "landscape",
+            "scope": "index.html",
+            "theme_color": "#ffffff",
+            "root_uri": "https://vcjhwebdev.github.io/waterwars/manifest.json",
+            "file_md5": "man147f0a1d7c3cfc6db968563221cd5ad2",
+            "manifest_hits": 0,
+            "description": "no description"
+        },
+        {
+            "manifest_version": 3,
+            "name": "damn dog",
+            "short_name": "damn dog",
+            "description": "A guessing game for wikiHow illustrations.",
+            "default_locale": "en",
+            "display": "standalone",
+            "scope": "/",
+            "start_url": "/",
+            "theme_color": "#222730",
+            "background_color": "#222730",
+            "icons": [
+                {
+                    "src": "/android-chrome-36x36.png",
+                    "sizes": "36x36",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/android-chrome-48x48.png",
+                    "sizes": "48x48",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/android-chrome-72x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/android-chrome-96x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/maskable-128.png",
+                    "sizes": "128x128",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "/maskable-144.png",
+                    "sizes": "144x144",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "/maskable-192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "/maskable-256.png",
+                    "sizes": "256x256",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "/maskable-512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "/maskable-1024.png",
+                    "sizes": "1024x1024",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                }
+            ],
+            "root_uri": "https://damn.dog/manifest.json",
+            "file_md5": "mand5eed0b4ccec53ffb0185fc24eba5086",
+            "manifest_hits": 0
         }
     ]
 }
