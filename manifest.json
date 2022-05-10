@@ -7,9 +7,9 @@
   "orientation": "any",
   "icons": [
     {
-      "src": "https://store.gcode.com.au/android-launchericon-192-192.png",
+      "src": "https://store.gcode.com.au/shopping.svg",
       "sizes": "192x192",
-      "type": "image/png",
+      "type": "image/svg",
       "purpose": "any maskable"
     }
   ],
