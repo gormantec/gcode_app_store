@@ -9,9 +9,9 @@
             "orientation": "any",
             "icons": [
                 {
-                    "src": "https://store.gcode.com.au/android-launchericon-192-192.png",
+                    "src": "https://store.gcode.com.au/shopping.svg",
                     "sizes": "192x192",
-                    "type": "image/png",
+                    "type": "image/svg",
                     "purpose": "any maskable"
                 }
             ],
@@ -19,150 +19,7 @@
             "description": "A catalogue of all the gcode published PWA apps, as well as a selection of other publicly available PWA apps.",
             "prefer_related_applications": false,
             "root_uri": "https://store.gcode.com.au/manifest.json",
-            "file_md5": "manb292d4d70528afbd31567c03fb0a5ebb",
-            "manifest_hits": 0
-        },
-        {
-            "name": "time",
-            "short_name": "time",
-            "theme_color": "#212121",
-            "background_color": "#212121",
-            "display": "standalone",
-            "orientation": "any",
-            "icons": [
-                {
-                    "src": "/apps/37790665-time/192x192.icon.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/apps/37790665-time/512x512.icon.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                }
-            ],
-            "start_url": "/apps/37790665-time/index.html",
-            "description": "time",
-            "prefer_related_applications": false,
-            "root_uri": "https://gcode.com.au/apps/37790665-time/manifest.json",
-            "file_md5": "man4fdbd6b58b6f3db6b35595d94b1e22f2",
-            "manifest_hits": 0,
-            "apk_location": "https://gcode.com.au/apps/37790665-time/apk/app-release-signed.apk"
-        },
-        {
-            "name": "screen time",
-            "short_name": "screen time",
-            "theme_color": "#212121",
-            "background_color": "#212121",
-            "display": "standalone",
-            "orientation": "any",
-            "icons": [
-                {
-                    "src": "/apps/37790665-screen-time/192x192.icon.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/apps/37790665-screen-time/512x512.icon.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                }
-            ],
-            "start_url": "/apps/37790665-screen-time/index.html",
-            "description": "screen time",
-            "prefer_related_applications": false,
-            "root_uri": "https://gcode.com.au/apps/37790665-screen-time/manifest.json",
-            "file_md5": "man5a3708075f0210113040c0f176f5e511",
-            "manifest_hits": 0,
-            "apk_location": "https://gcode.com.au/apps/37790665-screen-time/apk/app-release-signed.apk"
-        },
-        {
-            "name": "gcode",
-            "short_name": "gcode",
-            "theme_color": "#005040",
-            "background_color": "#005040",
-            "display": "standalone",
-            "orientation": "any",
-            "icons": [
-                {
-                    "src": "/apps/37790665-gcode/192x192.icon.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/apps/37790665-gcode/512x512.icon.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                }
-            ],
-            "start_url": "/apps/37790665-gcode/index.html",
-            "description": "gcode",
-            "prefer_related_applications": false,
-            "root_uri": "https://gcode.com.au/apps/37790665-gcode/manifest.json",
-            "file_md5": "manc94f3eca1bca428bd325c8ee3228e785",
-            "manifest_hits": 0,
-            "apk_location": "https://gcode.com.au/apps/37790665-gcode/apk/app-release-signed.apk"
-        },
-        {
-            "name": "crew",
-            "short_name": "crew",
-            "theme_color": "#222222",
-            "background_color": "#222222",
-            "display": "standalone",
-            "orientation": "any",
-            "icons": [
-                {
-                    "src": "/apps/37790665-crew/192x192.icon.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/apps/37790665-crew/512x512.icon.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                }
-            ],
-            "start_url": "/apps/37790665-crew/index.html",
-            "description": "crew",
-            "prefer_related_applications": false,
-            "root_uri": "https://gcode.com.au/apps/37790665-crew/manifest.json",
-            "file_md5": "manb7fbb354d954a6c644b2236badd79831",
-            "manifest_hits": 0
-        },
-        {
-            "name": "appstore",
-            "short_name": "appstore",
-            "theme_color": "#FFFFFF",
-            "background_color": "#FFFFFF",
-            "display": "standalone",
-            "orientation": "any",
-            "icons": [
-                {
-                    "src": "/apps/37790665-appstore/192x192.icon.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/apps/37790665-appstore/512x512.icon.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                }
-            ],
-            "start_url": "/apps/37790665-appstore/index.html",
-            "description": "appstore",
-            "prefer_related_applications": false,
-            "root_uri": "https://gcode.com.au/apps/37790665-appstore/manifest.json",
-            "file_md5": "mand930e0716dfe3a66bb689c351efff224",
+            "file_md5": "man5b0df3d04dc538fa2f88a9d24eb429be",
             "manifest_hits": 0
         },
         {
@@ -283,6 +140,92 @@
             "description": "Discover recipes, home ideas, style inspiration and other ideas to try."
         },
         {
+            "name": "screen time",
+            "short_name": "screen time",
+            "theme_color": "#212121",
+            "background_color": "#212121",
+            "display": "standalone",
+            "orientation": "any",
+            "icons": [
+                {
+                    "src": "/apps/37790665-screen-time/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-screen-time/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-screen-time/index.html",
+            "description": "screen time",
+            "prefer_related_applications": false,
+            "root_uri": "https://gcode.com.au/apps/37790665-screen-time/manifest.json",
+            "file_md5": "man5a3708075f0210113040c0f176f5e511",
+            "manifest_hits": 0,
+            "apk_location": "https://gcode.com.au/apps/37790665-screen-time/apk/app-release-signed.apk"
+        },
+        {
+            "name": "gcode",
+            "short_name": "gcode",
+            "theme_color": "#005040",
+            "background_color": "#005040",
+            "display": "standalone",
+            "orientation": "any",
+            "icons": [
+                {
+                    "src": "/apps/37790665-gcode/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-gcode/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-gcode/index.html",
+            "description": "gcode",
+            "prefer_related_applications": false,
+            "root_uri": "https://gcode.com.au/apps/37790665-gcode/manifest.json",
+            "file_md5": "manc94f3eca1bca428bd325c8ee3228e785",
+            "manifest_hits": 0,
+            "apk_location": "https://gcode.com.au/apps/37790665-gcode/apk/app-release-signed.apk"
+        },
+        {
+            "name": "appstore",
+            "short_name": "appstore",
+            "theme_color": "#FFFFFF",
+            "background_color": "#FFFFFF",
+            "display": "standalone",
+            "orientation": "any",
+            "icons": [
+                {
+                    "src": "/apps/37790665-appstore/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-appstore/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-appstore/index.html",
+            "description": "appstore",
+            "prefer_related_applications": false,
+            "root_uri": "https://gcode.com.au/apps/37790665-appstore/manifest.json",
+            "file_md5": "mand930e0716dfe3a66bb689c351efff224",
+            "manifest_hits": 0
+        },
+        {
             "name": "gps",
             "short_name": "gps",
             "theme_color": "#212121",
@@ -367,34 +310,6 @@
             "file_md5": "mandf5b0360ab1bf73c9309f6f5c0530e58",
             "manifest_hits": 0,
             "apk_location": "https://gcode.com.au/apps/37790665-boatcrew/apk/app-release-signed.apk"
-        },
-        {
-            "name": "screen time",
-            "short_name": "screen time",
-            "theme_color": "#212121",
-            "background_color": "#212121",
-            "display": "standalone",
-            "orientation": "any",
-            "icons": [
-                {
-                    "src": "/apps/37790665-screen time/192x192.icon.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/apps/37790665-screen time/512x512.icon.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                }
-            ],
-            "start_url": "/apps/37790665-screen time/index.html",
-            "description": "screen time",
-            "prefer_related_applications": false,
-            "root_uri": "https://gcode.com.au/apps/37790665-screen%20time/manifest.json",
-            "file_md5": "manb4dbcc2adbca44ac735b1eaa0515362a",
-            "manifest_hits": 0
         },
         {
             "background_color": "#456BD9",
