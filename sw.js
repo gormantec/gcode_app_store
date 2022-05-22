@@ -24,6 +24,7 @@ self.addEventListener('activate', event => {
 });
 
 self.addEventListener('fetch', event => {
+  console.log(event);
   if (event.request.url.startsWith(self.location.origin) || event.request.url.startsWith('https://gcode.com.au')) {
     event.respondWith(caches.match(event.request).then(cachedResponse => {
       if (false && cachedResponse) {
