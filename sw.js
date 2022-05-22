@@ -26,7 +26,7 @@ self.addEventListener('activate', event => {
 self.addEventListener('fetch', event => {
   console.log(event);
   if (event.request.method == "HEAD") {
-    return fetch(request).then(function (networkResponse) {
+    return fetch(event.request).then(function (networkResponse) {
       console.log("networkResponse:" + networkResponse.ok);
       return networkResponse;
     }).catch(function (error) {
