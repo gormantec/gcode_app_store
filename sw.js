@@ -25,12 +25,24 @@ self.addEventListener('activate', event => {
 
 self.addEventListener('fetch', event => {
   console.log(event);
-  if (event.request.url.startsWith(self.location.origin) || event.request.url.startsWith('https://gcode.com.au')) {
+  if (event.request.method == "HEAD") {
+    return fetch(request).then(function (networkResponse) {
+      console.log("networkResponse:" + networkResponse.ok);
+      return networkResponse;
+    }).catch(function (error) {
+      console.log("HEAD error:" + error);
+    });
+  }
+  else if (event.request.url.startsWith(self.location.origin) || event.request.url.startsWith('https://gcode.com.au')) {
     event.respondWith(caches.match(event.request).then(cachedResponse => {
       if (false && cachedResponse) {
         console.log(cachedResponse); return cachedResponse;
       } else {
-        return caches.open(RUNTIME).then(cache => fetch(event.request).then(response => cache.put(event.request, response.clone()).then(() => response)));
+        return caches.open(RUNTIME).then(cache => fetch(event.request).then(response => {
+          return cache.put(event.request, response.clone()).then(() => {
+            return response;
+          });
+        }));
       }
     }));
   }
