@@ -157,7 +157,8 @@
             "root_uri": "https://gcode.com.au/apps/37790665-screen-time/manifest.json",
             "file_md5": "man28012d519f4bfbbe4d140a683ebb0695",
             "manifest_hits": 0,
-            "apk_location": "https://gcode.com.au/apps/37790665-screen-time/apk/app-release-signed.apk"
+            "apk_location": "https://gcode.com.au/apps/37790665-screen-time/apk/app-release-signed.apk",
+            "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-screen-time/ios/37790665-screen-time.plist"
         },
         {
             "name": "gps",
