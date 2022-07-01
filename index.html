@@ -55,10 +55,8 @@ const isIos = () => {
 }
 const isInStandaloneMode = () => ('standalone' in window.navigator) && (window.navigator.standalone);
 document.addEventListener("DOMContentLoaded", ()=>{
-   console.log("DOMContentLoaded");
    if (isIos() && !isInStandaloneMode()) {
   showIosInstall();
-   console.log("showIosInstall");
   }
 });
 
@@ -90,7 +88,7 @@ if (window.opener && window.opener !== window) {
 /*---------------------------------------------------------------------------*/
 //#1818ca   
 import { PWA,  Page } from 'https://gcode.com.au/modules/pwa.mjs';
-import { LoginButton,AppsList } from './lib/gcode-appstore.lib7.mjs';
+import { LoginButton,AppsList } from './lib/gcode-appstore.lib8.mjs';
 try {
     Page.clearPages();
 } catch (e) {}
