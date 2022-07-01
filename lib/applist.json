@@ -2301,7 +2301,7 @@
             ],
             "root_uri": "https://github.com/manifest.json",
             "file_md5": "man6acbdecaca6d2ff51ca8cf8a2fdd5b2d",
-            "manifest_hits": 18,
+            "manifest_hits": 0,
             "description": "GitHub is where over 83 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and features, power your CI/CD and DevOps workflows, and secure code before you commit it."
         },
         {
@@ -3087,7 +3087,7 @@
             "orientation": "portrait",
             "root_uri": "https://www.towergame.app/manifest.json",
             "file_md5": "manb48cb7782708f6200b77d9c935197cd7",
-            "manifest_hits": 2
+            "manifest_hits": 0
         },
         {
             "name": "Water Wars",
@@ -3132,7 +3132,7 @@
             "theme_color": "#ffffff",
             "root_uri": "https://vcjhwebdev.github.io/waterwars/manifest.json",
             "file_md5": "man147f0a1d7c3cfc6db968563221cd5ad2",
-            "manifest_hits": 2,
+            "manifest_hits": 0,
             "description": "no description"
         },
         {
@@ -3206,7 +3206,7 @@
             ],
             "root_uri": "https://damn.dog/manifest.json",
             "file_md5": "mand5eed0b4ccec53ffb0185fc24eba5086",
-            "manifest_hits": 2
+            "manifest_hits": 0
         },
         {
             "gcm_sender_id": "103953800507",
@@ -3290,7 +3290,7 @@
             ],
             "root_uri": "https://www.youtube.com/manifest.webmanifest",
             "file_md5": "mana8f5eb29f852b756dc73fab692ef143a",
-            "manifest_hits": 5,
+            "manifest_hits": 0,
             "description": "Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube."
         },
         {
@@ -3318,7 +3318,7 @@
             "splash_pages": null,
             "root_uri": "https://simplabs.com/manifest.webmanifest",
             "file_md5": "man68d60c781bac49ef50509c61409432a5",
-            "manifest_hits": 4
+            "manifest_hits": 0
         },
         {
             "name": "PWABuilder Suite Documentation",
@@ -3374,7 +3374,7 @@
             ],
             "root_uri": "https://docs.pwabuilder.com/manifest.json",
             "file_md5": "man886ea4f2c7f11ca944c9509369427575",
-            "manifest_hits": 2
+            "manifest_hits": 0
         },
         {
             "dir": "ltr",
@@ -3446,7 +3446,7 @@
             ],
             "root_uri": "https://webboard.app/manifest.json",
             "file_md5": "mandcb276c23a31c2e129e2ab11fbeaaac8",
-            "manifest_hits": 2
+            "manifest_hits": 0
         },
         {
             "lang": "en",
@@ -4512,7 +4512,7 @@
             "theme_color": "#ffffff",
             "root_uri": "https://www.dobell.co.uk/static/frontend/Dobell/pwa/de_DE/Magento_Theme/manifest.2be2ed0077b85f40cec05d43e76d9706.json",
             "file_md5": "man7c2575ddeebd4ec05efb74f9a9e85c5f",
-            "manifest_hits": 1
+            "manifest_hits": 0
         }
     ]
 }
