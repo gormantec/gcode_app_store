@@ -1,6 +1,469 @@
 {
     "data": [
         {
+            "dir": "ltr",
+            "name": "gcode",
+            "display": "standalone",
+            "start_url": "/index.html",
+            "short_name": "gcode",
+            "description": "Easy coding for kids and schools. PWA apps, dApps, mobile apps, javacript, typescript, assembly script and python.",
+            "orientation": "any",
+            "background_color": "#FFFFFF",
+            "theme_color": "#005040",
+            "related_applications": [],
+            "prefer_related_applications": false,
+            "icons": [
+                {
+                    "src": "images/windows10/Square71x71Logo.scale-400.png",
+                    "sizes": "284x284",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/windows10/Square71x71Logo.scale-200.png",
+                    "sizes": "142x142",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/windows10/Square71x71Logo.scale-100.png",
+                    "sizes": "71x71",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/windows10/Square71x71Logo.scale-150.png",
+                    "sizes": "107x107",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/windows10/Square71x71Logo.scale-125.png",
+                    "sizes": "89x89",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/windows10/Square150x150Logo.scale-400.png",
+                    "sizes": "600x600",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/windows10/Square150x150Logo.scale-200.png",
+                    "sizes": "300x300",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/windows10/Square150x150Logo.scale-100.png",
+                    "sizes": "150x150",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/windows10/Square150x150Logo.scale-150.png",
+                    "sizes": "225x225",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/windows10/Square150x150Logo.scale-125.png",
+                    "sizes": "188x188",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/windows10/Wide310x150Logo.scale-400.png",
+                    "sizes": "1240x600",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/windows10/Wide310x150Logo.scale-200.png",
+                    "sizes": "620x300",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/windows10/Wide310x150Logo.scale-100.png",
+                    "sizes": "310x150",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/windows10/Wide310x150Logo.scale-150.png",
+                    "sizes": "465x225",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/windows10/Wide310x150Logo.scale-125.png",
+                    "sizes": "388x188"
+                },
+                {
+                    "src": "images/windows10/Square310x310Logo.scale-400.png",
+                    "sizes": "1240x1240",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/windows10/Square310x310Logo.scale-200.png",
+                    "sizes": "620x620",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/windows10/Square310x310Logo.scale-100.png",
+                    "sizes": "310x310"
+                },
+                {
+                    "src": "images/windows10/Square310x310Logo.scale-150.png",
+                    "sizes": "465x465"
+                },
+                {
+                    "src": "images/windows10/Square310x310Logo.scale-125.png",
+                    "sizes": "388x388"
+                },
+                {
+                    "src": "images/windows10/Square44x44Logo.scale-400.png",
+                    "sizes": "176x176"
+                },
+                {
+                    "src": "images/windows10/Square44x44Logo.scale-200.png",
+                    "sizes": "88x88"
+                },
+                {
+                    "src": "images/windows10/Square44x44Logo.scale-100.png",
+                    "sizes": "44x44"
+                },
+                {
+                    "src": "images/windows10/Square44x44Logo.scale-150.png",
+                    "sizes": "66x66"
+                },
+                {
+                    "src": "images/windows10/Square44x44Logo.scale-125.png",
+                    "sizes": "55x55"
+                },
+                {
+                    "src": "images/windows10/Square44x44Logo.targetsize-256.png",
+                    "sizes": "256x256"
+                },
+                {
+                    "src": "images/windows10/Square44x44Logo.targetsize-48.png",
+                    "sizes": "48x48"
+                },
+                {
+                    "src": "images/windows10/Square44x44Logo.targetsize-24.png",
+                    "sizes": "24x24"
+                },
+                {
+                    "src": "images/windows10/Square44x44Logo.targetsize-16.png",
+                    "sizes": "16x16"
+                },
+                {
+                    "src": "images/windows10/Square44x44Logo.targetsize-256_altform-unplated.png",
+                    "sizes": "256x256"
+                },
+                {
+                    "src": "images/windows10/Square44x44Logo.targetsize-48_altform-unplated.png",
+                    "sizes": "48x48"
+                },
+                {
+                    "src": "images/windows10/Square44x44Logo.targetsize-24_altform-unplated.png",
+                    "sizes": "24x24"
+                },
+                {
+                    "src": "images/windows10/Square44x44Logo.targetsize-16_altform-unplated.png",
+                    "sizes": "16x16"
+                },
+                {
+                    "src": "images/windows10/StoreLogo.scale-400.png",
+                    "sizes": "200x200"
+                },
+                {
+                    "src": "images/windows10/StoreLogo.scale-200.png",
+                    "sizes": "100x100"
+                },
+                {
+                    "src": "images/windows10/StoreLogo.scale-150.png",
+                    "sizes": "75x75"
+                },
+                {
+                    "src": "images/windows10/StoreLogo.scale-125.png",
+                    "sizes": "63x63"
+                },
+                {
+                    "src": "images/windows10/StoreLogo.scale-100.png",
+                    "sizes": "50x50"
+                },
+                {
+                    "src": "images/windows10/StoreLogo.png",
+                    "sizes": "50x50"
+                },
+                {
+                    "src": "images/windows10/SplashScreen.scale-400.png",
+                    "sizes": "2480x1200"
+                },
+                {
+                    "src": "images/windows10/SplashScreen.scale-200.png",
+                    "sizes": "1240x600"
+                },
+                {
+                    "src": "images/windows10/SplashScreen.scale-150.png",
+                    "sizes": "930x450"
+                },
+                {
+                    "src": "images/windows10/SplashScreen.scale-125.png",
+                    "sizes": "775x375"
+                },
+                {
+                    "src": "images/windows10/SplashScreen.scale-100.png",
+                    "sizes": "620x300"
+                },
+                {
+                    "src": "images/windows/windows-smallsquare-24-24.png",
+                    "sizes": "24x24"
+                },
+                {
+                    "src": "images/windows/windows-smallsquare-30-30.png",
+                    "sizes": "30x30"
+                },
+                {
+                    "src": "images/windows/windows-smallsquare-42-42.png",
+                    "sizes": "42x42"
+                },
+                {
+                    "src": "images/windows/windows-smallsquare-54-54.png",
+                    "sizes": "54x54"
+                },
+                {
+                    "src": "images/windows/windows-splashscreen-1116-540.png",
+                    "sizes": "1116x540"
+                },
+                {
+                    "src": "images/windows/windows-splashscreen-868-420.png",
+                    "sizes": "868x420"
+                },
+                {
+                    "src": "images/windows/windows-splashscreen-620-300.png",
+                    "sizes": "620x300"
+                },
+                {
+                    "src": "images/windows/windows-squarelogo-270-270.png",
+                    "sizes": "270x270"
+                },
+                {
+                    "src": "images/windows/windows-squarelogo-210-210.png",
+                    "sizes": "210x210"
+                },
+                {
+                    "src": "images/windows/windows-squarelogo-150-150.png",
+                    "sizes": "150x150"
+                },
+                {
+                    "src": "images/windows/windows-squarelogo-120-120.png",
+                    "sizes": "120x120"
+                },
+                {
+                    "src": "images/windows/windows-storelogo-90-90.png",
+                    "sizes": "90x90"
+                },
+                {
+                    "src": "images/windows/windows-storelogo-70-70.png",
+                    "sizes": "70x70"
+                },
+                {
+                    "src": "images/windows/windows-storelogo-50-50.png",
+                    "sizes": "50x50"
+                },
+                {
+                    "src": "images/windows/windowsphone-appicon-106-106.png",
+                    "sizes": "106x106"
+                },
+                {
+                    "src": "images/windows/windowsphone-appicon-62-62.png",
+                    "sizes": "62x62"
+                },
+                {
+                    "src": "images/windows/windowsphone-appicon-44-44.png",
+                    "sizes": "44x44"
+                },
+                {
+                    "src": "images/windows/windowsphone-mediumtile-360-360.png",
+                    "sizes": "360x360"
+                },
+                {
+                    "src": "images/windows/windowsphone-mediumtile-210-210.png",
+                    "sizes": "210x210"
+                },
+                {
+                    "src": "images/windows/windowsphone-mediumtile-150-150.png",
+                    "sizes": "150x150"
+                },
+                {
+                    "src": "images/windows/windowsphone-smalltile-170-170.png",
+                    "sizes": "170x170"
+                },
+                {
+                    "src": "images/windows/windowsphone-smalltile-99-99.png",
+                    "sizes": "99x99"
+                },
+                {
+                    "src": "images/windows/windowsphone-smalltile-71-71.png",
+                    "sizes": "71x71"
+                },
+                {
+                    "src": "images/windows/windowsphone-storelogo-120-120.png",
+                    "sizes": "120x120"
+                },
+                {
+                    "src": "images/windows/windowsphone-storelogo-70-70.png",
+                    "sizes": "70x70"
+                },
+                {
+                    "src": "images/windows/windowsphone-storelogo-50-50.png",
+                    "sizes": "50x50"
+                },
+                {
+                    "src": "images/android/android-launchericon-512-512.png",
+                    "sizes": "512x512"
+                },
+                {
+                    "src": "images/android/android-launchericon-192-192.png",
+                    "sizes": "192x192"
+                },
+                {
+                    "src": "images/android/android-launchericon-144-144.png",
+                    "sizes": "144x144"
+                },
+                {
+                    "src": "images/android/android-launchericon-96-96.png",
+                    "sizes": "96x96"
+                },
+                {
+                    "src": "images/android/android-launchericon-72-72.png",
+                    "sizes": "72x72"
+                },
+                {
+                    "src": "images/android/android-launchericon-48-48.png",
+                    "sizes": "48x48"
+                },
+                {
+                    "src": "images/ios/ios-appicon-1024-1024.png",
+                    "sizes": "1024x1024"
+                },
+                {
+                    "src": "images/ios/ios-appicon-180-180.png",
+                    "sizes": "180x180"
+                },
+                {
+                    "src": "images/ios/ios-appicon-152-152.png",
+                    "sizes": "152x152"
+                },
+                {
+                    "src": "images/ios/ios-appicon-120-120.png",
+                    "sizes": "120x120"
+                },
+                {
+                    "src": "images/ios/ios-appicon-76-76.png",
+                    "sizes": "76x76"
+                },
+                {
+                    "src": "images/ios/ios-launchimage-750-1334.png",
+                    "sizes": "750x1334"
+                },
+                {
+                    "src": "images/ios/ios-launchimage-1334-750.png",
+                    "sizes": "1334x750"
+                },
+                {
+                    "src": "images/ios/ios-launchimage-1242-2208.png",
+                    "sizes": "1242x2208"
+                },
+                {
+                    "src": "images/ios/ios-launchimage-2208-1242.png",
+                    "sizes": "2208x1242"
+                },
+                {
+                    "src": "images/ios/ios-launchimage-640-960.png",
+                    "sizes": "640x960"
+                },
+                {
+                    "src": "images/ios/ios-launchimage-640-1136.png",
+                    "sizes": "640x1136",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/ios/ios-launchimage-1536-2048.png",
+                    "sizes": "1536x2048",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/ios/ios-launchimage-2048-1536.png",
+                    "sizes": "2048x1536",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/ios/ios-launchimage-768-1024.png",
+                    "sizes": "768x1024",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/ios/ios-launchimage-1024-768.png",
+                    "sizes": "1024x768",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/chrome/chrome-extensionmanagementpage-48-48.png",
+                    "sizes": "48x48",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/chrome/chrome-favicon-16-16.png",
+                    "sizes": "16x16",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/chrome/chrome-installprocess-128-128.png",
+                    "sizes": "128x128",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/firefox/firefox-marketplace-512-512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/firefox/firefox-marketplace-128-128.png",
+                    "sizes": "128x128",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/firefox/firefox-general-256-256.png",
+                    "sizes": "256x256",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/firefox/firefox-general-128-128.png",
+                    "sizes": "128x128",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/firefox/firefox-general-90-90.png",
+                    "sizes": "90x90",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/firefox/firefox-general-64-64.png",
+                    "sizes": "64x64",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/firefox/firefox-general-48-48.png",
+                    "sizes": "48x48",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/firefox/firefox-general-32-32.png",
+                    "sizes": "32x32",
+                    "type": "image/png"
+                },
+                {
+                    "src": "images/firefox/firefox-general-16-16.png",
+                    "sizes": "16x16",
+                    "type": "image/png"
+                }
+            ],
+            "root_uri": "https://gcode.com.au/manifest.webmanifest",
+            "file_md5": "manb62c3fac2ea4ada756a5c44c7d68872b",
+            "manifest_hits": 0
+        },
+        {
             "name": "appstore",
             "short_name": "appstore",
             "theme_color": "#FFFFFF",
@@ -21,6 +484,175 @@
             "root_uri": "https://store.gcode.com.au/manifest.json",
             "file_md5": "man5b0df3d04dc538fa2f88a9d24eb429be",
             "manifest_hits": 0
+        },
+        {
+            "name": "screen time",
+            "short_name": "screen time",
+            "theme_color": "#212122",
+            "background_color": "#212122",
+            "display": "standalone",
+            "orientation": "any",
+            "description": "A gcode developed PWA app",
+            "icons": [
+                {
+                    "src": "/apps/37790665-screen-time/180x180.icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-screen-time/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-screen-time/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-screen-time/index.html",
+            "prefer_related_applications": false,
+            "root_uri": "https://gcode.com.au/apps/37790665-screen-time/manifest.json",
+            "file_md5": "man94f8a26fc484546851f2ef45f94f2add",
+            "manifest_hits": 0,
+            "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-screen-time/ios/37790665-screen-time.plist",
+            "apk_location": "https://gcode.com.au/apps/37790665-screen-time/apk/screen time.apk"
+        },
+        {
+            "name": "gps",
+            "short_name": "gps",
+            "theme_color": "#212121",
+            "background_color": "#212121",
+            "display": "standalone",
+            "orientation": "any",
+            "description": "A simple GPS viewer, allowing you to measure between two points.  This is an example of a new line.  This is another new line",
+            "icons": [
+                {
+                    "src": "/apps/37790665-gps/180x180.icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-gps/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-gps/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-gps/index.html",
+            "prefer_related_applications": false,
+            "root_uri": "https://gcode.com.au/apps/37790665-gps/manifest.json",
+            "file_md5": "man9e5863339694b951c64abde777d6bf85",
+            "manifest_hits": 0,
+            "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-gps/ios/37790665-gps.plist",
+            "apk_location": "https://gcode.com.au/apps/37790665-gps/apk/gps.apk"
+        },
+        {
+            "name": "gcode",
+            "short_name": "gcode",
+            "theme_color": "#005040",
+            "background_color": "#005040",
+            "display": "standalone",
+            "orientation": "any",
+            "icons": [
+                {
+                    "src": "/apps/37790665-gcode/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-gcode/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-gcode/index.html",
+            "description": "gcode",
+            "prefer_related_applications": false,
+            "root_uri": "https://gcode.com.au/apps/37790665-gcode/manifest.json",
+            "file_md5": "manc94f3eca1bca428bd325c8ee3228e785",
+            "manifest_hits": 0
+        },
+        {
+            "name": "calculator",
+            "short_name": "calculator",
+            "theme_color": "#212121",
+            "background_color": "#212121",
+            "display": "standalone",
+            "orientation": "any",
+            "description": "A gcode developed PWA app",
+            "icons": [
+                {
+                    "src": "/apps/37790665-calculator/180x180.icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-calculator/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-calculator/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-calculator/index.html",
+            "prefer_related_applications": false,
+            "root_uri": "https://gcode.com.au/apps/37790665-calculator/manifest.json",
+            "file_md5": "man4f65f05faf11f4cc4706536ffb1e9686",
+            "manifest_hits": 0
+        },
+        {
+            "name": "boatcrew",
+            "short_name": "boatcrew",
+            "theme_color": "#222222",
+            "background_color": "#222222",
+            "display": "standalone",
+            "orientation": "any",
+            "description": "A gcode developed PWA app",
+            "icons": [
+                {
+                    "src": "/apps/37790665-boatcrew/180x180.icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-boatcrew/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-boatcrew/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-boatcrew/index.html",
+            "prefer_related_applications": false,
+            "root_uri": "https://gcode.com.au/apps/37790665-boatcrew/manifest.json",
+            "file_md5": "man2649a29a3309fd59d1f12beb589fde47",
+            "manifest_hits": 0,
+            "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-boatcrew/ios/37790665-boatcrew.plist"
         },
         {
             "android_package_name": "com.pinterest",
@@ -1247,79 +1879,6 @@
             ],
             "root_uri": "https://indecisive.us/manifest.json",
             "file_md5": "man7a654aa9b6ce2f60c32775265e6d066e",
-            "manifest_hits": 0
-        },
-        {
-            "name": "Let's Plant",
-            "short_name": "Let's Plant",
-            "description": "A smart way to choose the right plant.",
-            "start_url": "/?utm_source=pwa_homescreen",
-            "scope": "/",
-            "icons": [
-                {
-                    "src": "/img/apple-touch-icon-57x57.png",
-                    "sizes": "57x57",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/img/apple-touch-icon-60x60.png",
-                    "sizes": "60x60",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/img/apple-touch-icon-72x72.png",
-                    "sizes": "72x72",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/img/apple-touch-icon-76x76.png",
-                    "sizes": "76x76",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/img/apple-touch-icon-114x114.png",
-                    "sizes": "114x114",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/img/apple-touch-icon-120x120.png",
-                    "sizes": "120x120",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/img/apple-touch-icon-144x144.png",
-                    "sizes": "144x144",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/img/apple-touch-icon-152x152.png",
-                    "sizes": "152x152",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/img/apple-touch-icon-180x180.png",
-                    "sizes": "180x180",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/img/android-chrome-192x192.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                },
-                {
-                    "src": "/img/android-chrome-512x512.png",
-                    "sizes": "512x512",
-                    "type": "image/png"
-                }
-            ],
-            "theme_color": "#ffffff",
-            "background_color": "#ffffff",
-            "display": "standalone",
-            "orientation": "portrait",
-            "status": "ok",
-            "prompt_message": "Add a Home screen icon for easy access to Let's Plant",
-            "root_uri": "https://letsplant.org/img/manifest.json",
-            "file_md5": "man9e365041d54ab5d2ae425b24a60d98f9",
             "manifest_hits": 0
         },
         {
