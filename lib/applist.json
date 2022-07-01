@@ -23,174 +23,6 @@
             "manifest_hits": 0
         },
         {
-            "name": "screen time",
-            "short_name": "screen time",
-            "theme_color": "#212122",
-            "background_color": "#212122",
-            "display": "standalone",
-            "orientation": "any",
-            "description": "A gcode developed PWA app",
-            "icons": [
-                {
-                    "src": "/apps/37790665-screen-time/180x180.icon.png",
-                    "sizes": "180x180",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/apps/37790665-screen-time/192x192.icon.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/apps/37790665-screen-time/512x512.icon.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                }
-            ],
-            "start_url": "/apps/37790665-screen-time/index.html",
-            "prefer_related_applications": false,
-            "root_uri": "https://gcode.com.au/apps/37790665-screen-time/manifest.json",
-            "file_md5": "man94f8a26fc484546851f2ef45f94f2add",
-            "manifest_hits": 0,
-            "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-screen-time/ios/37790665-screen-time.plist"
-        },
-        {
-            "name": "gps",
-            "short_name": "gps",
-            "theme_color": "#212121",
-            "background_color": "#212121",
-            "display": "standalone",
-            "orientation": "any",
-            "description": "A simple GPS viewer, allowing you to measure between two points.  This is an example of a new line.  This is another new line",
-            "icons": [
-                {
-                    "src": "/apps/37790665-gps/180x180.icon.png",
-                    "sizes": "180x180",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/apps/37790665-gps/192x192.icon.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/apps/37790665-gps/512x512.icon.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                }
-            ],
-            "start_url": "/apps/37790665-gps/index.html",
-            "prefer_related_applications": false,
-            "root_uri": "https://gcode.com.au/apps/37790665-gps/manifest.json",
-            "file_md5": "man9e5863339694b951c64abde777d6bf85",
-            "manifest_hits": 0
-        },
-        {
-            "name": "gcode",
-            "short_name": "gcode",
-            "theme_color": "#005040",
-            "background_color": "#005040",
-            "display": "standalone",
-            "orientation": "any",
-            "icons": [
-                {
-                    "src": "/apps/37790665-gcode/192x192.icon.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/apps/37790665-gcode/512x512.icon.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                }
-            ],
-            "start_url": "/apps/37790665-gcode/index.html",
-            "description": "gcode",
-            "prefer_related_applications": false,
-            "root_uri": "https://gcode.com.au/apps/37790665-gcode/manifest.json",
-            "file_md5": "manc94f3eca1bca428bd325c8ee3228e785",
-            "manifest_hits": 0,
-            "apk_location": "https://gcode.com.au/apps/37790665-gcode/apk/app-release-signed.apk"
-        },
-        {
-            "name": "calculator",
-            "short_name": "calculator",
-            "theme_color": "#212121",
-            "background_color": "#212121",
-            "display": "standalone",
-            "orientation": "any",
-            "description": "A gcode developed PWA app",
-            "icons": [
-                {
-                    "src": "/apps/37790665-calculator/180x180.icon.png",
-                    "sizes": "180x180",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/apps/37790665-calculator/192x192.icon.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/apps/37790665-calculator/512x512.icon.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                }
-            ],
-            "start_url": "/apps/37790665-calculator/index.html",
-            "prefer_related_applications": false,
-            "root_uri": "https://gcode.com.au/apps/37790665-calculator/manifest.json",
-            "file_md5": "man4f65f05faf11f4cc4706536ffb1e9686",
-            "manifest_hits": 0,
-            "apk_location": "https://gcode.com.au/apps/37790665-calculator/apk/app-release-signed.apk"
-        },
-        {
-            "name": "boatcrew",
-            "short_name": "boatcrew",
-            "theme_color": "#222222",
-            "background_color": "#222222",
-            "display": "standalone",
-            "orientation": "any",
-            "description": "A gcode developed PWA app",
-            "icons": [
-                {
-                    "src": "/apps/37790665-boatcrew/180x180.icon.png",
-                    "sizes": "180x180",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/apps/37790665-boatcrew/192x192.icon.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/apps/37790665-boatcrew/512x512.icon.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                }
-            ],
-            "start_url": "/apps/37790665-boatcrew/index.html",
-            "prefer_related_applications": false,
-            "root_uri": "https://gcode.com.au/apps/37790665-boatcrew/manifest.json",
-            "file_md5": "man2649a29a3309fd59d1f12beb589fde47",
-            "manifest_hits": 0,
-            "apk_location": "https://gcode.com.au/apps/37790665-boatcrew/apk/app-release-signed.apk"
-        },
-        {
             "android_package_name": "com.pinterest",
             "background_color": "#fff",
             "display": "minimal-ui",
@@ -2744,7 +2576,7 @@
             ],
             "root_uri": "https://wavemaker.cards/manifest.json",
             "file_md5": "manf3ba4000630412161919cad525e7ba59",
-            "manifest_hits": 2,
+            "manifest_hits": 0,
             "description": "Wavemaker Novel Planning and Writing Software."
         },
         {
@@ -4599,7 +4431,7 @@
             ],
             "root_uri": "https://encounters.heromuster.com/manifest.webmanifest",
             "file_md5": "man0d5466a30d49ae8aeb91c2b954146763",
-            "manifest_hits": 1
+            "manifest_hits": 0
         }
     ]
 }
