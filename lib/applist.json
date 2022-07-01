@@ -25,10 +25,11 @@
         {
             "name": "screen time",
             "short_name": "screen time",
-            "theme_color": "#212121",
-            "background_color": "#212121",
+            "theme_color": "#212122",
+            "background_color": "#212122",
             "display": "standalone",
             "orientation": "any",
+            "description": "A gcode developed PWA app",
             "icons": [
                 {
                     "src": "/apps/37790665-screen-time/180x180.icon.png",
@@ -50,13 +51,46 @@
                 }
             ],
             "start_url": "/apps/37790665-screen-time/index.html",
-            "description": "screen time",
             "prefer_related_applications": false,
             "root_uri": "https://gcode.com.au/apps/37790665-screen-time/manifest.json",
-            "file_md5": "man28012d519f4bfbbe4d140a683ebb0695",
+            "file_md5": "man94f8a26fc484546851f2ef45f94f2add",
             "manifest_hits": 0,
-            "apk_location": "https://gcode.com.au/apps/37790665-screen-time/apk/app-release-signed.apk",
-            "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-screen-time/ios/37790665-screen-time.plist"
+            "ipa_location": "itms-services://?action=download-manifest&url=37790665-screen-time/ios/37790665-screen-time.plist"
+        },
+        {
+            "name": "gps",
+            "short_name": "gps",
+            "theme_color": "#212121",
+            "background_color": "#212121",
+            "display": "standalone",
+            "orientation": "any",
+            "description": "A simple GPS viewer, allowing you to measure between two points.  This is an example of a new line.  This is another new line",
+            "icons": [
+                {
+                    "src": "/apps/37790665-gps/180x180.icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-gps/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-gps/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-gps/index.html",
+            "prefer_related_applications": false,
+            "root_uri": "https://gcode.com.au/apps/37790665-gps/manifest.json",
+            "file_md5": "man9e5863339694b951c64abde777d6bf85",
+            "manifest_hits": 0,
+            "ipa_location": "itms-services://?action=download-manifest&url=37790665-gps/ios/37790665-gps.plist"
         },
         {
             "name": "gcode",
@@ -85,6 +119,7 @@
             "root_uri": "https://gcode.com.au/apps/37790665-gcode/manifest.json",
             "file_md5": "manc94f3eca1bca428bd325c8ee3228e785",
             "manifest_hits": 0,
+            "ipa_location": "itms-services://?action=download-manifest&url=37790665-gcode/ios/37790665-gcode.plist",
             "apk_location": "https://gcode.com.au/apps/37790665-gcode/apk/app-release-signed.apk"
         },
         {
@@ -94,6 +129,7 @@
             "background_color": "#212121",
             "display": "standalone",
             "orientation": "any",
+            "description": "A gcode developed PWA app",
             "icons": [
                 {
                     "src": "/apps/37790665-calculator/180x180.icon.png",
@@ -115,11 +151,11 @@
                 }
             ],
             "start_url": "/apps/37790665-calculator/index.html",
-            "description": "calculator",
             "prefer_related_applications": false,
             "root_uri": "https://gcode.com.au/apps/37790665-calculator/manifest.json",
-            "file_md5": "man6a87149cfdbc14f507ef65e13857ef30",
+            "file_md5": "man4f65f05faf11f4cc4706536ffb1e9686",
             "manifest_hits": 0,
+            "ipa_location": "itms-services://?action=download-manifest&url=37790665-calculator/ios/37790665-calculator.plist",
             "apk_location": "https://gcode.com.au/apps/37790665-calculator/apk/app-release-signed.apk"
         },
         {
@@ -129,7 +165,14 @@
             "background_color": "#222222",
             "display": "standalone",
             "orientation": "any",
+            "description": "A gcode developed PWA app",
             "icons": [
+                {
+                    "src": "/apps/37790665-boatcrew/180x180.icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
                 {
                     "src": "/apps/37790665-boatcrew/192x192.icon.png",
                     "sizes": "192x192",
@@ -144,11 +187,11 @@
                 }
             ],
             "start_url": "/apps/37790665-boatcrew/index.html",
-            "description": "boatcrew",
             "prefer_related_applications": false,
             "root_uri": "https://gcode.com.au/apps/37790665-boatcrew/manifest.json",
-            "file_md5": "mandf5b0360ab1bf73c9309f6f5c0530e58",
+            "file_md5": "man2649a29a3309fd59d1f12beb589fde47",
             "manifest_hits": 0,
+            "ipa_location": "itms-services://?action=download-manifest&url=37790665-boatcrew/ios/37790665-boatcrew.plist",
             "apk_location": "https://gcode.com.au/apps/37790665-boatcrew/apk/app-release-signed.apk"
         },
         {
@@ -474,11 +517,11 @@
             "description": "no description"
         },
         {
-            "start_url": "/online-workshops/",
+            "start_url": "/sf-2022/",
             "root_uri": "https://smashingconf.com/manifest.json",
-            "file_md5": "man1d7e22d50825cbe41a308bad37579b9b",
+            "file_md5": "mand924ebc19d663bfe638767e90aca09ea",
             "manifest_hits": 0,
-            "description": "The Smashing Cat is stuck on the couch, but that does not mean we have to stop learning. Meet our online workshops, and boost your skills from the comfort of your home or office."
+            "description": "Smashing Conference 2022 San Francisco is taking place on June 20-23, 2022. The conference will focus on UX design and front-end, and hosts wonderful speakers for in-person talks and in-person workshops."
         },
         {
             "name": "2Brew",
@@ -2430,7 +2473,7 @@
             ],
             "root_uri": "https://github.com/manifest.json",
             "file_md5": "man6acbdecaca6d2ff51ca8cf8a2fdd5b2d",
-            "manifest_hits": 0,
+            "manifest_hits": 21,
             "description": "GitHub is where over 83 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and features, power your CI/CD and DevOps workflows, and secure code before you commit it."
         },
         {
@@ -3336,6 +3379,246 @@
             "root_uri": "https://damn.dog/manifest.json",
             "file_md5": "mand5eed0b4ccec53ffb0185fc24eba5086",
             "manifest_hits": 0
+        },
+        {
+            "gcm_sender_id": "103953800507",
+            "root_uri": "https://daroo.com/manifest.json?v=45tD49JpWvdDEAwXenjOoz9buwcpK5nGzuTRZS9CpeA",
+            "file_md5": "manf221587d2fcfad5f01126bb7a90750a5",
+            "manifest_hits": 1
+        },
+        {
+            "name": "YouTube",
+            "short_name": "YouTube",
+            "background_color": "#FFFFFF",
+            "display": "minimal-ui",
+            "start_url": "/?feature=ytca",
+            "scope": "/",
+            "icons": [
+                {
+                    "src": "https://www.gstatic.com/youtube/img/branding/favicon/favicon_144x144.png",
+                    "sizes": "144x144",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.gstatic.com/youtube/img/branding/favicon/favicon_192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://www.gstatic.com/youtube/img/web/monochrome/logo_16x16.png",
+                    "sizes": "16x16",
+                    "type": "image/png",
+                    "purpose": "monochrome"
+                },
+                {
+                    "src": "https://www.gstatic.com/youtube/img/web/monochrome/logo_32x32.png",
+                    "sizes": "32x32",
+                    "type": "image/png",
+                    "purpose": "monochrome"
+                },
+                {
+                    "src": "https://fonts.gstatic.com/s/i/googlematerialicons/video_youtube/v11/white-48dp/1x/gm_video_youtube_white_48dp.png",
+                    "sizes": "48x48",
+                    "type": "image/png",
+                    "purpose": "monochrome"
+                },
+                {
+                    "src": "https://www.gstatic.com/youtube/img/web/monochrome/logo_512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "monochrome"
+                }
+            ],
+            "theme_color": "#FF0000",
+            "gcm_sender_id": "402845223712",
+            "gcm_user_visible_only": true,
+            "related_applications": [],
+            "capture_links": "none",
+            "shortcuts": [
+                {
+                    "name": "Subscriptions",
+                    "url": "/feed/subscriptions?feature=app_shortcuts",
+                    "icons": [
+                        {
+                            "src": "https://www.gstatic.com/youtube/img/web/shortcuts/subscriptions_512x512.png",
+                            "sizes": "512x512",
+                            "type": "image/png",
+                            "purpose": "any monochrome"
+                        }
+                    ]
+                },
+                {
+                    "name": "Explore",
+                    "url": "/feed/explore?feature=app_shortcuts",
+                    "icons": [
+                        {
+                            "src": "https://www.gstatic.com/youtube/img/web/shortcuts/explore_512x512.png",
+                            "sizes": "512x512",
+                            "type": "image/png",
+                            "purpose": "any monochrome"
+                        }
+                    ]
+                }
+            ],
+            "root_uri": "https://www.youtube.com/manifest.webmanifest",
+            "file_md5": "mana8f5eb29f852b756dc73fab692ef143a",
+            "manifest_hits": 3,
+            "description": "Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube."
+        },
+        {
+            "name": "simplabs",
+            "short_name": "simplabs",
+            "description": "Solid Solutions for Ambitious Projects",
+            "theme_color": "#007df6",
+            "background_color": "#007df6",
+            "display": "standalone",
+            "orientation": "portrait",
+            "start_url": "/",
+            "icons": [
+                {
+                    "src": "assets/images/app-images/192x192-33dade9908f13a7c07fa143017b005e3.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "assets/images/app-images/512x512-fafd777314e9221e0a0ea2144e46dc37.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "splash_pages": null,
+            "root_uri": "https://simplabs.com/manifest.webmanifest",
+            "file_md5": "man68d60c781bac49ef50509c61409432a5",
+            "manifest_hits": 3
+        },
+        {
+            "name": "PWABuilder Suite Documentation",
+            "short_name": "PWA Docs",
+            "start_url": "/index.html",
+            "display": "standalone",
+            "description": "Documentation for using PWABuilder tools and building PWAs.",
+            "lang": "en-US",
+            "dir": "auto",
+            "theme_color": "#491576",
+            "background_color": "#ffffff",
+            "icons": [
+                {
+                    "src": "https://www.pwabuilder.com/assets/icons/icon_512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "https://www.pwabuilder.com/assets/icons/icon_192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any"
+                }
+            ],
+            "shortcuts": [
+                {
+                    "name": "Home",
+                    "url": "/",
+                    "description": "Takes you to main landing page of the PWA Builder Documentation.",
+                    "icons": [
+                        {
+                            "src": "https://www.pwabuilder.com/assets/icons/icon_192.png",
+                            "sizes": "192x192",
+                            "type": "image/png",
+                            "purpose": "any"
+                        }
+                    ]
+                },
+                {
+                    "name": "PWA Starter",
+                    "url": "/#/starter/quick-start",
+                    "description": "Takes you to documentation on using the PWA Starter.",
+                    "icons": [
+                        {
+                            "src": "https://www.pwabuilder.com/assets/icons/icon_192.png",
+                            "sizes": "192x192",
+                            "type": "image/png",
+                            "purpose": "any"
+                        }
+                    ]
+                }
+            ],
+            "root_uri": "https://docs.pwabuilder.com/manifest.json",
+            "file_md5": "man886ea4f2c7f11ca944c9509369427575",
+            "manifest_hits": 1
+        },
+        {
+            "dir": "ltr",
+            "lang": "en",
+            "name": "Webboard",
+            "scope": "/",
+            "display": "standalone",
+            "start_url": "/",
+            "short_name": "Webboard",
+            "theme_color": "#FFFFFF",
+            "description": "Enhance your work day and solve your cross platform whiteboarding needs with webboard! Draw text, shapes, attach images and more and share those whiteboards with anyone through OneDrive!",
+            "orientation": "any",
+            "background_color": "#FFFFFF",
+            "related_applications": [],
+            "prefer_related_applications": false,
+            "screenshots": [
+                {
+                    "src": "assets/screen.png"
+                },
+                {
+                    "src": "assets/screen.png"
+                },
+                {
+                    "src": "assets/screen.png"
+                }
+            ],
+            "features": [
+                "Cross Platform",
+                "low-latency inking",
+                "fast",
+                "useful AI"
+            ],
+            "shortcuts": [
+                {
+                    "name": "Start Live Session",
+                    "short_name": "Start Live",
+                    "description": "Jump direction into starting or joining a live session",
+                    "url": "/?startLive",
+                    "icons": [
+                        {
+                            "src": "icons/android/maskable_icon_192.png",
+                            "sizes": "192x192"
+                        }
+                    ]
+                }
+            ],
+            "icons": [
+                {
+                    "src": "icons/android/android-launchericon-64-64.png",
+                    "sizes": "64x64"
+                },
+                {
+                    "src": "icons/android/maskable_icon_192.png",
+                    "sizes": "192x192",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "icons/android/android-launchericon-48-48.png",
+                    "sizes": "48x48"
+                },
+                {
+                    "src": "icons/android/android-launchericon-512-512.png",
+                    "sizes": "512x512"
+                },
+                {
+                    "src": "icons/android/android-launchericon-28-28.png",
+                    "sizes": "28x28"
+                }
+            ],
+            "root_uri": "https://webboard.app/manifest.json",
+            "file_md5": "mandcb276c23a31c2e129e2ab11fbeaaac8",
+            "manifest_hits": 1
         }
     ]
 }
