@@ -19,6 +19,11 @@
   window.PWA.globals.splashBackgroundColor="#FFFFFF";
   window.PWA.globals.splashDuration=2000;
 
+  const queryString = window.location.search;
+  const urlParams = new URLSearchParams(queryString);
+  const product = urlParams.get('UDID')
+  console.log(product);
+
 let deferredPrompt;
 if('serviceWorker' in navigator) {
     navigator.serviceWorker.register('https://store.gcode.com.au/sw.js');
