@@ -558,34 +558,6 @@
             "apk_location": "https://gcode.com.au/apps/37790665-gps/apk/gps.apk"
         },
         {
-            "name": "gcode",
-            "short_name": "gcode",
-            "theme_color": "#005040",
-            "background_color": "#005040",
-            "display": "standalone",
-            "orientation": "any",
-            "icons": [
-                {
-                    "src": "/apps/37790665-gcode/192x192.icon.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "/apps/37790665-gcode/512x512.icon.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                }
-            ],
-            "start_url": "/apps/37790665-gcode/index.html",
-            "description": "gcode",
-            "prefer_related_applications": false,
-            "root_uri": "https://gcode.com.au/apps/37790665-gcode/manifest.json",
-            "file_md5": "manc94f3eca1bca428bd325c8ee3228e785",
-            "manifest_hits": 0
-        },
-        {
             "name": "calculator",
             "short_name": "calculator",
             "theme_color": "#212121",
