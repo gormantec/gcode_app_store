@@ -493,6 +493,9 @@
             "display": "standalone",
             "orientation": "any",
             "description": "A gcode developed PWA app",
+            "scope": "/apps/37790665-screen-time/",
+            "permitted_urls": [],
+            "version": "1.0.0.1636070",
             "icons": [
                 {
                     "src": "/apps/37790665-screen-time/180x180.icon.png",
@@ -514,21 +517,96 @@
                 }
             ],
             "start_url": "/apps/37790665-screen-time/index.html",
-            "prefer_related_applications": false,
             "root_uri": "https://gcode.com.au/apps/37790665-screen-time/manifest.json",
-            "file_md5": "man94f8a26fc484546851f2ef45f94f2add",
+            "file_md5": "mandfe24035659c6c3d1248a8b198edf43f",
             "manifest_hits": 0,
-            "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-screen-time/ios/37790665-screen-time.plist",
             "apk_location": "https://gcode.com.au/apps/37790665-screen-time/apk/screen time.apk"
+        },
+        {
+            "name": "pages example",
+            "short_name": "pages example",
+            "theme_color": "#0000FF",
+            "background_color": "#0000FF",
+            "display": "standalone",
+            "orientation": "any",
+            "description": "An example gcode app showing pages.",
+            "scope": "/apps/37790665-pages-example/",
+            "permitted_urls": [],
+            "version": "1.0.0.1644899",
+            "icons": [
+                {
+                    "src": "/apps/37790665-pages-example/180x180.icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-pages-example/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-pages-example/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-pages-example/index.html",
+            "root_uri": "https://gcode.com.au/apps/37790665-pages-example/manifest.json",
+            "file_md5": "man50918fd4cfaa834eaad1e8cff2253f34",
+            "manifest_hits": 0,
+            "apk_location": "https://gcode.com.au/apps/37790665-pages-example/apk/pages example.apk"
+        },
+        {
+            "name": "heart broken",
+            "short_name": "heart broken",
+            "theme_color": "#f20202",
+            "background_color": "#f20202",
+            "display": "standalone",
+            "orientation": "any",
+            "description": "A sample app from gcode.",
+            "scope": "/apps/37790665-heart-broken/",
+            "permitted_urls": [],
+            "version": "1.0.0.1644152",
+            "icons": [
+                {
+                    "src": "/apps/37790665-heart-broken/180x180.icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-heart-broken/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-heart-broken/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-heart-broken/index.html",
+            "root_uri": "https://gcode.com.au/apps/37790665-heart-broken/manifest.json",
+            "file_md5": "man46567802ca3ccd695f240a462c65e9e8",
+            "manifest_hits": 0,
+            "apk_location": "https://gcode.com.au/apps/37790665-heart-broken/apk/heart broken.apk"
         },
         {
             "name": "gps",
             "short_name": "gps",
-            "theme_color": "#212121",
-            "background_color": "#212121",
+            "theme_color": "#ff0000",
+            "background_color": "#ff0000",
             "display": "standalone",
             "orientation": "any",
             "description": "A simple GPS viewer, allowing you to measure between two points.  This is an example of a new line.  This is another new line",
+            "scope": "/apps/37790665-gps/",
+            "permitted_urls": [],
+            "version": "1.0.0.1652993",
             "icons": [
                 {
                     "src": "/apps/37790665-gps/180x180.icon.png",
@@ -550,11 +628,9 @@
                 }
             ],
             "start_url": "/apps/37790665-gps/index.html",
-            "prefer_related_applications": false,
             "root_uri": "https://gcode.com.au/apps/37790665-gps/manifest.json",
-            "file_md5": "man9e5863339694b951c64abde777d6bf85",
+            "file_md5": "man64e7a2a50ba94b382fab3987342c10fa",
             "manifest_hits": 0,
-            "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-gps/ios/37790665-gps.plist",
             "apk_location": "https://gcode.com.au/apps/37790665-gps/apk/gps.apk"
         },
         {
@@ -564,7 +640,10 @@
             "background_color": "#212121",
             "display": "standalone",
             "orientation": "any",
-            "description": "A gcode developed PWA app",
+            "description": "A simple calculator pWA app.",
+            "scope": "/apps/37790665-calculator/",
+            "permitted_urls": [],
+            "version": "1.0.0.1652983",
             "icons": [
                 {
                     "src": "/apps/37790665-calculator/180x180.icon.png",
@@ -586,10 +665,10 @@
                 }
             ],
             "start_url": "/apps/37790665-calculator/index.html",
-            "prefer_related_applications": false,
             "root_uri": "https://gcode.com.au/apps/37790665-calculator/manifest.json",
-            "file_md5": "man4f65f05faf11f4cc4706536ffb1e9686",
-            "manifest_hits": 0
+            "file_md5": "manc5f48e9118534cde8014abad86c6e138",
+            "manifest_hits": 0,
+            "apk_location": "https://gcode.com.au/apps/37790665-calculator/apk/calculator.apk"
         },
         {
             "name": "boatcrew",
@@ -598,7 +677,22 @@
             "background_color": "#222222",
             "display": "standalone",
             "orientation": "any",
-            "description": "A gcode developed PWA app",
+            "description": "An app to colaborate with freinds on trips to the river.",
+            "scope": "/apps/37790665-boatcrew/",
+            "permitted_urls": [
+                "connect.facebook.net",
+                "cdn.jsdelivr.net",
+                "www.facebook.com",
+                "m.facebook.com",
+                "graph.facebook.com",
+                "rpc.testnet.near.org",
+                "fonts.gstatic.com",
+                "sdk.amazonaws.com",
+                "maps.googleapis.com",
+                "fonts.googleapis.com",
+                "maps.gstatic.com"
+            ],
+            "version": "1.0.0.1652913",
             "icons": [
                 {
                     "src": "/apps/37790665-boatcrew/180x180.icon.png",
@@ -620,11 +714,123 @@
                 }
             ],
             "start_url": "/apps/37790665-boatcrew/index.html",
-            "prefer_related_applications": false,
             "root_uri": "https://gcode.com.au/apps/37790665-boatcrew/manifest.json",
-            "file_md5": "man2649a29a3309fd59d1f12beb589fde47",
+            "file_md5": "man5a157d40398d2443ba2d1f488c9f711b",
             "manifest_hits": 0,
-            "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-boatcrew/ios/37790665-boatcrew.plist"
+            "apk_location": "https://gcode.com.au/apps/37790665-boatcrew/apk/boatcrew.apk"
+        },
+        {
+            "name": "UDID",
+            "short_name": "UDID",
+            "theme_color": "#323232",
+            "background_color": "#323232",
+            "display": "standalone",
+            "orientation": "any",
+            "description": "An app to retrive the UDID from your iPhone. It will require you download and install a profile, allowing access to your UDID. You can delete the profile after that.",
+            "scope": "/apps/37790665-UDID/",
+            "permitted_urls": [
+                "https://isjqwevc8e.execute-api.ap-southeast-2.amazonaws.com/default/udid"
+            ],
+            "version": "1.0.0.1643543",
+            "icons": [
+                {
+                    "src": "/apps/37790665-UDID/180x180.icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-UDID/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-UDID/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-UDID/index.html",
+            "root_uri": "https://gcode.com.au/apps/37790665-UDID/manifest.json",
+            "file_md5": "man1a00e1b6f7bed24935d9db46fd8d708b",
+            "manifest_hits": 0,
+            "apk_location": "https://gcode.com.au/apps/37790665-UDID/apk/UDID.apk"
+        },
+        {
+            "name": "SallyG",
+            "short_name": "SallyG",
+            "theme_color": "#00FFCC",
+            "background_color": "#00FFCC",
+            "display": "standalone",
+            "orientation": "any",
+            "description": "An app for Sal!",
+            "scope": "/apps/37790665-SallyG/",
+            "permitted_urls": [],
+            "version": "1.0.0.1643587",
+            "icons": [
+                {
+                    "src": "/apps/37790665-SallyG/180x180.icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-SallyG/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-SallyG/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-SallyG/index.html",
+            "root_uri": "https://gcode.com.au/apps/37790665-SallyG/manifest.json",
+            "file_md5": "manab99c5c5331565f619b0db0ce7f21c0b",
+            "manifest_hits": 0,
+            "apk_location": "https://gcode.com.au/apps/37790665-SallyG/apk/SallyG.apk"
+        },
+        {
+            "name": "Baby Daze",
+            "short_name": "Baby Daze",
+            "theme_color": "#FA00AB",
+            "background_color": "#FA00AB",
+            "display": "standalone",
+            "orientation": "any",
+            "description": "A gcode developed PWA app",
+            "scope": "/apps/37790665-Baby-Daze/",
+            "permitted_urls": [],
+            "version": "1.0.0.1693224",
+            "icons": [
+                {
+                    "src": "/apps/37790665-Baby-Daze/180x180.icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-Baby-Daze/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-Baby-Daze/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-Baby-Daze/index.html",
+            "root_uri": "https://gcode.com.au/apps/37790665-Baby-Daze/manifest.json",
+            "file_md5": "man4e9bbcbe82e6a9ad0bf85a463cea70dd",
+            "manifest_hits": 0,
+            "apk_location": "https://gcode.com.au/apps/37790665-Baby-Daze/apk/Baby Daze.apk"
         },
         {
             "android_package_name": "com.pinterest",
@@ -1697,7 +1903,7 @@
                 }
             ],
             "theme_color": "#0D1117",
-            "background_color": "#DFE5EB",
+            "background_color": "#0D1117",
             "display": "standalone",
             "orientation": "portrait",
             "iarc_rating_id": "1ff144b5-7bfc-4207-abed-0e549cb80406",
@@ -1716,10 +1922,15 @@
                     "platform": "windows",
                     "url": "https://www.microsoft.com/en-us/p/passky/9nrcp6hppb82",
                     "id": "9nrcp6hppb82"
+                },
+                {
+                    "platform": "f-droid",
+                    "url": "https://f-droid.org/en/packages/com.rabbitcompany.passky",
+                    "id": "com.rabbitcompany.passky"
                 }
             ],
             "root_uri": "https://vault.passky.org/manifest.json",
-            "file_md5": "man263858c4708947efb310459ca63f1168",
+            "file_md5": "man4741faf24e4aafb816e529e7ff59bc6d",
             "manifest_hits": 0
         },
         {
@@ -2832,7 +3043,7 @@
             ],
             "root_uri": "https://github.com/manifest.json",
             "file_md5": "man6acbdecaca6d2ff51ca8cf8a2fdd5b2d",
-            "manifest_hits": 0,
+            "manifest_hits": 9,
             "description": "GitHub is where over 83 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and features, power your CI/CD and DevOps workflows, and secure code before you commit it."
         },
         {
@@ -2926,7 +3137,7 @@
             ],
             "root_uri": "https://www.reactpwa.com/manifest.json",
             "file_md5": "man7c18bac86745ac96704dbbf9311900e1",
-            "manifest_hits": 0
+            "manifest_hits": 2
         },
         {
             "name": "Indiatoday",
@@ -3222,9 +3433,9 @@
                     ]
                 }
             ],
-            "version": "2.0.3",
+            "version": "2.0.4",
             "root_uri": "https://collanon.app/manifest.json",
-            "file_md5": "man4621e21b2f4e11f06d251cddb4e6ea55",
+            "file_md5": "man8298e723ffbbced1ce44330ac776a6b6",
             "manifest_hits": 0
         },
         {
@@ -5044,6 +5255,127 @@
             "root_uri": "https://www.dobell.co.uk/static/frontend/Dobell/pwa/de_DE/Magento_Theme/manifest.2be2ed0077b85f40cec05d43e76d9706.json",
             "file_md5": "man7c2575ddeebd4ec05efb74f9a9e85c5f",
             "manifest_hits": 0
+        },
+        {
+            "theme_color": "#293896",
+            "background_color": "#fff",
+            "display": "standalone",
+            "scope": "/",
+            "start_url": "/",
+            "app_name": "Shab",
+            "name": "Shab",
+            "short_name": "Shab",
+            "orientation": "portrait",
+            "categories": [
+                "travel",
+                "accommodation"
+            ],
+            "shortcuts": [
+                {
+                    "name": "سفرهای من",
+                    "short_name": "trips",
+                    "description": "لیست سفرهای من",
+                    "url": "/trips?tab=isActive&page=1",
+                    "icons": [
+                        {
+                            "src": "/static-files/shab-icons-pwa/192.png",
+                            "sizes": "192x192",
+                            "purpose": "any"
+                        }
+                    ]
+                },
+                {
+                    "name": "آگهی‌های من",
+                    "short_name": "houses",
+                    "description": "لیست آگهی‌های من",
+                    "url": "/houses",
+                    "icons": [
+                        {
+                            "src": "/static-files/shab-icons-pwa/192.png",
+                            "sizes": "192x192",
+                            "purpose": "any"
+                        }
+                    ]
+                }
+            ],
+            "icons": [
+                {
+                    "src": "/static-files/shab-icons-pwa/72.png",
+                    "sizes": "72x72",
+                    "type": "image/png",
+                    "purpose": "any"
+                },
+                {
+                    "src": "/static-files/shab-icons-pwa/96.png",
+                    "sizes": "96x96",
+                    "type": "image/png",
+                    "purpose": "any"
+                },
+                {
+                    "src": "/static-files/shab-icons-pwa/120.png",
+                    "sizes": "120x120",
+                    "type": "image/png",
+                    "purpose": "any"
+                },
+                {
+                    "src": "/static-files/shab-icons-pwa/128.png",
+                    "sizes": "128x128",
+                    "type": "image/png",
+                    "purpose": "any"
+                },
+                {
+                    "src": "/static-files/shab-icons-pwa/144.png",
+                    "sizes": "144x144",
+                    "type": "image/png",
+                    "purpose": "any"
+                },
+                {
+                    "src": "/static-files/shab-icons-pwa/152.png",
+                    "sizes": "152x152",
+                    "type": "image/png",
+                    "purpose": "any"
+                },
+                {
+                    "src": "/static-files/shab-icons-pwa/167.png",
+                    "sizes": "167x167",
+                    "type": "image/png",
+                    "purpose": "any"
+                },
+                {
+                    "src": "/static-files/shab-icons-pwa/180.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any"
+                },
+                {
+                    "src": "/static-files/shab-icons-pwa/192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any"
+                },
+                {
+                    "src": "/static-files/shab-icons-pwa/384.png",
+                    "sizes": "384x384",
+                    "type": "image/png",
+                    "purpose": "any"
+                },
+                {
+                    "src": "/static-files/shab-icons-pwa/512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any"
+                },
+                {
+                    "src": "/static-files/shab-icons-pwa/maskable_icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                }
+            ],
+            "root_uri": "https://www.shab.ir/manifest.json",
+            "file_md5": "man28ff36fbfec98c1b1100e365d2858087",
+            "manifest_hits": 1,
+            "description": "no description"
         }
     ]
 }
