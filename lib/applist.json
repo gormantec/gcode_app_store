@@ -731,7 +731,7 @@
             "permitted_urls": [
                 "https://isjqwevc8e.execute-api.ap-southeast-2.amazonaws.com/default/udid"
             ],
-            "version": "1.0.0.1643543",
+            "version": "1.0.0.1696451",
             "icons": [
                 {
                     "src": "/apps/37790665-UDID/180x180.icon.png",
@@ -754,8 +754,9 @@
             ],
             "start_url": "/apps/37790665-UDID/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-UDID/manifest.json",
-            "file_md5": "man1a00e1b6f7bed24935d9db46fd8d708b",
+            "file_md5": "man8728e8e06fb4ba1881b28452abdc4f10",
             "manifest_hits": 0,
+            "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-UDID/ios/ipa_manifest.plist",
             "apk_location": "https://gcode.com.au/apps/37790665-UDID/apk/UDID.apk"
         },
         {
@@ -1147,20 +1148,6 @@
             "root_uri": "https://www.pwabuilder.com/manifest.json",
             "file_md5": "man08c63e58863bd10e21334ff02ed6a680",
             "manifest_hits": 0
-        },
-        {
-            "start_url": "/",
-            "root_uri": "https://www.smashingmagazine.com/manifest.json",
-            "file_md5": "manb54ad3a2c682f893a45212adaeac4f0f",
-            "manifest_hits": 0,
-            "description": "no description"
-        },
-        {
-            "start_url": "/sf-2022/",
-            "root_uri": "https://smashingconf.com/manifest.json",
-            "file_md5": "mand924ebc19d663bfe638767e90aca09ea",
-            "manifest_hits": 0,
-            "description": "Smashing Conference 2022 San Francisco is taking place on June 20-23, 2022. The conference will focus on UX design and front-end, and hosts wonderful speakers for in-person talks and in-person workshops."
         },
         {
             "name": "2Brew",
@@ -3949,12 +3936,6 @@
             ],
             "root_uri": "https://damn.dog/manifest.json",
             "file_md5": "mand5eed0b4ccec53ffb0185fc24eba5086",
-            "manifest_hits": 0
-        },
-        {
-            "gcm_sender_id": "103953800507",
-            "root_uri": "https://daroo.com/manifest.json?v=45tD49JpWvdDEAwXenjOoz9buwcpK5nGzuTRZS9CpeA",
-            "file_md5": "manf221587d2fcfad5f01126bb7a90750a5",
             "manifest_hits": 0
         },
         {
