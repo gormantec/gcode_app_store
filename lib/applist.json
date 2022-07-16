@@ -805,7 +805,7 @@
             "description": "A gcode developed PWA app",
             "scope": "/apps/37790665-Baby-Daze/",
             "permitted_urls": [],
-            "version": "1.0.0.1693224",
+            "version": "1.0.0.1696268",
             "icons": [
                 {
                     "src": "/apps/37790665-Baby-Daze/180x180.icon.png",
@@ -828,8 +828,9 @@
             ],
             "start_url": "/apps/37790665-Baby-Daze/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-Baby-Daze/manifest.json",
-            "file_md5": "man4e9bbcbe82e6a9ad0bf85a463cea70dd",
+            "file_md5": "manf526b4e727e954733553c922cd3ef649",
             "manifest_hits": 0,
+            "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-Baby-Daze/ios/ipa_manifest.plist",
             "apk_location": "https://gcode.com.au/apps/37790665-Baby-Daze/apk/Baby Daze.apk"
         },
         {
@@ -3043,7 +3044,7 @@
             ],
             "root_uri": "https://github.com/manifest.json",
             "file_md5": "man6acbdecaca6d2ff51ca8cf8a2fdd5b2d",
-            "manifest_hits": 9,
+            "manifest_hits": 0,
             "description": "GitHub is where over 83 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and features, power your CI/CD and DevOps workflows, and secure code before you commit it."
         },
         {
@@ -3137,7 +3138,7 @@
             ],
             "root_uri": "https://www.reactpwa.com/manifest.json",
             "file_md5": "man7c18bac86745ac96704dbbf9311900e1",
-            "manifest_hits": 2
+            "manifest_hits": 0
         },
         {
             "name": "Indiatoday",
@@ -5374,7 +5375,7 @@
             ],
             "root_uri": "https://www.shab.ir/manifest.json",
             "file_md5": "man28ff36fbfec98c1b1100e365d2858087",
-            "manifest_hits": 1,
+            "manifest_hits": 0,
             "description": "no description"
         }
     ]
