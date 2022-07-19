@@ -495,7 +495,7 @@
             "description": "A gcode developed PWA app",
             "scope": "/apps/37790665-screen-time/",
             "permitted_urls": [],
-            "version": "1.0.0.1636070",
+            "version": "1.0.0.1696570",
             "icons": [
                 {
                     "src": "/apps/37790665-screen-time/180x180.icon.png",
@@ -518,8 +518,9 @@
             ],
             "start_url": "/apps/37790665-screen-time/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-screen-time/manifest.json",
-            "file_md5": "mandfe24035659c6c3d1248a8b198edf43f",
+            "file_md5": "manb3938ac31851d87e11c27b9914de97b3",
             "manifest_hits": 0,
+            "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-screen-time/ios/ipa_manifest.plist",
             "apk_location": "https://gcode.com.au/apps/37790665-screen-time/apk/screen time.apk"
         },
         {
@@ -606,7 +607,7 @@
             "description": "A simple GPS viewer, allowing you to measure between two points.  This is an example of a new line.  This is another new line",
             "scope": "/apps/37790665-gps/",
             "permitted_urls": [],
-            "version": "1.0.0.1652993",
+            "version": "1.0.0.1696631",
             "icons": [
                 {
                     "src": "/apps/37790665-gps/180x180.icon.png",
@@ -629,7 +630,7 @@
             ],
             "start_url": "/apps/37790665-gps/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-gps/manifest.json",
-            "file_md5": "man64e7a2a50ba94b382fab3987342c10fa",
+            "file_md5": "manfd4fb8b038fce5bef217d9bb83d1385f",
             "manifest_hits": 0,
             "apk_location": "https://gcode.com.au/apps/37790665-gps/apk/gps.apk"
         },
@@ -643,7 +644,7 @@
             "description": "A simple calculator pWA app.",
             "scope": "/apps/37790665-calculator/",
             "permitted_urls": [],
-            "version": "1.0.0.1652983",
+            "version": "1.0.0.1696611",
             "icons": [
                 {
                     "src": "/apps/37790665-calculator/180x180.icon.png",
@@ -666,7 +667,7 @@
             ],
             "start_url": "/apps/37790665-calculator/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-calculator/manifest.json",
-            "file_md5": "manc5f48e9118534cde8014abad86c6e138",
+            "file_md5": "man1f660d5915db6f390382144b29c1cd4e",
             "manifest_hits": 0,
             "apk_location": "https://gcode.com.au/apps/37790665-calculator/apk/calculator.apk"
         },
@@ -806,7 +807,7 @@
             "description": "A gcode developed PWA app",
             "scope": "/apps/37790665-Baby-Daze/",
             "permitted_urls": [],
-            "version": "1.0.0.1696268",
+            "version": "1.0.0.1697032",
             "icons": [
                 {
                     "src": "/apps/37790665-Baby-Daze/180x180.icon.png",
@@ -829,7 +830,7 @@
             ],
             "start_url": "/apps/37790665-Baby-Daze/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-Baby-Daze/manifest.json",
-            "file_md5": "manf526b4e727e954733553c922cd3ef649",
+            "file_md5": "man60ab5ea8f3b737f030f570a1a654d468",
             "manifest_hits": 0,
             "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-Baby-Daze/ios/ipa_manifest.plist",
             "apk_location": "https://gcode.com.au/apps/37790665-Baby-Daze/apk/Baby Daze.apk"
