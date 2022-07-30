@@ -495,7 +495,7 @@
             "description": "A gcode developed PWA app",
             "scope": "/apps/37790665-screen-time/",
             "permitted_urls": [],
-            "version": "1.0.0.1696570",
+            "version": "1.0.0.1735437",
             "icons": [
                 {
                     "src": "/apps/37790665-screen-time/180x180.icon.png",
@@ -518,7 +518,7 @@
             ],
             "start_url": "/apps/37790665-screen-time/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-screen-time/manifest.json",
-            "file_md5": "manb3938ac31851d87e11c27b9914de97b3",
+            "file_md5": "man2dab52a39122943e719240f940ca67e3",
             "manifest_hits": 0,
             "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-screen-time/ios/ipa_manifest.plist",
             "apk_location": "https://gcode.com.au/apps/37790665-screen-time/apk/screen time.apk"
@@ -600,14 +600,14 @@
         {
             "name": "gps",
             "short_name": "gps",
-            "theme_color": "#ff0000",
-            "background_color": "#ff0000",
+            "theme_color": "#111111",
+            "background_color": "#111111",
             "display": "standalone",
             "orientation": "any",
             "description": "A simple GPS viewer, allowing you to measure between two points.  This is an example of a new line.  This is another new line",
             "scope": "/apps/37790665-gps/",
             "permitted_urls": [],
-            "version": "1.0.0.1696631",
+            "version": "1.0.0.1735517",
             "icons": [
                 {
                     "src": "/apps/37790665-gps/180x180.icon.png",
@@ -630,9 +630,84 @@
             ],
             "start_url": "/apps/37790665-gps/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-gps/manifest.json",
-            "file_md5": "manfd4fb8b038fce5bef217d9bb83d1385f",
+            "file_md5": "man29cbe630a76b2002bfb52885d8b54793",
             "manifest_hits": 0,
             "apk_location": "https://gcode.com.au/apps/37790665-gps/apk/gps.apk"
+        },
+        {
+            "name": "gcode",
+            "short_name": "gcode",
+            "theme_color": "#212121",
+            "background_color": "#212121",
+            "display": "standalone",
+            "orientation": "any",
+            "description": "A gcode developed PWA app",
+            "scope": "/apps/37790665-gcode/",
+            "permitted_urls": [],
+            "version": "1.0.0.1808037",
+            "icons": [
+                {
+                    "src": "/apps/37790665-gcode/180x180.icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-gcode/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-gcode/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-gcode/index.html",
+            "root_uri": "https://gcode.com.au/apps/37790665-gcode/manifest.json",
+            "file_md5": "man22af0b895f86f0c18b7e625f5904cdea",
+            "manifest_hits": 0
+        },
+        {
+            "name": "findmyapple",
+            "short_name": "findmyapple",
+            "theme_color": "#212121",
+            "background_color": "#212121",
+            "display": "standalone",
+            "orientation": "any",
+            "description": "A gcode developed PWA app",
+            "scope": "/apps/37790665-findmyapple/",
+            "permitted_urls": [
+                "https://www.icloud.com/find/"
+            ],
+            "version": "1.0.0.1808170",
+            "icons": [
+                {
+                    "src": "/apps/37790665-findmyapple/180x180.icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-findmyapple/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-findmyapple/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-findmyapple/index.html",
+            "root_uri": "https://gcode.com.au/apps/37790665-findmyapple/manifest.json",
+            "file_md5": "man9a057c1e66ade4fe3b2efcbb529a9560",
+            "manifest_hits": 0,
+            "apk_location": "https://gcode.com.au/apps/37790665-findmyapple/apk/findmyapple.apk"
         },
         {
             "name": "calculator",
@@ -644,7 +719,7 @@
             "description": "A simple calculator pWA app.",
             "scope": "/apps/37790665-calculator/",
             "permitted_urls": [],
-            "version": "1.0.0.1696611",
+            "version": "1.0.0.1735420",
             "icons": [
                 {
                     "src": "/apps/37790665-calculator/180x180.icon.png",
@@ -667,8 +742,9 @@
             ],
             "start_url": "/apps/37790665-calculator/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-calculator/manifest.json",
-            "file_md5": "man1f660d5915db6f390382144b29c1cd4e",
+            "file_md5": "man9b369f2cb47764324bc23d453209070a",
             "manifest_hits": 0,
+            "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-calculator/ios/ipa_manifest.plist",
             "apk_location": "https://gcode.com.au/apps/37790665-calculator/apk/calculator.apk"
         },
         {
@@ -693,7 +769,7 @@
                 "fonts.googleapis.com",
                 "maps.gstatic.com"
             ],
-            "version": "1.0.0.1652913",
+            "version": "1.0.0.1735520",
             "icons": [
                 {
                     "src": "/apps/37790665-boatcrew/180x180.icon.png",
@@ -716,7 +792,7 @@
             ],
             "start_url": "/apps/37790665-boatcrew/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-boatcrew/manifest.json",
-            "file_md5": "man5a157d40398d2443ba2d1f488c9f711b",
+            "file_md5": "man06ef40a4fe34c1e37ad0bc3bd5c95728",
             "manifest_hits": 0,
             "apk_location": "https://gcode.com.au/apps/37790665-boatcrew/apk/boatcrew.apk"
         },
@@ -732,7 +808,7 @@
             "permitted_urls": [
                 "https://isjqwevc8e.execute-api.ap-southeast-2.amazonaws.com/default/udid"
             ],
-            "version": "1.0.0.1696451",
+            "version": "1.0.0.1735486",
             "icons": [
                 {
                     "src": "/apps/37790665-UDID/180x180.icon.png",
@@ -755,7 +831,7 @@
             ],
             "start_url": "/apps/37790665-UDID/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-UDID/manifest.json",
-            "file_md5": "man8728e8e06fb4ba1881b28452abdc4f10",
+            "file_md5": "manc61a5a974f95835f3261874f3dfdda5e",
             "manifest_hits": 0,
             "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-UDID/ios/ipa_manifest.plist",
             "apk_location": "https://gcode.com.au/apps/37790665-UDID/apk/UDID.apk"
@@ -767,10 +843,10 @@
             "background_color": "#00FFCC",
             "display": "standalone",
             "orientation": "any",
-            "description": "An app for Sal!",
+            "description": "A gcode developed PWA app",
             "scope": "/apps/37790665-SallyG/",
             "permitted_urls": [],
-            "version": "1.0.0.1643587",
+            "version": "1.0.0.1735526",
             "icons": [
                 {
                     "src": "/apps/37790665-SallyG/180x180.icon.png",
@@ -793,7 +869,7 @@
             ],
             "start_url": "/apps/37790665-SallyG/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-SallyG/manifest.json",
-            "file_md5": "manab99c5c5331565f619b0db0ce7f21c0b",
+            "file_md5": "manb31ed3cd8ff77d0af1913d0639450ef9",
             "manifest_hits": 0,
             "apk_location": "https://gcode.com.au/apps/37790665-SallyG/apk/SallyG.apk"
         },
@@ -807,7 +883,7 @@
             "description": "A gcode developed PWA app",
             "scope": "/apps/37790665-Baby-Daze/",
             "permitted_urls": [],
-            "version": "1.0.0.1697032",
+            "version": "1.0.0.1807616",
             "icons": [
                 {
                     "src": "/apps/37790665-Baby-Daze/180x180.icon.png",
@@ -830,7 +906,7 @@
             ],
             "start_url": "/apps/37790665-Baby-Daze/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-Baby-Daze/manifest.json",
-            "file_md5": "man60ab5ea8f3b737f030f570a1a654d468",
+            "file_md5": "man956b2672e4a94796541a39c424dd8aa8",
             "manifest_hits": 0,
             "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-Baby-Daze/ios/ipa_manifest.plist",
             "apk_location": "https://gcode.com.au/apps/37790665-Baby-Daze/apk/Baby Daze.apk"
@@ -4287,15 +4363,51 @@
                     "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-512x512.png",
                     "sizes": "512x512",
                     "type": "image/png"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/maskable_icon_x72.png",
+                    "sizes": "72x72",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/maskable_icon_x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/maskable_icon_x128.png",
+                    "sizes": "128x128",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/maskable_icon_x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/maskable_icon_x384.png",
+                    "sizes": "384x384",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/maskable_icon_x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
                 }
             ],
             "splash_pages": null,
             "gcm_sender_id": "671555070731",
             "gcm_user_visible_only": true,
             "root_uri": "https://www.bmw.com/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/manifest_en.json",
-            "file_md5": "man37403d73b1135cb7c30040ee8ff1d5e8",
+            "file_md5": "man9d553bb4a79c6f23c7a3e949421f1716",
             "manifest_hits": 0,
-            "description": "► Read now: Inspiring stories and interviews, exciting videos and helpful insight. Discover the future of mobility at BMW.com."
+            "description": "Dive into new worlds with BMW, get inspired, and experience the unknown, the unusual and some useful things, too."
         },
         {
             "name": "Anonynote",
