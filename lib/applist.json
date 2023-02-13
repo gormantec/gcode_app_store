@@ -486,6 +486,42 @@
             "manifest_hits": 0
         },
         {
+            "name": "score",
+            "short_name": "score",
+            "theme_color": "#ed171f",
+            "background_color": "#ed171f",
+            "display": "standalone",
+            "orientation": "any",
+            "description": "A gcode developed PWA app",
+            "scope": "/apps/37790665-swans-score/",
+            "permitted_urls": [],
+            "version": "1.0.0.2301706",
+            "icons": [
+                {
+                    "src": "/apps/37790665-swans-score/180x180.icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-swans-score/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-swans-score/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-swans-score/index.html",
+            "root_uri": "https://gcode.com.au/apps/37790665-swans-score/manifest.json",
+            "file_md5": "man7f76a202fade755d2a0716217c10820a",
+            "manifest_hits": 0
+        },
+        {
             "name": "screen time",
             "short_name": "screen time",
             "theme_color": "#212122",
@@ -637,14 +673,14 @@
         {
             "name": "gcode",
             "short_name": "gcode",
-            "theme_color": "#212121",
-            "background_color": "#212121",
+            "theme_color": "#005040",
+            "background_color": "#005040",
             "display": "standalone",
             "orientation": "any",
             "description": "A gcode developed PWA app",
             "scope": "/apps/37790665-gcode/",
             "permitted_urls": [],
-            "version": "1.0.0.1808037",
+            "version": "1.0.0.3518919",
             "icons": [
                 {
                     "src": "/apps/37790665-gcode/180x180.icon.png",
@@ -667,7 +703,7 @@
             ],
             "start_url": "/apps/37790665-gcode/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-gcode/manifest.json",
-            "file_md5": "man22af0b895f86f0c18b7e625f5904cdea",
+            "file_md5": "man8fb2856039993d71647432698457dbb9",
             "manifest_hits": 0
         },
         {
@@ -682,7 +718,7 @@
             "permitted_urls": [
                 "https://www.icloud.com/find/"
             ],
-            "version": "1.0.0.1808170",
+            "version": "1.0.0.1895026",
             "icons": [
                 {
                     "src": "/apps/37790665-findmyapple/180x180.icon.png",
@@ -705,9 +741,46 @@
             ],
             "start_url": "/apps/37790665-findmyapple/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-findmyapple/manifest.json",
-            "file_md5": "man9a057c1e66ade4fe3b2efcbb529a9560",
+            "file_md5": "man0f366c76f5b87456e40a1e0b89e90705",
             "manifest_hits": 0,
             "apk_location": "https://gcode.com.au/apps/37790665-findmyapple/apk/findmyapple.apk"
+        },
+        {
+            "name": "ezmc",
+            "short_name": "ezmc",
+            "theme_color": "#e5b1b1",
+            "background_color": "#e5b1b1",
+            "display": "standalone",
+            "orientation": "any",
+            "description": "A gcode developed PWA app",
+            "scope": "/apps/37790665-ezmc/",
+            "permitted_urls": [],
+            "version": "1.0.0.3527075",
+            "icons": [
+                {
+                    "src": "/apps/37790665-ezmc/180x180.icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-ezmc/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-ezmc/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-ezmc/index.html",
+            "root_uri": "https://gcode.com.au/apps/37790665-ezmc/manifest.json",
+            "file_md5": "man219e268d0ee34425735093d46226b08e",
+            "manifest_hits": 0,
+            "apk_location": "https://gcode.com.au/apps/37790665-ezmc/apk/ezmc.apk"
         },
         {
             "name": "calculator",
@@ -719,7 +792,7 @@
             "description": "A simple calculator pWA app.",
             "scope": "/apps/37790665-calculator/",
             "permitted_urls": [],
-            "version": "1.0.0.1735420",
+            "version": "1.0.0.3518875",
             "icons": [
                 {
                     "src": "/apps/37790665-calculator/180x180.icon.png",
@@ -742,7 +815,7 @@
             ],
             "start_url": "/apps/37790665-calculator/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-calculator/manifest.json",
-            "file_md5": "man9b369f2cb47764324bc23d453209070a",
+            "file_md5": "man7309096e212efa2c0824f5abfc289828",
             "manifest_hits": 0,
             "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-calculator/ios/ipa_manifest.plist",
             "apk_location": "https://gcode.com.au/apps/37790665-calculator/apk/calculator.apk"
@@ -750,8 +823,8 @@
         {
             "name": "boatcrew",
             "short_name": "boatcrew",
-            "theme_color": "#222222",
-            "background_color": "#222222",
+            "theme_color": "#3f3ff3",
+            "background_color": "#3f3ff3",
             "display": "standalone",
             "orientation": "any",
             "description": "An app to colaborate with freinds on trips to the river.",
@@ -769,7 +842,7 @@
                 "fonts.googleapis.com",
                 "maps.gstatic.com"
             ],
-            "version": "1.0.0.1735520",
+            "version": "1.0.0.2879321",
             "icons": [
                 {
                     "src": "/apps/37790665-boatcrew/180x180.icon.png",
@@ -792,7 +865,7 @@
             ],
             "start_url": "/apps/37790665-boatcrew/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-boatcrew/manifest.json",
-            "file_md5": "man06ef40a4fe34c1e37ad0bc3bd5c95728",
+            "file_md5": "man81a21fb85a4d8c172cc52896f573784e",
             "manifest_hits": 0,
             "apk_location": "https://gcode.com.au/apps/37790665-boatcrew/apk/boatcrew.apk"
         },
@@ -880,10 +953,10 @@
             "background_color": "#FA00AB",
             "display": "standalone",
             "orientation": "any",
-            "description": "A gcode developed PWA app",
+            "description": "Baby Daze is an app for young mothers.",
             "scope": "/apps/37790665-Baby-Daze/",
             "permitted_urls": [],
-            "version": "1.0.0.1807616",
+            "version": "1.0.0.2611765",
             "icons": [
                 {
                     "src": "/apps/37790665-Baby-Daze/180x180.icon.png",
@@ -906,7 +979,7 @@
             ],
             "start_url": "/apps/37790665-Baby-Daze/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-Baby-Daze/manifest.json",
-            "file_md5": "man956b2672e4a94796541a39c424dd8aa8",
+            "file_md5": "man05784faeb2e70e2097bba6025a25634f",
             "manifest_hits": 0,
             "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-Baby-Daze/ios/ipa_manifest.plist",
             "apk_location": "https://gcode.com.au/apps/37790665-Baby-Daze/apk/Baby Daze.apk"
@@ -1138,7 +1211,7 @@
         },
         {
             "dir": "ltr",
-            "lang": "EN",
+            "lang": "en-US",
             "name": "PWABuilder",
             "display": "standalone",
             "start_url": "/",
@@ -1153,7 +1226,8 @@
                 {
                     "src": "/assets/icons/icon_512.png",
                     "sizes": "512x512",
-                    "type": "image/png"
+                    "type": "image/png",
+                    "purpose": "any"
                 },
                 {
                     "src": "/assets/icons/icon_192.png",
@@ -1179,37 +1253,37 @@
             "screenshots": [
                 {
                     "src": "/assets/screenshots/screen1.png",
-                    "sizes": "2880x1800",
+                    "sizes": "1630x918",
                     "type": "image/png",
                     "description": "PWABuilder Home Screen"
                 },
                 {
                     "src": "/assets/screenshots/screen2.png",
-                    "sizes": "2880/1800",
+                    "sizes": "1631x917",
                     "type": "image/png",
-                    "description": "PWABuilder Report Card"
+                    "description": "PWABuilder Report Card Page"
                 },
                 {
                     "src": "/assets/screenshots/screen3.png",
-                    "sizes": "2880x1800",
+                    "sizes": "1631x917",
                     "type": "image/png",
-                    "description": "Manifest information on the Report Card"
+                    "description": "Manifest Editor in the Report Card Page"
                 },
                 {
                     "src": "/assets/screenshots/screen4.png",
-                    "sizes": "2880x1800",
+                    "sizes": "1631x917",
                     "type": "image/png",
                     "description": "Pick a pre-built Service Worker"
                 },
                 {
                     "src": "/assets/screenshots/screen5.png",
-                    "sizes": "2880x1800",
+                    "sizes": "1633x919",
                     "type": "image/png",
                     "description": "Publish your PWA to the App Stores!"
                 },
                 {
                     "src": "/assets/screenshots/mobile.png",
-                    "sizes": "1439x2881",
+                    "sizes": "387x844",
                     "type": "image/png",
                     "description": "PWABuilder also works on your phone!"
                 }
@@ -1220,10 +1294,10 @@
                 "simple"
             ],
             "categories": [
-                "utility"
+                "utilities"
             ],
             "root_uri": "https://www.pwabuilder.com/manifest.json",
-            "file_md5": "man08c63e58863bd10e21334ff02ed6a680",
+            "file_md5": "manb2d4e9198ad9623b29b5c98f9f2c43d1",
             "manifest_hits": 0
         },
         {
@@ -1866,7 +1940,7 @@
             "id": "/",
             "start_url": "/",
             "scope": ".",
-            "description": "Passky is simple, modern, lightweight, open source and secure password manager.",
+            "description": "Passky is a simple, modern, lightweight, open source and secure password manager.",
             "categories": [
                 "productivity",
                 "security",
@@ -1965,6 +2039,10 @@
                     "src": "images/screenshots/8.jpg",
                     "sizes": "1080x2400",
                     "type": "image/jpg"
+                },
+                {
+                    "src": "images/logo.svg",
+                    "sizes": "any"
                 }
             ],
             "theme_color": "#0D1117",
@@ -1994,8 +2072,10 @@
                     "id": "com.rabbitcompany.passky"
                 }
             ],
+            "dir": "ltr",
+            "lang": "en",
             "root_uri": "https://vault.passky.org/manifest.json",
-            "file_md5": "man4741faf24e4aafb816e529e7ff59bc6d",
+            "file_md5": "mand164c439524f816c48433509046d344a",
             "manifest_hits": 0
         },
         {
@@ -2306,7 +2386,7 @@
         {
             "name": "MConverter",
             "short_name": "MConverter",
-            "description": "Free secure online file converter. Quick, easy and simple. Can convert in bulk. Lots of video, audio, image, e-book, office and archive formats supported. No registration needed.",
+            "description": "Free secure online file converter. Quick, easy and simple. Can convert large files and in bulk. Lots of video, audio, image, e-book, office and archive formats are supported, including AVIF and JPEG XL.",
             "categories": [
                 "utilities",
                 "photo",
@@ -2438,7 +2518,7 @@
                 }
             ],
             "root_uri": "https://mconverter.eu/manifest.json",
-            "file_md5": "man1605c21a10724dbe96fa33de37622724",
+            "file_md5": "man9214d35d063dc0517e3215f758f3f6b4",
             "manifest_hits": 0
         },
         {
@@ -2667,18 +2747,20 @@
             "lang": "en",
             "icons": [
                 {
-                    "src": "/android-chrome-192x192.png",
+                    "src": "/wp-content/themes/cloudfour2022/node_modules/@cloudfour/patterns/src/assets/favicons/icon-192.png",
+                    "type": "image/png",
                     "sizes": "192x192",
-                    "type": "image/png"
+                    "purpose": "any maskable"
                 },
                 {
-                    "src": "/android-chrome-512x512.png",
+                    "src": "/wp-content/themes/cloudfour2022/node_modules/@cloudfour/patterns/src/assets/favicons/icon-512.png",
+                    "type": "image/png",
                     "sizes": "512x512",
-                    "type": "image/png"
+                    "purpose": "any maskable"
                 }
             ],
-            "theme_color": "#456BD9",
-            "background_color": "#456BD9",
+            "theme_color": "#215CCA",
+            "background_color": "#215CCA",
             "display": "standalone",
             "orientation": "natural",
             "start_url": "/",
@@ -2689,7 +2771,7 @@
             ],
             "gcm_sender_id": "482941778795",
             "root_uri": "https://cloudfour.com/manifest.json",
-            "file_md5": "man66cfc7554db06cf512b79513b5faa876",
+            "file_md5": "manbb9febf23f5ab4e86b91910cf1bfeef1",
             "manifest_hits": 0
         },
         {
@@ -2866,8 +2948,8 @@
             "name": "WordPress.com",
             "short_name": "WordPress.com",
             "start_url": "/?source=pwa",
-            "background_color": "#055d9c",
-            "theme_color": "#055d9c",
+            "background_color": "",
+            "theme_color": "",
             "gcm_sender_id": "87234302238",
             "icons": [
                 {
@@ -2897,7 +2979,7 @@
                 }
             ],
             "root_uri": "https://wordpress.com/calypso/manifest.json",
-            "file_md5": "man7b227c240e8bc8e295e18dd04cec09c4",
+            "file_md5": "manf533c603d7ab90e156c2f7f168734c73",
             "manifest_hits": 0,
             "description": "Create a free website or build a blog with ease on WordPress.com. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support."
         },
@@ -3109,7 +3191,7 @@
             "root_uri": "https://github.com/manifest.json",
             "file_md5": "man6acbdecaca6d2ff51ca8cf8a2fdd5b2d",
             "manifest_hits": 0,
-            "description": "GitHub is where over 83 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and features, power your CI/CD and DevOps workflows, and secure code before you commit it."
+            "description": "GitHub is where over 100 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and features, power your CI/CD and DevOps workflows, and secure code before you commit it."
         },
         {
             "short_name": "bücher.de",
@@ -3254,7 +3336,7 @@
             "root_uri": "https://www.indiatoday.in/manifest.json",
             "file_md5": "man94cd97ad9071cb656bed57ef02038418",
             "manifest_hits": 0,
-            "description": "no description"
+            "description": "Page 404 - Get detailed coverage on Latest News at india Today."
         },
         {
             "short_name": "Shortcuts",
@@ -3389,15 +3471,20 @@
         {
             "name": "collAnon",
             "short_name": "collAnon",
-            "description": "Collaborate anonymously without bias",
+            "description": "Discuss and have confrontations anonymously without bias. And organize with a simple Gantt calendar.",
             "dir": "ltr",
+            "lang": "en",
             "start_url": "./",
             "scope": "/",
             "id": "/",
             "display": "standalone",
-            "background_color": "#FADCC7",
-            "theme_color": "#FADCC7",
-            "orientation": "portrait",
+            "display_override": [
+                "fullscreen",
+                "minimal-ui"
+            ],
+            "background_color": "#e0e0e0",
+            "theme_color": "#e0e0e0",
+            "orientation": "any",
             "iarc_rating_id": "56c84b9d-8723-4821-a2f1-4fa72449caa9",
             "prefer_related_applications": false,
             "related_applications": [
@@ -3419,16 +3506,18 @@
                 {
                     "src": "/imgs/android-chrome-192x192.png",
                     "sizes": "192x192",
-                    "type": "image/png"
+                    "type": "image/png",
+                    "purpose": "any"
                 },
                 {
                     "src": "/imgs/android-chrome-512x512.png",
                     "sizes": "512x512",
-                    "type": "image/png"
+                    "type": "image/png",
+                    "purpose": "any"
                 },
                 {
-                    "src": "/imgs/android-chrome-512x512.png",
-                    "sizes": "512x512",
+                    "src": "/imgs/safari-pinned-tab.svg",
+                    "sizes": "1000x1000",
                     "type": "image/png",
                     "purpose": "maskable"
                 }
@@ -3459,7 +3548,7 @@
                     "name": "Discussions",
                     "short_name": "Discussions",
                     "url": "/discussions",
-                    "description": "See and partecipate on the active discussions.",
+                    "description": "See and participate on the active discussions.",
                     "icons": [
                         {
                             "src": "/icons/comments.png",
@@ -3470,10 +3559,24 @@
                     ]
                 },
                 {
-                    "name": "Ended discussions",
-                    "short_name": "Ended discussions",
-                    "url": "/ended-discussions",
-                    "description": "See how the discussions ended and on what people do agree more.",
+                    "name": "You & Me",
+                    "short_name": "You&Me",
+                    "url": "/youandme",
+                    "description": "Make your private confrontations easy and meaningful.",
+                    "icons": [
+                        {
+                            "src": "/icons/comments-alt.png",
+                            "type": "image/png",
+                            "sizes": "192x192",
+                            "purpose": "any"
+                        }
+                    ]
+                },
+                {
+                    "name": "Simple Gantt",
+                    "short_name": "Simple Gantt",
+                    "url": "/gantt",
+                    "description": "Track your events through time.",
                     "icons": [
                         {
                             "src": "/icons/comments-alt.png",
@@ -3486,7 +3589,7 @@
                 {
                     "name": "Settings",
                     "short_name": "Settings",
-                    "url": "/settings",
+                    "url": "/anon-settings/general",
                     "description": "Update you account settings/informations.",
                     "icons": [
                         {
@@ -3498,9 +3601,9 @@
                     ]
                 }
             ],
-            "version": "2.0.4",
+            "version": "2.0.17",
             "root_uri": "https://collanon.app/manifest.json",
-            "file_md5": "man8298e723ffbbced1ce44330ac776a6b6",
+            "file_md5": "mana8516e1649590e0166913db0ff4585f2",
             "manifest_hits": 0
         },
         {
@@ -4095,33 +4198,6 @@
             "description": "Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube."
         },
         {
-            "name": "simplabs",
-            "short_name": "simplabs",
-            "description": "Solid Solutions for Ambitious Projects",
-            "theme_color": "#007df6",
-            "background_color": "#007df6",
-            "display": "standalone",
-            "orientation": "portrait",
-            "start_url": "/",
-            "icons": [
-                {
-                    "src": "assets/images/app-images/192x192-33dade9908f13a7c07fa143017b005e3.png",
-                    "sizes": "192x192",
-                    "type": "image/png"
-                },
-                {
-                    "src": "assets/images/app-images/512x512-fafd777314e9221e0a0ea2144e46dc37.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                }
-            ],
-            "splash_pages": null,
-            "root_uri": "https://simplabs.com/manifest.webmanifest",
-            "file_md5": "man68d60c781bac49ef50509c61409432a5",
-            "manifest_hits": 0
-        },
-        {
             "name": "PWABuilder Suite Documentation",
             "short_name": "PWA Docs",
             "start_url": "/index.html",
@@ -4160,6 +4236,19 @@
                     ]
                 },
                 {
+                    "name": "Beginner's Guide to PWA",
+                    "url": "/#/home/pwa-intro",
+                    "description": "Takes you to an introduction to progressive web app technology.",
+                    "icons": [
+                        {
+                            "src": "https://www.pwabuilder.com/assets/icons/icon_192.png",
+                            "sizes": "192x192",
+                            "type": "image/png",
+                            "purpose": "any"
+                        }
+                    ]
+                },
+                {
                     "name": "PWA Starter",
                     "url": "/#/starter/quick-start",
                     "description": "Takes you to documentation on using the PWA Starter.",
@@ -4171,10 +4260,36 @@
                             "purpose": "any"
                         }
                     ]
+                },
+                {
+                    "name": "PWABuilder Packaging",
+                    "url": "/#/builder/quick-start",
+                    "description": "Takes you to documentation on using the PWABuilder packaging service.",
+                    "icons": [
+                        {
+                            "src": "https://www.pwabuilder.com/assets/icons/icon_192.png",
+                            "sizes": "192x192",
+                            "type": "image/png",
+                            "purpose": "any"
+                        }
+                    ]
+                },
+                {
+                    "name": "PWABuilder Studio",
+                    "url": "/",
+                    "description": "Takes you to documentation on using PWABuilder Studio.",
+                    "icons": [
+                        {
+                            "src": "https://www.pwabuilder.com/assets/icons/icon_192.png",
+                            "sizes": "192x192",
+                            "type": "image/png",
+                            "purpose": "any"
+                        }
+                    ]
                 }
             ],
             "root_uri": "https://docs.pwabuilder.com/manifest.json",
-            "file_md5": "man886ea4f2c7f11ca944c9509369427575",
+            "file_md5": "man52b45524404cc6bff999ca4e4a137248",
             "manifest_hits": 0
         },
         {
@@ -4208,6 +4323,32 @@
                 "fast",
                 "useful AI"
             ],
+            "icons": [
+                {
+                    "src": "/icons/manifest-icon-192.maskable.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any"
+                },
+                {
+                    "src": "/icons/manifest-icon-192.maskable.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                },
+                {
+                    "src": "/icons/manifest-icon-512.maskable.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any"
+                },
+                {
+                    "src": "/icons/manifest-icon-512.maskable.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "maskable"
+                }
+            ],
             "shortcuts": [
                 {
                     "name": "Start Live Session",
@@ -4216,37 +4357,14 @@
                     "url": "/?startLive",
                     "icons": [
                         {
-                            "src": "icons/android/maskable_icon_192.png",
+                            "src": "https://pwabuilder.com/assets/icons/icon_192.png",
                             "sizes": "192x192"
                         }
                     ]
                 }
             ],
-            "icons": [
-                {
-                    "src": "icons/android/android-launchericon-64-64.png",
-                    "sizes": "64x64"
-                },
-                {
-                    "src": "icons/android/maskable_icon_192.png",
-                    "sizes": "192x192",
-                    "purpose": "maskable"
-                },
-                {
-                    "src": "icons/android/android-launchericon-48-48.png",
-                    "sizes": "48x48"
-                },
-                {
-                    "src": "icons/android/android-launchericon-512-512.png",
-                    "sizes": "512x512"
-                },
-                {
-                    "src": "icons/android/android-launchericon-28-28.png",
-                    "sizes": "28x28"
-                }
-            ],
             "root_uri": "https://webboard.app/manifest.json",
-            "file_md5": "mandcb276c23a31c2e129e2ab11fbeaaac8",
+            "file_md5": "man70be51850cf8dba6898b671d504095f5",
             "manifest_hits": 0
         },
         {
@@ -4325,6 +4443,16 @@
             "start_url": "/en/index.html",
             "icons": [
                 {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-16x16.png",
+                    "sizes": "16x16",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-32x32.png",
+                    "sizes": "32x32",
+                    "type": "image/png"
+                },
+                {
                     "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/icon-72x72.png",
                     "sizes": "72x72",
                     "type": "image/png"
@@ -4365,6 +4493,12 @@
                     "type": "image/png"
                 },
                 {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/maskable_icon_x48.png",
+                    "sizes": "48x48",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
                     "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/maskable_icon_x72.png",
                     "sizes": "72x72",
                     "type": "image/png",
@@ -4399,13 +4533,23 @@
                     "sizes": "512x512",
                     "type": "image/png",
                     "purpose": "any maskable"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/android-chrome-192x192.png",
+                    "sizes": "192x192",
+                    "type": "image/png"
+                },
+                {
+                    "src": "/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/android-chrome-512x512.png",
+                    "sizes": "512x512",
+                    "type": "image/png"
                 }
             ],
             "splash_pages": null,
             "gcm_sender_id": "671555070731",
             "gcm_user_visible_only": true,
             "root_uri": "https://www.bmw.com/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/manifest_en.json",
-            "file_md5": "man9d553bb4a79c6f23c7a3e949421f1716",
+            "file_md5": "man1d949d92a60afac6190916e2deb87d14",
             "manifest_hits": 0,
             "description": "Dive into new worlds with BMW, get inspired, and experience the unknown, the unusual and some useful things, too."
         },
@@ -4461,7 +4605,7 @@
             "display": "standalone",
             "lang": "en-GB",
             "scope": "/",
-            "theme_color": "#468966",
+            "theme_color": "#3d7859",
             "categories": [
                 "education",
                 "utilities"
@@ -4495,9 +4639,9 @@
             "shortcuts": [
                 {
                     "name": "Swahili-English",
-                    "short_name": "English-Swahili",
+                    "short_name": "Swahili-English",
                     "description": "MobiTUKI Kiswahili-Kiingereza Kamusi Kuu",
-                    "url": "/swahili-english?source=pwa",
+                    "url": "/swahili-english",
                     "icons": [
                         {
                             "src": "/static/img/favicon/android-chrome-192x192.png",
@@ -4510,7 +4654,7 @@
                     "name": "English-Swahili",
                     "short_name": "English-Swahili",
                     "description": "MobiTUKI Advanced Englis-Swahili Dictionary",
-                    "url": "/english-swahili?source=pwa",
+                    "url": "/english-swahili",
                     "icons": [
                         {
                             "src": "/static/img/favicon/android-chrome-192x192.png",
@@ -4533,126 +4677,7 @@
                 }
             ],
             "root_uri": "https://swahili-dictionary.com/app.webmanifest",
-            "file_md5": "man40dc4aa74985fc5c0827afa239418da1",
-            "manifest_hits": 0
-        },
-        {
-            "name": "todo.blue",
-            "short_name": "todo.blue",
-            "description": "ToDo App in Blue",
-            "icons": [
-                {
-                    "src": "https://todo.blue/wp-content/uploads/todoblue192a.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any"
-                },
-                {
-                    "src": "https://todo.blue/wp-content/uploads/todoblue192a.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "maskable"
-                },
-                {
-                    "src": "https://todo.blue/wp-content/uploads/todoblue512.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any"
-                },
-                {
-                    "src": "https://todo.blue/wp-content/uploads/todoblue512.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "maskable"
-                }
-            ],
-            "background_color": "#004aad",
-            "theme_color": "#004aad",
-            "display": "fullscreen",
-            "orientation": "portrait",
-            "start_url": "https://todo.blue/app/",
-            "scope": "https://todo.blue/",
-            "shortcuts": [
-                {
-                    "name": "Blue Notepad",
-                    "description": "Awespome Notepad in Blue",
-                    "url": "https://todo.blue/notes/",
-                    "icons": [
-                        {
-                            "src": "https://todo.blue/wp-content/uploads/notes.png",
-                            "sizes": "96x96",
-                            "type": "image/png",
-                            "purpose": "any"
-                        }
-                    ]
-                },
-                {
-                    "name": "Weekly Planner",
-                    "description": "Weekly Planner in Blue",
-                    "url": "https://todo.blue/weekly#/todos/home",
-                    "icons": [
-                        {
-                            "src": "https://todo.blue/wp-content/uploads/week.png",
-                            "sizes": "96x96",
-                            "type": "image/png",
-                            "purpose": "any"
-                        }
-                    ]
-                },
-                {
-                    "name": "Daily Planner",
-                    "description": "Daily Planner in Blue",
-                    "url": "https://todo.blue/day/",
-                    "icons": [
-                        {
-                            "src": "https://todo.blue/wp-content/uploads/daily.png",
-                            "sizes": "96x96",
-                            "type": "image/png",
-                            "purpose": "any"
-                        }
-                    ]
-                },
-                {
-                    "name": "Blue Dashboard",
-                    "description": "ToDo Planner Dashboard in Blue",
-                    "url": "https://todo.blue/dashboard/",
-                    "icons": [
-                        {
-                            "src": "https://todo.blue/wp-content/uploads/dashboard.png",
-                            "sizes": "96x96",
-                            "type": "image/png",
-                            "purpose": "any"
-                        }
-                    ]
-                },
-                {
-                    "name": "Blue Drawer",
-                    "description": "Quick Notes Drawer in Blue",
-                    "url": "https://todo.blue/draw/",
-                    "icons": [
-                        {
-                            "src": "https://todo.blue/wp-content/uploads/draw.png",
-                            "sizes": "96x96",
-                            "type": "image/png",
-                            "purpose": "any"
-                        }
-                    ]
-                }
-            ],
-            "related_applications": [
-                {
-                    "platform": "play",
-                    "url": "https://play.google.com/store/apps/details?id=blue.todo.twa",
-                    "id": "blue.todo.twa"
-                },
-                {
-                    "platform": "windows",
-                    "url": "https://www.microsoft.com/store/apps/9P7Q7FL2ZNJ7",
-                    "id": "9P7Q7FL2ZNJ7"
-                }
-            ],
-            "root_uri": "https://todo.blue/pwa-manifest.json",
-            "file_md5": "man923e258ca45671fb6c3c17d15aab4f92",
+            "file_md5": "maneb30072ddcc971cde6a502865618e9ff",
             "manifest_hits": 0
         },
         {
@@ -4782,34 +4807,6 @@
             "display": "standalone",
             "root_uri": "https://versus.com/manifest.webmanifest",
             "file_md5": "man39fedc52b660b8630f32323b32d1ff2b",
-            "manifest_hits": 0
-        },
-        {
-            "name": "Scoreboard",
-            "short_name": "Scoreboard",
-            "description": "🤘 Scoreboard.Rocks - Scoreboard App that Rocks",
-            "icons": [
-                {
-                    "src": "https://scoreboard.rocks/wp-content/uploads/scoreboard.rocks192.png",
-                    "sizes": "192x192",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                },
-                {
-                    "src": "https://scoreboard.rocks/wp-content/uploads/appicon.png",
-                    "sizes": "512x512",
-                    "type": "image/png",
-                    "purpose": "any maskable"
-                }
-            ],
-            "background_color": "#ffffff",
-            "theme_color": "#ffffff",
-            "display": "fullscreen",
-            "orientation": "portrait",
-            "start_url": "https://scoreboard.rocks/",
-            "scope": "https://scoreboard.rocks/",
-            "root_uri": "https://scoreboard.rocks/pwa-manifest.json",
-            "file_md5": "man8a8bd24d49f14b7eca22dfc90d8399a0",
             "manifest_hits": 0
         },
         {
@@ -5373,7 +5370,7 @@
                     "url": "/trips?tab=isActive&page=1",
                     "icons": [
                         {
-                            "src": "/static-files/shab-icons-pwa/192.png",
+                            "src": "/mainweb-icons/shab-icons-pwa/192.png",
                             "sizes": "192x192",
                             "purpose": "any"
                         }
@@ -5386,7 +5383,7 @@
                     "url": "/houses",
                     "icons": [
                         {
-                            "src": "/static-files/shab-icons-pwa/192.png",
+                            "src": "/mainweb-icons/shab-icons-pwa/192.png",
                             "sizes": "192x192",
                             "purpose": "any"
                         }
@@ -5395,82 +5392,82 @@
             ],
             "icons": [
                 {
-                    "src": "/static-files/shab-icons-pwa/72.png",
+                    "src": "/mainweb-icons/shab-icons-pwa/72.png",
                     "sizes": "72x72",
                     "type": "image/png",
                     "purpose": "any"
                 },
                 {
-                    "src": "/static-files/shab-icons-pwa/96.png",
+                    "src": "/mainweb-icons/shab-icons-pwa/96.png",
                     "sizes": "96x96",
                     "type": "image/png",
                     "purpose": "any"
                 },
                 {
-                    "src": "/static-files/shab-icons-pwa/120.png",
+                    "src": "/mainweb-icons/shab-icons-pwa/120.png",
                     "sizes": "120x120",
                     "type": "image/png",
                     "purpose": "any"
                 },
                 {
-                    "src": "/static-files/shab-icons-pwa/128.png",
+                    "src": "/mainweb-icons/shab-icons-pwa/128.png",
                     "sizes": "128x128",
                     "type": "image/png",
                     "purpose": "any"
                 },
                 {
-                    "src": "/static-files/shab-icons-pwa/144.png",
+                    "src": "/mainweb-icons/shab-icons-pwa/144.png",
                     "sizes": "144x144",
                     "type": "image/png",
                     "purpose": "any"
                 },
                 {
-                    "src": "/static-files/shab-icons-pwa/152.png",
+                    "src": "/mainweb-icons/shab-icons-pwa/152.png",
                     "sizes": "152x152",
                     "type": "image/png",
                     "purpose": "any"
                 },
                 {
-                    "src": "/static-files/shab-icons-pwa/167.png",
+                    "src": "/mainweb-icons/shab-icons-pwa/167.png",
                     "sizes": "167x167",
                     "type": "image/png",
                     "purpose": "any"
                 },
                 {
-                    "src": "/static-files/shab-icons-pwa/180.png",
+                    "src": "/mainweb-icons/shab-icons-pwa/180.png",
                     "sizes": "180x180",
                     "type": "image/png",
                     "purpose": "any"
                 },
                 {
-                    "src": "/static-files/shab-icons-pwa/192.png",
+                    "src": "/mainweb-icons/shab-icons-pwa/192.png",
                     "sizes": "192x192",
                     "type": "image/png",
                     "purpose": "any"
                 },
                 {
-                    "src": "/static-files/shab-icons-pwa/384.png",
+                    "src": "/mainweb-icons/shab-icons-pwa/384.png",
                     "sizes": "384x384",
                     "type": "image/png",
                     "purpose": "any"
                 },
                 {
-                    "src": "/static-files/shab-icons-pwa/512.png",
+                    "src": "/mainweb-icons/shab-icons-pwa/512.png",
                     "sizes": "512x512",
                     "type": "image/png",
                     "purpose": "any"
                 },
                 {
-                    "src": "/static-files/shab-icons-pwa/maskable_icon.png",
+                    "src": "/mainweb-icons/shab-icons-pwa/maskable_icon.png",
                     "sizes": "512x512",
                     "type": "image/png",
                     "purpose": "maskable"
                 }
             ],
             "root_uri": "https://www.shab.ir/manifest.json",
-            "file_md5": "man28ff36fbfec98c1b1100e365d2858087",
+            "file_md5": "man3ab3ac97d9620d3124b157d11557ef15",
             "manifest_hits": 0,
-            "description": "no description"
+            "description": "سایت شب، اجاره روزانه ویلا، سوئیت و خانه مبله | شمال و سراسر ایران | 10434 اقامتگاه تمیز و امن | بیمه رایگان سفر و اقامت | پشتیبانی 24‌ساعت | shab.ir"
         }
     ]
 }
