@@ -21,8 +21,8 @@
 
   const queryString = window.location.search;
   const urlParams = new URLSearchParams(queryString);
-  const product = urlParams.get('UDID')
-  console.log(product);
+  const APPID = urlParams.get('APPID');
+  console.log(APPID);
 
 let deferredPrompt;
 if('serviceWorker' in navigator) {
