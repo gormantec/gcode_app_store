@@ -142,6 +142,10 @@ var aPWA = new PWA({
 
 aPWA.setPage(aLoginPage);
 aPWA.show();
+if(APPID && APPID.trim().length>0 && document.getElementById('APPID'))
+{
+  document.getElementById('APPID').click();
+}
 /*---------------------------------------------------------------------------*/
 
 </script></head><body><div class="splash"></div><div class="loader">Loading...</div></body></html>
