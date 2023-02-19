@@ -753,10 +753,10 @@
             "background_color": "#2196f3",
             "display": "standalone",
             "orientation": "any",
-            "description": "A gcode developed PWA app",
+            "description": "EZMC is an application that save time and money by doing stuff to make your life easier. It will calculate the average thing required to do some other thing and keep you deplvering outcomes all day long.",
             "scope": "/apps/37790665-ezmc/",
             "permitted_urls": [],
-            "version": "1.0.0.3577189",
+            "version": "1.0.0.3579974",
             "icons": [
                 {
                     "src": "/apps/37790665-ezmc/180x180.icon.png",
@@ -779,7 +779,7 @@
             ],
             "start_url": "/apps/37790665-ezmc/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-ezmc/manifest.json",
-            "file_md5": "mandc5a515b354f07622098a0dced1c71fc",
+            "file_md5": "manf74b710368b8404b647c7ea722170523",
             "manifest_hits": 0,
             "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-ezmc/ios/ipa_manifest.plist",
             "apk_location": "https://gcode.com.au/apps/37790665-ezmc/apk/ezmc.apk"
@@ -1128,7 +1128,7 @@
             "theme_color": "#456BD9",
             "root_uri": "https://www.pwastats.com/manifest.json",
             "file_md5": "man1686f62ac906916f55ceaf6498721223",
-            "manifest_hits": 2
+            "manifest_hits": 0
         },
         {
             "lang": "en",
@@ -3204,7 +3204,7 @@
             ],
             "root_uri": "https://github.com/manifest.json",
             "file_md5": "man6acbdecaca6d2ff51ca8cf8a2fdd5b2d",
-            "manifest_hits": 21,
+            "manifest_hits": 0,
             "description": "GitHub is where over 100 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and features, power your CI/CD and DevOps workflows, and secure code before you commit it."
         },
         {
@@ -4208,7 +4208,7 @@
             ],
             "root_uri": "https://www.youtube.com/manifest.webmanifest",
             "file_md5": "mana8f5eb29f852b756dc73fab692ef143a",
-            "manifest_hits": 9,
+            "manifest_hits": 0,
             "description": "Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube."
         },
         {
@@ -5486,7 +5486,7 @@
             "root_uri": "https://www.shab.ir/manifest.json",
             "file_md5": "man3ab3ac97d9620d3124b157d11557ef15",
             "manifest_hits": 0,
-            "description": "سایت شب، اجاره روزانه ویلا، سوئیت و خانه مبله | شمال و سراسر ایران | 10493 اقامتگاه تمیز و امن | بیمه رایگان سفر و اقامت | پشتیبانی 24‌ساعت | shab.ir"
+            "description": "سایت شب، اجاره روزانه ویلا، سوئیت و خانه مبله | شمال و سراسر ایران | 10545 اقامتگاه تمیز و امن | بیمه رایگان سفر و اقامت | پشتیبانی 24‌ساعت | shab.ir"
         },
         {
             "background_color": "#ffffff",
@@ -5628,7 +5628,7 @@
             },
             "root_uri": "https://twitter.com/manifest.json",
             "file_md5": "mand4560a7096db199e6960cdb73923ee9d",
-            "manifest_hits": 11
+            "manifest_hits": 0
         },
         {
             "name": "Treebo Hotels",
@@ -5649,7 +5649,7 @@
             ],
             "root_uri": "https://www.treebo.com/manifest.json",
             "file_md5": "man5a3d737b5f17f8a3bb3d9c160ac557a0",
-            "manifest_hits": 1
+            "manifest_hits": 0
         },
         {
             "start_url": "./index.htm",
@@ -5673,7 +5673,7 @@
             "display": "standalone",
             "root_uri": "https://videotrim.app/site.webmanifest",
             "file_md5": "man546133215dc5c201366010ddda732cdd",
-            "manifest_hits": 1
+            "manifest_hits": 0
         },
         {
             "name": "DontBore",
@@ -5699,7 +5699,7 @@
             "orientation": "any",
             "root_uri": "https://dontbo.re/site.webmanifest",
             "file_md5": "man416b2d74805c3944dfb07d4b96805021",
-            "manifest_hits": 1
+            "manifest_hits": 0
         },
         {
             "name": "Sylaps",
@@ -5886,7 +5886,7 @@
             ],
             "root_uri": "https://sylaps.com/manifest.webmanifest",
             "file_md5": "man8395b1378fe27b4cce668cc94e2c2d25",
-            "manifest_hits": 1
+            "manifest_hits": 0
         },
         {
             "background_color": "#ffffff",
@@ -6028,7 +6028,7 @@
             },
             "root_uri": "https://mobile.twitter.com/manifest.json",
             "file_md5": "man773842616974ca91b0cb274f105f1b14",
-            "manifest_hits": 1
+            "manifest_hits": 0
         }
     ]
 }
