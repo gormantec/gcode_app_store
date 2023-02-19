@@ -144,10 +144,11 @@ aPWA.setPage(aLoginPage);
 aPWA.show();
 if(APPID && APPID.trim().length>0)
 {
-  console.log("showAppPage!!!");
+  
   setTimeout(()=>{
+    console.log("showAppPage!!!");
     showAppPageFromId({"APPID":APPID});
-  },1000)
+  },5000)
   
 }
 /*---------------------------------------------------------------------------*/
