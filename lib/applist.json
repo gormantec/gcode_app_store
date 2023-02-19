@@ -643,7 +643,7 @@
             "description": "A simple GPS viewer, allowing you to measure between two points.  This is an example of a new line.  This is another new line",
             "scope": "/apps/37790665-gps/",
             "permitted_urls": [],
-            "version": "1.0.0.1735517",
+            "version": "1.0.0.3575774",
             "icons": [
                 {
                     "src": "/apps/37790665-gps/180x180.icon.png",
@@ -666,7 +666,7 @@
             ],
             "start_url": "/apps/37790665-gps/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-gps/manifest.json",
-            "file_md5": "man29cbe630a76b2002bfb52885d8b54793",
+            "file_md5": "mand22dcf563cd621d0e8e945870e84d5f4",
             "manifest_hits": 0,
             "apk_location": "https://gcode.com.au/apps/37790665-gps/apk/gps.apk"
         },
@@ -680,7 +680,7 @@
             "description": "A gcode developed PWA app",
             "scope": "/apps/37790665-gcode/",
             "permitted_urls": [],
-            "version": "1.0.0.3527124",
+            "version": "1.0.0.3518919",
             "icons": [
                 {
                     "src": "/apps/37790665-gcode/180x180.icon.png",
@@ -703,9 +703,8 @@
             ],
             "start_url": "/apps/37790665-gcode/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-gcode/manifest.json",
-            "file_md5": "man0cc7065772fcb5a5e07750622581e544",
-            "manifest_hits": 0,
-            "apk_location": "https://gcode.com.au/apps/37790665-gcode/apk/gcode.apk"
+            "file_md5": "man8fb2856039993d71647432698457dbb9",
+            "manifest_hits": 0
         },
         {
             "name": "findmyapple",
@@ -756,7 +755,7 @@
             "description": "A gcode developed PWA app",
             "scope": "/apps/37790665-ezmc/",
             "permitted_urls": [],
-            "version": "1.0.0.3563587",
+            "version": "1.0.0.3577114",
             "icons": [
                 {
                     "src": "/apps/37790665-ezmc/180x180.icon.png",
@@ -779,8 +778,9 @@
             ],
             "start_url": "/apps/37790665-ezmc/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-ezmc/manifest.json",
-            "file_md5": "mana20a6a9ea0c2b9e0808527d13a10334f",
+            "file_md5": "man311b0250c361fbf0e95abc7efdda4efe",
             "manifest_hits": 0,
+            "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-ezmc/ios/ipa_manifest.plist",
             "apk_location": "https://gcode.com.au/apps/37790665-ezmc/apk/ezmc.apk"
         },
         {
@@ -843,7 +843,7 @@
                 "fonts.googleapis.com",
                 "maps.gstatic.com"
             ],
-            "version": "1.0.0.2879321",
+            "version": "1.0.0.3570952",
             "icons": [
                 {
                     "src": "/apps/37790665-boatcrew/180x180.icon.png",
@@ -866,7 +866,7 @@
             ],
             "start_url": "/apps/37790665-boatcrew/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-boatcrew/manifest.json",
-            "file_md5": "man81a21fb85a4d8c172cc52896f573784e",
+            "file_md5": "man827faa70855ac763f8cb182ed0a24276",
             "manifest_hits": 0,
             "apk_location": "https://gcode.com.au/apps/37790665-boatcrew/apk/boatcrew.apk"
         },
@@ -882,7 +882,7 @@
             "permitted_urls": [
                 "https://isjqwevc8e.execute-api.ap-southeast-2.amazonaws.com/default/udid"
             ],
-            "version": "1.0.0.1735486",
+            "version": "1.0.0.3570699",
             "icons": [
                 {
                     "src": "/apps/37790665-UDID/180x180.icon.png",
@@ -905,7 +905,7 @@
             ],
             "start_url": "/apps/37790665-UDID/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-UDID/manifest.json",
-            "file_md5": "manc61a5a974f95835f3261874f3dfdda5e",
+            "file_md5": "man94f1f0782f07e9181f8c9c3762d8a67c",
             "manifest_hits": 0,
             "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-UDID/ios/ipa_manifest.plist",
             "apk_location": "https://gcode.com.au/apps/37790665-UDID/apk/UDID.apk"
@@ -5485,7 +5485,7 @@
             "root_uri": "https://www.shab.ir/manifest.json",
             "file_md5": "man3ab3ac97d9620d3124b157d11557ef15",
             "manifest_hits": 0,
-            "description": "سایت شب، اجاره روزانه ویلا، سوئیت و خانه مبله | شمال و سراسر ایران | 10503 اقامتگاه تمیز و امن | بیمه رایگان سفر و اقامت | پشتیبانی 24‌ساعت | shab.ir"
+            "description": "سایت شب، اجاره روزانه ویلا، سوئیت و خانه مبله | شمال و سراسر ایران | 10493 اقامتگاه تمیز و امن | بیمه رایگان سفر و اقامت | پشتیبانی 24‌ساعت | shab.ir"
         }
     ]
 }
