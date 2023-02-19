@@ -546,7 +546,7 @@
                     "purpose": "any maskable"
                 },
                 {
-                    "src": "/apps/37790665-screen-time/512x512.icon.png",
+                    "src": "/apps/37790665-screen-time/512x512.icon.png", 
                     "sizes": "512x512",
                     "type": "image/png",
                     "purpose": "any maskable"
