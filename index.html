@@ -96,7 +96,7 @@ if (window.opener && window.opener !== window) {
 /*---------------------------------------------------------------------------*/
 //#1818ca   
 import { PWA,  Page } from 'https://gcode.com.au/modules/pwa.mjs';
-import { LoginButton,AppsList } from './lib/gcode-appstore.lib14.mjs';
+import { LoginButton,AppsList,showAppPage } from './lib/gcode-appstore.lib14.mjs';
 try {
     Page.clearPages();
 } catch (e) {}
@@ -144,7 +144,7 @@ aPWA.setPage(aLoginPage);
 aPWA.show();
 if(APPID && APPID.trim().length>0 && document.getElementById('APPID'))
 {
-  document.getElementById('APPID').click();
+  showAppPage({"APPID":APPID});
 }
 /*---------------------------------------------------------------------------*/
 
