@@ -145,7 +145,10 @@ aPWA.show();
 if(APPID && APPID.trim().length>0)
 {
   console.log("showAppPage!!!");
-  showAppPageFromId({"APPID":APPID});
+  setTimeout(()=>{
+    showAppPageFromId({"APPID":APPID});
+  },500)
+  
 }
 /*---------------------------------------------------------------------------*/
 
