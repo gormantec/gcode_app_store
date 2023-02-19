@@ -546,7 +546,7 @@
                     "purpose": "any maskable"
                 },
                 {
-                    "src": "/apps/37790665-screen-time/512x512.icon.png", 
+                    "src": "/apps/37790665-screen-time/512x512.icon.png",
                     "sizes": "512x512",
                     "type": "image/png",
                     "purpose": "any maskable"
@@ -755,7 +755,7 @@
             "description": "A gcode developed PWA app",
             "scope": "/apps/37790665-ezmc/",
             "permitted_urls": [],
-            "version": "1.0.0.3577114",
+            "version": "1.0.0.3577189",
             "icons": [
                 {
                     "src": "/apps/37790665-ezmc/180x180.icon.png",
@@ -778,7 +778,7 @@
             ],
             "start_url": "/apps/37790665-ezmc/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-ezmc/manifest.json",
-            "file_md5": "man311b0250c361fbf0e95abc7efdda4efe",
+            "file_md5": "mandc5a515b354f07622098a0dced1c71fc",
             "manifest_hits": 0,
             "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-ezmc/ios/ipa_manifest.plist",
             "apk_location": "https://gcode.com.au/apps/37790665-ezmc/apk/ezmc.apk"
