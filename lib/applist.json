@@ -493,9 +493,10 @@
             "display": "standalone",
             "orientation": "any",
             "description": "A gcode developed PWA app",
+            "id": "37790665-swans-score",
             "scope": "/apps/37790665-swans-score/",
             "permitted_urls": [],
-            "version": "1.0.0.2301706",
+            "version": "1.0.0.3586051",
             "icons": [
                 {
                     "src": "/apps/37790665-swans-score/180x180.icon.png",
@@ -518,8 +519,9 @@
             ],
             "start_url": "/apps/37790665-swans-score/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-swans-score/manifest.json",
-            "file_md5": "man7f76a202fade755d2a0716217c10820a",
-            "manifest_hits": 0
+            "file_md5": "man9488f0bf44ccb384a4cb4919e0cd9235",
+            "manifest_hits": 0,
+            "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-swans-score/ios/ipa_manifest.plist"
         },
         {
             "name": "screen time",
@@ -641,9 +643,10 @@
             "display": "standalone",
             "orientation": "any",
             "description": "A simple GPS viewer, allowing you to measure between two points.  This is an example of a new line.  This is another new line",
+            "id": "37790665-gps",
             "scope": "/apps/37790665-gps/",
             "permitted_urls": [],
-            "version": "1.0.0.3575774",
+            "version": "1.0.0.3586054",
             "icons": [
                 {
                     "src": "/apps/37790665-gps/180x180.icon.png",
@@ -666,8 +669,9 @@
             ],
             "start_url": "/apps/37790665-gps/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-gps/manifest.json",
-            "file_md5": "mand22dcf563cd621d0e8e945870e84d5f4",
+            "file_md5": "man1526f66ed50acbea8bedcade12eb57e5",
             "manifest_hits": 0,
+            "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-gps/ios/ipa_manifest.plist",
             "apk_location": "https://gcode.com.au/apps/37790665-gps/apk/gps.apk"
         },
         {
@@ -715,11 +719,12 @@
             "display": "standalone",
             "orientation": "any",
             "description": "A gcode developed PWA app",
+            "id": "37790665-findmyapple",
             "scope": "/apps/37790665-findmyapple/",
             "permitted_urls": [
                 "https://www.icloud.com/find/"
             ],
-            "version": "1.0.0.1895026",
+            "version": "1.0.0.3585934",
             "icons": [
                 {
                     "src": "/apps/37790665-findmyapple/180x180.icon.png",
@@ -742,21 +747,60 @@
             ],
             "start_url": "/apps/37790665-findmyapple/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-findmyapple/manifest.json",
-            "file_md5": "man0f366c76f5b87456e40a1e0b89e90705",
+            "file_md5": "man7bdef06e81feaac66f36a838819cf638",
             "manifest_hits": 0,
+            "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-findmyapple/ios/ipa_manifest.plist",
             "apk_location": "https://gcode.com.au/apps/37790665-findmyapple/apk/findmyapple.apk"
+        },
+        {
+            "name": "ezmc2",
+            "short_name": "ezmc2",
+            "theme_color": "#005040",
+            "background_color": "#005040",
+            "display": "standalone",
+            "orientation": "any",
+            "description": "A gcode developed PWA app",
+            "id": "37790665-ezmc2",
+            "scope": "/apps/37790665-ezmc2/",
+            "permitted_urls": [],
+            "version": "1.0.0.3585335",
+            "icons": [
+                {
+                    "src": "/apps/37790665-ezmc2/180x180.icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-ezmc2/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-ezmc2/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-ezmc2/index.html",
+            "root_uri": "https://gcode.com.au/apps/37790665-ezmc2/manifest.json",
+            "file_md5": "man0b8ee64158c8484851dcdd857200b104",
+            "manifest_hits": 0
         },
         {
             "name": "ezmc",
             "short_name": "ezmc",
-            "theme_color": "#2196f3",
-            "background_color": "#2196f3",
+            "theme_color": "#005040",
+            "background_color": "#005040",
             "display": "standalone",
             "orientation": "any",
-            "description": "EZMC is an application that save time and money by doing stuff to make your life easier. It will calculate the average thing required to do some other thing and keep you deplvering outcomes all day long.",
+            "description": "A gcode developed PWA app",
+            "id": "37790665-ezmc",
             "scope": "/apps/37790665-ezmc/",
             "permitted_urls": [],
-            "version": "1.0.0.3579974",
+            "version": "1.0.0.3585331",
             "icons": [
                 {
                     "src": "/apps/37790665-ezmc/180x180.icon.png",
@@ -779,7 +823,7 @@
             ],
             "start_url": "/apps/37790665-ezmc/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-ezmc/manifest.json",
-            "file_md5": "manf74b710368b8404b647c7ea722170523",
+            "file_md5": "man4cf0dc651440e4d3748c26b78a349ad7",
             "manifest_hits": 0,
             "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-ezmc/ios/ipa_manifest.plist",
             "apk_location": "https://gcode.com.au/apps/37790665-ezmc/apk/ezmc.apk"
@@ -792,9 +836,10 @@
             "display": "standalone",
             "orientation": "any",
             "description": "A simple calculator pWA app.",
+            "id": "37790665-calculator",
             "scope": "/apps/37790665-calculator/",
             "permitted_urls": [],
-            "version": "1.0.0.3518875",
+            "version": "1.0.0.3585342",
             "icons": [
                 {
                     "src": "/apps/37790665-calculator/180x180.icon.png",
@@ -817,7 +862,7 @@
             ],
             "start_url": "/apps/37790665-calculator/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-calculator/manifest.json",
-            "file_md5": "man7309096e212efa2c0824f5abfc289828",
+            "file_md5": "man56316dd380e3973b0ac2bf5fd86b852f",
             "manifest_hits": 0,
             "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-calculator/ios/ipa_manifest.plist",
             "apk_location": "https://gcode.com.au/apps/37790665-calculator/apk/calculator.apk"
@@ -830,6 +875,7 @@
             "display": "standalone",
             "orientation": "any",
             "description": "An app to colaborate with freinds on trips to the river.",
+            "id": "37790665-boatcrew",
             "scope": "/apps/37790665-boatcrew/",
             "permitted_urls": [
                 "connect.facebook.net",
@@ -844,7 +890,7 @@
                 "fonts.googleapis.com",
                 "maps.gstatic.com"
             ],
-            "version": "1.0.0.3570952",
+            "version": "1.0.0.3585338",
             "icons": [
                 {
                     "src": "/apps/37790665-boatcrew/180x180.icon.png",
@@ -867,7 +913,7 @@
             ],
             "start_url": "/apps/37790665-boatcrew/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-boatcrew/manifest.json",
-            "file_md5": "man827faa70855ac763f8cb182ed0a24276",
+            "file_md5": "mane3f31b9551985dec8995c1d9bb5809c6",
             "manifest_hits": 0,
             "apk_location": "https://gcode.com.au/apps/37790665-boatcrew/apk/boatcrew.apk"
         },
@@ -879,11 +925,12 @@
             "display": "standalone",
             "orientation": "any",
             "description": "An app to retrive the UDID from your iPhone. It will require you download and install a profile, allowing access to your UDID. You can delete the profile after that.",
+            "id": "37790665-UDID",
             "scope": "/apps/37790665-UDID/",
             "permitted_urls": [
                 "https://isjqwevc8e.execute-api.ap-southeast-2.amazonaws.com/default/udid"
             ],
-            "version": "1.0.0.3570699",
+            "version": "1.0.0.3585937",
             "icons": [
                 {
                     "src": "/apps/37790665-UDID/180x180.icon.png",
@@ -906,7 +953,7 @@
             ],
             "start_url": "/apps/37790665-UDID/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-UDID/manifest.json",
-            "file_md5": "man94f1f0782f07e9181f8c9c3762d8a67c",
+            "file_md5": "man9058392ac9a0ac037e9fd9c99741603c",
             "manifest_hits": 0,
             "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-UDID/ios/ipa_manifest.plist",
             "apk_location": "https://gcode.com.au/apps/37790665-UDID/apk/UDID.apk"
@@ -919,9 +966,10 @@
             "display": "standalone",
             "orientation": "any",
             "description": "A gcode developed PWA app",
+            "id": "37790665-SallyG",
             "scope": "/apps/37790665-SallyG/",
             "permitted_urls": [],
-            "version": "1.0.0.1735526",
+            "version": "1.0.0.3585350",
             "icons": [
                 {
                     "src": "/apps/37790665-SallyG/180x180.icon.png",
@@ -944,8 +992,9 @@
             ],
             "start_url": "/apps/37790665-SallyG/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-SallyG/manifest.json",
-            "file_md5": "manb31ed3cd8ff77d0af1913d0639450ef9",
+            "file_md5": "man1e2f22f7bca2d9bfe70c24ab41004463",
             "manifest_hits": 0,
+            "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-SallyG/ios/ipa_manifest.plist",
             "apk_location": "https://gcode.com.au/apps/37790665-SallyG/apk/SallyG.apk"
         },
         {
@@ -956,9 +1005,10 @@
             "display": "standalone",
             "orientation": "any",
             "description": "Baby Daze is an app for young mothers.",
+            "id": "37790665-Baby-Daze",
             "scope": "/apps/37790665-Baby-Daze/",
             "permitted_urls": [],
-            "version": "1.0.0.2611765",
+            "version": "1.0.0.3585935",
             "icons": [
                 {
                     "src": "/apps/37790665-Baby-Daze/180x180.icon.png",
@@ -981,7 +1031,7 @@
             ],
             "start_url": "/apps/37790665-Baby-Daze/index.html",
             "root_uri": "https://gcode.com.au/apps/37790665-Baby-Daze/manifest.json",
-            "file_md5": "man05784faeb2e70e2097bba6025a25634f",
+            "file_md5": "man3b4aa66e30931db08b2f070d90710f2d",
             "manifest_hits": 0,
             "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-Baby-Daze/ios/ipa_manifest.plist",
             "apk_location": "https://gcode.com.au/apps/37790665-Baby-Daze/apk/Baby Daze.apk"
@@ -5486,7 +5536,7 @@
             "root_uri": "https://www.shab.ir/manifest.json",
             "file_md5": "man3ab3ac97d9620d3124b157d11557ef15",
             "manifest_hits": 0,
-            "description": "سایت شب، اجاره روزانه ویلا، سوئیت و خانه مبله | شمال و سراسر ایران | 10545 اقامتگاه تمیز و امن | بیمه رایگان سفر و اقامت | پشتیبانی 24‌ساعت | shab.ir"
+            "description": "سایت شب، اجاره روزانه ویلا، سوئیت و خانه مبله | شمال و سراسر ایران | 10498 اقامتگاه تمیز و امن | بیمه رایگان سفر و اقامت | پشتیبانی 24‌ساعت | shab.ir"
         },
         {
             "background_color": "#ffffff",
