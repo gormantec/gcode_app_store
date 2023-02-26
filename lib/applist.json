@@ -868,6 +868,44 @@
             "apk_location": "https://gcode.com.au/apps/37790665-calculator/apk/calculator.apk"
         },
         {
+            "name": "build my app",
+            "short_name": "build my app",
+            "theme_color": "#f27602",
+            "background_color": "#f27602",
+            "display": "standalone",
+            "orientation": "any",
+            "description": "A gcode developed PWA app",
+            "id": "37790665-build-my-app",
+            "scope": "/apps/37790665-build-my-app/",
+            "permitted_urls": [],
+            "version": "1.0.0.3638411",
+            "icons": [
+                {
+                    "src": "/apps/37790665-build-my-app/180x180.icon.png",
+                    "sizes": "180x180",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-build-my-app/192x192.icon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                },
+                {
+                    "src": "/apps/37790665-build-my-app/512x512.icon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ],
+            "start_url": "/apps/37790665-build-my-app/index.html",
+            "root_uri": "https://gcode.com.au/apps/37790665-build-my-app/manifest.json",
+            "file_md5": "man2eb5ecbe01064ea714618ad4ef7770a7",
+            "manifest_hits": 0,
+            "ipa_location": "itms-services://?action=download-manifest&url=https://gcode.com.au/apps/37790665-build-my-app/ios/ipa_manifest.plist"
+        },
+        {
             "name": "boatcrew",
             "short_name": "boatcrew",
             "theme_color": "#3f3ff3",
@@ -5536,7 +5574,7 @@
             "root_uri": "https://www.shab.ir/manifest.json",
             "file_md5": "man3ab3ac97d9620d3124b157d11557ef15",
             "manifest_hits": 0,
-            "description": "سایت شب، اجاره روزانه ویلا، سوئیت و خانه مبله | شمال و سراسر ایران | 10498 اقامتگاه تمیز و امن | بیمه رایگان سفر و اقامت | پشتیبانی 24‌ساعت | shab.ir"
+            "description": "سایت شب، اجاره روزانه ویلا، سوئیت و خانه مبله | شمال و سراسر ایران | 10536 اقامتگاه تمیز و امن | بیمه رایگان سفر و اقامت | پشتیبانی 24‌ساعت | shab.ir"
         },
         {
             "background_color": "#ffffff",
